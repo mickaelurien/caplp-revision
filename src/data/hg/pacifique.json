@@ -1,0 +1,579 @@
+[
+  {
+    "id": "pac-001",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle est la superficie approximative de l'océan Pacifique ?",
+    "choices": ["Environ 50 millions de km²", "Environ 106 millions de km²", "Environ 170 millions de km²", "Environ 300 millions de km²"],
+    "answer": 2,
+    "explanation": "Le Pacifique couvre environ 165 à 180 millions de km² selon que l'on inclut ou non les mers bordières, soit près d'un tiers de la surface du globe. C'est plus que l'ensemble des terres émergées (environ 149 millions de km²) ; l'Atlantique n'en couvre qu'environ 106 millions.",
+    "tags": ["géographie physique", "superficie"]
+  },
+  {
+    "id": "pac-002",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle est la profondeur approximative du Challenger Deep, point le plus profond de la fosse des Mariannes ?",
+    "choices": ["Environ 7 000 m", "Environ 10 900 m", "Environ 8 850 m", "Environ 12 500 m"],
+    "answer": 1,
+    "explanation": "Le Challenger Deep atteint près de 11 000 m (environ 10 900 m selon les mesures récentes), soit plus que l'altitude de l'Everest (8 849 m). La fosse des Mariannes résulte de la subduction de la plaque Pacifique sous la microplaque des Mariannes, en bordure de la plaque philippine.",
+    "tags": ["géographie physique", "fosse océanique"]
+  },
+  {
+    "id": "pac-003",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel navigateur français a proposé en 1831-1832 la division de l'Océanie en Mélanésie, Micronésie et Polynésie ?",
+    "choices": ["Louis-Antoine de Bougainville", "Jean-François de La Pérouse", "James Cook", "Jules Dumont d'Urville"],
+    "answer": 3,
+    "explanation": "Dumont d'Urville présente ce découpage devant la Société de géographie en 1831 (publié en 1832). Les termes signifient « îles noires », « petites îles » et « nombreuses îles » ; ce découpage est aujourd'hui critiqué pour sa dimension raciale (opposition Mélanésiens/Polynésiens).",
+    "tags": ["découpages", "Océanie"]
+  },
+  {
+    "id": "pac-004",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quels sont les trois sommets du « triangle polynésien » ?",
+    "choices": ["Hawaï, Nouvelle-Zélande, île de Pâques", "Hawaï, Fidji, Tahiti", "Samoa, Nouvelle-Zélande, Marquises", "Guam, Tonga, île de Pâques"],
+    "answer": 0,
+    "explanation": "Le triangle polynésien relie Hawaï au nord, la Nouvelle-Zélande (Aotearoa) au sud-ouest et l'île de Pâques (Rapa Nui) au sud-est. Il couvre une immense étendue océanique peuplée par des sociétés de langues austronésiennes apparentées.",
+    "tags": ["découpages", "Polynésie"]
+  },
+  {
+    "id": "pac-005",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui est l'auteur de l'essai « Our Sea of Islands » (1993), qui propose de penser l'Océanie comme une « mer d'îles » ?",
+    "choices": ["Albert Wendt", "Jean-Marie Tjibaou", "Epeli Hau'ofa", "Joël Bonnemaison"],
+    "answer": 2,
+    "explanation": "Epeli Hau'ofa, anthropologue et écrivain tongien qui enseignait à l'Université du Pacifique Sud (Fidji), oppose la vision d'« îles dans une mer lointaine », petites et dépendantes, à celle d'une « mer d'îles » où l'océan relie plus qu'il ne sépare.",
+    "tags": ["découpages", "représentations"]
+  },
+  {
+    "id": "pac-006",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quels acteurs sont associés à la signature des accords de Matignon en 1988 ?",
+    "choices": ["Jacques Chirac, Jean-Marie Tjibaou, Paul Néaoutyine", "Michel Rocard, Jean-Marie Tjibaou, Jacques Lafleur", "Lionel Jospin, Roch Wamytan, Jacques Lafleur", "François Mitterrand, Éloi Machoro, Pierre Frogier"],
+    "answer": 1,
+    "explanation": "Signés en juin 1988 après le drame d'Ouvéa, sous l'égide du Premier ministre Michel Rocard, les accords de Matignon réunissent Jean-Marie Tjibaou (FLNKS) et Jacques Lafleur (RPCR). Ils créent trois provinces et prévoient un scrutin d'autodétermination à dix ans, finalement remplacé par l'accord de Nouméa (1998).",
+    "tags": ["France", "Nouvelle-Calédonie"]
+  },
+  {
+    "id": "pac-007",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Sur quels atolls la France a-t-elle procédé à ses essais nucléaires dans le Pacifique entre 1966 et 1996 ?",
+    "choices": ["Moruroa et Fangataufa", "Bikini et Enewetak", "Rangiroa et Fakarava", "Clipperton et Tupai"],
+    "answer": 0,
+    "explanation": "Le Centre d'expérimentations du Pacifique (CEP) a mené 193 essais en Polynésie française, dans l'archipel des Tuamotu : d'abord atmosphériques (jusqu'en 1974), puis souterrains. Bikini et Enewetak (îles Marshall) furent les sites d'essais américains.",
+    "tags": ["France", "nucléaire"]
+  },
+  {
+    "id": "pac-008",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Avec quel État océanien la Chine a-t-elle signé en 2022 un accord de sécurité qui a inquiété l'Australie et les États-Unis ?",
+    "choices": ["Fidji", "Vanuatu", "Papouasie-Nouvelle-Guinée", "Îles Salomon"],
+    "answer": 3,
+    "explanation": "L'accord Chine-Salomon d'avril 2022 a fait craindre une présence militaire chinoise à moins de 2 000 km des côtes australiennes. Les Salomon avaient rompu avec Taïwan pour reconnaître la République populaire de Chine en 2019.",
+    "tags": ["géopolitique", "Chine"]
+  },
+  {
+    "id": "pac-009",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle conséquence majeure l'annonce du partenariat AUKUS (septembre 2021) a-t-elle eue pour la France ?",
+    "choices": ["L'exclusion de la France du Forum des îles du Pacifique", "L'annulation par l'Australie du contrat de sous-marins conclu avec Naval Group", "La fermeture de la base navale française de Nouméa", "La suspension de la participation française au Quad"],
+    "answer": 1,
+    "explanation": "AUKUS associe l'Australie, le Royaume-Uni et les États-Unis ; il prévoit notamment la fourniture à l'Australie de sous-marins à propulsion nucléaire. L'Australie a alors rompu le contrat de sous-marins conventionnels signé avec la France, provoquant une crise diplomatique.",
+    "tags": ["géopolitique", "AUKUS", "France"]
+  },
+  {
+    "id": "pac-010",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans quelle ville se trouve le secrétariat du Forum des îles du Pacifique ?",
+    "choices": ["Nouméa", "Port Moresby", "Suva", "Apia"],
+    "answer": 2,
+    "explanation": "Le Forum, créé en 1971 sous le nom de Forum du Pacifique Sud et rebaptisé en 2000, a son secrétariat à Suva (Fidji). Il réunit 18 membres, dont l'Australie et la Nouvelle-Zélande ; Nouméa accueille en revanche le siège de la Communauté du Pacifique (CPS).",
+    "tags": ["géopolitique", "organisations régionales"]
+  },
+  {
+    "id": "pac-011",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Où se situe la zone de Clarion-Clipperton, convoitée pour ses nodules polymétalliques ?",
+    "choices": ["Entre Hawaï et le Mexique, dans le Pacifique nord-est", "Au large de la Nouvelle-Calédonie", "En mer de Chine méridionale", "Entre l'Australie et l'Antarctique"],
+    "answer": 0,
+    "explanation": "Cette vaste plaine abyssale de plusieurs millions de km², entre 4 000 et 6 000 m de fond, est située en haute mer : l'exploration y est encadrée par l'Autorité internationale des fonds marins (siège à Kingston, Jamaïque). Son exploitation éventuelle fait débat en raison de ses effets sur des écosystèmes mal connus.",
+    "tags": ["ressources", "grands fonds"]
+  },
+  {
+    "id": "pac-012",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est le premier port mondial pour le trafic de conteneurs ?",
+    "choices": ["Singapour", "Los Angeles", "Busan", "Shanghai"],
+    "answer": 3,
+    "explanation": "Shanghai dépasse les 45 millions d'EVP par an et devance Singapour. La rive asiatique du Pacifique concentre la majorité des grands ports à conteneurs mondiaux, tandis que Los Angeles-Long Beach est le premier complexe portuaire des États-Unis.",
+    "tags": ["géoéconomie", "ports"]
+  },
+  {
+    "id": "pac-013",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Par quel élément matériel la culture Lapita est-elle principalement identifiée par les archéologues ?",
+    "choices": ["Des statues monumentales en tuf volcanique", "Une céramique ornée de motifs pointillés estampés", "Des pétroglyphes représentant des pirogues", "Des outils en métal importés d'Asie"],
+    "answer": 1,
+    "explanation": "La céramique Lapita, qui doit son nom à un site de Nouvelle-Calédonie, apparaît dans l'archipel Bismarck il y a un peu plus de 3 000 ans. Elle témoigne de l'expansion rapide de populations austronésiennes jusqu'aux Fidji, Tonga et Samoa, premières terres peuplées de la Polynésie.",
+    "tags": ["peuplement", "Lapita"]
+  },
+  {
+    "id": "pac-014",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle collectivité contribue le plus à la zone économique exclusive (ZEE) française ?",
+    "choices": ["La Nouvelle-Calédonie", "Wallis-et-Futuna", "La Polynésie française", "Clipperton"],
+    "answer": 2,
+    "explanation": "La Polynésie française, dispersée sur une surface comparable à l'Europe, représente à elle seule près de 4,8 millions de km² de ZEE, devant la Nouvelle-Calédonie (environ 1,4 million). La ZEE française totale avoisine 10,2 millions de km², la deuxième du monde après celle des États-Unis.",
+    "tags": ["France", "ZEE"]
+  },
+  {
+    "id": "pac-015",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Lequel de ces États est formé uniquement d'atolls et d'îles coralliennes basses ?",
+    "choices": ["Tuvalu", "Fidji", "Samoa", "Vanuatu"],
+    "answer": 0,
+    "explanation": "Les neuf îles de Tuvalu (environ 26 km² de terres) culminent à moins de 5 m, ce qui en fait l'un des États les plus exposés à la montée des eaux. Fidji, Samoa et Vanuatu sont des îles hautes d'origine volcanique.",
+    "tags": ["États", "atolls", "vulnérabilité"]
+  },
+  {
+    "id": "pac-016",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Sur l'exploitation de quelle ressource Nauru a-t-elle fondé sa richesse au XXe siècle ?",
+    "choices": ["Le nickel", "Le cuivre", "Le thon", "Le phosphate"],
+    "answer": 3,
+    "explanation": "L'exploitation intensive du phosphate a fait de Nauru l'un des États les plus riches par habitant dans les années 1970, avant l'épuisement de la ressource et la ruine de l'île. Nauru dépend aujourd'hui largement de l'Australie, notamment via l'accueil d'un centre de rétention de migrants.",
+    "tags": ["États", "ressources"]
+  },
+  {
+    "id": "pac-017",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lequel de ces pays n'est PAS membre du Partenariat économique régional global (RCEP), signé en 2020 ?",
+    "choices": ["Japon", "Inde", "Australie", "Corée du Sud"],
+    "answer": 1,
+    "explanation": "Le RCEP réunit 15 pays : les dix membres de l'ASEAN, la Chine, le Japon, la Corée du Sud, l'Australie et la Nouvelle-Zélande, soit environ 30 % du PIB mondial. L'Inde s'est retirée des négociations en 2019 ; les États-Unis n'y participent pas.",
+    "tags": ["géoéconomie", "accords commerciaux"]
+  },
+  {
+    "id": "pac-018",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lors d'un épisode El Niño, que se passe-t-il généralement dans le Pacifique équatorial ?",
+    "choices": ["Les alizés se renforcent et l'upwelling péruvien s'intensifie", "Les alizés s'affaiblissent et les eaux chaudes s'étendent vers l'est", "Les eaux de surface se refroidissent au large de l'Amérique du Sud", "Les pluies augmentent fortement sur l'Indonésie et l'Australie"],
+    "answer": 1,
+    "explanation": "L'affaiblissement des alizés laisse la masse d'eau chaude migrer vers le Pacifique central et oriental : pluies et inondations sur les côtes du Pérou et de l'Équateur, sécheresses en Indonésie et en Australie, effondrement de la pêche à l'anchois. El Niño est la phase chaude du cycle ENSO, couplé à l'Oscillation australe.",
+    "tags": ["géographie physique", "climat", "ENSO"]
+  },
+  {
+    "id": "pac-019",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Où se situe l'aire marine protégée de Papahānaumokuākea ?",
+    "choices": ["Autour de l'île de Pâques", "Dans l'archipel des Phoenix (Kiribati)", "Dans la mer de Corail", "Autour des îles du nord-ouest de l'archipel d'Hawaï"],
+    "answer": 3,
+    "explanation": "Créé en 2006, inscrit au patrimoine mondial de l'UNESCO en 2010 (bien mixte, naturel et culturel) et étendu en 2016 à environ 1,5 million de km², ce monument national américain est l'une des plus grandes aires marines protégées du monde.",
+    "tags": ["environnement", "aires marines protégées"]
+  },
+  {
+    "id": "pac-020",
+    "theme": "pacifique",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "À quel archipel appartient Guam, territoire américain abritant d'importantes bases militaires ?",
+    "choices": ["Les îles Carolines", "Les îles Marshall", "Les îles Mariannes", "Les îles Aléoutiennes"],
+    "answer": 2,
+    "explanation": "Guam, possession des États-Unis depuis 1898 (aujourd'hui territoire non incorporé), est la plus méridionale des Mariannes. Avec la base aérienne d'Andersen et sa base navale, elle constitue un point d'appui majeur de la projection américaine face à la Chine.",
+    "tags": ["géopolitique", "États-Unis"]
+  },
+  {
+    "id": "pac-021",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "L'océan Pacifique est plus vaste que l'ensemble des terres émergées du globe.",
+    "answer": true,
+    "explanation": "Avec environ 165 à 180 millions de km², le Pacifique dépasse la superficie totale des terres émergées (environ 149 millions de km²). Il représente à peu près la moitié de la surface océanique mondiale.",
+    "tags": ["géographie physique", "superficie"]
+  },
+  {
+    "id": "pac-022",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "La « ceinture de feu » du Pacifique concentre la majorité des volcans actifs de la planète.",
+    "answer": true,
+    "explanation": "Cet arc d'environ 40 000 km borde l'océan du Chili au Japon et à la Nouvelle-Zélande ; il est lié aux zones de subduction. Il concentre aussi l'essentiel des grands séismes, comme ceux du Chili (1960) ou du Tōhoku (2011).",
+    "tags": ["géographie physique", "risques"]
+  },
+  {
+    "id": "pac-023",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Selon la théorie de Charles Darwin, un atoll se forme lorsqu'une île volcanique s'enfonce progressivement tandis que le récif corallien qui l'entoure continue de croître vers la surface.",
+    "answer": true,
+    "explanation": "Darwin propose cette théorie de la subsidence dans les années 1830-1840 : récif frangeant, puis récif-barrière, puis atoll quand l'île a disparu. Des forages réalisés à Enewetak dans les années 1950 ont confirmé la présence d'un socle volcanique sous plus de 1 000 m de calcaire corallien.",
+    "tags": ["géographie physique", "atolls"]
+  },
+  {
+    "id": "pac-024",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "La Grande Barrière de corail s'étend au large de la Nouvelle-Calédonie.",
+    "answer": false,
+    "explanation": "La Grande Barrière de corail longe sur plus de 2 000 km la côte du Queensland, en Australie ; elle est inscrite au patrimoine mondial depuis 1981. La Nouvelle-Calédonie possède toutefois l'un des plus grands lagons du monde, dont une partie est inscrite à l'UNESCO depuis 2008.",
+    "tags": ["environnement", "récifs coralliens"]
+  },
+  {
+    "id": "pac-025",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "L'île de Clipperton est habitée en permanence par une petite population française.",
+    "answer": false,
+    "explanation": "Clipperton est un atoll inhabité situé à plus de 1 000 km des côtes mexicaines, relevant directement de l'État français. Malgré sa petite taille (quelques km²), il génère une ZEE d'environ 430 000 km², d'où son intérêt halieutique.",
+    "tags": ["France", "territoires"]
+  },
+  {
+    "id": "pac-026",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le troisième référendum sur l'indépendance de la Nouvelle-Calédonie, en décembre 2021, a été marqué par l'appel des indépendantistes à ne pas y participer.",
+    "answer": true,
+    "explanation": "Les indépendantistes demandaient un report en raison de l'épidémie de Covid-19 ; le « non » l'a emporté avec plus de 96 % des voix mais une participation d'environ 44 %. Lors des deux premiers scrutins, le « non » avait obtenu environ 57 % (2018) puis 53 % (2020).",
+    "tags": ["France", "Nouvelle-Calédonie"]
+  },
+  {
+    "id": "pac-027",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Les États-Unis sont membres de l'Accord de partenariat transpacifique global et progressiste (PTPGP / CPTPP).",
+    "answer": false,
+    "explanation": "Les États-Unis se sont retirés du projet initial de Partenariat transpacifique (TPP) en 2017, sous la présidence de Donald Trump. Les onze pays restants ont signé le CPTPP en 2018 ; le Royaume-Uni y a adhéré depuis.",
+    "tags": ["géoéconomie", "accords commerciaux"]
+  },
+  {
+    "id": "pac-028",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le grand vortex de déchets du Pacifique nord forme une île compacte de plastique sur laquelle on pourrait marcher.",
+    "answer": false,
+    "explanation": "Il s'agit d'une zone de concentration diffuse de déchets, surtout de microplastiques, piégés par la circulation du gyre subtropical entre Hawaï et la Californie. L'image d'un « septième continent » solide est trompeuse, même si la pollution y est massive.",
+    "tags": ["environnement", "pollution"]
+  },
+  {
+    "id": "pac-029",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Les essais nucléaires américains sur l'atoll de Bikini, dans les îles Marshall, ont commencé en 1946.",
+    "answer": true,
+    "explanation": "L'opération Crossroads (1946) a ouvert une série d'essais qui a contraint les habitants de Bikini à l'exil. L'essai Castle Bravo (1954) a contaminé les habitants de Rongelap et l'équipage du thonier japonais Lucky Dragon ; l'atoll est inscrit au patrimoine mondial depuis 2010.",
+    "tags": ["nucléaire", "États-Unis"]
+  },
+  {
+    "id": "pac-030",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La Nouvelle-Calédonie et la Polynésie française sont membres de plein droit du Forum des îles du Pacifique depuis 2016.",
+    "answer": true,
+    "explanation": "Leur admission en 2016 a marqué la reconnaissance régionale de collectivités non souveraines dotées d'une large autonomie. Elle s'inscrit dans la stratégie française de présence dans le Pacifique, longtemps compliquée par l'héritage des essais nucléaires.",
+    "tags": ["géopolitique", "organisations régionales", "France"]
+  },
+  {
+    "id": "pac-031",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "La sentence arbitrale rendue en 2016 à la demande des Philippines a validé les revendications chinoises fondées sur le tracé en neuf traits en mer de Chine méridionale.",
+    "answer": false,
+    "explanation": "La sentence de juillet 2016, rendue dans le cadre de la Convention de Montego Bay, a au contraire jugé que la Chine ne pouvait fonder aucun droit historique sur le tracé en neuf traits. Pékin a rejeté cette décision et poursuit la poldérisation et la militarisation d'îlots.",
+    "tags": ["géopolitique", "mer de Chine méridionale"]
+  },
+  {
+    "id": "pac-032",
+    "theme": "pacifique",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Hawaï est devenu le 50e État des États-Unis en 1898.",
+    "answer": false,
+    "explanation": "Hawaï a été annexé par les États-Unis en 1898, mais n'est devenu le 50e État qu'en 1959. L'archipel (île d'Oahu) accueille Pearl Harbor, quartier général de la flotte américaine du Pacifique, ainsi que l'état-major de l'US Indo-Pacific Command.",
+    "tags": ["États-Unis", "territoires"]
+  },
+  {
+    "id": "pac-033",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Récif corallien de forme annulaire, plus ou moins continu, entourant un lagon central et portant parfois des îlots bas.",
+    "choices": ["Guyot", "Atoll", "Récif frangeant", "Motu"],
+    "answer": 1,
+    "explanation": "Les atolls sont nombreux en Micronésie et en Polynésie (Tuamotu, Kiribati, Tuvalu, Marshall). Leurs îlots, appelés motu en Polynésie, ne s'élèvent souvent que de quelques mètres au-dessus de la mer.",
+    "tags": ["géographie physique", "atolls"]
+  },
+  {
+    "id": "pac-034",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Espace maritime s'étendant jusqu'à 200 milles marins des lignes de base, sur lequel l'État côtier exerce des droits souverains en matière d'exploration et d'exploitation des ressources.",
+    "choices": ["Mer territoriale", "Zone contiguë", "Haute mer", "Zone économique exclusive"],
+    "answer": 3,
+    "explanation": "La ZEE est définie par la Convention des Nations unies sur le droit de la mer, signée à Montego Bay en 1982. Pour les petits États insulaires, elle donne une dimension océanique considérable : Kiribati dispose ainsi d'une ZEE de plus de 3 millions de km² pour environ 800 km² de terres.",
+    "tags": ["droit de la mer", "ZEE"]
+  },
+  {
+    "id": "pac-035",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Phase du cycle ENSO caractérisée par un renforcement des alizés et un refroidissement anormal des eaux de surface du Pacifique équatorial central et oriental.",
+    "choices": ["La Niña", "El Niño", "Oscillation décennale", "Mousson"],
+    "answer": 0,
+    "explanation": "La Niña accentue la situation « normale » : eaux chaudes et fortes pluies à l'ouest (Indonésie, Australie), upwelling renforcé au large du Pérou. Les épisodes durent généralement un à deux ans et alternent irrégulièrement avec El Niño.",
+    "tags": ["géographie physique", "climat", "ENSO"]
+  },
+  {
+    "id": "pac-036",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Série de vagues de grande longueur d'onde provoquée par un déplacement brutal d'un grand volume d'eau, le plus souvent à la suite d'un séisme sous-marin.",
+    "choices": ["Marée de tempête", "Houle cyclonique", "Tsunami", "Mascaret"],
+    "answer": 2,
+    "explanation": "Le tsunami de 2011 au Japon (séisme du Tōhoku) a fait près de 20 000 morts et provoqué la catastrophe de Fukushima. Les vagues peuvent traverser tout le Pacifique en moins d'une journée, ce qui justifie un système d'alerte régional.",
+    "tags": ["géographie physique", "risques"]
+  },
+  {
+    "id": "pac-037",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Perte de coloration des coraux due à l'expulsion des algues symbiotiques (zooxanthelles) sous l'effet d'un stress, notamment une hausse prolongée de la température de l'eau.",
+    "choices": ["Acidification", "Eutrophisation", "Bioérosion", "Blanchissement corallien"],
+    "answer": 3,
+    "explanation": "Un corail blanchi n'est pas mort, mais il le devient si le stress se prolonge. La Grande Barrière de corail a connu plusieurs épisodes massifs de blanchissement depuis 2016, liés au réchauffement océanique amplifié par les épisodes El Niño.",
+    "tags": ["environnement", "récifs coralliens"]
+  },
+  {
+    "id": "pac-038",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Plongement d'une plaque lithosphérique océanique sous une autre plaque, à l'origine des fosses océaniques et des arcs volcaniques.",
+    "choices": ["Obduction", "Subduction", "Rifting", "Accrétion"],
+    "answer": 1,
+    "explanation": "Les subductions qui bordent le Pacifique expliquent la ceinture de feu et les grandes fosses (Mariannes, Tonga, Kermadec). À l'inverse, la Grande Terre de Nouvelle-Calédonie porte des péridotites mises en place par obduction, dont l'altération a donné ses gisements de nickel latéritique.",
+    "tags": ["géographie physique", "tectonique"]
+  },
+  {
+    "id": "pac-039",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Catégorie reconnue par l'ONU regroupant des États insulaires de petite taille partageant des vulnérabilités spécifiques : isolement, étroitesse du marché, exposition aux aléas climatiques.",
+    "choices": ["PMA", "PEID", "BRICS", "Pays émergents"],
+    "answer": 1,
+    "explanation": "Les petits États insulaires en développement (PEID ou SIDS) ont été reconnus comme groupe spécifique lors du Sommet de la Terre de Rio en 1992. Ceux du Pacifique (Tuvalu, Kiribati, Îles Marshall…) pèsent dans les négociations climatiques, notamment au sein de l'Alliance des petits États insulaires (AOSIS).",
+    "tags": ["environnement", "vulnérabilité"]
+  },
+  {
+    "id": "pac-040",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Notion géostratégique qui associe les océans Indien et Pacifique en un seul espace, promue notamment par le Japon, les États-Unis, l'Inde, l'Australie et la France.",
+    "choices": ["Asie-Pacifique", "Bassin pacifique", "Indo-Pacifique", "Pacific Rim"],
+    "answer": 2,
+    "explanation": "Popularisée par le Premier ministre japonais Shinzo Abe à partir de 2007, la notion supplante progressivement celle d'« Asie-Pacifique » et sert de cadre au Quad et aux stratégies de contrepoids à la Chine. La France a adopté sa propre stratégie indopacifique à partir de 2018, en s'appuyant sur ses territoires ultramarins.",
+    "tags": ["découpages", "géopolitique"]
+  },
+  {
+    "id": "pac-041",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Représentation de l'Océanie qui insiste sur l'océan comme espace de circulation et de lien entre les sociétés insulaires, plutôt que sur la petitesse et l'isolement des îles.",
+    "choices": ["Mer d'îles", "Triangle polynésien", "Ceinture de feu", "Micronésie"],
+    "answer": 0,
+    "explanation": "La notion est formulée par Epeli Hau'ofa en 1993 en réaction aux discours sur la dépendance et la non-viabilité des micro-États. Elle valorise les réseaux de circulation hérités de la navigation traditionnelle et prolongés par les diasporas océaniennes.",
+    "tags": ["découpages", "représentations"]
+  },
+  {
+    "id": "pac-042",
+    "theme": "pacifique",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Concrétions minérales reposant sur les plaines abyssales, formées très lentement et riches en manganèse, nickel, cuivre et cobalt.",
+    "choices": ["Sulfures hydrothermaux", "Encroûtements cobaltifères", "Terres rares", "Nodules polymétalliques"],
+    "answer": 3,
+    "explanation": "Ces nodules croissent de quelques millimètres par million d'années, entre 4 000 et 6 000 m de profondeur ; la zone de Clarion-Clipperton en concentre les gisements les plus étudiés. Les sulfures se trouvent plutôt près des sources hydrothermales des dorsales, et les encroûtements sur les flancs des monts sous-marins.",
+    "tags": ["ressources", "grands fonds"]
+  },
+  {
+    "id": "pac-043",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes de l'exploration européenne du Pacifique.",
+    "events": [
+      { "label": "Bougainville fait escale à Tahiti", "year": 1768 },
+      { "label": "Balboa aperçoit la « mer du Sud » depuis l'isthme de Panama", "year": 1513 },
+      { "label": "Dumont d'Urville propose le découpage Mélanésie / Micronésie / Polynésie", "year": 1831 },
+      { "label": "Magellan entre dans l'océan qu'il nomme « Pacifique »", "year": 1520 },
+      { "label": "Cook aborde la côte est de l'Australie à Botany Bay", "year": 1770 }
+    ],
+    "explanation": "La découverte européenne commence au XVIe siècle avec les Espagnols, puis connaît un âge d'or des expéditions scientifiques au XVIIIe siècle (Bougainville, Cook, La Pérouse). Le découpage de Dumont d'Urville, au XIXe siècle, accompagne la phase de colonisation.",
+    "tags": ["histoire", "exploration"]
+  },
+  {
+    "id": "pac-044",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes de l'histoire de la Nouvelle-Calédonie.",
+    "events": [
+      { "label": "Accord de Nouméa", "year": 1998 },
+      { "label": "Prise de possession par la France", "year": 1853 },
+      { "label": "Émeutes liées à la réforme du corps électoral", "year": 2024 },
+      { "label": "Accords de Matignon", "year": 1988 },
+      { "label": "Premier référendum d'autodétermination", "year": 2018 }
+    ],
+    "explanation": "L'accord de Nouméa organise un transfert progressif de compétences et une citoyenneté calédonienne, puis trois référendums (2018, 2020, 2021) tous favorables au maintien dans la France. Les émeutes de mai 2024, déclenchées par le projet de dégel du corps électoral, ont fait plusieurs morts et durement frappé l'économie.",
+    "tags": ["France", "Nouvelle-Calédonie"]
+  },
+  {
+    "id": "pac-045",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces événements liés au nucléaire dans le Pacifique.",
+    "events": [
+      { "label": "Premier essai nucléaire français à Moruroa", "year": 1966 },
+      { "label": "Dernier essai nucléaire français, à Fangataufa", "year": 1996 },
+      { "label": "Opération Crossroads à Bikini", "year": 1946 },
+      { "label": "Sabotage du Rainbow Warrior à Auckland", "year": 1985 },
+      { "label": "Essai américain Castle Bravo", "year": 1954 }
+    ],
+    "explanation": "Le Pacifique a servi de terrain d'essais aux États-Unis, au Royaume-Uni et à la France. Le sabotage du navire de Greenpeace par les services français en 1985 et la reprise des essais décidée en 1995 ont nourri un fort antinucléarisme régional, illustré par le traité de Rarotonga (1985).",
+    "tags": ["nucléaire", "histoire"]
+  },
+  {
+    "id": "pac-046",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique la création de ces organisations et accords.",
+    "events": [
+      { "label": "Création de l'APEC", "year": 1989 },
+      { "label": "Signature du RCEP", "year": 2020 },
+      { "label": "Création du Forum du Pacifique Sud", "year": 1971 },
+      { "label": "Signature du CPTPP", "year": 2018 },
+      { "label": "Signature de la Convention de Montego Bay", "year": 1982 }
+    ],
+    "explanation": "L'APEC, née à Canberra en 1989, est un forum de coopération économique sans traité contraignant réunissant les deux rives du Pacifique. Les méga-accords des années 2010-2020 (CPTPP, RCEP) traduisent la centralité commerciale de l'Asie-Pacifique.",
+    "tags": ["géoéconomie", "organisations régionales"]
+  },
+  {
+    "id": "pac-047",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces jalons récents de la rivalité sino-occidentale dans le Pacifique.",
+    "events": [
+      { "label": "Accord de sécurité entre la Chine et les Îles Salomon", "year": 2022 },
+      { "label": "Sentence arbitrale sur la mer de Chine méridionale", "year": 2016 },
+      { "label": "Annonce du partenariat AUKUS", "year": 2021 },
+      { "label": "Kiribati et les Îles Salomon reconnaissent Pékin au détriment de Taïwan", "year": 2019 }
+    ],
+    "explanation": "La compétition se joue à la fois sur le terrain juridique (droit de la mer), diplomatique (reconnaissance de Taïwan, qui ne compte plus que quelques alliés dans le Pacifique) et militaire. Les petits États insulaires y gagnent une capacité de négociation accrue face aux grandes puissances.",
+    "tags": ["géopolitique", "Chine", "États-Unis"]
+  },
+  {
+    "id": "pac-048",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre chronologique ces événements de la guerre du Pacifique.",
+    "events": [
+      { "label": "Bombardement atomique d'Hiroshima", "year": 1945 },
+      { "label": "Attaque japonaise sur Pearl Harbor", "year": 1941 },
+      { "label": "Fin de la bataille de Guadalcanal", "year": 1943 },
+      { "label": "Bataille de Midway", "year": 1942 },
+      { "label": "Bataille de la mer des Philippines", "year": 1944 }
+    ],
+    "explanation": "Midway (juin 1942) marque le tournant de la guerre aéronavale ; la reconquête américaine progresse ensuite d'île en île (Salomon, Gilbert, Marshall, Mariannes). La guerre a durablement marqué l'Océanie et fondé la présence militaire américaine (Guam, Hawaï, Okinawa).",
+    "tags": ["histoire", "Seconde Guerre mondiale"]
+  },
+  {
+    "id": "pac-049",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique l'accession à l'indépendance de ces États océaniens.",
+    "events": [
+      { "label": "Papouasie-Nouvelle-Guinée", "year": 1975 },
+      { "label": "Vanuatu", "year": 1980 },
+      { "label": "Samoa occidentales", "year": 1962 },
+      { "label": "Fidji", "year": 1970 },
+      { "label": "Nauru", "year": 1968 }
+    ],
+    "explanation": "Les Samoa, sous tutelle néo-zélandaise, ouvrent la décolonisation océanienne en 1962. Le Vanuatu, ancien condominium franco-britannique des Nouvelles-Hébrides, est l'un des derniers à accéder à l'indépendance, en 1980.",
+    "tags": ["États", "décolonisation"]
+  },
+  {
+    "id": "pac-050",
+    "theme": "pacifique",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces jalons environnementaux concernant le Pacifique.",
+    "events": [
+      { "label": "Accord Falepili entre Tuvalu et l'Australie", "year": 2023 },
+      { "label": "Inscription de la Grande Barrière de corail au patrimoine mondial", "year": 1981 },
+      { "label": "Création du monument marin de Papahānaumokuākea", "year": 2006 },
+      { "label": "Accord de Paris sur le climat", "year": 2015 },
+      { "label": "Inscription des lagons de Nouvelle-Calédonie au patrimoine mondial", "year": 2008 }
+    ],
+    "explanation": "L'accord Falepili ouvre chaque année aux Tuvaluans une voie de migration vers l'Australie (280 personnes par an) en échange de quoi Tuvalu doit obtenir l'accord de l'Australie avant tout partenariat de sécurité ou de défense avec un pays tiers. Il illustre l'imbrication des enjeux climatiques et géopolitiques ; les PEID ont pesé à Paris pour inscrire l'objectif de 1,5 °C.",
+    "tags": ["environnement", "vulnérabilité"]
+  }
+]

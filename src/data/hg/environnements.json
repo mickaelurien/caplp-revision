@@ -1,0 +1,570 @@
+[
+  {
+    "id": "env-001",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel géographe a proposé en 1968 la notion de « géosystème » pour penser la géographie physique de façon globale ?",
+    "choices": ["Jean Tricart", "Maximilien Sorre", "Georges Bertrand", "Philippe Pinchemel"],
+    "answer": 2,
+    "explanation": "Georges Bertrand définit le géosystème dans « Paysage et géographie physique globale » (1968). Il l'intègre ensuite au triptyque GTP (géosystème – territoire – paysage), qui articule dimensions naturaliste, socio-économique et culturelle.",
+    "tags": ["Bertrand", "géosystème", "épistémologie"]
+  },
+  {
+    "id": "env-002",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui a forgé le terme de « possibilisme » pour qualifier l'approche vidalienne des rapports entre sociétés et milieux ?",
+    "choices": ["Lucien Febvre", "Paul Vidal de La Blache", "Friedrich Ratzel", "Élisée Reclus"],
+    "answer": 0,
+    "explanation": "L'historien Lucien Febvre emploie le terme dans « La Terre et l'évolution humaine » (1922) pour opposer l'école vidalienne au déterminisme attribué à Ratzel : le milieu offre des possibilités que les sociétés choisissent d'exploiter selon leurs « genres de vie ».",
+    "tags": ["possibilisme", "Vidal de La Blache", "Febvre"]
+  },
+  {
+    "id": "env-003",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans « Par-delà nature et culture » (2005), Philippe Descola distingue quatre ontologies. Laquelle n'en fait PAS partie ?",
+    "choices": ["L'animisme", "Le totémisme", "Le chamanisme", "Le naturalisme"],
+    "answer": 2,
+    "explanation": "Les quatre ontologies de Descola sont l'animisme, le totémisme, l'analogisme et le naturalisme. Le naturalisme, propre à l'Occident moderne, sépare une nature universelle de cultures multiples : le dualisme nature/culture n'est donc pas universel.",
+    "tags": ["Descola", "nature", "anthropologie"]
+  },
+  {
+    "id": "env-004",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle formule résume classiquement la notion de risque en géographie ?",
+    "choices": ["Risque = aléa + catastrophe", "Risque = aléa × vulnérabilité", "Risque = enjeu × résilience", "Risque = danger – prévention"],
+    "answer": 1,
+    "explanation": "Le risque naît de la rencontre entre un aléa (phénomène naturel ou technologique probable) et des enjeux vulnérables. Un séisme dans un désert inhabité n'est pas un risque majeur : sans enjeux exposés, pas de risque.",
+    "tags": ["risque", "aléa", "vulnérabilité"]
+  },
+  {
+    "id": "env-005",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui a proposé en 2000 le terme « Anthropocène » pour désigner une nouvelle époque géologique marquée par l'action humaine ?",
+    "choices": ["Johan Rockström et Will Steffen", "Jason W. Moore et Andreas Malm", "James Lovelock et Lynn Margulis", "Paul Crutzen et Eugene Stoermer"],
+    "answer": 3,
+    "explanation": "Le chimiste Paul Crutzen (prix Nobel de chimie 1995) et le biologiste Eugene Stoermer lancent le terme dans une lettre de l'IGBP en 2000. En 2024, l'Anthropocène a été rejeté comme unité officielle de l'échelle des temps géologiques, mais la notion reste très utilisée en sciences sociales.",
+    "tags": ["anthropocène", "Crutzen"]
+  },
+  {
+    "id": "env-006",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est le premier parc national créé en France (1963) ?",
+    "choices": ["Le parc national de la Vanoise", "Le parc national des Écrins", "Le parc national des Cévennes", "Le parc national des Pyrénées"],
+    "answer": 0,
+    "explanation": "La Vanoise est créée en juillet 1963, en application de la loi de 1960 sur les parcs nationaux, suivie la même année par Port-Cros. Le modèle français associe un cœur réglementé et une zone périphérique (aujourd'hui aire d'adhésion), à la différence du modèle « wilderness » de Yellowstone (1872).",
+    "tags": ["aires protégées", "parcs nationaux"]
+  },
+  {
+    "id": "env-007",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lequel de ces textes n'a PAS été adopté ou ouvert à la signature lors du Sommet de la Terre de Rio (1992) ?",
+    "choices": ["La Convention-cadre des Nations unies sur les changements climatiques", "La Convention sur la diversité biologique", "L'Agenda 21", "Le protocole de Montréal sur la couche d'ozone"],
+    "answer": 3,
+    "explanation": "Le protocole de Montréal date de 1987 et vise les substances appauvrissant la couche d'ozone (CFC). Rio 1992 consacre le développement durable et lance la CCNUCC, dont dérivent les COP, Kyoto (1997) et l'accord de Paris (2015).",
+    "tags": ["gouvernance", "Rio 1992"]
+  },
+  {
+    "id": "env-008",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quels fleuves, détournés pour l'irrigation du coton à l'époque soviétique, alimentaient la mer d'Aral ?",
+    "choices": ["L'Ili et l'Irtych", "L'Amou-Daria et le Syr-Daria", "La Volga et l'Oural", "L'Ob et l'Ienisseï"],
+    "answer": 1,
+    "explanation": "Les prélèvements massifs à partir des années 1960 ont fait reculer la mer d'Aral, partagée entre Kazakhstan et Ouzbékistan, avec salinisation, tempêtes de sel et effondrement de la pêche. La digue de Kokaral (2005) a permis une remontée partielle de la petite Aral au nord.",
+    "tags": ["étude de cas", "mer d'Aral", "eau"]
+  },
+  {
+    "id": "env-009",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est l'objectif principal des zones à faibles émissions mobilité (ZFE-m) en France ?",
+    "choices": ["Réduire le bruit des infrastructures aériennes", "Limiter l'artificialisation des sols en périphérie", "Améliorer la qualité de l'air en restreignant la circulation des véhicules les plus polluants", "Taxer les poids lourds en transit international"],
+    "answer": 2,
+    "explanation": "Les ZFE-m, généralisées par la loi d'orientation des mobilités (2019) puis la loi Climat et résilience (2021), s'appuient sur la vignette Crit'Air. Elles soulèvent un débat de justice environnementale : les ménages modestes, souvent périurbains, possèdent les véhicules les plus anciens.",
+    "tags": ["ville durable", "pollution", "ZFE"]
+  },
+  {
+    "id": "env-010",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Combien de « limites planétaires » l'équipe de Johan Rockström a-t-elle identifiées en 2009 ?",
+    "choices": ["7", "9", "12", "17"],
+    "answer": 1,
+    "explanation": "Publié dans Nature en 2009, le cadre définit neuf processus (climat, érosion de la biodiversité, cycles de l'azote et du phosphore, usage des sols, eau douce, acidification des océans, ozone stratosphérique, aérosols, nouvelles entités) délimitant un « espace de fonctionnement sûr » pour l'humanité. Ne pas confondre avec les 17 ODD de 2015.",
+    "tags": ["limites planétaires", "Rockström"]
+  },
+  {
+    "id": "env-011",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quelle typologie Jean Tricart a-t-il proposée pour classer les milieux selon le rapport entre morphogenèse et pédogenèse ?",
+    "choices": ["Ensembles, sous-ensembles et unités", "Biomes zonaux, azonaux et intrazonaux", "Géofaciès et géotopes", "Milieux stables, intergrades et instables"],
+    "answer": 3,
+    "explanation": "Pour Tricart, un milieu est stable quand la pédogenèse l'emporte, instable quand la morphogenèse domine. Avec Jean Kilian (« L'éco-géographie et l'aménagement du milieu naturel », 1979), il fonde une éco-géographie tournée vers l'aménagement ; géofaciès et géotopes relèvent, eux, de l'échelle de Bertrand.",
+    "tags": ["Tricart", "éco-géographie", "épistémologie"]
+  },
+  {
+    "id": "env-012",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel est le principal facteur direct de la déforestation en Amazonie brésilienne ?",
+    "choices": ["L'exploitation pétrolière", "L'expansion des pâturages pour l'élevage bovin", "L'urbanisation de Manaus", "La construction de barrages hydroélectriques"],
+    "answer": 1,
+    "explanation": "L'élevage bovin, suivi du soja, progresse le long de l'« arc de déforestation » au sud et à l'est du bassin, souvent après l'ouverture de routes (Transamazonienne, BR-163). L'analyse doit être multiscalaire : marchés mondiaux, politiques fédérales, conflits fonciers locaux.",
+    "tags": ["étude de cas", "Amazonie", "déforestation"]
+  },
+  {
+    "id": "env-013",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel ouvrage de 1987 est considéré comme fondateur de la « political ecology » anglophone ?",
+    "choices": ["« Silent Spring » de Rachel Carson", "« The Limits to Growth » de Meadows et al.", "« Land Degradation and Society » de Piers Blaikie et Harold Brookfield", "« The Tragedy of the Commons » de Garrett Hardin"],
+    "answer": 2,
+    "explanation": "Blaikie et Brookfield montrent que la dégradation des sols s'explique par des rapports de pouvoir et d'économie politique, et non par la seule pression démographique. Carson (1962), le rapport Meadows (1972) et Hardin (1968) sont antérieurs et relèvent d'autres approches.",
+    "tags": ["political ecology", "épistémologie"]
+  },
+  {
+    "id": "env-014",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel lieu est considéré comme le berceau du mouvement pour la justice environnementale aux États-Unis, avec la mobilisation de 1982 contre une décharge de PCB ?",
+    "choices": ["Love Canal (New York)", "Le comté de Warren (Caroline du Nord)", "Flint (Michigan)", "Three Mile Island (Pennsylvanie)"],
+    "answer": 1,
+    "explanation": "Dans ce comté majoritairement afro-américain, la contestation fait émerger la notion de « racisme environnemental ». Le sociologue Robert Bullard (« Dumping in Dixie », 1990) théorise ensuite l'inégale exposition des minorités aux nuisances.",
+    "tags": ["justice environnementale", "inégalités"]
+  },
+  {
+    "id": "env-015",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle commune vendéenne a été la plus meurtrie par la tempête Xynthia en février 2010 ?",
+    "choices": ["La Faute-sur-Mer", "Soulac-sur-Mer", "Lacanau", "Les Sables-d'Olonne"],
+    "answer": 0,
+    "explanation": "À La Faute-sur-Mer, 29 personnes meurent dans des lotissements construits derrière une digue, en zone basse. Xynthia illustre la vulnérabilité produite par l'urbanisation littorale et a entraîné des démolitions en « zones de solidarité » et un renforcement des PPR littoraux.",
+    "tags": ["étude de cas", "Xynthia", "risque"]
+  },
+  {
+    "id": "env-016",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est l'objectif de température fixé par l'accord de Paris (COP21, 2015) ?",
+    "choices": ["Stabiliser les émissions mondiales à leur niveau de 1990", "Réduire d'environ 5 % les émissions des pays industrialisés par rapport à 1990", "Contenir le réchauffement nettement en dessous de 2 °C et poursuivre les efforts pour le limiter à 1,5 °C", "Atteindre la neutralité carbone mondiale dès 2030"],
+    "answer": 2,
+    "explanation": "L'accord de Paris engage tous les États, via des contributions déterminées au niveau national (CDN) révisées périodiquement. La réduction d'environ 5 % pour les seuls pays industrialisés correspond au protocole de Kyoto (1997).",
+    "tags": ["gouvernance", "climat", "COP21"]
+  },
+  {
+    "id": "env-017",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel établissement public, créé en 1975, protège les rivages français par l'acquisition foncière ?",
+    "choices": ["L'Office national des forêts", "Le Conservatoire du littoral", "L'Office français de la biodiversité", "L'Agence de l'eau"],
+    "answer": 1,
+    "explanation": "Le Conservatoire de l'espace littoral et des rivages lacustres achète des terrains pour les soustraire à l'urbanisation, la gestion étant souvent confiée aux collectivités. Il vise à terme la protection d'environ un tiers du linéaire côtier (le « tiers sauvage ») et complète la loi littoral de 1986.",
+    "tags": ["littoral", "aires protégées"]
+  },
+  {
+    "id": "env-018",
+    "theme": "environnements",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans quelles conditions l'îlot de chaleur urbain est-il le plus marqué ?",
+    "choices": ["À midi en été, en plein soleil", "En hiver, par vent fort", "La nuit, par temps calme et ciel clair", "Le matin, par temps couvert et pluvieux"],
+    "answer": 2,
+    "explanation": "Les matériaux urbains stockent la chaleur le jour et la restituent la nuit, quand la campagne se refroidit vite : l'écart ville-campagne culmine donc la nuit par temps anticyclonique. L'enjeu sanitaire est fort lors des canicules (2003), d'où la végétalisation et la désimperméabilisation.",
+    "tags": ["ville durable", "climat urbain"]
+  },
+  {
+    "id": "env-019",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le rapport Brundtland (1987) définit le développement durable comme un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs.",
+    "answer": true,
+    "explanation": "Le rapport « Notre avenir à tous » (Our Common Future), rédigé pour la Commission mondiale sur l'environnement et le développement présidée par Gro Harlem Brundtland, popularise cette définition. On la représente souvent par trois piliers (économique, social, environnemental), entre durabilité faible et forte.",
+    "tags": ["développement durable", "Brundtland"]
+  },
+  {
+    "id": "env-020",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Paul Vidal de La Blache est le principal représentant du déterminisme géographique.",
+    "answer": false,
+    "explanation": "Le déterminisme est surtout associé à Friedrich Ratzel (Anthropogeographie) et à Ellen Churchill Semple. Vidal de La Blache incarne au contraire le possibilisme : les sociétés, à travers leurs genres de vie, tirent parti des possibilités offertes par le milieu.",
+    "tags": ["déterminisme", "possibilisme", "épistémologie"]
+  },
+  {
+    "id": "env-021",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Élisée Reclus, auteur de « L'Homme et la Terre », a participé à la Commune de Paris, ce qui lui valut d'être banni de France.",
+    "answer": true,
+    "explanation": "Géographe anarchiste, Reclus est condamné après 1871, peine commuée en bannissement. Son œuvre, qui affirme que « l'homme est la nature prenant conscience d'elle-même », est relue aujourd'hui comme une pensée précoce des rapports sociétés-nature.",
+    "tags": ["Reclus", "épistémologie"]
+  },
+  {
+    "id": "env-022",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le « septième continent » de plastique du Pacifique Nord est une île compacte de déchets sur laquelle on pourrait marcher.",
+    "answer": false,
+    "explanation": "Il s'agit d'une zone de forte concentration de débris, surtout de microplastiques dispersés dans la colonne d'eau, piégés par le gyre subtropical du Pacifique Nord. L'image du « continent » est médiatique : la pollution est diffuse, d'où la difficulté de la mesurer et de la nettoyer.",
+    "tags": ["pollution", "plastiques", "océans"]
+  },
+  {
+    "id": "env-023",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La loi Climat et résilience (2021) prévoit, dans les communes exposées au recul du trait de côte, une cartographie des zones exposées à horizon de 30 ans et de 30 à 100 ans.",
+    "answer": true,
+    "explanation": "Cette loi organise une stratégie de recomposition spatiale du littoral face à l'érosion. L'immeuble Le Signal à Soulac-sur-Mer (Gironde), évacué en 2014 puis démoli, est devenu le symbole du recul du trait de côte en France.",
+    "tags": ["littoral", "trait de côte", "adaptation"]
+  },
+  {
+    "id": "env-024",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le réseau Natura 2000 repose sur deux directives européennes : la directive « Oiseaux » (1979) et la directive « Habitats » (1992).",
+    "answer": true,
+    "explanation": "La directive Oiseaux fonde les zones de protection spéciale (ZPS), la directive Habitats les zones spéciales de conservation (ZSC). Natura 2000 ne sanctuarise pas : il cherche à concilier activités humaines et conservation, souvent par contrats et chartes.",
+    "tags": ["Natura 2000", "aires protégées", "Union européenne"]
+  },
+  {
+    "id": "env-025",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "La trame verte et bleue a été instituée par la loi littoral de 1986.",
+    "answer": false,
+    "explanation": "La trame verte et bleue est issue du Grenelle de l'environnement (lois Grenelle I de 2009 et II de 2010). Elle vise à maintenir des continuités écologiques (réservoirs de biodiversité et corridors), déclinées régionalement dans les schémas régionaux de cohérence écologique.",
+    "tags": ["trame verte et bleue", "biodiversité", "aménagement"]
+  },
+  {
+    "id": "env-026",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "En France, la loi de 2016 pour la reconquête de la biodiversité a prévu l'interdiction des néonicotinoïdes, effective à partir de 2018.",
+    "answer": true,
+    "explanation": "Ces insecticides sont mis en cause dans le déclin des pollinisateurs. Une dérogation pour la betterave sucrière (2020) a pris fin après un arrêt de la Cour de justice de l'Union européenne de janvier 2023 : le dossier illustre les conflits entre filières agricoles et protection de la biodiversité.",
+    "tags": ["néonicotinoïdes", "biodiversité", "agriculture"]
+  },
+  {
+    "id": "env-027",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le projet d'aéroport de Notre-Dame-des-Landes a été abandonné par le gouvernement en janvier 2018.",
+    "answer": true,
+    "explanation": "Le projet, envisagé dès les années 1960-1970 près de Nantes, a suscité une « zone à défendre » (ZAD) occupée pendant près d'une décennie. C'est un cas d'école de conflit d'usage et d'aménagement, opposant zones humides et bocage aux arguments du développement territorial.",
+    "tags": ["conflits", "ZAD", "aménagement"]
+  },
+  {
+    "id": "env-028",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le géosystème de Georges Bertrand est un modèle purement physique qui exclut l'action humaine.",
+    "answer": false,
+    "explanation": "Bertrand définit le géosystème comme la combinaison d'un potentiel écologique (climat, relief, eau), d'une exploitation biologique (végétation, sols, faune) et d'une action anthropique. Il intègre donc les sociétés, tout en restant d'abord un objet naturaliste.",
+    "tags": ["Bertrand", "géosystème"]
+  },
+  {
+    "id": "env-029",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Les « méga-bassines » contestées dans les Deux-Sèvres, comme à Sainte-Soline, sont des retenues collinaires alimentées uniquement par le ruissellement des pluies.",
+    "answer": false,
+    "explanation": "Ce sont des réserves de substitution remplies en hiver par pompage dans les nappes phréatiques, pour irriguer l'été. Leurs opposants dénoncent un accaparement de l'eau au profit d'une agriculture intensive ; les manifestations de 2022-2023 en ont fait un conflit d'usage emblématique.",
+    "tags": ["eau", "conflits", "agriculture"]
+  },
+  {
+    "id": "env-030",
+    "theme": "environnements",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "La notion de « capitalocène » a été proposée par Paul Crutzen pour préciser celle d'anthropocène.",
+    "answer": false,
+    "explanation": "Le capitalocène est porté par des critiques de l'anthropocène comme Andreas Malm et Jason W. Moore. Ils jugent que l'anthropocène dilue les responsabilités dans une « humanité » indifférenciée, alors que la crise écologique est liée au capitalisme fossile et aux rapports de pouvoir.",
+    "tags": ["anthropocène", "capitalocène"]
+  },
+  {
+    "id": "env-031",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Phénomène naturel ou technologique potentiellement dangereux, caractérisé par sa probabilité d'occurrence et son intensité.",
+    "choices": ["Vulnérabilité", "Aléa", "Enjeu", "Résilience"],
+    "answer": 1,
+    "explanation": "L'aléa est une composante du risque, distincte des enjeux (personnes, biens, activités exposés) et de la vulnérabilité. On le cartographie par exemple dans les PPR en niveaux d'aléa (faible, moyen, fort), pour une crue centennale de référence.",
+    "tags": ["risque", "aléa"]
+  },
+  {
+    "id": "env-032",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Propension d'une société, d'un territoire ou d'un enjeu à subir des dommages lors de la survenue d'un aléa, selon des facteurs physiques, sociaux, économiques et institutionnels.",
+    "choices": ["Aléa", "Catastrophe", "Résilience", "Vulnérabilité"],
+    "answer": 3,
+    "explanation": "La vulnérabilité est socialement construite : pauvreté, mauvaise information, bâti fragile ou défaillance des pouvoirs publics l'aggravent. Un même aléa produit ainsi des bilans très différents selon les pays, comme le montrent les séismes comparables au Japon et en Haïti.",
+    "tags": ["risque", "vulnérabilité"]
+  },
+  {
+    "id": "env-033",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Capacité d'un système (écosystème, ville, société) à absorber une perturbation, à s'y adapter et à se réorganiser en conservant ses fonctions essentielles.",
+    "choices": ["Résilience", "Mitigation", "Adaptation", "Vulnérabilité"],
+    "answer": 0,
+    "explanation": "Venue de la physique des matériaux et de la psychologie, la notion est formalisée en écologie par C. S. Holling (1973) puis transférée aux villes et aux risques. Elle est critiquée lorsqu'elle fait reposer l'effort sur les populations plutôt que sur la réduction des causes.",
+    "tags": ["résilience", "risque"]
+  },
+  {
+    "id": "env-034",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Chez Augustin Berque, la relation de l'humanité à l'étendue terrestre, c'est-à-dire l'ensemble des milieux humains en tant qu'ils sont habités et investis de sens.",
+    "choices": ["Anœcoumène", "Médiance", "Écoumène", "Géosystème"],
+    "answer": 2,
+    "explanation": "Berque reprend le terme grec (oikoumenê, la terre habitée) dans « Écoumène. Introduction à l'étude des milieux humains » (2000). Il refuse la séparation sujet/objet et pense le milieu comme une réalité à la fois physique et symbolique.",
+    "tags": ["Berque", "écoumène"]
+  },
+  {
+    "id": "env-035",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Chez Augustin Berque, sens d'un milieu ; moment structurel de l'existence humaine par lequel l'individu est lié à son milieu, notion traduite du japonais fūdosei du philosophe Watsuji Tetsurō.",
+    "choices": ["Territorialité", "Médiance", "Paysage", "Naturalité"],
+    "answer": 1,
+    "explanation": "La médiance désigne la dimension à la fois écologique, technique et symbolique de notre rapport au milieu. Berque développe aussi la notion de trajection, va-et-vient entre le subjectif et l'objectif, entre le physique et le phénoménal.",
+    "tags": ["Berque", "médiance"]
+  },
+  {
+    "id": "env-036",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Système formé par une communauté d'êtres vivants et son milieu physico-chimique, en interaction, notamment par des flux de matière et d'énergie.",
+    "choices": ["Biotope", "Biocénose", "Géosystème", "Écosystème"],
+    "answer": 3,
+    "explanation": "Le terme est proposé par le botaniste britannique Arthur Tansley en 1935. On le résume souvent par écosystème = biotope (milieu) + biocénose (vivant) ; le géosystème de Bertrand en est une transposition géographique intégrant l'espace et les sociétés.",
+    "tags": ["écosystème", "écologie"]
+  },
+  {
+    "id": "env-037",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Processus de transformation, à des degrés divers, des milieux par les actions humaines (défrichement, mise en culture, aménagement, pollution…).",
+    "choices": ["Anthropisation", "Artificialisation", "Urbanisation", "Anthropocène"],
+    "answer": 0,
+    "explanation": "L'anthropisation forme un gradient, de la forêt exploitée à la ville. L'artificialisation désigne un degré plus poussé, notamment la perte des fonctions naturelles des sols, que la loi Climat et résilience (2021) veut ramener à « zéro artificialisation nette » en 2050.",
+    "tags": ["anthropisation", "notions"]
+  },
+  {
+    "id": "env-038",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Bénéfices que les sociétés humaines retirent du fonctionnement des écosystèmes (approvisionnement, régulation, culturels, soutien).",
+    "choices": ["Capital naturel", "Ressource", "Service écosystémique", "Aménité"],
+    "answer": 2,
+    "explanation": "La notion est popularisée par l'Évaluation des écosystèmes pour le millénaire (Millennium Ecosystem Assessment, 2005). Elle est discutée car elle tend à une lecture utilitariste, voire monétarisée, de la nature ; l'IPBES préfère parler de « contributions de la nature aux populations ».",
+    "tags": ["services écosystémiques", "biodiversité"]
+  },
+  {
+    "id": "env-039",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Indicateur mesurant la surface biologiquement productive nécessaire pour produire les ressources consommées par une population et absorber ses déchets, notamment son CO2.",
+    "choices": ["Biocapacité", "Empreinte écologique", "Bilan carbone", "Jour du dépassement"],
+    "answer": 1,
+    "explanation": "Mise au point par Mathis Wackernagel et William Rees dans les années 1990, elle s'exprime en hectares globaux et se compare à la biocapacité. Le Global Footprint Network en tire le « jour du dépassement », date à laquelle l'humanité a consommé ce que la planète régénère en un an.",
+    "tags": ["empreinte écologique", "indicateurs"]
+  },
+  {
+    "id": "env-040",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Espace perçu comme sauvage et vierge de toute transformation humaine, valorisé par la tradition nord-américaine de protection de la nature.",
+    "choices": ["Naturalité", "Nature ordinaire", "Hotspot", "Wilderness"],
+    "answer": 3,
+    "explanation": "L'idéal de wilderness, porté par John Muir et consacré par le Wilderness Act de 1964 aux États-Unis, a inspiré les parcs excluant les habitants. L'historien William Cronon l'a critiqué comme une construction culturelle qui efface les peuples autochtones présents dans ces espaces.",
+    "tags": ["wilderness", "nature", "aires protégées"]
+  },
+  {
+    "id": "env-041",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Degré auquel un milieu est proche d'un fonctionnement spontané, évalué par l'intégrité biologique, la spontanéité des processus et la continuité dans le temps (ancienneté).",
+    "choices": ["Naturalité", "Wilderness", "Biodiversité", "Résilience"],
+    "answer": 0,
+    "explanation": "La naturalité est graduelle, contrairement à la wilderness, pensée comme un absolu. Elle est mobilisée notamment pour les forêts anciennes et la libre évolution, et éclaire les débats sur le « réensauvagement ».",
+    "tags": ["naturalité", "nature"]
+  },
+  {
+    "id": "env-042",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Nature commune et non remarquable des espaces du quotidien (haies, friches, jardins, bords de route), longtemps négligée par les politiques de protection centrées sur les espèces et sites exceptionnels.",
+    "choices": ["Nature remarquable", "Hotspot de biodiversité", "Nature ordinaire", "Corridor écologique"],
+    "answer": 2,
+    "explanation": "La sociologue Catherine Mougenot a contribué à populariser la notion (« Prendre soin de la nature ordinaire », 2003). Sa prise en compte a accompagné le passage d'une logique de sanctuaires à une logique de réseaux, comme la trame verte et bleue.",
+    "tags": ["nature ordinaire", "biodiversité"]
+  },
+  {
+    "id": "env-043",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Diversité du vivant, appréhendée à trois niveaux : génétique, spécifique (des espèces) et écosystémique.",
+    "choices": ["Biomasse", "Biodiversité", "Biocénose", "Biome"],
+    "answer": 1,
+    "explanation": "Le terme, contraction de « biological diversity », est popularisé par le biologiste Edward O. Wilson à la fin des années 1980, puis consacré par la Convention sur la diversité biologique (Rio, 1992). Son érosion est suivie depuis 2012 par l'IPBES, souvent présentée comme le « GIEC de la biodiversité ».",
+    "tags": ["biodiversité", "notions"]
+  },
+  {
+    "id": "env-044",
+    "theme": "environnements",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Système couplé associant un écosystème et les sociétés qui l'exploitent, le gèrent et le transforment, étudiés dans leurs interactions et rétroactions.",
+    "choices": ["Géosystème", "Écoumène", "Territoire", "Socio-écosystème"],
+    "answer": 3,
+    "explanation": "Elinor Ostrom (prix Nobel d'économie 2009) a proposé un cadre d'analyse des socio-écosystèmes pour étudier la gestion durable des ressources communes. La notion sert de base à l'interdisciplinarité et aux « zones ateliers » de recherche en France.",
+    "tags": ["socio-écosystème", "approche systémique"]
+  },
+  {
+    "id": "env-045",
+    "theme": "environnements",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces étapes de la gouvernance internationale de l'environnement dans l'ordre chronologique.",
+    "events": [
+      { "label": "Accord de Paris (COP21)", "year": 2015 },
+      { "label": "Conférence de Stockholm sur l'environnement humain", "year": 1972 },
+      { "label": "Protocole de Kyoto", "year": 1997 },
+      { "label": "Création du GIEC par l'OMM et le PNUE", "year": 1988 },
+      { "label": "Sommet de la Terre de Rio", "year": 1992 }
+    ],
+    "explanation": "Stockholm donne naissance au PNUE ; le GIEC synthétise les connaissances sur le climat ; Rio crée la CCNUCC, dont Kyoto (objectifs contraignants pour les pays industrialisés) et Paris (engagements de tous les États) sont des déclinaisons.",
+    "tags": ["gouvernance", "climat"]
+  },
+  {
+    "id": "env-046",
+    "theme": "environnements",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces catastrophes industrielles et technologiques dans l'ordre chronologique.",
+    "events": [
+      { "label": "Explosion de l'usine AZF à Toulouse", "year": 2001 },
+      { "label": "Fuite de gaz toxique de l'usine Union Carbide à Bhopal", "year": 1984 },
+      { "label": "Incendie de l'usine Lubrizol à Rouen", "year": 2019 },
+      { "label": "Accident nucléaire de Tchernobyl", "year": 1986 },
+      { "label": "Accident nucléaire de Fukushima Daiichi", "year": 2011 }
+    ],
+    "explanation": "Bhopal (isocyanate de méthyle) reste la pire catastrophe industrielle de l'histoire. AZF (31 morts) a conduit à la loi de 2003 créant les PPRT ; Fukushima montre l'enchaînement d'aléas naturels (séisme, tsunami) et technologiques, dit « natech ».",
+    "tags": ["risques technologiques", "études de cas"]
+  },
+  {
+    "id": "env-047",
+    "theme": "environnements",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces jalons de la protection des espaces naturels dans l'ordre chronologique.",
+    "events": [
+      { "label": "Création du Conservatoire du littoral", "year": 1975 },
+      { "label": "Création du parc national de Yellowstone", "year": 1872 },
+      { "label": "Directive européenne « Habitats »", "year": 1992 },
+      { "label": "Création du parc national de la Vanoise", "year": 1963 },
+      { "label": "Loi littoral", "year": 1986 }
+    ],
+    "explanation": "On passe d'une logique de sanctuaires (Yellowstone, premier parc national au monde) à une protection foncière (Conservatoire), réglementaire (loi littoral) puis en réseau (Natura 2000), qui intègre davantage les activités humaines.",
+    "tags": ["aires protégées", "politiques environnementales"]
+  },
+  {
+    "id": "env-048",
+    "theme": "environnements",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces notions selon la date de leur proposition ou de leur diffusion.",
+    "events": [
+      { "label": "« Anthropocène » (Crutzen et Stoermer)", "year": 2000 },
+      { "label": "« Écosystème » (Tansley)", "year": 1935 },
+      { "label": "« Limites planétaires » (Rockström et al.)", "year": 2009 },
+      { "label": "« Géosystème » (Bertrand)", "year": 1968 },
+      { "label": "Définition du développement durable (rapport Brundtland)", "year": 1987 }
+    ],
+    "explanation": "Cette chronologie montre le passage d'outils d'analyse des milieux (écosystème, géosystème) à des notions normatives et globales (développement durable, anthropocène, limites planétaires) qui pensent l'humanité comme force planétaire.",
+    "tags": ["notions", "épistémologie"]
+  },
+  {
+    "id": "env-049",
+    "theme": "environnements",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces ouvrages qui ont marqué la pensée des rapports sociétés-milieux dans l'ordre chronologique de publication.",
+    "events": [
+      { "label": "Philippe Descola, « Par-delà nature et culture »", "year": 2005 },
+      { "label": "Paul Vidal de La Blache, « Tableau de la géographie de la France »", "year": 1903 },
+      { "label": "Élisée Reclus, « La Terre » (premier volume)", "year": 1868 },
+      { "label": "Augustin Berque, « Écoumène »", "year": 2000 },
+      { "label": "Lucien Febvre, « La Terre et l'évolution humaine »", "year": 1922 }
+    ],
+    "explanation": "Le « Tableau » ouvre l'« Histoire de France » de Lavisse et illustre l'approche régionale vidalienne. Febvre y forge le terme de possibilisme ; Berque et Descola renouvellent ensuite la réflexion en dépassant le dualisme nature/culture.",
+    "tags": ["épistémologie", "auteurs"]
+  },
+  {
+    "id": "env-050",
+    "theme": "environnements",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces jalons de la gestion des risques en Europe et en France dans l'ordre chronologique.",
+    "events": [
+      { "label": "Loi Barnier créant les plans de prévention des risques naturels (PPRN)", "year": 1995 },
+      { "label": "Catastrophe de Seveso (nuage de dioxine en Italie)", "year": 1976 },
+      { "label": "Tempête Xynthia", "year": 2010 },
+      { "label": "Première directive européenne « Seveso »", "year": 1982 },
+      { "label": "Loi créant les plans de prévention des risques technologiques (PPRT)", "year": 2003 }
+    ],
+    "explanation": "La directive Seveso, révisée en 1996 (Seveso II) et 2012 (Seveso III), classe les sites industriels selon les dangers. Les PPR traduisent le risque en zonage réglementaire de l'urbanisme ; la loi de 2003, dite loi Bachelot, fait suite à AZF.",
+    "tags": ["risques", "réglementation", "PPR"]
+  }
+]

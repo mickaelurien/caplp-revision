@@ -1,0 +1,575 @@
+[
+  {
+    "id": "col-001",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel homme d'État a convoqué la conférence de Berlin (novembre 1884 - février 1885) ?",
+    "choices": ["Jules Ferry", "Léopold II", "Otto von Bismarck", "Lord Salisbury"],
+    "answer": 2,
+    "explanation": "Bismarck réunit quatorze puissances à Berlin du 15 novembre 1884 au 26 février 1885. L'Acte général proclame la liberté de navigation sur le Congo et le Niger et pose le principe de l'occupation effective des côtes, ce qui accélère la « course au clocher ».",
+    "tags": ["conférence de Berlin", "partage de l'Afrique"]
+  },
+  {
+    "id": "col-002",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel principe l'Acte général de la conférence de Berlin (1885) retient-il pour la validité d'une prise de possession sur les côtes africaines ?",
+    "choices": ["L'occupation effective et la notification aux autres puissances", "L'accord préalable du sultan de Zanzibar", "Le partage des territoires selon les bassins fluviaux uniquement", "Le vote des populations concernées"],
+    "answer": 0,
+    "explanation": "L'Acte de Berlin impose que toute nouvelle prise de possession côtière soit notifiée aux autres signataires et assortie d'une autorité effective. Contrairement à une idée répandue, la conférence ne trace pas elle-même les frontières de l'Afrique : celles-ci résultent d'accords bilatéraux ultérieurs.",
+    "tags": ["conférence de Berlin"]
+  },
+  {
+    "id": "col-003",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel traité établit le protectorat français sur la Tunisie en 1881 ?",
+    "choices": ["Le traité de Fès", "Le traité du Bardo", "Le traité de Tafna", "Le traité de Lalla Maghnia"],
+    "answer": 1,
+    "explanation": "Le traité du Bardo (12 mai 1881) est imposé au bey Muhammad al-Sadiq après une intervention militaire justifiée par des incursions de Kroumirs. Les conventions de La Marsa (8 juin 1883) renforcent le contrôle français en confiant l'administration intérieure au résident général.",
+    "tags": ["Tunisie", "protectorat"]
+  },
+  {
+    "id": "col-004",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui fut le premier résident général de France au Maroc après le traité de Fès (1912) ?",
+    "choices": ["Joseph Gallieni", "Louis Faidherbe", "Thomas Robert Bugeaud", "Hubert Lyautey"],
+    "answer": 3,
+    "explanation": "Lyautey est résident général de 1912 à 1925. Il théorise une « politique des égards » qui maintient les institutions du sultanat (le Makhzen) et sépare villes nouvelles européennes et médinas.",
+    "tags": ["Maroc", "protectorat", "Lyautey"]
+  },
+  {
+    "id": "col-005",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lors de la crise de Fachoda (1898), quel officier français se trouve face aux troupes de Kitchener sur le Nil ?",
+    "choices": ["Le capitaine Marchand", "Le colonel Dodds", "Le commandant Lamy", "Le lieutenant Mizon"],
+    "answer": 0,
+    "explanation": "La mission Congo-Nil de Jean-Baptiste Marchand atteint Fachoda en juillet 1898. La France, sous la pression britannique, ordonne le retrait ; l'accord franco-britannique de mars 1899 délimite les zones d'influence et prépare le rapprochement de l'Entente cordiale (1904).",
+    "tags": ["Fachoda", "rivalités impériales"]
+  },
+  {
+    "id": "col-006",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Où Samory Touré, capturé en 1898, est-il déporté par les autorités françaises ?",
+    "choices": ["En Martinique", "À Madagascar", "Au Gabon", "En Algérie"],
+    "answer": 2,
+    "explanation": "Fondateur d'un vaste empire mandingue (le Wassoulou), Samory résiste aux Français pendant près de vingt ans. Capturé en septembre 1898, il est exilé au Gabon où il meurt en 1900.",
+    "tags": ["résistances", "Soudan", "Samory"]
+  },
+  {
+    "id": "col-007",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel roi du Dahomey s'oppose à la conquête française menée par le colonel Dodds (1892-1894) ?",
+    "choices": ["Glèlè", "Béhanzin", "Toffa", "Ahmadou"],
+    "answer": 1,
+    "explanation": "Béhanzin, roi d'Abomey depuis 1889, résiste à l'expédition d'Alfred Dodds avant de se rendre en janvier 1894. Il est exilé en Martinique puis en Algérie, où il meurt en 1906.",
+    "tags": ["Dahomey", "résistances"]
+  },
+  {
+    "id": "col-008",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle fut la capitale de l'Afrique-Équatoriale française (AEF) créée en 1910 ?",
+    "choices": ["Libreville", "Fort-Lamy", "Bangui", "Brazzaville"],
+    "answer": 3,
+    "explanation": "L'AEF regroupe le Gabon, le Moyen-Congo et l'Oubangui-Chari-Tchad (le Tchad devient une colonie distincte en 1920), sous l'autorité d'un gouverneur général installé à Brazzaville. La ville doit son nom à Pierre Savorgnan de Brazza, qui signe en 1880 un traité avec le Makoko des Batéké.",
+    "tags": ["AEF", "organisation"]
+  },
+  {
+    "id": "col-009",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "En 1902, la capitale de l'Afrique-Occidentale française (AOF) est transférée de Saint-Louis vers :",
+    "choices": ["Dakar", "Bamako", "Conakry", "Abidjan"],
+    "answer": 0,
+    "explanation": "L'AOF est créée par décret en 1895 ; le gouvernement général s'installe à Dakar à partir de 1902. La fédération atteint huit colonies, de la Mauritanie au Dahomey, placées sous un gouverneur général.",
+    "tags": ["AOF", "organisation"]
+  },
+  {
+    "id": "col-010",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel gouverneur général, nommé à Madagascar en 1896, mène la « pacification » de l'île et exile la reine Ranavalona III ?",
+    "choices": ["Hubert Lyautey", "Joseph Gallieni", "Louis Archinard", "Émile Gentil"],
+    "answer": 1,
+    "explanation": "Après l'expédition de 1895 et l'annexion de 1896, Gallieni (gouverneur général 1896-1905) abolit la monarchie merina et exile Ranavalona III en 1897. Il applique la « méthode de la tache d'huile », combinant action militaire et administration, avec Lyautey comme adjoint.",
+    "tags": ["Madagascar", "Gallieni"]
+  },
+  {
+    "id": "col-011",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui est l'auteur de « Voyage au Congo » (1927), qui dénonce les abus des compagnies concessionnaires en AEF ?",
+    "choices": ["Albert Londres", "René Maran", "André Gide", "Louis-Ferdinand Céline"],
+    "answer": 2,
+    "explanation": "Le récit de Gide, suivi du « Retour du Tchad » (1928), provoque un débat parlementaire sur les concessions. Albert Londres dénonce de son côté le travail forcé sur le chantier du Congo-Océan dans « Terre d'ébène » (1929).",
+    "tags": ["critiques", "AEF", "compagnies concessionnaires"]
+  },
+  {
+    "id": "col-012",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle voie ferrée, construite de 1921 à 1934 au prix de très nombreux morts parmi les travailleurs africains, relie Brazzaville à l'océan ?",
+    "choices": ["Le Dakar-Niger", "Le Congo-Océan", "Le Conakry-Niger", "Le Transsaharien"],
+    "answer": 1,
+    "explanation": "Le Congo-Océan relie Brazzaville à Pointe-Noire. Le recrutement forcé de travailleurs venus de toute l'AEF et les conditions de travail dans le massif du Mayombe causent des milliers de morts, dénoncés notamment par Albert Londres.",
+    "tags": ["travail forcé", "AEF"]
+  },
+  {
+    "id": "col-013",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel gouverneur, en poste au Tchad, rallie la colonie à la France libre dès le 26 août 1940 ?",
+    "choices": ["Pierre Boisson", "Félix Éboué", "Edgard de Larminat", "René Pleven"],
+    "answer": 1,
+    "explanation": "Félix Éboué, administrateur guyanais, fait du Tchad le premier territoire de l'Empire à rejoindre de Gaulle. L'AEF bascule ensuite et Brazzaville devient la capitale de la France libre, tandis que l'AOF de Pierre Boisson reste fidèle à Vichy jusqu'en novembre 1942.",
+    "tags": ["Seconde Guerre mondiale", "France libre"]
+  },
+  {
+    "id": "col-014",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quelle position la conférence de Brazzaville (janvier-février 1944) adopte-t-elle sur l'avenir des colonies ?",
+    "choices": ["Elle prévoit l'indépendance des colonies dans un délai de dix ans", "Elle écarte toute idée d'autonomie et toute évolution hors du bloc français de l'Empire, même lointaine", "Elle accorde immédiatement la citoyenneté française à tous les colonisés", "Elle transfère la gestion des colonies à l'ONU"],
+    "answer": 1,
+    "explanation": "La recommandation finale écarte « toute idée d'autonomie, toute possibilité d'évolution hors du bloc français », la constitution de self-governments étant à écarter « même lointaine ». La conférence propose néanmoins des réformes : suppression progressive de l'indigénat et du travail forcé, représentation politique accrue.",
+    "tags": ["Brazzaville 1944", "décolonisation"]
+  },
+  {
+    "id": "col-015",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel mouvement politique interterritorial est fondé à Bamako en octobre 1946, avec Félix Houphouët-Boigny pour président ?",
+    "choices": ["Le Rassemblement démocratique africain (RDA)", "L'Union des populations du Cameroun (UPC)", "Le Parti du regroupement africain (PRA)", "Le Bloc démocratique sénégalais (BDS)"],
+    "answer": 0,
+    "explanation": "Le RDA fédère des partis de toute l'AOF et de l'AEF ; d'abord apparenté au groupe communiste à l'Assemblée, il rompt avec le PCF en 1950 sous l'impulsion d'Houphouët-Boigny. Le BDS est fondé par Senghor en 1948.",
+    "tags": ["RDA", "décolonisation"]
+  },
+  {
+    "id": "col-016",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel territoire africain vote « non » au référendum constitutionnel du 28 septembre 1958 et devient indépendant le 2 octobre 1958 ?",
+    "choices": ["Le Mali", "Le Sénégal", "La Côte d'Ivoire", "La Guinée"],
+    "answer": 3,
+    "explanation": "Sous la conduite de Sékou Touré (« Nous préférons la pauvreté dans la liberté à la richesse dans l'esclavage »), la Guinée rejette la Communauté française. La France retire brutalement son administration et son aide.",
+    "tags": ["Guinée", "Communauté française", "1958"]
+  },
+  {
+    "id": "col-017",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel est l'apport principal du congrès de la Soummam (20 août 1956) pour le FLN ?",
+    "choices": ["Il proclame le Gouvernement provisoire de la République algérienne (GPRA)", "Il décide le déclenchement de l'insurrection du 1er novembre", "Il affirme la primauté du politique sur le militaire et de l'intérieur sur l'extérieur", "Il accepte le principe d'une association avec la France"],
+    "answer": 2,
+    "explanation": "Inspiré par Abane Ramdane, le congrès tenu en Kabylie structure le FLN-ALN (wilayas, CNRA, CCE). Le GPRA, lui, n'est proclamé qu'en septembre 1958 au Caire.",
+    "tags": ["guerre d'Algérie", "FLN"]
+  },
+  {
+    "id": "col-018",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lequel de ces généraux ne fait PAS partie du « quarteron » du putsch d'Alger d'avril 1961 ?",
+    "choices": ["Maurice Challe", "Raoul Salan", "André Zeller", "Jacques Massu"],
+    "answer": 3,
+    "explanation": "Le putsch des 21-22 avril 1961 est mené par Challe, Jouhaud, Zeller et Salan. Massu, rappelé en métropole après ses déclarations de janvier 1960 (à l'origine de la semaine des barricades), n'y participe pas.",
+    "tags": ["guerre d'Algérie", "putsch"]
+  },
+  {
+    "id": "col-019",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel ouvrage de Raphaëlle Branche (2001) a renouvelé l'histoire de la guerre d'Algérie ?",
+    "choices": ["La torture et l'armée pendant la guerre d'Algérie", "La gangrène et l'oubli", "L'idée coloniale en France", "Les Algériens musulmans et la France"],
+    "answer": 0,
+    "explanation": "Issu de sa thèse, l'ouvrage montre que la torture fut une pratique systémique et tolérée par la hiérarchie. « La gangrène et l'oubli » (1991) est de Benjamin Stora, « L'idée coloniale en France » (1972) de Raoul Girardet, « Les Algériens musulmans et la France » (1968) de Charles-Robert Ageron.",
+    "tags": ["historiographie", "guerre d'Algérie"]
+  },
+  {
+    "id": "col-020",
+    "theme": "colonial",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Catherine Coquery-Vidrovitch a consacré sa thèse (publiée en 1972) à :",
+    "choices": ["La guerre d'Algérie et la mémoire des pieds-noirs", "Le Congo au temps des grandes compagnies concessionnaires (1898-1930)", "L'Exposition coloniale de 1931", "Les tirailleurs sénégalais pendant la Grande Guerre"],
+    "answer": 1,
+    "explanation": "Cette étude d'histoire économique montre le fonctionnement prédateur du régime concessionnaire en AEF, où une quarantaine de sociétés reçoivent en 1899 des monopoles sur d'immenses territoires. Coquery-Vidrovitch est une figure majeure de l'africanisme historique français.",
+    "tags": ["historiographie", "compagnies concessionnaires"]
+  },
+  {
+    "id": "col-021",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le ministère des Colonies est créé comme ministère de plein exercice en 1894.",
+    "answer": true,
+    "explanation": "Les colonies dépendaient auparavant du ministère de la Marine, puis d'un sous-secrétariat d'État souvent rattaché au Commerce. L'Algérie, considérée comme partie du territoire national, relève du ministère de l'Intérieur et non du ministère des Colonies.",
+    "tags": ["organisation"]
+  },
+  {
+    "id": "col-022",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "L'Algérie a été divisée en départements français (Alger, Oran, Constantine) dès 1848.",
+    "answer": true,
+    "explanation": "La constitution de la IIe République proclame l'Algérie territoire français et crée trois départements. Ce statut la distingue juridiquement des colonies et des protectorats, tout en coexistant avec un gouverneur général et un régime d'exception pour les « indigènes ».",
+    "tags": ["Algérie", "organisation"]
+  },
+  {
+    "id": "col-023",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le décret Crémieux de 1870 accorde la citoyenneté française à l'ensemble des musulmans d'Algérie.",
+    "answer": false,
+    "explanation": "Le décret Crémieux (24 octobre 1870) naturalise collectivement les Juifs d'Algérie. Les musulmans restent sujets français régis par le sénatus-consulte de 1865, qui ne permet qu'une naturalisation individuelle au prix de la renonciation au statut personnel.",
+    "tags": ["Algérie", "citoyenneté"]
+  },
+  {
+    "id": "col-024",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le sénatus-consulte de 1865 fait des musulmans d'Algérie des sujets français, qui peuvent devenir citoyens à titre individuel s'ils renoncent à leur statut personnel coranique.",
+    "answer": true,
+    "explanation": "Adopté sous Napoléon III (14 juillet 1865), ce texte dissocie nationalité et citoyenneté. Les naturalisations demeurent très rares, la renonciation au statut personnel étant perçue comme une apostasie.",
+    "tags": ["Algérie", "citoyenneté"]
+  },
+  {
+    "id": "col-025",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le corps des tirailleurs sénégalais est créé en 1857 à l'initiative du gouverneur Faidherbe.",
+    "answer": true,
+    "explanation": "Le décret impérial du 21 juillet 1857 crée ce corps d'infanterie recruté en Afrique de l'Ouest bien au-delà du seul Sénégal. Environ 200 000 « tirailleurs sénégalais » sont mobilisés pendant la Première Guerre mondiale.",
+    "tags": ["tirailleurs", "armée"]
+  },
+  {
+    "id": "col-026",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Blaise Diagne, élu en 1914, est le premier Africain noir élu député à la Chambre des députés.",
+    "answer": true,
+    "explanation": "Élu par les citoyens des quatre communes du Sénégal, Diagne fait voter les lois de 1915-1916 confirmant la citoyenneté des « originaires ». En 1918, nommé commissaire de la République, il organise une vaste campagne de recrutement en AOF.",
+    "tags": ["quatre communes", "Blaise Diagne"]
+  },
+  {
+    "id": "col-027",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "La loi Houphouët-Boigny de 1946 supprime le code de l'indigénat dans les colonies françaises.",
+    "answer": false,
+    "explanation": "La loi Houphouët-Boigny du 11 avril 1946 abolit le travail forcé. L'indigénat est supprimé par des décrets de décembre 1945 et février 1946, et la loi Lamine Guèye du 7 mai 1946 étend la citoyenneté à tous les ressortissants des territoires d'outre-mer.",
+    "tags": ["travail forcé", "indigénat", "1946"]
+  },
+  {
+    "id": "col-028",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "L'Exposition coloniale internationale de 1931 s'est tenue au bois de Boulogne, sous la direction du maréchal Gallieni.",
+    "answer": false,
+    "explanation": "L'Exposition de 1931 se tient au bois de Vincennes et son commissaire général est le maréchal Lyautey (Gallieni est mort en 1916). Elle attire plusieurs millions de visiteurs, tandis que les surréalistes et le PCF organisent une contre-exposition, « La vérité sur les colonies ».",
+    "tags": ["Exposition coloniale", "propagande"]
+  },
+  {
+    "id": "col-029",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Lors du débat de juillet 1885, Clemenceau soutient la politique coloniale de Jules Ferry au nom du devoir des « races supérieures ».",
+    "answer": false,
+    "explanation": "C'est Ferry qui, le 28 juillet 1885, invoque le « devoir de civiliser les races inférieures ». Clemenceau lui répond en récusant cette hiérarchie des races et en dénonçant une politique coûteuse qui détourne la France de la question de l'Alsace-Lorraine.",
+    "tags": ["Jules Ferry", "Clemenceau", "débat colonial"]
+  },
+  {
+    "id": "col-030",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le massacre de Thiaroye, près de Dakar, a lieu le 1er décembre 1944 : des tirailleurs rapatriés réclamant leurs soldes sont tués par l'armée française.",
+    "answer": true,
+    "explanation": "Les anciens prisonniers de guerre réclamaient le paiement de leurs arriérés de solde et primes. Le bilan officiel de 35 morts est aujourd'hui considéré comme sous-évalué par les historiens.",
+    "tags": ["tirailleurs", "Seconde Guerre mondiale", "Thiaroye"]
+  },
+  {
+    "id": "col-031",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "L'insurrection malgache éclate en mars 1949, peu après l'indépendance de l'Inde.",
+    "answer": false,
+    "explanation": "L'insurrection débute dans la nuit du 29 au 30 mars 1947. Sa répression fait des dizaines de milliers de morts ; les députés du MDRM (Raseta, Ravoahangy, Rabemananjara) sont arrêtés et condamnés.",
+    "tags": ["Madagascar", "décolonisation"]
+  },
+  {
+    "id": "col-032",
+    "theme": "colonial",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Ruben Um Nyobè, dirigeant de l'Union des populations du Cameroun (UPC), est tué par l'armée française en septembre 1958, avant l'indépendance du Cameroun.",
+    "answer": true,
+    "explanation": "L'UPC, interdite en 1955, mène une lutte armée en Sanaga-Maritime ; Um Nyobè est abattu le 13 septembre 1958. Le Cameroun, territoire sous tutelle de l'ONU, accède à l'indépendance le 1er janvier 1960 sous Ahmadou Ahidjo, la guerre contre l'UPC se poursuivant ensuite.",
+    "tags": ["Cameroun", "UPC", "décolonisation"]
+  },
+  {
+    "id": "col-033",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Régime juridique d'exception appliqué aux colonisés non citoyens, permettant à l'administration d'infliger sans jugement des sanctions (amendes, internement) pour des infractions spécifiques ; codifié en Algérie en 1881 puis étendu aux autres colonies.",
+    "choices": ["Le régime de l'indigénat", "Le sénatus-consulte", "Le code noir", "Le statut personnel"],
+    "answer": 0,
+    "explanation": "La loi du 28 juin 1881 fixe en Algérie une liste d'infractions propres aux « indigènes » ; le régime est étendu au Sénégal en 1887 puis à l'ensemble de l'Afrique française. Il est supprimé en 1946.",
+    "tags": ["indigénat"]
+  },
+  {
+    "id": "col-034",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Forme de domination dans laquelle l'État colonisé conserve ses souverains et institutions, mais où la puissance protectrice contrôle la politique extérieure et, en pratique, l'administration via un résident général.",
+    "choices": ["Colonie d'exploitation", "Département", "Protectorat", "Mandat"],
+    "answer": 2,
+    "explanation": "La Tunisie (1881) et le Maroc (1912) sont des protectorats, relevant du ministère des Affaires étrangères. Ce statut facilite des indépendances négociées en 1956, contrairement à l'Algérie départementalisée.",
+    "tags": ["protectorat", "organisation"]
+  },
+  {
+    "id": "col-035",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Terme désignant, dans l'Afrique coloniale française, les Africains ayant reçu une instruction occidentale et exerçant souvent des fonctions d'intermédiaires (instituteurs, commis, interprètes), revendiquant l'égalité des droits.",
+    "choices": ["Les originaires", "Les évolués", "Les assimilés", "Les auxiliaires"],
+    "answer": 1,
+    "explanation": "Les « évolués » forment une élite issue notamment de l'École normale William-Ponty de Gorée. Beaucoup deviennent les dirigeants politiques des années 1940-1950, comme Houphouët-Boigny, médecin africain formé à Dakar.",
+    "tags": ["sociétés coloniales", "élites"]
+  },
+  {
+    "id": "col-036",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Ensemble des groupes de pression, comités, sociétés de géographie et élus (autour d'Eugène Étienne) qui militent sous la IIIe République pour l'expansion coloniale.",
+    "choices": ["L'Union coloniale française", "Le « parti colonial »", "Le Comité de l'Afrique française", "Le groupe de Brazzaville"],
+    "answer": 1,
+    "explanation": "Le « parti colonial » n'est pas un parti au sens strict mais une nébuleuse : groupe colonial de la Chambre (1892), Comité de l'Afrique française (1890), Union coloniale (1893). Il pèse sur les décisions d'expansion, comme l'ont montré Charles-Robert Ageron et Raoul Girardet.",
+    "tags": ["parti colonial", "métropole"]
+  },
+  {
+    "id": "col-037",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Concept forgé par le sociologue Georges Balandier en 1951 pour analyser la colonisation comme une totalité sociale fondée sur la domination d'une minorité étrangère sur une majorité autochtone.",
+    "choices": ["Le choc des civilisations", "La mission civilisatrice", "L'indirect rule", "La situation coloniale"],
+    "answer": 3,
+    "explanation": "L'article « La situation coloniale : approche théorique » paraît dans les Cahiers internationaux de sociologie. Il invite à étudier ensemble colonisateurs et colonisés, dans leurs rapports de domination économique, politique, raciale et culturelle.",
+    "tags": ["historiographie", "Balandier"]
+  },
+  {
+    "id": "col-038",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Idéologie justifiant la colonisation par le devoir supposé des nations européennes d'apporter « progrès », instruction et civilisation aux peuples colonisés.",
+    "choices": ["La mission civilisatrice", "Le darwinisme social", "L'assimilation", "Le panafricanisme"],
+    "answer": 0,
+    "explanation": "Formulée notamment par Jules Ferry en 1885, elle est relayée par l'école, la presse et les expositions. Aimé Césaire la démonte dans le « Discours sur le colonialisme » (1950) : « colonisation = chosification ».",
+    "tags": ["idéologie", "mission civilisatrice"]
+  },
+  {
+    "id": "col-039",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Expression désignant la phase de compétition accélérée entre puissances européennes pour occuper l'intérieur de l'Afrique dans les années 1880-1890, chacune cherchant à planter son drapeau avant les autres.",
+    "choices": ["La guerre des comptoirs", "Le Grand Jeu", "La course au clocher", "La politique de la canonnière"],
+    "answer": 2,
+    "explanation": "En anglais « Scramble for Africa ». En 1914, seuls le Liberia et l'Éthiopie (victorieuse de l'Italie à Adoua en 1896) échappent à la domination européenne.",
+    "tags": ["partage de l'Afrique"]
+  },
+  {
+    "id": "col-040",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Loi de 1956 accordant le suffrage universel et le collège unique dans les territoires d'outre-mer et dotant chacun d'une assemblée territoriale aux pouvoirs élargis et d'un conseil de gouvernement.",
+    "choices": ["La loi Lamine Guèye", "Le statut de l'Algérie", "La loi Houphouët-Boigny", "La loi-cadre Defferre"],
+    "answer": 3,
+    "explanation": "Votée le 23 juin 1956 sous le gouvernement Guy Mollet, la loi-cadre préparée par Gaston Defferre et Félix Houphouët-Boigny « territorialise » l'évolution politique. Senghor lui reprocha de « balkaniser » l'Afrique en affaiblissant les fédérations AOF et AEF.",
+    "tags": ["loi-cadre", "décolonisation"]
+  },
+  {
+    "id": "col-041",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Nom donné aux supplétifs musulmans algériens engagés aux côtés de l'armée française pendant la guerre d'Algérie, dont beaucoup furent victimes de représailles après 1962.",
+    "choices": ["Les spahis", "Les harkis", "Les goumiers", "Les zouaves"],
+    "answer": 1,
+    "explanation": "Plusieurs dizaines de milliers de harkis servent simultanément au plus fort du conflit. Les accords d'Évian ne les protègent pas efficacement : plusieurs milliers à plusieurs dizaines de milliers d'entre eux, selon des estimations très discutées, sont tués en Algérie, tandis que ceux qui gagnent la France sont souvent relégués dans des camps.",
+    "tags": ["guerre d'Algérie", "harkis"]
+  },
+  {
+    "id": "col-042",
+    "theme": "colonial",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Ensemble institutionnel créé par la Constitution du 27 octobre 1946, réunissant la République française (métropole, départements et territoires d'outre-mer) et les territoires et États associés.",
+    "choices": ["L'Union française", "La Communauté française", "La Françafrique", "L'Empire français"],
+    "answer": 0,
+    "explanation": "L'Union française remplace la notion d'Empire, avec une Assemblée de l'Union aux pouvoirs consultatifs. Elle est remplacée par la Communauté française dans la Constitution de 1958.",
+    "tags": ["Union française", "1946"]
+  },
+  {
+    "id": "col-043",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces étapes de la conquête et de l'organisation de l'Afrique française dans l'ordre chronologique.",
+    "events": [
+      { "label": "Traité du Bardo (protectorat sur la Tunisie)", "year": 1881 },
+      { "label": "Création de l'AOF", "year": 1895 },
+      { "label": "Crise de Fachoda", "year": 1898 },
+      { "label": "Création de l'AEF", "year": 1910 },
+      { "label": "Traité de Fès (protectorat sur le Maroc)", "year": 1912 }
+    ],
+    "explanation": "En trois décennies, la France constitue le second empire colonial du monde, principalement en Afrique. Le Maroc est la dernière grande acquisition, après le règlement des crises franco-allemandes de 1905 et 1911.",
+    "tags": ["conquête", "organisation"]
+  },
+  {
+    "id": "col-044",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces jalons de la société et du droit coloniaux en Algérie dans l'ordre chronologique.",
+    "events": [
+      { "label": "Création des trois départements algériens", "year": 1848 },
+      { "label": "Sénatus-consulte sur le statut des indigènes", "year": 1865 },
+      { "label": "Décret Crémieux", "year": 1870 },
+      { "label": "Loi instituant le code de l'indigénat en Algérie", "year": 1881 }
+    ],
+    "explanation": "Ces textes fondent une société hiérarchisée entre citoyens (colons européens, Juifs naturalisés en 1870) et sujets musulmans. L'insurrection de Mokrani (1871) suit de peu le décret Crémieux et entraîne de vastes séquestres de terres.",
+    "tags": ["Algérie", "citoyenneté"]
+  },
+  {
+    "id": "col-045",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces événements liés à l'Empire pendant et après la Seconde Guerre mondiale.",
+    "events": [
+      { "label": "Ralliement du Tchad à la France libre", "year": 1940 },
+      { "label": "Conférence de Brazzaville", "year": 1944 },
+      { "label": "Massacres de Sétif, Guelma et Kherrata", "year": 1945 },
+      { "label": "Insurrection malgache", "year": 1947 }
+    ],
+    "explanation": "L'Empire est un enjeu central de la légitimité de la France libre. Sétif (8 mai 1945) et Madagascar (1947) montrent que la France répond d'abord par la répression aux revendications nationalistes.",
+    "tags": ["Seconde Guerre mondiale", "décolonisation"]
+  },
+  {
+    "id": "col-046",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces étapes de l'évolution institutionnelle de l'Afrique française dans l'ordre chronologique.",
+    "events": [
+      { "label": "Constitution créant l'Union française", "year": 1946 },
+      { "label": "Indépendances du Maroc et de la Tunisie et loi-cadre Defferre", "year": 1956 },
+      { "label": "Référendum créant la Communauté ; « non » de la Guinée", "year": 1958 },
+      { "label": "Indépendance de la plupart des territoires d'Afrique subsaharienne française", "year": 1960 }
+    ],
+    "explanation": "En 1960, quatorze anciennes colonies ou territoires sous tutelle français d'Afrique subsaharienne et de l'océan Indien (Madagascar) deviennent indépendants. La Communauté, prévue par la Constitution de 1958, se vide rapidement de son contenu.",
+    "tags": ["décolonisation", "institutions"]
+  },
+  {
+    "id": "col-047",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces événements de la guerre d'Algérie dans l'ordre chronologique.",
+    "events": [
+      { "label": "« Toussaint rouge »", "year": 1954 },
+      { "label": "Congrès de la Soummam", "year": 1956 },
+      { "label": "Bataille d'Alger", "year": 1957 },
+      { "label": "Crise du 13 mai et retour de De Gaulle", "year": 1958 },
+      { "label": "Discours de De Gaulle sur l'autodétermination", "year": 1959 }
+    ],
+    "explanation": "Le 16 septembre 1959, de Gaulle reconnaît le droit des Algériens à l'autodétermination, rompant avec l'« Algérie française » qu'espéraient les acteurs du 13 mai. Cette évolution provoque la semaine des barricades (janvier 1960).",
+    "tags": ["guerre d'Algérie"]
+  },
+  {
+    "id": "col-048",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces textes de la critique ou de la propagande coloniale dans l'ordre chronologique de leur parution.",
+    "events": [
+      { "label": "« La Force noire » du colonel Mangin", "year": 1910 },
+      { "label": "« Voyage au Congo » d'André Gide", "year": 1927 },
+      { "label": "« Discours sur le colonialisme » d'Aimé Césaire", "year": 1950 },
+      { "label": "« Les Damnés de la terre » de Frantz Fanon", "year": 1961 }
+    ],
+    "explanation": "Mangin plaide pour le recours massif aux soldats africains, idée concrétisée en 1914-1918. Fanon, psychiatre engagé auprès du FLN, publie « Les Damnés de la terre » en 1961 avec une préface de Sartre, peu avant sa mort.",
+    "tags": ["idéologie", "anticolonialisme"]
+  },
+  {
+    "id": "col-049",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces jalons de l'historiographie de la colonisation française dans l'ordre chronologique de publication.",
+    "events": [
+      { "label": "Georges Balandier, « La situation coloniale »", "year": 1951 },
+      { "label": "Charles-Robert Ageron, « Les Algériens musulmans et la France (1871-1919) »", "year": 1968 },
+      { "label": "Raoul Girardet, « L'idée coloniale en France de 1871 à 1962 »", "year": 1972 },
+      { "label": "Benjamin Stora, « La gangrène et l'oubli »", "year": 1991 },
+      { "label": "Raphaëlle Branche, « La torture et l'armée pendant la guerre d'Algérie »", "year": 2001 }
+    ],
+    "explanation": "On passe d'une histoire politique et des idées (Ageron, Girardet) à une histoire de la mémoire (Stora) puis de la violence de guerre (Branche). Les années 2000 voient aussi l'essor des études sur les « cultures coloniales » et les zoos humains.",
+    "tags": ["historiographie"]
+  },
+  {
+    "id": "col-050",
+    "theme": "colonial",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces événements liés à la fin de la guerre d'Algérie dans l'ordre chronologique.",
+    "events": [
+      { "label": "Référendum sur l'autodétermination (8 janvier)", "year": 1961 },
+      { "label": "Accords d'Évian (18 mars), cessez-le-feu (19 mars) et indépendance (5 juillet)", "year": 1962 },
+      { "label": "Crise du 13 mai à Alger", "year": 1958 },
+      { "label": "Déclenchement de l'insurrection par le FLN (1er novembre)", "year": 1954 }
+    ],
+    "explanation": "Le 8 avril 1962, les Français de métropole approuvent les accords d'Évian à plus de 90 % ; le 1er juillet, les Algériens votent massivement l'indépendance, proclamée le 5 juillet. L'année 1961 est aussi celle du putsch d'avril, de la naissance de l'OAS et de la répression du 17 octobre à Paris.",
+    "tags": ["guerre d'Algérie", "accords d'Évian"]
+  }
+]

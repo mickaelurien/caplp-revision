@@ -1,0 +1,579 @@
+[
+  {
+    "id": "exp-001",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel cap de la côte atlantique africaine, longtemps réputé infranchissable, est doublé par Gil Eanes en 1434 pour le compte d'Henri le Navigateur ?",
+    "choices": ["Le cap Vert", "Le cap Bojador", "Le cap des Aiguilles", "Le cap Lopez"],
+    "answer": 1,
+    "explanation": "Le franchissement du cap Bojador en 1434 lève un obstacle psychologique majeur (la « mer ténébreuse ») et ouvre la descente méthodique le long des côtes africaines. Henri le Navigateur (1394-1460) organise ces expéditions sans y participer lui-même.",
+    "tags": ["Portugais", "Henri le Navigateur"]
+  },
+  {
+    "id": "exp-002",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel navigateur portugais franchit le premier la pointe sud de l'Afrique en 1488 ?",
+    "choices": ["Vasco de Gama", "Diogo Cão", "Pedro Álvares Cabral", "Bartolomeu Dias"],
+    "answer": 3,
+    "explanation": "Bartolomeu Dias double en 1488 le cap qu'il aurait nommé « cap des Tempêtes », rebaptisé cap de Bonne-Espérance par le roi Jean II, car il ouvre la route maritime vers l'Inde. Diogo Cão avait auparavant exploré l'embouchure du Congo (années 1480).",
+    "tags": ["Portugais", "Dias"]
+  },
+  {
+    "id": "exp-003",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quel port de la côte de Malabar Vasco de Gama aborde-t-il en 1498 ?",
+    "choices": ["Calicut", "Goa", "Cochin", "Ormuz"],
+    "answer": 0,
+    "explanation": "Guidé depuis Malindi par un pilote de l'océan Indien, Gama atteint Calicut, grand marché des épices dominé par le Samorin et les marchands musulmans. L'accueil est mitigé : les produits européens offerts intéressent peu, signe que l'Europe n'a alors guère à vendre à l'Asie.",
+    "tags": ["Portugais", "Vasco de Gama", "océan Indien"]
+  },
+  {
+    "id": "exp-004",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel gouverneur de l'Inde portugaise s'empare de Goa (1510), de Malacca (1511) et d'Ormuz (1515) ?",
+    "choices": ["Francisco de Almeida", "Afonso de Albuquerque", "Tristão da Cunha", "João de Castro"],
+    "answer": 1,
+    "explanation": "Afonso de Albuquerque conçoit un réseau de points d'appui fortifiés contrôlant les verrous de l'océan Indien plutôt qu'une conquête territoriale. Son prédécesseur Francisco de Almeida, premier vice-roi, avait remporté la bataille navale de Diu en 1509.",
+    "tags": ["Portugais", "Estado da Índia", "Albuquerque"]
+  },
+  {
+    "id": "exp-005",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Selon le traité de Tordesillas (1494), où passe la ligne de partage entre les zones castillane et portugaise ?",
+    "choices": ["À 100 lieues à l'ouest des Açores et du Cap-Vert", "Le long de l'équateur", "À 370 lieues à l'ouest des îles du Cap-Vert", "Au méridien des Canaries"],
+    "answer": 2,
+    "explanation": "Le traité, négocié directement entre les deux couronnes, repousse vers l'ouest la ligne de 100 lieues fixée par la bulle Inter caetera d'Alexandre VI (1493). Ce déplacement place une partie de l'actuel Brésil dans la zone portugaise.",
+    "tags": ["Tordesillas", "Espagnols", "Portugais"]
+  },
+  {
+    "id": "exp-006",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel cartographe utilise pour la première fois le nom « America » sur sa carte du monde de 1507 ?",
+    "choices": ["Gerard Mercator", "Martin Waldseemüller", "Abraham Ortelius", "Juan de la Cosa"],
+    "answer": 1,
+    "explanation": "Travaillant à Saint-Dié (Vosges) avec Matthias Ringmann, Waldseemüller publie la Cosmographiae introductio et une grande carte murale nommant le nouveau continent d'après Amerigo Vespucci, qui avait compris qu'il s'agissait d'un « Nouveau Monde ». Le nom n'y désigne alors que l'Amérique du Sud.",
+    "tags": ["cartographie", "Waldseemüller"]
+  },
+  {
+    "id": "exp-007",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle est la propriété principale de la projection publiée par Mercator en 1569 ?",
+    "choices": ["Elle conserve les surfaces", "Elle conserve les distances depuis le centre", "Elle représente les grands cercles par des droites", "Elle conserve les angles, les loxodromies devenant des droites"],
+    "answer": 3,
+    "explanation": "La projection cylindrique conforme de Mercator permet au navigateur de tracer un cap constant (loxodromie) en ligne droite, d'où son succès pour la navigation. En contrepartie, elle exagère fortement les surfaces aux hautes latitudes.",
+    "tags": ["cartographie", "Mercator"]
+  },
+  {
+    "id": "exp-008",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Le « galion de Manille », liaison transpacifique inaugurée après le retour d'Urdaneta en 1565, relie Manille à quel port ?",
+    "choices": ["Callao", "Panamá", "Veracruz", "Acapulco"],
+    "answer": 3,
+    "explanation": "La découverte de la route de retour (tornaviaje) par le nord du Pacifique permet une liaison régulière jusqu'en 1815. L'argent américain y est échangé contre soie et porcelaines chinoises : c'est un pilier de la « mondialisation ibérique ».",
+    "tags": ["Espagnols", "Pacifique", "mondialisation"]
+  },
+  {
+    "id": "exp-009",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle ressource fait la fortune de Potosí, dans les Andes, à partir de 1545 ?",
+    "choices": ["L'or", "L'argent", "Le mercure", "L'émeraude"],
+    "answer": 1,
+    "explanation": "Le Cerro Rico de Potosí (actuelle Bolivie) devient le premier gisement d'argent du monde, exploité grâce à la mita, travail forcé indigène réorganisé par le vice-roi Francisco de Toledo dans les années 1570, et à l'amalgamation au mercure (Huancavelica).",
+    "tags": ["Espagnols", "Potosí", "économie"]
+  },
+  {
+    "id": "exp-010",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lors de la controverse de Valladolid (1550-1551), qui s'oppose à Bartolomé de Las Casas en justifiant la guerre contre les Indiens ?",
+    "choices": ["Juan Ginés de Sepúlveda", "Francisco de Vitoria", "Antonio de Montesinos", "Hernán Cortés"],
+    "answer": 0,
+    "explanation": "Sepúlveda invoque notamment la théorie aristotélicienne de l'esclavage par nature ; Las Casas défend la pleine humanité et la capacité rationnelle des Indiens. La junte ne rend pas de verdict formel, mais le débat nourrit la réflexion sur la légitimité de la conquête.",
+    "tags": ["Espagnols", "Valladolid", "Las Casas"]
+  },
+  {
+    "id": "exp-011",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui fonde Québec en 1608 ?",
+    "choices": ["Jacques Cartier", "Samuel de Champlain", "Robert Cavelier de La Salle", "Louis Jolliet"],
+    "answer": 1,
+    "explanation": "Champlain établit un poste de traite sur le Saint-Laurent, cœur de la future Nouvelle-France, fondée sur le commerce des fourrures et les alliances avec les Wendats (Hurons) et les Innus. La colonie reste longtemps faiblement peuplée.",
+    "tags": ["Français", "Nouvelle-France"]
+  },
+  {
+    "id": "exp-012",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qu'accomplit Robert Cavelier de La Salle en 1682 ?",
+    "choices": ["Il remonte le Saint-Laurent jusqu'à Hochelaga", "Il fonde La Nouvelle-Orléans", "Il descend le Mississippi jusqu'à son embouchure et prend possession de la « Louisiane »", "Il découvre la baie d'Hudson"],
+    "answer": 2,
+    "explanation": "La Salle nomme le bassin du Mississippi « Louisiane » en l'honneur de Louis XIV, revendiquant un immense territoire reliant le Canada au golfe du Mexique. La Nouvelle-Orléans n'est fondée qu'en 1718.",
+    "tags": ["Français", "Louisiane"]
+  },
+  {
+    "id": "exp-013",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel établissement la VOC fonde-t-elle à Java en 1619 pour en faire le centre de son réseau asiatique ?",
+    "choices": ["Batavia", "Malacca", "Bantam", "Colombo"],
+    "answer": 0,
+    "explanation": "Jan Pieterszoon Coen fonde Batavia (actuelle Jakarta) sur le site de Jayakarta. La VOC, créée en 1602, dispose de pouvoirs quasi souverains (traités, guerre, monnaie) et vise le monopole des épices fines.",
+    "tags": ["Hollandais", "VOC"]
+  },
+  {
+    "id": "exp-014",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Lors de son voyage de 1642 pour la VOC, Abel Tasman est le premier Européen connu à atteindre :",
+    "choices": ["Le détroit de Torres et l'Australie du Nord", "Les îles Hawaï", "La Tasmanie et la Nouvelle-Zélande", "Le détroit de Béring"],
+    "answer": 2,
+    "explanation": "Parti de Batavia, Tasman atteint la « terre de Van Diemen » (Tasmanie) puis la Nouvelle-Zélande (décembre 1642), sans voir le continent australien. Il démontre que l'Australie n'est pas reliée à un hypothétique continent austral.",
+    "tags": ["Hollandais", "Pacifique", "Tasman"]
+  },
+  {
+    "id": "exp-015",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel horloger anglais met au point le chronomètre de marine (H4) permettant de déterminer la longitude en mer ?",
+    "choices": ["Christiaan Huygens", "John Harrison", "Ferdinand Berthoud", "Nevil Maskelyne"],
+    "answer": 1,
+    "explanation": "Le Longitude Act de 1714 promettait jusqu'à 20 000 livres à qui résoudrait le problème ; la montre H4 est éprouvée lors d'une traversée vers la Jamaïque en 1761-1762. Maskelyne défendait la méthode concurrente des distances lunaires ; en France, Berthoud et Le Roy développent aussi des horloges marines.",
+    "tags": ["XVIIIe siècle", "longitude", "sciences"]
+  },
+  {
+    "id": "exp-016",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Où James Cook trouve-t-il la mort en 1779, lors de son troisième voyage ?",
+    "choices": ["À Tahiti", "En Nouvelle-Zélande", "En Australie", "À Hawaï"],
+    "answer": 3,
+    "explanation": "Cook est tué dans la baie de Kealakekua (île d'Hawaï) en février 1779. Ses trois voyages (1768-1771, 1772-1775, 1776-1779) ont exploré la côte est de l'Australie, réfuté l'existence d'un grand continent austral habitable et combiné cartographie et observations scientifiques.",
+    "tags": ["XVIIIe siècle", "Cook", "Pacifique"]
+  },
+  {
+    "id": "exp-017",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Sous quelle dynastie l'eunuque Zheng He conduit-il ses sept expéditions maritimes (1405-1433) ?",
+    "choices": ["Song", "Yuan", "Ming", "Qing"],
+    "answer": 2,
+    "explanation": "Lancées par l'empereur Yongle, ces flottes atteignent l'Inde, le golfe Persique et la côte orientale de l'Afrique. Leur arrêt après 1433 rappelle que l'expansion maritime n'était pas un privilège européen et invite à éviter toute lecture téléologique.",
+    "tags": ["autres acteurs", "Chine", "Zheng He"]
+  },
+  {
+    "id": "exp-018",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel historien a publié en 2004 « Les Quatre parties du monde. Histoire d'une mondialisation » ?",
+    "choices": ["Sanjay Subrahmanyam", "Serge Gruzinski", "Pierre Chaunu", "Fernand Braudel"],
+    "answer": 1,
+    "explanation": "Gruzinski y étudie la monarchie catholique (union des couronnes ibériques, 1580-1640) comme premier espace de circulation à l'échelle planétaire, avec ses métissages et ses « passeurs ». Il parle de « mondialisation ibérique ».",
+    "tags": ["historiographie", "Gruzinski"]
+  },
+  {
+    "id": "exp-019",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans le cadre de l'« échange colombien » (Alfred Crosby, 1972), lequel de ces produits a circulé de l'Amérique vers l'Ancien Monde ?",
+    "choices": ["La canne à sucre", "Le blé", "Le maïs", "Le café"],
+    "answer": 2,
+    "explanation": "Maïs, pomme de terre, manioc, tomate ou cacao gagnent l'Europe, l'Afrique et l'Asie, tandis que blé, canne à sucre, chevaux, bovins et microbes (variole, rougeole) passent en Amérique. Crosby insiste sur la dimension biologique, notamment le choc microbien qui décime les populations amérindiennes.",
+    "tags": ["historiographie", "Crosby", "échange colombien"]
+  },
+  {
+    "id": "exp-020",
+    "theme": "expansion",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "À quoi servent principalement l'astrolabe nautique et le quadrant aux XVe-XVIe siècles ?",
+    "choices": ["À mesurer la longitude", "À mesurer la hauteur d'un astre pour déterminer la latitude", "À mesurer la vitesse du navire", "À indiquer le nord magnétique"],
+    "answer": 1,
+    "explanation": "La hauteur du soleil à midi ou de l'étoile Polaire donne la latitude ; la longitude, elle, reste estimée jusqu'au XVIIIe siècle. La vitesse est mesurée au loch, le cap à la boussole, et la position déduite par la navigation à l'estime.",
+    "tags": ["techniques nautiques"]
+  },
+  {
+    "id": "exp-021",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Christophe Colomb a toujours soutenu avoir atteint les confins de l'Asie.",
+    "answer": true,
+    "explanation": "Colomb, qui sous-estimait la circonférence terrestre, a maintenu au fil de ses quatre voyages (1492-1504) avoir atteint les « Indes ». D'où le nom d'« Indiens » donné aux Amérindiens et d'« Indes occidentales » aux Antilles.",
+    "tags": ["Espagnols", "Colomb"]
+  },
+  {
+    "id": "exp-022",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Magellan a personnellement achevé le premier tour du monde en 1522.",
+    "answer": false,
+    "explanation": "Magellan est tué en 1521 à Mactan, aux Philippines. C'est Juan Sebastián Elcano qui ramène la Victoria à Sanlúcar de Barrameda en septembre 1522 avec 18 survivants sur environ 240 hommes partis en 1519.",
+    "tags": ["Espagnols", "Magellan", "Elcano"]
+  },
+  {
+    "id": "exp-023",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Pedro Álvares Cabral atteint les côtes du Brésil en 1500 alors qu'il commande une flotte en route vers l'Inde.",
+    "answer": true,
+    "explanation": "En contournant largement l'Atlantique pour profiter des vents (volta do mar), la flotte de Cabral touche le Brésil en avril 1500 avant de poursuivre vers Calicut. La terre se trouvant à l'est de la ligne de Tordesillas, elle revient au Portugal.",
+    "tags": ["Portugais", "Cabral", "Brésil"]
+  },
+  {
+    "id": "exp-024",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "La bulle Inter caetera d'Alexandre VI (1493) précède le traité de Tordesillas (1494).",
+    "answer": true,
+    "explanation": "Le pape, d'origine valencienne, attribue en 1493 à la Castille les terres situées à l'ouest d'une ligne passant à 100 lieues des Açores et du Cap-Vert. Insatisfait, le Portugal obtient par négociation bilatérale le déplacement de la ligne à 370 lieues en 1494.",
+    "tags": ["Tordesillas", "papauté"]
+  },
+  {
+    "id": "exp-025",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "La boussole est une invention portugaise du XVe siècle.",
+    "answer": false,
+    "explanation": "L'aiguille aimantée est connue en Chine bien avant son usage en Europe, où la boussole est attestée en Méditerranée dès les XIIe-XIIIe siècles. Les Portugais innovent plutôt dans l'usage combiné des instruments, la caravelle et la connaissance du régime des vents.",
+    "tags": ["techniques nautiques"]
+  },
+  {
+    "id": "exp-026",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Lors de son deuxième voyage (1535), Jacques Cartier remonte le Saint-Laurent jusqu'au village iroquoien d'Hochelaga, site de l'actuelle Montréal.",
+    "answer": true,
+    "explanation": "Mandaté par François Ier, Cartier prend possession de la Gaspésie en 1534 puis remonte le fleuve en 1535 ; il hiverne près de Stadaconé (Québec). Son troisième voyage (1541-1542) ne débouche pas sur une colonie durable.",
+    "tags": ["Français", "Cartier"]
+  },
+  {
+    "id": "exp-027",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Jeanne Barret, embarquée sur l'expédition de Bougainville (1766-1769), est considérée comme la première femme à avoir fait le tour du monde.",
+    "answer": true,
+    "explanation": "Assistante du naturaliste Philibert Commerson, elle embarque déguisée en homme. Le voyage de Bougainville, publié en 1771 (Voyage autour du monde), et son escale à Tahiti nourrissent le mythe du « bon sauvage » (Diderot, Supplément au voyage de Bougainville).",
+    "tags": ["XVIIIe siècle", "Bougainville"]
+  },
+  {
+    "id": "exp-028",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "La Compagnie anglaise des Indes orientales (EIC) a été fondée après la VOC néerlandaise.",
+    "answer": false,
+    "explanation": "L'EIC reçoit sa charte d'Élisabeth Ire le 31 décembre 1600, la VOC est créée en 1602. La VOC, beaucoup plus capitalisée, domine toutefois le commerce asiatique au XVIIe siècle, tandis que l'EIC se replie sur l'Inde.",
+    "tags": ["Anglais", "Hollandais", "compagnies"]
+  },
+  {
+    "id": "exp-029",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Les flottes de Zheng He ont atteint la côte orientale de l'Afrique.",
+    "answer": true,
+    "explanation": "Les expéditions touchent notamment Mogadiscio et Malindi ; une girafe est rapportée à la cour de Chine. Ces voyages, diplomatiques et tributaires, montrent l'intensité des circulations dans l'océan Indien avant l'arrivée des Portugais.",
+    "tags": ["autres acteurs", "Zheng He", "océan Indien"]
+  },
+  {
+    "id": "exp-030",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Les Nouvelles Lois de 1542 ont mis fin, dans les faits, au système de l'encomienda.",
+    "answer": false,
+    "explanation": "Les Lois nouvelles, inspirées en partie par Las Casas, interdisent l'esclavage des Indiens et prévoient l'extinction des encomiendas à la mort de leurs titulaires. Face à la révolte des encomenderos (Gonzalo Pizarro au Pérou), la clause successorale est révoquée en 1545 et l'encomienda subsiste longtemps.",
+    "tags": ["Espagnols", "encomienda", "Las Casas"]
+  },
+  {
+    "id": "exp-031",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "L'expression « Grandes Découvertes » fait aujourd'hui consensus chez les historiens comme désignation neutre de la période.",
+    "answer": false,
+    "explanation": "L'expression est critiquée car européocentrée : les terres « découvertes » étaient habitées et souvent déjà reliées entre elles. Les historiens préfèrent parler d'expansion européenne, de « rencontres », de désenclavement ou d'histoire connectée.",
+    "tags": ["historiographie"]
+  },
+  {
+    "id": "exp-032",
+    "theme": "expansion",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La Pérouse est rentré en France en 1788 au terme de son expédition autour du monde.",
+    "answer": false,
+    "explanation": "Parti de Brest en 1785 sur ordre de Louis XVI, La Pérouse disparaît après son escale de Botany Bay (début 1788). Ses frégates ont fait naufrage à Vanikoro (îles Salomon), identifiée par Peter Dillon puis Dumont d'Urville dans les années 1820 ; une partie de ses journaux avait été envoyée en France auparavant.",
+    "tags": ["XVIIIe siècle", "La Pérouse"]
+  },
+  {
+    "id": "exp-033",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Institution de l'Amérique espagnole par laquelle un groupe d'Indiens est confié à un colon, qui perçoit leur tribut ou leur travail en échange de l'obligation théorique de les protéger et de les évangéliser.",
+    "choices": ["Repartimiento", "Encomienda", "Hacienda", "Audiencia"],
+    "answer": 1,
+    "explanation": "L'encomienda n'est pas un don de terres mais de main-d'œuvre et de tribut. Ses abus, dénoncés dès le sermon de Montesinos (1511) puis par Las Casas, motivent les Lois de Burgos (1512) et les Nouvelles Lois (1542).",
+    "tags": ["Espagnols", "notion"]
+  },
+  {
+    "id": "exp-034",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Sauf-conduit délivré par les autorités portugaises aux navires asiatiques au XVIe siècle, obligatoire pour naviguer dans l'océan Indien et imposant de faire escale dans un port portugais pour y acquitter des droits.",
+    "choices": ["Padroado", "Feitoria", "Cartaz", "Carreira da Índia"],
+    "answer": 2,
+    "explanation": "Le système des cartazes traduit la prétention portugaise à une souveraineté sur les mers plutôt que sur les terres. Il ne parvient jamais à contrôler l'ensemble du commerce asiatique, qui reste majoritairement entre les mains des marchands locaux.",
+    "tags": ["Portugais", "océan Indien", "notion"]
+  },
+  {
+    "id": "exp-035",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Droit de patronage accordé par la papauté à la couronne portugaise sur l'organisation de l'Église dans ses territoires d'outre-mer, incluant la présentation des évêques et le financement des missions.",
+    "choices": ["Requerimiento", "Padroado", "Inquisition", "Concordat"],
+    "answer": 1,
+    "explanation": "Son équivalent castillan est le Patronato real. Ce lien étroit entre expansion et évangélisation explique aussi la création, en 1622, de la congrégation romaine de la Propaganda Fide, par laquelle la papauté cherche à reprendre la main sur les missions.",
+    "tags": ["Portugais", "religion", "notion"]
+  },
+  {
+    "id": "exp-036",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Système de travail forcé rotatif d'origine inca, réorganisé par les Espagnols au Pérou pour fournir de la main-d'œuvre indigène aux mines, notamment à Potosí.",
+    "choices": ["Mita", "Encomienda", "Asiento", "Ayllu"],
+    "answer": 0,
+    "explanation": "Le vice-roi Francisco de Toledo systématise la mita minière dans les années 1570 : une part des hommes adultes des communautés andines doit servir à tour de rôle dans les mines. Elle contribue à la désorganisation démographique et sociale des Andes.",
+    "tags": ["Espagnols", "Potosí", "notion"]
+  },
+  {
+    "id": "exp-037",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Contrat par lequel la couronne espagnole concède à un particulier, une compagnie ou un État étranger le monopole de l'approvisionnement de ses colonies américaines en esclaves africains.",
+    "choices": ["Exclusif", "Asiento", "Commerce en droiture", "Cartaz"],
+    "answer": 1,
+    "explanation": "L'Espagne, privée de comptoirs africains par le partage avec le Portugal, dépend d'étrangers pour la traite. En 1713, le traité d'Utrecht attribue l'asiento à la Grande-Bretagne (South Sea Company), enjeu majeur de la rivalité atlantique.",
+    "tags": ["traite atlantique", "notion"]
+  },
+  {
+    "id": "exp-038",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Carte marine médiévale, d'abord méditerranéenne, figurant précisément les côtes et les ports et parcourue de lignes de rumbs rayonnant à partir de roses des vents.",
+    "choices": ["Mappemonde en T dans l'O", "Planisphère", "Portulan", "Routier"],
+    "answer": 2,
+    "explanation": "Les portulans (la carte pisane date de la fin du XIIIe siècle) sont des outils pratiques fondés sur l'expérience des marins et la boussole, à l'opposé des mappemondes symboliques. Les ateliers majorquins, comme celui de l'Atlas catalan (vers 1375), en sont des centres majeurs.",
+    "tags": ["cartographie", "notion"]
+  },
+  {
+    "id": "exp-039",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Méthode qui détermine la position d'un navire à partir de son point de départ, de son cap (boussole), de sa vitesse et du temps écoulé.",
+    "choices": ["Navigation astronomique", "Cabotage", "Triangulation", "Navigation à l'estime"],
+    "answer": 3,
+    "explanation": "Faute de pouvoir mesurer la longitude en mer, les marins recourent à l'estime, qui accumule les erreurs (courants, dérive). Elle est combinée avec la mesure de la latitude à l'astrolabe ou au quadrant, puis à l'octant et au sextant au XVIIIe siècle.",
+    "tags": ["techniques nautiques", "notion"]
+  },
+  {
+    "id": "exp-040",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Nom donné à l'ensemble des possessions, forteresses et comptoirs portugais situés entre le cap de Bonne-Espérance et l'Extrême-Orient, placés sous l'autorité d'un vice-roi ou gouverneur résidant à Goa.",
+    "choices": ["Carreira da Índia", "Estado da Índia", "Casa da Índia", "Padroado"],
+    "answer": 1,
+    "explanation": "L'Estado da Índia est un empire en réseau (Mozambique, Ormuz, Goa, Malacca, Macao…) plus que territorial. La Casa da Índia, à Lisbonne, gère quant à elle le commerce royal ; la Carreira da Índia désigne la route maritime Lisbonne-Goa.",
+    "tags": ["Portugais", "Estado da Índia", "notion"]
+  },
+  {
+    "id": "exp-041",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Notion employée par Pierre Chaunu pour désigner la mise en relation progressive, à partir des XVe-XVIe siècles, d'espaces humains jusque-là largement isolés les uns des autres.",
+    "choices": ["Économie-monde", "Désenclavement", "Occidentalisation", "Grand partage"],
+    "answer": 1,
+    "explanation": "Chaunu, historien quantitativiste (Séville et l'Atlantique, avec Huguette Chaunu), lit l'expansion comme un décloisonnement planétaire. L'« économie-monde » est une notion de Fernand Braudel, reprise par Immanuel Wallerstein.",
+    "tags": ["historiographie", "Chaunu", "notion"]
+  },
+  {
+    "id": "exp-042",
+    "theme": "expansion",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Approche historiographique, formulée notamment par Sanjay Subrahmanyam, qui refuse de juxtaposer des histoires nationales ou civilisationnelles closes pour étudier les circulations, interactions et influences réciproques entre sociétés.",
+    "choices": ["Histoire comparée", "Histoire des mentalités", "Histoire connectée", "Histoire quantitative"],
+    "answer": 2,
+    "explanation": "Subrahmanyam lance l'expression « connected histories » en 1997 à propos de l'Eurasie moderne. Elle invite à décentrer le regard sur l'expansion en montrant que les acteurs asiatiques, africains ou américains ne sont pas de simples récepteurs passifs.",
+    "tags": ["historiographie", "Subrahmanyam", "notion"]
+  },
+  {
+    "id": "exp-043",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces étapes de l'expansion portugaise dans l'ordre chronologique.",
+    "events": [
+      { "label": "Prise de Ceuta", "year": 1415 },
+      { "label": "Gil Eanes franchit le cap Bojador", "year": 1434 },
+      { "label": "Bartolomeu Dias double le cap de Bonne-Espérance", "year": 1488 },
+      { "label": "Vasco de Gama atteint Calicut", "year": 1498 },
+      { "label": "Prise de Malacca par Albuquerque", "year": 1511 }
+    ],
+    "explanation": "La prise de Ceuta, au Maroc, ouvre l'expansion portugaise avant une progression méthodique le long des côtes africaines. Un siècle sépare Ceuta de la mainmise sur le détroit de Malacca, verrou du commerce des épices entre océan Indien et mer de Chine.",
+    "tags": ["Portugais"]
+  },
+  {
+    "id": "exp-044",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces étapes de l'expansion castillane en Amérique dans l'ordre chronologique.",
+    "events": [
+      { "label": "Premier débarquement de Colomb aux Bahamas", "year": 1492 },
+      { "label": "Traité de Tordesillas", "year": 1494 },
+      { "label": "Balboa atteint l'océan Pacifique (« mer du Sud »)", "year": 1513 },
+      { "label": "Chute de Tenochtitlan devant Cortés", "year": 1521 },
+      { "label": "Capture d'Atahualpa par Pizarro à Cajamarca", "year": 1532 }
+    ],
+    "explanation": "Après la phase antillaise, la conquête change d'échelle avec la chute des empires aztèque et inca. Les conquistadors bénéficient d'alliés indigènes (Tlaxcaltèques pour Cortés), des divisions internes (guerre civile inca) et des épidémies.",
+    "tags": ["Espagnols"]
+  },
+  {
+    "id": "exp-045",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces jalons de l'histoire de la cartographie dans l'ordre chronologique.",
+    "events": [
+      { "label": "Atlas catalan attribué à Abraham Cresques (vers)", "year": 1375 },
+      { "label": "Globe de Martin Behaim à Nuremberg", "year": 1492 },
+      { "label": "Carte de Waldseemüller nommant « America »", "year": 1507 },
+      { "label": "Projection de Mercator", "year": 1569 },
+      { "label": "Theatrum Orbis Terrarum d'Ortelius, premier atlas moderne", "year": 1570 }
+    ],
+    "explanation": "Le globe de Behaim, sans l'Amérique, reflète encore le monde ptoléméen enrichi des découvertes portugaises. En moins d'un siècle, la cartographie intègre le Nouveau Monde et les anciens Pays-Bas (Louvain, Anvers) deviennent, avec Mercator et Ortelius, un centre majeur de production cartographique.",
+    "tags": ["cartographie"]
+  },
+  {
+    "id": "exp-046",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces étapes de la présence française en Amérique du Nord dans l'ordre chronologique.",
+    "events": [
+      { "label": "Voyage de Verrazzano le long de la côte atlantique", "year": 1524 },
+      { "label": "Premier voyage de Jacques Cartier", "year": 1534 },
+      { "label": "Fondation de Québec par Champlain", "year": 1608 },
+      { "label": "La Salle atteint l'embouchure du Mississippi", "year": 1682 }
+    ],
+    "explanation": "Verrazzano, navigateur florentin au service de François Ier, cherche un passage vers l'Asie. L'implantation durable ne commence qu'au début du XVIIe siècle ; Colbert fait ensuite de la Nouvelle-France une colonie royale (1663).",
+    "tags": ["Français", "Nouvelle-France"]
+  },
+  {
+    "id": "exp-047",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces étapes de l'expansion anglaise et néerlandaise dans l'ordre chronologique.",
+    "events": [
+      { "label": "Charte de l'East India Company anglaise", "year": 1600 },
+      { "label": "Création de la VOC", "year": 1602 },
+      { "label": "Henry Hudson, pour la VOC, remonte le fleuve qui portera son nom", "year": 1609 },
+      { "label": "Fondation de Batavia par Coen", "year": 1619 },
+      { "label": "Tasman atteint la Tasmanie et la Nouvelle-Zélande", "year": 1642 }
+    ],
+    "explanation": "Les compagnies à charte, sociétés par actions dotées de privilèges, sont l'outil de l'expansion des puissances protestantes. L'exploration de Hudson ouvre la voie à la Nouvelle-Néerlande et à La Nouvelle-Amsterdam, future New York.",
+    "tags": ["Anglais", "Hollandais", "compagnies"]
+  },
+  {
+    "id": "exp-048",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces jalons de la mondialisation ibérique dans l'ordre chronologique.",
+    "events": [
+      { "label": "Départ de l'expédition de Magellan", "year": 1519 },
+      { "label": "Début de l'exploitation de l'argent de Potosí", "year": 1545 },
+      { "label": "Ouverture de la controverse de Valladolid", "year": 1550 },
+      { "label": "Urdaneta découvre la route de retour transpacifique", "year": 1565 },
+      { "label": "Fondation de Manille par Legazpi", "year": 1571 }
+    ],
+    "explanation": "La fondation de Manille relie l'Amérique espagnole à la Chine via le galion de Manille : l'argent de Potosí et du Mexique irrigue alors l'économie chinoise. C'est pourquoi on date souvent de 1571 la naissance d'un commerce véritablement mondial.",
+    "tags": ["Espagnols", "mondialisation"]
+  },
+  {
+    "id": "exp-049",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces jalons des explorations du XVIIIe siècle dans l'ordre chronologique.",
+    "events": [
+      { "label": "Longitude Act voté par le Parlement britannique", "year": 1714 },
+      { "label": "Béring franchit le détroit qui porte son nom", "year": 1728 },
+      { "label": "Départ de Bougainville pour son tour du monde", "year": 1766 },
+      { "label": "Départ du premier voyage de Cook", "year": 1768 },
+      { "label": "Départ de l'expédition de La Pérouse", "year": 1785 }
+    ],
+    "explanation": "Le Danois Vitus Béring sert la Russie, engagée dans l'exploration de la Sibérie et du Pacifique Nord. La seconde moitié du siècle voit des voyages d'État à vocation scientifique, avec naturalistes, astronomes et dessinateurs embarqués.",
+    "tags": ["XVIIIe siècle"]
+  },
+  {
+    "id": "exp-050",
+    "theme": "expansion",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces jalons de la science de la mesure du monde dans l'ordre chronologique.",
+    "events": [
+      { "label": "Fondation de l'Académie royale des sciences", "year": 1666 },
+      { "label": "Départ de l'expédition de La Condamine vers le Pérou (Quito)", "year": 1735 },
+      { "label": "Départ de l'expédition de Maupertuis en Laponie", "year": 1736 },
+      { "label": "Essai en mer du chronomètre H4 de Harrison", "year": 1761 },
+      { "label": "Début de la mesure du méridien Dunkerque-Barcelone par Delambre et Méchain", "year": 1792 }
+    ],
+    "explanation": "Les expéditions de Laponie et du Pérou, organisées par l'Académie des sciences, confirment l'aplatissement de la Terre aux pôles prédit par Newton. La mesure de l'arc de méridien sous la Révolution sert à définir le mètre.",
+    "tags": ["XVIIIe siècle", "sciences"]
+  }
+]
