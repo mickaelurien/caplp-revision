@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ALL_THEMES } from '../data/subjects';
+import { ALL_THEMES, subjectOfTheme } from '../data/subjects';
 import { TYPE_LABELS, type QuestionType } from '../types';
 import { isMastered, load, needsReview, reset } from '../lib/storage';
 
@@ -41,39 +41,44 @@ export function Stats({ onBack }: { onBack: () => void }) {
       </div>
       <h1>Ma progression</h1>
 
-      {rows.map((r) => (
-        <div className="card" key={r.t.id}>
-          <p className="muted small">{r.t.section}</p>
-          <h3>{r.t.title}</h3>
-          <div className="mini-progress lg">
-            <span style={{ width: `${(r.mastered / r.total) * 100}%` }} />
-          </div>
-          <div className="stat-grid">
-            <div>
-              <b>{r.mastered}</b>
-              <span>maîtrisées</span>
+      {rows.map((r, i) => (
+        <div key={r.t.id}>
+          {subjectOfTheme(r.t.id) !== subjectOfTheme(rows[i - 1]?.t.id ?? '') && (
+            <h2>{subjectOfTheme(r.t.id)?.title}</h2>
+          )}
+          <div className="card">
+            <p className="muted small">{r.t.section}</p>
+            <h3>{r.t.title}</h3>
+            <div className="mini-progress lg">
+              <span style={{ width: `${(r.mastered / r.total) * 100}%` }} />
             </div>
-            <div>
-              <b>{r.review}</b>
-              <span>à revoir</span>
+            <div className="stat-grid">
+              <div>
+                <b>{r.mastered}</b>
+                <span>maîtrisées</span>
+              </div>
+              <div>
+                <b>{r.review}</b>
+                <span>à revoir</span>
+              </div>
+              <div>
+                <b>
+                  {r.seen}/{r.total}
+                </b>
+                <span>vues</span>
+              </div>
+              <div>
+                <b>{r.rate === null ? '—' : `${r.rate} %`}</b>
+                <span>réussite</span>
+              </div>
             </div>
-            <div>
-              <b>
-                {r.seen}/{r.total}
-              </b>
-              <span>vues</span>
+            <div className="chips small">
+              {r.byType.map((b) => (
+                <span key={b.ty} className="chip static">
+                  {TYPE_LABELS[b.ty]} : {b.rate === null ? '—' : `${b.rate} %`}
+                </span>
+              ))}
             </div>
-            <div>
-              <b>{r.rate === null ? '—' : `${r.rate} %`}</b>
-              <span>réussite</span>
-            </div>
-          </div>
-          <div className="chips small">
-            {r.byType.map((b) => (
-              <span key={b.ty} className="chip static">
-                {TYPE_LABELS[b.ty]} : {b.rate === null ? '—' : `${b.rate} %`}
-              </span>
-            ))}
           </div>
         </div>
       ))}

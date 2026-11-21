@@ -1,0 +1,578 @@
+[
+  {
+    "id": "phe-001",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans Phèdre, qui prononce le vers « C'est toi qui l'as nommé », et à qui ?",
+    "choices": ["Phèdre, à Œnone", "Œnone, à Phèdre", "Hippolyte, à Théramène", "Thésée, à Œnone"],
+    "answer": 0,
+    "explanation": "À l'acte I, scène 3 (v. 264), Phèdre amène Œnone à prononcer elle-même le nom interdit : « Tu connais ce fils de l'Amazone… » ; la nourrice s'écrie « Hippolyte ! Grands dieux ! ». Phèdre rejette ainsi sur l'autre la faute de nommer : toute la pièce est une tragédie de la parole, où dire, c'est déjà agir et se perdre.",
+    "tags": ["aveu", "parole"]
+  },
+  {
+    "id": "phe-002",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quelle scène se trouve le vers « Je le vis, je rougis, je pâlis à sa vue » ?",
+    "choices": ["Acte II, scène 5", "Acte I, scène 3", "Acte IV, scène 6", "Acte III, scène 1"],
+    "answer": 1,
+    "explanation": "Ce vers (v. 273) appartient à la grande tirade de l'aveu à Œnone (I, 3), qui commence par « Mon mal vient de plus loin ». Phèdre y retrace le coup de foudre à Athènes (« Athènes me montra mon superbe ennemi ») à travers des symptômes physiques hérités de la tradition lyrique (Sappho) : « Je sentis tout mon corps et transir, et brûler ».",
+    "tags": ["vers célèbres", "aveu"]
+  },
+  {
+    "id": "phe-003",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui dit « Le jour n'est pas plus pur que le fond de mon cœur », et dans quelle situation ?",
+    "choices": ["Phèdre, à Thésée, au moment de mourir", "Aricie, à Thésée, pour défendre Hippolyte", "Hippolyte, à Thésée qui l'accuse", "Théramène, au cours de son récit"],
+    "answer": 2,
+    "explanation": "À l'acte IV, scène 2 (v. 1112), Hippolyte se défend devant Thésée, qui vient de le maudire sur la foi de la calomnie d'Œnone. L'image solaire associe le jeune homme à la lumière et à la pureté, par contraste avec Phèdre, qui se dit indigne du jour. Thésée reste sourd : par respect, Hippolyte refuse d'accuser sa belle-mère.",
+    "tags": ["vers célèbres", "Hippolyte"]
+  },
+  {
+    "id": "phe-004",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Que traduit le vers « C'est Vénus tout entière à sa proie attachée » (I, 3) ?",
+    "choices": ["La joie de Phèdre de se savoir protégée par la déesse", "La menace d'Œnone d'attirer sur Phèdre la colère de Vénus", "La décision de Phèdre de sacrifier à Vénus pour guérir", "La passion vécue comme une possession par une divinité prédatrice"],
+    "answer": 3,
+    "explanation": "Précédé de « Ce n'est plus une ardeur dans mes veines cachée » (v. 305-306), le vers transforme la passion en possession : Phèdre est la proie d'une Vénus chasseresse. La métaphore exprime la fatalité qui pèse sur la race du Soleil (« Ô haine de Vénus ! Ô fatale colère ! ») et la dépossession de soi au cœur du tragique racinien.",
+    "tags": ["fatalité", "passion"]
+  },
+  {
+    "id": "phe-005",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans sa préface, Racine écrit : « Voici encore une tragédie dont le sujet est pris d'… » De quel auteur s'agit-il ?",
+    "choices": ["Euripide", "Sophocle", "Sénèque", "Ovide"],
+    "answer": 0,
+    "explanation": "Racine reconnaît devoir à l'Hippolyte d'Euripide « la seule idée du caractère de Phèdre », tout en suivant « une route un peu différente » pour la conduite de l'action. Il utilise aussi la Phaedra de Sénèque, qu'il cite dans la préface, ainsi que Plutarque pour l'histoire de Thésée.",
+    "tags": ["sources", "préface"]
+  },
+  {
+    "id": "phe-006",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Selon la préface, pourquoi Racine confie-t-il la calomnie contre Hippolyte à Œnone plutôt qu'à Phèdre ?",
+    "choices": ["Pour suivre exactement Euripide et Sénèque", "Parce que la calomnie lui semble trop basse pour une princesse aux sentiments nobles", "Pour donner à la nourrice un rôle plus comique", "Pour retarder le moment où Thésée apprendra la vérité"],
+    "answer": 1,
+    "explanation": "Racine écrit qu'il a cru « que la calomnie avait quelque chose de trop bas et de trop noir pour la mettre dans la bouche d'une princesse » ; cette « bassesse » convient mieux à une nourrice aux « inclinations plus serviles ». C'est un choix dicté par les bienséances internes, qui rend Phèdre « un peu moins odieuse » que chez les Anciens, où elle accuse elle-même Hippolyte.",
+    "tags": ["bienséances", "Œnone"]
+  },
+  {
+    "id": "phe-007",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "En chassant Œnone (IV, 6), Phèdre étend sa malédiction à toute une catégorie de personnes. Laquelle ?",
+    "choices": ["Les devins et les interprètes des oracles", "Les nourrices et les servantes des reines", "Les flatteurs qui encouragent les faiblesses des princes", "Les dieux qui persécutent la race du Soleil"],
+    "answer": 2,
+    "explanation": "La scène s'achève sur « Détestables flatteurs, présent le plus funeste / Que puisse faire aux rois la colère céleste ». Juste avant, Phèdre a rejeté Œnone par « Va-t'en, monstre exécrable ». La tirade, qui accuse ceux qui « aplanissent » aux princes le chemin du crime, prend une résonance morale et politique devant le public de cour de Louis XIV.",
+    "tags": ["Œnone", "acte IV"]
+  },
+  {
+    "id": "phe-008",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel dieu Thésée invoque-t-il pour punir Hippolyte ?",
+    "choices": ["Jupiter", "Vénus", "Apollon", "Neptune"],
+    "answer": 3,
+    "explanation": "À l'acte IV, scène 2, Thésée rappelle à Neptune sa promesse d'exaucer « le premier de [ses] vœux » (« Et toi, Neptune, et toi… »). À l'acte V, scène 5, ébranlé, il voudrait revenir sur sa prière (« J'aime mieux n'être exaucé jamais »), mais il est trop tard : le monstre marin envoyé par le dieu cause la mort d'Hippolyte.",
+    "tags": ["Thésée", "malédiction"]
+  },
+  {
+    "id": "phe-009",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Pourquoi l'amour d'Hippolyte pour Aricie est-il interdit ?",
+    "choices": ["Elle est la sœur des Pallantides, ennemis de Thésée", "Elle est la fille de Minos et la sœur de Phèdre", "Elle est une captive amazone, parente d'Antiope", "Elle est la fille d'Œnone, élevée avec Hippolyte"],
+    "answer": 0,
+    "explanation": "Aricie est « la fille de Pallante » (v. 1124), dont les fils ont conspiré contre Thésée ; celui-ci les a fait périr et a défendu à quiconque de l'épouser, pour éteindre leur lignée. Racine précise dans la préface qu'elle n'est pas de son invention (Virgile) et que cet amour constitue la « faiblesse » qui rend Hippolyte « un peu coupable envers son père ».",
+    "tags": ["Aricie", "personnages"]
+  },
+  {
+    "id": "phe-010",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Selon le récit de Théramène (V, 6), comment meurt Hippolyte ?",
+    "choices": ["Il est tué en combat singulier par Thésée", "Ses chevaux, effrayés par un monstre sorti des flots, le traînent sur les rochers", "Il se noie en tentant de fuir Trézène par la mer", "Il est assassiné par des partisans du fils de Phèdre"],
+    "answer": 1,
+    "explanation": "Un monstre surgit de la mer, « Indomptable taureau, dragon impétueux » ; Hippolyte le blesse d'un dard, mais ses coursiers s'emballent et le traînent : Théramène le retrouve « sans forme et sans couleur ». Les bienséances interdisant de montrer cette mort sanglante, elle est rapportée par un récit, célèbre morceau d'hypotypose.",
+    "tags": ["récit de Théramène", "dénouement"]
+  },
+  {
+    "id": "phe-011",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle décision Thésée annonce-t-il dans les derniers vers de la pièce ?",
+    "choices": ["S'exiler d'Athènes pour expier sa faute", "Faire juger Aricie comme complice d'Hippolyte", "Tenir Aricie pour sa propre fille", "Céder aussitôt le trône au fils de Phèdre"],
+    "answer": 2,
+    "explanation": "La pièce se clôt sur « Que malgré les complots d'une injuste famille / Son amante aujourd'hui me tienne lieu de fille » (v. 1653-1654). Thésée accomplit ainsi la dernière volonté d'Hippolyte rapportée par Théramène. Ce geste de réparation tardive souligne l'aveuglement du père, qui a condamné son fils sur la foi d'une calomnie.",
+    "tags": ["dénouement", "Thésée"]
+  },
+  {
+    "id": "phe-012",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel universitaire attaque le Sur Racine de Barthes dans Nouvelle critique ou nouvelle imposture (1965) ?",
+    "choices": ["Lucien Goldmann", "Paul Bénichou", "Georges Poulet", "Raymond Picard"],
+    "answer": 3,
+    "explanation": "Raymond Picard, spécialiste de Racine à la Sorbonne, reproche à Barthes des interprétations arbitraires, notamment psychanalytiques. Barthes répond par Critique et vérité (1966). Cette querelle oppose l'histoire littéraire universitaire à la « nouvelle critique » (structuralisme, psychanalyse, sociologie).",
+    "tags": ["critique", "Barthes"]
+  },
+  {
+    "id": "phe-013",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans Le Dieu caché (1955), Lucien Goldmann étudie la vision tragique chez Racine et chez quel autre auteur ?",
+    "choices": ["Pascal", "Descartes", "Corneille", "La Rochefoucauld"],
+    "answer": 0,
+    "explanation": "Le sous-titre est « Étude sur la vision tragique dans les Pensées de Pascal et dans le théâtre de Racine ». Goldmann relie cette vision au jansénisme, sous le regard d'un Dieu caché et muet, et à la situation de la noblesse de robe. Selon une tradition rapportée par l'entourage de Racine, Arnauld aurait vu en Phèdre une chrétienne à qui la grâce a manqué.",
+    "tags": ["critique", "jansénisme"]
+  },
+  {
+    "id": "phe-014",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quelle méthode Charles Mauron applique-t-il dans L'Inconscient dans l'œuvre et la vie de Racine (1957) ?",
+    "choices": ["La sociocritique", "La psychocritique", "La narratologie", "La stylistique historique"],
+    "answer": 1,
+    "explanation": "Mauron superpose les textes pour faire apparaître des réseaux d'images récurrentes, ses « métaphores obsédantes », qui renvoient à un « mythe personnel » de l'auteur. Chez Racine, il dégage des configurations affectives récurrentes (amour interdit, rivalité, figure paternelle redoutée), très visibles dans Phèdre.",
+    "tags": ["critique", "psychocritique"]
+  },
+  {
+    "id": "phe-015",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Auprès de quels maîtres Racine, orphelin, reçoit-il l'essentiel de sa formation, notamment en grec ?",
+    "choices": ["Les jésuites du collège de Clermont", "Les oratoriens de Juilly", "Les Solitaires de Port-Royal", "Les bénédictins de Saint-Maur"],
+    "answer": 2,
+    "explanation": "Racine est élevé aux Petites Écoles de Port-Royal, auprès de maîtres comme Lancelot ou Antoine Le Maistre, qui lui donnent une solide culture grecque (il lit Euripide dans le texte). Il rompt avec Port-Royal en 1666 en raillant Nicole, qui condamnait les auteurs de théâtre comme « empoisonneurs publics », puis se réconcilie avec ses anciens maîtres après Phèdre.",
+    "tags": ["biographie", "jansénisme"]
+  },
+  {
+    "id": "phe-016",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle charge Racine reçoit-il en 1677, l'année de Phèdre ?",
+    "choices": ["Surintendant des Bâtiments du roi", "Précepteur du Dauphin", "Directeur de l'Académie royale de musique", "Historiographe du roi, avec Boileau"],
+    "answer": 3,
+    "explanation": "En 1677, Racine épouse Catherine de Romanet et devient historiographe du roi avec Boileau. Il cesse alors d'écrire pour le théâtre public, et ne revient à la tragédie qu'avec deux pièces bibliques commandées par Mme de Maintenon pour les demoiselles de Saint-Cyr : Esther (1689) et Athalie (1691).",
+    "tags": ["biographie", "retrait du théâtre"]
+  },
+  {
+    "id": "phe-017",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« Le ciel, tout l'univers est plein de mes aïeux » (IV, 6) : pourquoi Phèdre ne peut-elle se cacher ni sur terre ni aux Enfers ?",
+    "choices": ["Le Soleil est son aïeul, et son père Minos juge les morts aux Enfers", "Vénus règne au ciel, et Neptune garde l'entrée des Enfers", "Thésée est descendu aux Enfers et y connaît tous les juges", "Sa sœur Ariane règne parmi les étoiles et la surveille"],
+    "answer": 0,
+    "explanation": "Fille de Pasiphaé, elle-même fille du Soleil, Phèdre ne peut échapper au regard de son aïeul ; aux Enfers l'attend son père : « Minos juge aux Enfers tous les pâles humains ». Le tableau cosmique enferme l'héroïne entre lumière accusatrice et ténèbres où siège un juge : la culpabilité n'a plus aucun refuge.",
+    "tags": ["lumière et ténèbres", "culpabilité"]
+  },
+  {
+    "id": "phe-018",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Comment scander l'alexandrin « Je le vis, je rougis, je pâlis à sa vue » ?",
+    "choices": ["Trimètre romantique 4/4/4", "Tétramètre régulier 3/3//3/3", "Rythme 2/4//2/4", "Rythme 4/2//6"],
+    "answer": 1,
+    "explanation": "Le vers compte douze syllabes, avec la césure après « rougis » : Je-le-vis / je-rou-gis // je-pâ-lis / à-sa-vue. Ces quatre mesures égales de trois syllabes, avec la reprise anaphorique de « je », miment la succession haletante des symptômes du coup de foudre.",
+    "tags": ["alexandrin", "versification"]
+  },
+  {
+    "id": "phe-019",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans sa préface, quelle « faiblesse » Racine dit-il avoir donnée à Hippolyte ?",
+    "choices": ["Son orgueil de chasseur qui méprise Vénus", "Sa désobéissance en voulant quitter Trézène", "Sa passion pour Aricie, fille et sœur des ennemis de son père", "Son silence obstiné devant les accusations de Thésée"],
+    "answer": 2,
+    "explanation": "« J'appelle faiblesse la passion qu'il ressent malgré lui pour Aricie. » On reprochait à Euripide d'avoir fait d'Hippolyte « un philosophe exempt de toute imperfection », si bien que sa mort causait « plus d'indignation que de pitié ». Racine applique ici le principe aristotélicien du héros intermédiaire, ni tout à fait bon ni tout à fait méchant.",
+    "tags": ["préface", "Hippolyte"]
+  },
+  {
+    "id": "phe-020",
+    "theme": "phedre",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "En seconde baccalauréat professionnel (programme de 2019), dans quel objet d'étude l'étude d'une scène de Phèdre s'inscrit-elle le plus naturellement ?",
+    "choices": ["Devenir soi : écritures autobiographiques", "S'informer, informer : les circuits de l'information", "Lire et suivre un personnage : itinéraires romanesques", "Dire et se faire entendre : la parole, le théâtre, l'éloquence"],
+    "answer": 3,
+    "explanation": "Phèdre est une tragédie de la parole : aveu arraché, déclaration involontaire, calomnie qui tue, vérité dite trop tard. En classe, on peut travailler la mise en voix de l'alexandrin, le passage du texte à la scène (comparaison de mises en scène, comme celle de Patrice Chéreau en 2003) ou la réécriture de l'aveu en prose contemporaine.",
+    "tags": ["lycée professionnel", "didactique"]
+  },
+  {
+    "id": "phe-021",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "À sa création en 1677, la pièce s'intitulait Phèdre et Hippolyte ; le titre Phèdre ne s'impose qu'avec l'édition de 1687.",
+    "answer": true,
+    "explanation": "Le titre initial est le même que celui de la pièce rivale de Pradon. En le réduisant à Phèdre, Racine met l'accent sur l'héroïne, qu'il présente dans la préface comme ce qu'il a « peut-être mis de plus raisonnable sur le théâtre ».",
+    "tags": ["contexte", "titre"]
+  },
+  {
+    "id": "phe-022",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Chez Racine, c'est Phèdre elle-même qui accuse Hippolyte devant Thésée d'avoir voulu attenter à son honneur.",
+    "answer": false,
+    "explanation": "C'est Œnone qui porte l'accusation (IV, 1), après avoir obtenu l'abandon de sa maîtresse : « Fais ce que tu voudras, je m'abandonne à toi » (III, 3). Phèdre se borne à des paroles ambiguës devant son époux (III, 4). Chez Euripide et Sénèque, en revanche, l'héroïne accuse elle-même Hippolyte.",
+    "tags": ["calomnie", "Œnone"]
+  },
+  {
+    "id": "phe-023",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Racine affirme dans sa préface qu'Aricie n'est pas un personnage de son invention et invoque l'autorité de Virgile.",
+    "answer": true,
+    "explanation": "La préface dit que, selon Virgile, Hippolyte épousa Aricie et en eut un fils après avoir été ressuscité par Esculape. Racine justifie ainsi un ajout qui lui permet de donner à Hippolyte une « faiblesse » et à Phèdre une rivale, ressort de la jalousie de l'acte IV.",
+    "tags": ["préface", "Aricie"]
+  },
+  {
+    "id": "phe-024",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Hippolyte meurt sur scène, sous les yeux de Thésée.",
+    "answer": false,
+    "explanation": "La mort d'Hippolyte a lieu hors scène ; elle est rapportée par Théramène (V, 6). Les bienséances classiques interdisent de montrer une mort sanglante. Le récit, au présent de narration (« Le flot, qui l'apporta, recule épouvanté »), la rend pourtant présente à l'imagination du spectateur.",
+    "tags": ["bienséances", "récit de Théramène"]
+  },
+  {
+    "id": "phe-025",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Phèdre meurt sur scène, empoisonnée par « un poison que Médée apporta dans Athènes ».",
+    "answer": true,
+    "explanation": "À la dernière scène, elle explique avoir voulu « Par un chemin plus lent descendre chez les morts » pour avouer la vérité à Thésée. Le poison permet une mort en scène sans effusion de sang, compatible avec les bienséances. Ses derniers vers reprennent l'opposition entre lumière et souillure : la mort « Rend au jour, qu'ils souillaient, toute sa pureté ».",
+    "tags": ["dénouement", "mort de Phèdre"]
+  },
+  {
+    "id": "phe-026",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Phèdre fait sa déclaration à Hippolyte (II, 5) en sachant que Thésée est vivant.",
+    "answer": false,
+    "explanation": "La déclaration suit la fausse nouvelle de la mort de Thésée (I, 4), qui rend selon Œnone sa flamme « ordinaire ». La préface le souligne : Phèdre n'aurait « jamais osé » cet aveu « tant qu'elle aurait cru que son mari était vivant ». Le retour de Thésée (III, 3) transforme rétrospectivement cette parole en faute irréparable.",
+    "tags": ["déclaration", "intrigue"]
+  },
+  {
+    "id": "phe-027",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Après avoir été chassée par Phèdre, Œnone se jette dans la mer.",
+    "answer": true,
+    "explanation": "Panope l'annonce à Thésée (V, 5) : « Dans la profonde mer Œnone s'est lancée ». Cette mort trouble Thésée, qui voulait interroger de nouveau la nourrice. La mer, d'où surgit aussi le monstre qui tue Hippolyte, est l'espace de la mort dans la pièce.",
+    "tags": ["Œnone", "acte V"]
+  },
+  {
+    "id": "phe-028",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La Phèdre et Hippolyte de Pradon fut créée en janvier 1677 à l'Hôtel de Bourgogne, par la même troupe que la tragédie de Racine.",
+    "answer": false,
+    "explanation": "La pièce de Racine est créée le 1er janvier 1677 à l'Hôtel de Bourgogne, celle de Pradon deux jours plus tard à l'Hôtel Guénégaud, par une troupe rivale. La cabale, soutenue par la duchesse de Bouillon et le duc de Nevers, assure d'abord un succès à Pradon et déclenche une « guerre des sonnets ». Cette affaire compte parmi les causes du retrait de Racine.",
+    "tags": ["cabale", "contexte"]
+  },
+  {
+    "id": "phe-029",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Lucien Goldmann relie la vision tragique de Racine au jansénisme et à la situation sociale de la noblesse de robe.",
+    "answer": true,
+    "explanation": "Dans Le Dieu caché (1955), Goldmann développe une sociologie marxiste de la littérature. Il voit dans le jansénisme l'expression d'un groupe social, la noblesse de robe, écarté du pouvoir par la monarchie absolue. Ce groupe produit une vision du monde fondée sur le refus du monde, sous le regard d'un Dieu qui se tait.",
+    "tags": ["critique", "Goldmann"]
+  },
+  {
+    "id": "phe-030",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans Sur Racine (1963), Roland Barthes adopte une démarche biographique et historique dans la lignée de Lanson.",
+    "answer": false,
+    "explanation": "Barthes propose au contraire une lecture structurale et anthropologique de « l'homme racinien », à partir de figures comme le huis clos, le rapport d'autorité ou la parole comme acte. Il écarte justement l'histoire littéraire lansonienne, d'où la querelle avec Raymond Picard. Pour Phèdre, il insiste sur le secret et sur la parole qui se dit malgré elle.",
+    "tags": ["critique", "Barthes"]
+  },
+  {
+    "id": "phe-031",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Conformément à l'unité de lieu, l'action de Phèdre se déroule à Athènes.",
+    "answer": false,
+    "explanation": "L'action se déroule à Trézène, ville du Péloponnèse où Thésée a laissé sa famille ; dès le vers 2, Hippolyte veut quitter « le séjour de l'aimable Trézène ». Athènes est l'enjeu politique : à la fausse nouvelle de la mort de Thésée, la question de la succession se pose (II, 6).",
+    "tags": ["unités", "cadre"]
+  },
+  {
+    "id": "phe-032",
+    "theme": "phedre",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Pour se disculper, Hippolyte avoue à Thésée son amour pour Aricie, mais Thésée n'y voit qu'un artifice.",
+    "answer": true,
+    "explanation": "À l'acte IV, scène 2, Hippolyte confesse : « La fille de Pallante a vaincu votre fils ». Thésée répond : « Tu l'aimes ? Ciel ! Mais non, l'artifice est grossier. / Tu te feins criminel pour te justifier ». Il rapporte ensuite cet aveu à Phèdre (IV, 4), lui révélant ainsi sans le savoir l'existence d'une rivale.",
+    "tags": ["Hippolyte", "acte IV"]
+  },
+  {
+    "id": "phe-033",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Selon la Poétique d'Aristote, purgation des passions (terreur et pitié) que la tragédie produit chez le spectateur.",
+    "choices": ["Catharsis", "Hamartia", "Mimèsis", "Hybris"],
+    "answer": 0,
+    "explanation": "Racine s'y réfère explicitement : le caractère de Phèdre a « toutes les qualités qu'Aristote demande dans le héros de la tragédie, et qui sont propres à exciter la compassion et la terreur ». La préface donne aussi à la tragédie une visée morale : « je n'en ai point fait où la vertu soit plus mise en jour que dans celle-ci ».",
+    "tags": ["Aristote", "tragédie"]
+  },
+  {
+    "id": "phe-034",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Faute ou erreur du héros tragique, ni tout à fait coupable ni tout à fait innocent, qui cause sa chute sans le rendre odieux.",
+    "choices": ["Hybris", "Hamartia", "Némésis", "Anagnorisis"],
+    "answer": 1,
+    "explanation": "La préface applique cette notion aristotélicienne : « Phèdre n'est ni tout à fait coupable, ni tout à fait innocente » ; son crime est « plutôt une punition des dieux qu'un mouvement de sa volonté ». Racine donne de même à Hippolyte une « faiblesse », pour que sa mort suscite la pitié plutôt que l'indignation.",
+    "tags": ["Aristote", "culpabilité"]
+  },
+  {
+    "id": "phe-035",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Règle classique qui interdit de montrer sur scène ce qui choque le goût et la morale du public, et qui exige des personnages une conduite conforme à leur rang.",
+    "choices": ["Vraisemblance", "Unité d'action", "Bienséance", "Merveilleux"],
+    "answer": 2,
+    "explanation": "Les bienséances externes expliquent que la mort sanglante d'Hippolyte soit racontée plutôt que montrée. Les bienséances internes expliquent que la calomnie, jugée « trop basse », soit confiée à la nourrice. Phèdre ne meurt en scène que par le poison, une mort sans effusion de sang.",
+    "tags": ["règles", "classicisme"]
+  },
+  {
+    "id": "phe-036",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Exigence classique selon laquelle l'action doit paraître croyable au public, quitte à préférer le crédible au vrai.",
+    "choices": ["Mimèsis", "Bienséance", "Catharsis", "Vraisemblance"],
+    "answer": 3,
+    "explanation": "Boileau écrit dans l'Art poétique (1674) : « Le vrai peut quelquefois n'être pas vraisemblable ». Racine s'appuie sur Plutarque pour rationaliser la descente de Thésée aux Enfers en un voyage en Épire. Il dit avoir ainsi tâché « de conserver la vraisemblance de l'histoire, sans rien perdre des ornements de la fable ».",
+    "tags": ["règles", "préface"]
+  },
+  {
+    "id": "phe-037",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Figure qui décrit une scène de façon si vive et concrète qu'elle semble se dérouler sous les yeux du destinataire.",
+    "choices": ["Hypotypose", "Prosopopée", "Hyperbole", "Allégorie"],
+    "answer": 0,
+    "explanation": "Le récit de Théramène (V, 6) en est l'exemple canonique : présent de narration, détails visuels et sonores (« Ses longs mugissements font trembler le rivage »), personnification des éléments (« Le flot, qui l'apporta, recule épouvanté »). L'hypotypose compense ce que les bienséances interdisent de montrer.",
+    "tags": ["figures de style", "récit de Théramène"]
+  },
+  {
+    "id": "phe-038",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Événement imprévu qui renverse brusquement la situation dramatique, comme le retour de Thésée qu'on croyait mort.",
+    "choices": ["Dénouement", "Exposition", "Coup de théâtre", "Quiproquo"],
+    "answer": 2,
+    "explanation": "Annoncé d'abord comme une rumeur à la fin de l'acte II (« un bruit sourd veut que le roi respire »), le retour est confirmé par Œnone en III, 3 : « Le roi, qu'on a cru mort, va paraître à vos yeux ». L'aveu fait à Hippolyte devient irréparable, et c'est ce retour qui pousse Œnone à proposer la calomnie.",
+    "tags": ["dramaturgie", "Thésée"]
+  },
+  {
+    "id": "phe-039",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Figure qui remplace un nom par une expression plus longue qui le caractérise, comme « La fille de Minos et de Pasiphaé » pour désigner Phèdre.",
+    "choices": ["Métonymie", "Périphrase", "Antonomase", "Litote"],
+    "answer": 1,
+    "explanation": "Ce vers célèbre (I, 1, v. 36), prononcé par Hippolyte, enferme Phèdre dans son hérédité : un père juge des Enfers et une mère, Pasiphaé, que sa passion monstrueuse pour un taureau a rendue mère du Minotaure. Il annonce la fatalité familiale et le thème du monstre.",
+    "tags": ["figures de style", "hérédité"]
+  },
+  {
+    "id": "phe-040",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Propriété du discours théâtral : les répliques s'adressent à un personnage et, par-delà la scène, au public, qui peut y lire un autre sens.",
+    "choices": ["Aparté", "Monologue", "Stichomythie", "Double énonciation"],
+    "answer": 3,
+    "explanation": "Quand Phèdre accueille Thésée (III, 4) par « Vous êtes offensé. La fortune jalouse / N'a pas en votre absence épargné votre épouse », Thésée ne comprend pas. Le spectateur, lui, sait que l'offense vient de Phèdre elle-même. L'ambiguïté prépare la calomnie de l'acte IV.",
+    "tags": ["dramaturgie", "parole"]
+  },
+  {
+    "id": "phe-041",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Situation où un personnage dit ou fait quelque chose dont le spectateur perçoit, mieux que lui, la portée funeste.",
+    "choices": ["Ironie tragique", "Antiphrase", "Pathétique", "Prétérition"],
+    "answer": 0,
+    "explanation": "Thésée en offre plusieurs exemples : il invoque Neptune contre un fils innocent (IV, 2). En IV, 4, il révèle à Phèdre l'amour d'Hippolyte pour Aricie, qu'il tient pour un « frivole artifice », sans voir qu'il déclenche la jalousie de sa femme et lui ferme la bouche au moment où elle venait défendre Hippolyte.",
+    "tags": ["dramaturgie", "fatalité"]
+  },
+  {
+    "id": "phe-042",
+    "theme": "phedre",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Notion forgée par Leo Spitzer pour caractériser le style racinien : l'expression des passions violentes y est atténuée par l'abstraction, la distance et l'euphémisme.",
+    "choices": ["Préciosité", "Style coupé", "Effet de sourdine", "Galanterie"],
+    "answer": 2,
+    "explanation": "Spitzer (Die klassische Dämpfung in Racines Stil) montre que Racine tempère l'émotion par des procédés de mise à distance : pluriels abstraits, termes généraux (« flamme », « feux »), démonstratifs, litotes. La violence de la passion n'en est que plus sensible sous la retenue de la forme.",
+    "tags": ["stylistique", "critique"]
+  },
+  {
+    "id": "phe-043",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre les scènes de l'acte I.",
+    "events": [
+      { "label": "Hippolyte confie à Théramène son projet de partir à la recherche de Thésée", "year": 1, "marker": "Acte I, sc. 1" },
+      { "label": "Œnone annonce que la reine, malade, veut voir le jour", "year": 2, "marker": "Acte I, sc. 2" },
+      { "label": "Phèdre avoue à Œnone son amour pour Hippolyte", "year": 3, "marker": "Acte I, sc. 3" },
+      { "label": "Panope annonce la mort de Thésée", "year": 4, "marker": "Acte I, sc. 4" },
+      { "label": "Œnone persuade Phèdre de vivre : sa flamme devient « ordinaire »", "year": 5, "marker": "Acte I, sc. 5" }
+    ],
+    "explanation": "L'acte I est une exposition en mouvement : deux aveux successifs (Hippolyte à Théramène, Phèdre à Œnone) posent les deux passions interdites. La fausse nouvelle de la mort de Thésée (I, 4) lève l'interdit et rend possible la déclaration de l'acte II.",
+    "tags": ["structure", "acte I"]
+  },
+  {
+    "id": "phe-044",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre les scènes de l'acte III.",
+    "events": [
+      { "label": "Phèdre envoie Œnone offrir à Hippolyte la couronne d'Athènes", "year": 1, "marker": "Acte III, sc. 1" },
+      { "label": "Phèdre, seule, implore Vénus de frapper Hippolyte", "year": 2, "marker": "Acte III, sc. 2" },
+      { "label": "Œnone annonce le retour de Thésée et propose d'accuser Hippolyte", "year": 3, "marker": "Acte III, sc. 3" },
+      { "label": "Phèdre accueille Thésée par des paroles ambiguës et se retire", "year": 4, "marker": "Acte III, sc. 4" },
+      { "label": "Thésée interroge Hippolyte sur cet étrange accueil", "year": 5, "marker": "Acte III, sc. 5" }
+    ],
+    "explanation": "L'acte III est l'acte du renversement. Phèdre, qui espérait encore fléchir Hippolyte, apprend le retour de son époux. Œnone propose alors de prendre les devants (« Osez l'accuser la première ») et Phèdre cède : « Fais ce que tu voudras, je m'abandonne à toi ».",
+    "tags": ["structure", "acte III"]
+  },
+  {
+    "id": "phe-045",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre ces scènes de l'acte IV.",
+    "events": [
+      { "label": "Œnone accuse Hippolyte devant Thésée", "year": 1, "marker": "Acte IV, sc. 1" },
+      { "label": "Thésée maudit son fils et invoque Neptune", "year": 2, "marker": "Acte IV, sc. 2" },
+      { "label": "Venue plaider pour Hippolyte, Phèdre apprend qu'il aime Aricie", "year": 3, "marker": "Acte IV, sc. 4" },
+      { "label": "Phèdre, jalouse, puis horrifiée d'elle-même, chasse Œnone", "year": 4, "marker": "Acte IV, sc. 6" }
+    ],
+    "explanation": "L'acte IV enchaîne la calomnie, la malédiction et la jalousie. La révélation de l'amour d'Hippolyte pour Aricie empêche l'aveu qui aurait pu sauver le jeune homme. Seule (IV, 5), Phèdre s'écrie « Hippolyte est sensible, et ne sent rien pour moi ! », puis rejette Œnone : « Va-t'en, monstre exécrable » (IV, 6).",
+    "tags": ["structure", "acte IV"]
+  },
+  {
+    "id": "phe-046",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre ces scènes de l'acte V.",
+    "events": [
+      { "label": "Hippolyte propose à Aricie de fuir et de l'épouser dans un temple hors de Trézène", "year": 1, "marker": "Acte V, sc. 1" },
+      { "label": "Thésée interroge Aricie, qui défend Hippolyte sans trahir le secret", "year": 2, "marker": "Acte V, sc. 3" },
+      { "label": "Panope annonce la mort d'Œnone et l'égarement de la reine", "year": 3, "marker": "Acte V, sc. 5" },
+      { "label": "Théramène fait le récit de la mort d'Hippolyte", "year": 4, "marker": "Acte V, sc. 6" },
+      { "label": "Phèdre avoue la vérité à Thésée et meurt", "year": 5, "marker": "Acte V, sc. 7" }
+    ],
+    "explanation": "L'acte V fait alterner un espoir (la fuite des amants) et une lente prise de conscience de Thésée, ébranlé par Aricie puis par la mort d'Œnone, qui veut alors suspendre sa prière. Le récit de Théramène arrive trop tard. L'aveu final de Phèdre (« C'est moi qui sur ce fils chaste et respectueux / Osai jeter un œil profane, incestueux ») rétablit la vérité.",
+    "tags": ["structure", "acte V"]
+  },
+  {
+    "id": "phe-047",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre les grandes scènes de la pièce.",
+    "events": [
+      { "label": "Aveu de Phèdre à Œnone", "year": 1, "marker": "Acte I, sc. 3" },
+      { "label": "Déclaration de Phèdre à Hippolyte", "year": 2, "marker": "Acte II, sc. 5" },
+      { "label": "Calomnie d'Œnone auprès de Thésée", "year": 3, "marker": "Acte IV, sc. 1" },
+      { "label": "Récit de Théramène", "year": 4, "marker": "Acte V, sc. 6" },
+      { "label": "Aveu et mort de Phèdre", "year": 5, "marker": "Acte V, sc. 7" }
+    ],
+    "explanation": "La pièce progresse par des actes de parole : aveu, déclaration, calomnie, récit, aveu final. Dans la déclaration (II, 5), Phèdre glisse du souvenir de Thésée à l'aveu direct, puis arrache l'épée d'Hippolyte : « Au défaut de ton bras prête-moi ton épée ». Cette épée devient la preuve de la calomnie.",
+    "tags": ["structure", "scènes clés"]
+  },
+  {
+    "id": "phe-048",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre d'apparition ces vers de la scène d'aveu (I, 3).",
+    "events": [
+      { "label": "« Ariane, ma sœur ! De quel amour blessée… »", "year": 1, "marker": "v. 253" },
+      { "label": "« C'est toi qui l'as nommé. »", "year": 2, "marker": "v. 264" },
+      { "label": "« Je le vis, je rougis, je pâlis à sa vue. »", "year": 3, "marker": "v. 273" },
+      { "label": "« C'est Vénus tout entière à sa proie attachée. »", "year": 4, "marker": "v. 306" }
+    ],
+    "explanation": "Phèdre évoque d'abord les amours malheureuses des femmes de sa famille (sa mère Pasiphaé, sa sœur Ariane abandonnée par Thésée), puis fait nommer Hippolyte par Œnone. Vient ensuite le récit du coup de foudre, et la tirade culmine dans la figure de Vénus prédatrice. Le passage va de l'hérédité à la passion, et de la passion à la fatalité.",
+    "tags": ["vers célèbres", "aveu"]
+  },
+  {
+    "id": "phe-049",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre ces tragédies de Racine.",
+    "events": [
+      { "label": "La Thébaïde", "year": 1664 },
+      { "label": "Andromaque", "year": 1667 },
+      { "label": "Britannicus", "year": 1669 },
+      { "label": "Bérénice", "year": 1670 },
+      { "label": "Phèdre", "year": 1677 }
+    ],
+    "explanation": "Les deux premières pièces de Racine sont créées par la troupe de Molière ; il passe ensuite à l'Hôtel de Bourgogne. Andromaque (1667) marque son triomphe. Bérénice, rivale de la Tite et Bérénice de Corneille, illustre l'idéal d'« une action simple, chargée de peu de matière ». Phèdre (1677) clôt la carrière profane.",
+    "tags": ["carrière", "Racine"]
+  },
+  {
+    "id": "phe-050",
+    "theme": "phedre",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre ces étapes de la carrière de Racine.",
+    "events": [
+      { "label": "Iphigénie, créée à Versailles", "year": 1674 },
+      { "label": "Phèdre, puis nomination comme historiographe du roi", "year": 1677 },
+      { "label": "Esther, pour les demoiselles de Saint-Cyr", "year": 1689 },
+      { "label": "Athalie, dernière tragédie", "year": 1691 },
+      { "label": "Mort de Racine", "year": 1699 }
+    ],
+    "explanation": "Après Phèdre, Racine renonce pendant douze ans au théâtre. Il ne revient à la scène qu'à la demande de Mme de Maintenon, avec deux tragédies bibliques destinées aux pensionnaires de Saint-Cyr. Il meurt en 1699 et est inhumé, selon son vœu, à Port-Royal des Champs.",
+    "tags": ["carrière", "Racine"]
+  }
+]

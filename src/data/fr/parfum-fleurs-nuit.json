@@ -1,0 +1,730 @@
+[
+  {
+    "id": "sli-001",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quel musée Leïla Slimani passe-t-elle la nuit racontée dans Le Parfum des fleurs la nuit ?",
+    "choices": [
+      "Le musée Picasso, à Paris",
+      "La Punta della Dogana, à Venise",
+      "Le Palazzo Grassi, à Venise",
+      "La collection Peggy Guggenheim, à Venise"
+    ],
+    "answer": 1,
+    "explanation": "La Punta della Dogana, ancienne douane de mer à la pointe du Dorsoduro, face à Santa Maria della Salute, accueille depuis 2009 des expositions de la collection Pinault. Le Palazzo Grassi est l'autre lieu vénitien de cette collection, d'où le piège. Slimani fait de ce lieu de passage des marchandises entre Orient et Occident un symbole de sa propre histoire.",
+    "tags": ["contexte", "Venise"]
+  },
+  {
+    "id": "sli-002",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui propose à Leïla Slimani de passer une nuit dans un musée pour la collection « Ma nuit au musée » ?",
+    "choices": [
+      "Teresa Cremisi",
+      "Françoise Nyssen",
+      "Anne-Marie Métailié",
+      "Alina Gurdiel"
+    ],
+    "answer": 3,
+    "explanation": "Alina Gurdiel a créé chez Stock, en 2018, la collection « Ma nuit au musée », qui invite un écrivain à passer une nuit seul dans un musée. Le récit la nomme simplement « Alina ». Slimani a expliqué (TelQuel, 2021) que, ce texte étant une commande, il lui fallait « y mettre de l'intime » pour se l'approprier.",
+    "tags": ["genèse", "collection"]
+  },
+  {
+    "id": "sli-003",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "À quoi renvoie le titre Le Parfum des fleurs la nuit ?",
+    "choices": [
+      "Au galant de nuit, dont les fleurs ne s'ouvrent qu'à la tombée du jour",
+      "Au jasmin que cultivait sa grand-mère alsacienne à Meknès",
+      "Au parfum que portait son père le soir de son arrestation",
+      "Aux lauriers-roses qui bordent les quais de la Giudecca"
+    ],
+    "answer": 0,
+    "explanation": "Le galant de nuit embaumait les nuits d'enfance et d'adolescence de l'autrice, devant la maison familiale de Rabat ; elle le retrouve au cœur du musée, dans l'installation d'Hicham Berrada. Ces fleurs qui gardent leur beauté secrète et ne s'offrent que dans l'ombre deviennent une image de l'écrivaine elle-même, qui rêve, dit-elle, de « [se] tenir loin du monde ».",
+    "tags": ["titre", "symbolique"]
+  },
+  {
+    "id": "sli-004",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Selon la narratrice, qu'est-ce qui l'a poussée à accepter la proposition de son éditrice ?",
+    "choices": [
+      "Sa passion ancienne pour l'art contemporain",
+      "Le désir de découvrir enfin Venise",
+      "L'idée d'être enfermée, coupée du dehors",
+      "La promesse d'écrire un roman sur la collection Pinault"
+    ],
+    "answer": 2,
+    "explanation": "Slimani avoue n'avoir jamais pensé avoir quelque chose à écrire sur l'art contemporain : « Je n'y connais pas grand-chose. Je m'y intéresse peu. » Ce qui l'a séduite, « c'est l'idée d'être enfermée. Que personne ne puisse m'atteindre et que le dehors me soit inaccessible. » Le fantasme de la claustration, condition de l'écriture, est le vrai sujet du livre.",
+    "tags": ["enfermement", "genèse"]
+  },
+  {
+    "id": "sli-005",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Par quelle phrase s'ouvre le récit, après l'indication « Paris. Décembre 2018 » ?",
+    "choices": [
+      "« Je n'ai jamais aimé les musées, leur silence m'intimide. »",
+      "« La première règle quand on veut écrire un roman, c'est de dire non. »",
+      "« Il faut être seule pour écrire, et je ne l'ai jamais été. »",
+      "« Écrire, c'est d'abord apprendre à fermer sa porte. »"
+    ],
+    "answer": 1,
+    "explanation": "L'incipit pose d'emblée la thèse : écrire exige le refus des sollicitations (« Non, je ne viendrai pas boire un verre… »), au risque de « passer pour misanthrope ». L'anaphore du « non » et l'image du « mur de refus » ouvrent la réflexion sur la solitude et la discipline qui traverse tout le livre.",
+    "tags": ["incipit", "écriture"]
+  },
+  {
+    "id": "sli-006",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "À quel écrivain la narratrice attribue-t-elle la formule : « Les plus grands ennemis d'un écrivain sont le téléphone et les visiteurs » ?",
+    "choices": [
+      "Philip Roth",
+      "Robert Louis Stevenson",
+      "Rainer Maria Rilke",
+      "Ernest Hemingway"
+    ],
+    "answer": 3,
+    "explanation": "Dès les premières pages, Slimani invoque les essais sur la littérature, « de Roth à Stevenson, en passant par Hemingway », qui résumait la règle « d'une manière simple et triviale ». Hemingway ajoutait qu'une fois la discipline acquise la solitude s'impose : « Les amis meurent ou ils disparaissent, lassés peut-être par nos refus. » Le livre est ainsi saturé de références intertextuelles.",
+    "tags": ["intertextualité", "solitude"]
+  },
+  {
+    "id": "sli-007",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel roman, encore sans titre, l'autrice peine-t-elle à écrire dans son bureau parisien au début du récit ?",
+    "choices": [
+      "Chanson douce",
+      "Dans le jardin de l'ogre",
+      "Le Pays des autres",
+      "Regardez-nous danser"
+    ],
+    "answer": 2,
+    "explanation": "Elle décrit un roman qui raconte l'histoire d'une famille à Meknès entre 1945 et l'indépendance du Maroc : ce sera Le Pays des autres (2020). Sur le mur, des post-it de couleur correspondent chacun à une année (rose pour 1953, jaune pour 1954…) ; au sol, un plan de 1952 montre la séparation entre médina, mellah et ville nouvelle européenne.",
+    "tags": ["écriture", "Le Pays des autres"]
+  },
+  {
+    "id": "sli-008",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle œuvre de Félix González-Torres, que Slimani appelle « Le Rideau », déclenche sa méditation sur le corps et la maladie ?",
+    "choices": [
+      "Un rideau de perles de plastique rouge",
+      "Un tas de bonbons enveloppés que l'on peut emporter",
+      "Deux horloges murales synchronisées",
+      "Des guirlandes d'ampoules nues"
+    ],
+    "answer": 0,
+    "explanation": "Il s'agit de « Untitled » (Blood), 1992. Rappelant que l'artiste est « mort du sida en 1996 », Slimani voit à travers le « chatoiement de rouge » le sang et la maladie, et avoue être « obsédée par le corps », qu'elle porte « comme un fardeau ». Les autres propositions sont d'autres œuvres célèbres de González-Torres.",
+    "tags": ["art contemporain", "corps"]
+  },
+  {
+    "id": "sli-009",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "À quoi Slimani compare-t-elle les grands blocs de verre de Roni Horn (Well and Truly) exposés dans le « cube » de Tadao Ando ?",
+    "choices": [
+      "À la prison où son père fut enfermé",
+      "À l'écriture, qui ne parvient jamais à saisir l'essentiel",
+      "Aux murs de la médina de Rabat",
+      "À la lagune de Venise gelée en hiver"
+    ],
+    "answer": 1,
+    "explanation": "Ces blocs qui semblent figer de l'eau réalisent le fantasme « de s'emparer de l'insaisissable ». Pour Slimani, c'est l'expérience de tout romancier : un monde se crée, mais l'essentiel demeure inaccessible. D'où la formule : « L'écriture est l'expérience d'un continuel échec, d'une frustration indépassable, d'une impossibilité. »",
+    "tags": ["art contemporain", "écriture"]
+  },
+  {
+    "id": "sli-010",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel est le principe de l'installation d'Hicham Berrada, faite de monolithes noirs abritant des galants de nuit, telle que la décrit Slimani ?",
+    "choices": [
+      "Les fleurs poussent dans l'eau salée de la lagune",
+      "Un parfum de synthèse imite l'odeur du jasmin",
+      "Le cycle de la plante est inversé : obscurité le jour, lumière artificielle la nuit",
+      "Les visiteurs peuvent cueillir une fleur à la tombée du jour"
+    ],
+    "answer": 2,
+    "explanation": "Le jour, les terrariums restent opaques et l'odeur embaume le musée ; la nuit, un éclairage au sodium reproduit une journée d'été. L'artiste se fait « démiurge, apprenti sorcier, illusionniste », et Slimani songe à Tchekhov, pour qui les grands écrivains font surgir la neige en plein été. L'installation relie l'enfance marocaine et la réflexion sur le pouvoir de l'art.",
+    "tags": ["art contemporain", "Maroc"]
+  },
+  {
+    "id": "sli-011",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Assise sur son lit de camp, la narratrice observe une série photographique sur les transformations d'une ville. Laquelle ?",
+    "choices": [
+      "Paris de nuit, de Brassaï",
+      "The Americans, de Robert Frank",
+      "Les Halles, d'Eugène Atget",
+      "Changing New York, de Berenice Abbott"
+    ],
+    "answer": 3,
+    "explanation": "Berenice Abbott, ancienne assistante de Man Ray, avait acheté les archives d'Atget ; de retour à New York en 1929, elle photographie une ville en mutation. Slimani y reconnaît son propre sentiment au retour chez elle : le monde intime a continué à vivre sans elle, source « d'éblouissement » et impression « de trahison ». Les immeubles photographiés lui apparaissent « comme des palimpsestes ».",
+    "tags": ["art", "mémoire"]
+  },
+  {
+    "id": "sli-012",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Devant Marilyn de Philippe Parreno, Slimani rapporte qu'une romancière lui a dit qu'un roman historique, c'est « de la science-fiction du passé ». Laquelle ?",
+    "choices": [
+      "Claire Messud",
+      "Marguerite Yourcenar",
+      "Nancy Huston",
+      "Annie Ernaux"
+    ],
+    "answer": 0,
+    "explanation": "Parreno, comme Berrada ou Roni Horn, est un artiste « démiurge » qui « fait revenir les morts à la vie » ; Slimani y voit ce qu'elle tente avec son roman historique (Le Pays des autres). La formule de Claire Messud souligne que le passé raconté n'est « rien d'autre qu'une invention qui a l'air vraie ». Le passage se prolonge sur les morts qui vivent tant qu'on parle d'eux.",
+    "tags": ["fiction", "mémoire"]
+  },
+  {
+    "id": "sli-013",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quelle exposition de la collection Pinault Slimani parcourt-elle lors de sa nuit à la Punta della Dogana (2019) ?",
+    "choices": [
+      "Dancing with Myself",
+      "Luogo e Segni",
+      "Untitled, 2020",
+      "Accrochage"
+    ],
+    "answer": 1,
+    "explanation": "« Luogo e Segni » (« Lieu et signes »), présentée du 24 mars au 15 décembre 2019 et conçue par Martin Bethenod et Mouna Mekouar, réunissait 36 artistes autour du rapport de l'homme à la nature. Slimani note qu'elle met aussi en scène des amitiés artistiques, comme celle de Roni Horn et Félix González-Torres. Les autres titres sont d'autres expositions présentées à la Punta della Dogana.",
+    "tags": ["contexte", "exposition"]
+  },
+  {
+    "id": "sli-014",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel architecte a dirigé la réhabilitation de la Punta della Dogana, dont Slimani décrit longuement le bâtiment ?",
+    "choices": [
+      "Renzo Piano",
+      "Jean Nouvel",
+      "Tadao Ando",
+      "Kengo Kuma"
+    ],
+    "answer": 2,
+    "explanation": "L'architecte japonais a préservé les matériaux d'origine des entrepôts du XVIIe siècle (dessinés par Giuseppe Benoni) et inséré au centre une grande salle en béton, le « cube ». Slimani relève la technique du « scuci-cuci », qui remplace une brique abîmée par une brique de récupération : sur ces murs se mêlent « le passé et le présent, l'antique et le moderne, les cicatrices et la jeunesse ».",
+    "tags": ["Venise", "architecture"]
+  },
+  {
+    "id": "sli-015",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Pour quel roman Leïla Slimani a-t-elle reçu le prix Goncourt en 2016 ?",
+    "choices": [
+      "Dans le jardin de l'ogre",
+      "Le Pays des autres",
+      "Sexe et mensonges",
+      "Chanson douce"
+    ],
+    "answer": 3,
+    "explanation": "Chanson douce (Gallimard, 2016), son deuxième roman, s'ouvre sur un incipit glaçant : « Le bébé est mort. » Il raconte comment une nounou, Louise, en vient à tuer les deux enfants dont elle a la garde. Sexe et mensonges (2017) est un recueil de témoignages sur la vie sexuelle des femmes au Maroc.",
+    "tags": ["biographie", "œuvre"]
+  },
+  {
+    "id": "sli-016",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Devant le rideau rouge de González-Torres, la narratrice pense à Adèle. De quel roman est-elle l'héroïne ?",
+    "choices": [
+      "Chanson douce",
+      "Le Pays des autres",
+      "Regardez-nous danser",
+      "Dans le jardin de l'ogre"
+    ],
+    "answer": 3,
+    "explanation": "Adèle, héroïne de Dans le jardin de l'ogre (2014), premier roman de Slimani, est une femme qui pousse son corps à bout et « perçoit le monde à travers un rideau de sang ». Le passage montre comment une œuvre plastique réveille la mémoire de l'œuvre littéraire : le livre est aussi un retour réflexif sur la création.",
+    "tags": ["corps", "œuvre"]
+  },
+  {
+    "id": "sli-017",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle fonction Othman Slimani, le père de l'autrice, avait-il occupée avant d'être pris dans le scandale qui le conduisit en prison ?",
+    "choices": [
+      "Gouverneur de Bank Al-Maghrib",
+      "Président du CIH (Crédit immobilier et hôtelier)",
+      "Ambassadeur du Maroc à Paris",
+      "Directeur de l'Office chérifien des phosphates"
+    ],
+    "answer": 1,
+    "explanation": "Économiste, membre du gouvernement chargé de l'Économie de 1977 à 1979, il dirigea ensuite le CIH jusqu'en 1993. Mis en cause dans le scandale du CIH, il fut incarcéré quelques mois et mourut en 2004, avant la fin de la procédure. Le Parfum des fleurs la nuit est le premier livre où Slimani évoque cette blessure, « avec pudeur et retenue » selon ses mots.",
+    "tags": ["père", "biographie"]
+  },
+  {
+    "id": "sli-018",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quels auteurs Slimani place-t-elle en épigraphe du livre ?",
+    "choices": [
+      "Albert Camus et Anton Tchekhov",
+      "Virginia Woolf et Rainer Maria Rilke",
+      "Stefan Zweig et Franz Kafka",
+      "Marguerite Duras et Fernando Pessoa"
+    ],
+    "answer": 0,
+    "explanation": "La phrase de Camus suggère que la solitude, si elle existe, mériterait qu'on en rêve « comme d'un paradis » ; celle de Tchekhov affirme que là où il y a de l'art et du talent il n'y a ni vieillesse, ni solitude, ni maladie, et que la mort même est moins lourde. Les deux épigraphes annoncent le couple solitude / art qui structure le texte. Woolf et Rilke sont cités dans le livre, mais pas en épigraphe.",
+    "tags": ["paratexte", "épigraphe"]
+  },
+  {
+    "id": "sli-019",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "À qui le livre est-il dédié ?",
+    "choices": [
+      "À Alina Gurdiel et à Kamel Daoud",
+      "À son père Othman et à sa mère",
+      "À Jean-Marie Laclavetine et à Salman Rushdie",
+      "À Annie Ernaux et à Virginia Woolf"
+    ],
+    "answer": 2,
+    "explanation": "La dédicace salue Jean-Marie Laclavetine, son éditeur chez Gallimard, qui l'a éveillée à l'écriture, et « [son] ami Salman Rushdie », figure de l'écrivain menacé pour sa liberté de parole. Ce paratexte inscrit le récit dans une réflexion sur la vocation d'écrivain et la liberté de création.",
+    "tags": ["paratexte", "dédicace"]
+  },
+  {
+    "id": "sli-020",
+    "theme": "slimani",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Pour critiquer une société « obsédée par l'étalage de soi », la narratrice cite l'hommage rendu à Rilke dans Le Monde d'hier. Qui en est l'auteur ?",
+    "choices": [
+      "Stefan Zweig",
+      "Thomas Mann",
+      "Joseph Roth",
+      "Robert Musil"
+    ],
+    "answer": 0,
+    "explanation": "Slimani se demande ce que Zweig aurait pensé d'une époque où toute prise de position expose « à la violence et à la haine » et où l'on écrit « cent quarante caractères ». Elle cite sa question : « Notre époque n'est-elle pas précisément celle qui ne permet pas le silence même aux plus purs, aux plus isolés […] ? » Le désir de retraite devient aussi une critique de la modernité.",
+    "tags": ["intertextualité", "modernité"]
+  },
+  {
+    "id": "sli-021",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le récit est construit en deux temps : une journée à Paris en décembre 2018, puis une nuit au musée à Venise au printemps 2019.",
+    "answer": true,
+    "explanation": "La partie parisienne (une vingtaine de pages) montre le temps contraint de l'écrivaine qui ne parvient pas à écrire, puis le rendez-vous avec l'éditrice ; la partie vénitienne (une centaine de pages) suit la nuit d'avril 2019 à la Punta della Dogana. Les deux temps durent à peu près une douzaine d'heures, mais le second, choisi, paraît bien plus long.",
+    "tags": ["structure", "temps"]
+  },
+  {
+    "id": "sli-022",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Slimani se présente dans le livre comme une fine connaisseuse de l'art contemporain.",
+    "answer": false,
+    "explanation": "Elle affirme au contraire : « Je n'y connais pas grand-chose. Je m'y intéresse peu. » Les œuvres ne sont pas commentées en critique d'art : elles servent de déclencheurs à la mémoire et à la réflexion. En entretien, elle invoquait Duchamp : « c'est le regardeur qui fait l'œuvre d'art ».",
+    "tags": ["art contemporain", "regard"]
+  },
+  {
+    "id": "sli-023",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans la même collection « Ma nuit au musée », Kamel Daoud a raconté une nuit au musée Picasso de Paris, dans Le Peintre dévorant la femme (2018).",
+    "answer": true,
+    "explanation": "Le livre de Kamel Daoud, paru chez Stock en 2018, année de création de la collection par Alina Gurdiel, part de l'exposition « Picasso 1932. Année érotique ». Chaque volume de la collection mêle visite nocturne d'un musée et récit de soi, ce qui en fait un genre hybride entre essai sur l'art et autobiographie.",
+    "tags": ["collection", "genre"]
+  },
+  {
+    "id": "sli-024",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Othman Slimani est mort après avoir été définitivement blanchi par la justice marocaine.",
+    "answer": false,
+    "explanation": "Mis en cause dans l'affaire du CIH, incarcéré pendant quatre mois, il meurt d'un cancer en avril 2004, avant l'issue de la procédure ; la presse rapporte qu'il a été blanchi à titre posthume. Slimani avait 22 ans : elle a dit que la prison de son père avait été « fondatrice » dans son écriture, et que la littérature était pour elle « la présomption d'innocence ».",
+    "tags": ["père", "injustice"]
+  },
+  {
+    "id": "sli-025",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Chanson douce est le premier roman publié par Leïla Slimani.",
+    "answer": false,
+    "explanation": "Son premier roman est Dans le jardin de l'ogre (Gallimard, 2014), dont l'héroïne Adèle est évoquée dans Le Parfum des fleurs la nuit. Chanson douce, deuxième roman, obtient le Goncourt en 2016. Le récit rappelle d'ailleurs le moment où, en décembre 2013, elle écrivait ce premier roman.",
+    "tags": ["biographie", "œuvre"]
+  },
+  {
+    "id": "sli-026",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Pour dire son obsession du corps, la narratrice reprend à Milan Kundera l'expression « la monotonie de la vie corporelle ».",
+    "answer": true,
+    "explanation": "Devant le rideau de González-Torres, elle écrit avoir perçu très jeune « ce que Kundera appelle “la monotonie de la vie corporelle” » : la tristesse des fonctions organiques, la laideur de la chair, l'impuissance face à la maladie, qui occupent selon elle « une place centrale » dans son œuvre. Le motif relie la nuit au musée à Dans le jardin de l'ogre.",
+    "tags": ["corps", "intertextualité"]
+  },
+  {
+    "id": "sli-027",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans la collection « Ma nuit au musée », Lola Lafon a passé sa nuit au Louvre.",
+    "answer": false,
+    "explanation": "Lola Lafon a passé une nuit, en août 2021, dans l'Annexe du musée Anne Frank à Amsterdam, d'où Quand tu écouteras cette chanson (Stock, 2022), où elle évoque aussi l'histoire de sa famille juive. Ce titre, comme celui de Slimani, illustre la dimension autobiographique de la collection.",
+    "tags": ["collection", "genre"]
+  },
+  {
+    "id": "sli-028",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Slimani écrit que « la littérature consiste en une érotique du silence ».",
+    "answer": true,
+    "explanation": "Pour elle, « ce que l'on ne dit pas nous appartient pour toujours » ; écrire, « c'est jouer avec le silence, c'est dire, de manière détournée, des secrets indicibles dans la vie réelle ». La littérature est un « art de la rétention », comparable à la retenue des premiers moments de l'amour. Cette poétique éclaire la pudeur avec laquelle elle évoque son père.",
+    "tags": ["écriture", "silence"]
+  },
+  {
+    "id": "sli-029",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans la partie parisienne, l'écriture est présentée comme une manière de se consoler et de guérir de ses chagrins.",
+    "answer": false,
+    "explanation": "Elle affirme l'inverse : « On ne peut chercher à guérir ou à se consoler. On doit au contraire cultiver ses chagrins comme les laborantins cultivent des bactéries. » Écrire, c'est « s'entraver », mais de ces entraves naît « une liberté immense, vertigineuse ». La critique a cependant montré que le livre, dans son ensemble, prête aussi à la littérature une fonction de réparation.",
+    "tags": ["écriture", "discipline"]
+  },
+  {
+    "id": "sli-030",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le Pays des autres (2020), auquel l'autrice travaille dans la partie parisienne, ouvre une trilogie inspirée de l'histoire de sa propre famille.",
+    "answer": true,
+    "explanation": "La trilogie (Le Pays des autres, 2020 ; Regardez-nous danser, 2022 ; J'emporterai le feu, 2025) s'inspire notamment de sa grand-mère alsacienne, épouse d'un Marocain, devenue le personnage de Mathilde. La grand-mère alsacienne est également évoquée dans Le Parfum des fleurs la nuit, qui éclaire la genèse de ce cycle romanesque.",
+    "tags": ["œuvre", "famille"]
+  },
+  {
+    "id": "sli-031",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le texte repose sur un pacte romanesque : la narratrice est un personnage fictif distinct de l'autrice.",
+    "answer": false,
+    "explanation": "La narratrice qui dit « je » est Leïla Slimani elle-même : elle évoque son éditrice, ses romans, ses enfants, son père. Il y a donc identité entre auteur, narrateur et personnage, ce qui définit le pacte autobiographique selon Philippe Lejeune. Le texte reste toutefois hybride, mêlant récit de soi, essai sur l'écriture et description d'œuvres.",
+    "tags": ["genre", "autobiographie"]
+  },
+  {
+    "id": "sli-032",
+    "theme": "slimani",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La narratrice situe en décembre 2013, alors qu'elle écrivait Dans le jardin de l'ogre, le moment où elle a pris conscience de la liberté que donne l'écriture.",
+    "answer": true,
+    "explanation": "Elle habitait boulevard Rochechouart et écrivait pendant que son fils était à la garderie ; elle se dit alors : « Toi, l'enfant polie qui a appris à se tenir, à se contenir, tu peux dire ta vérité. » Dans cet espace, « le masque social tombe » : « Écrire c'est découvrir la liberté de s'inventer soi-même et d'inventer le monde. »",
+    "tags": ["liberté", "devenir soi"]
+  },
+  {
+    "id": "sli-033",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Engagement implicite ou explicite par lequel l'auteur affirme l'identité entre lui-même, le narrateur et le personnage principal, et promet de dire la vérité sur sa vie (Philippe Lejeune, 1975).",
+    "choices": [
+      "Pacte autobiographique",
+      "Pacte romanesque",
+      "Roman à clef",
+      "Mémoires"
+    ],
+    "answer": 0,
+    "explanation": "Philippe Lejeune définit l'autobiographie comme un « récit rétrospectif en prose qu'une personne réelle fait de sa propre existence ». Le Parfum des fleurs la nuit relève de ce pacte (identité de nom entre l'autrice et la narratrice), sans être une autobiographie complète : c'est un fragment de vie centré sur une nuit.",
+    "tags": ["notion", "autobiographie"]
+  },
+  {
+    "id": "sli-034",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Terme forgé par Serge Doubrovsky (Fils, 1977) pour désigner une « fiction d'événements et de faits strictement réels », où l'auteur se raconte en assumant une part d'invention.",
+    "choices": [
+      "Biographie",
+      "Journal intime",
+      "Autofiction",
+      "Récit de filiation"
+    ],
+    "answer": 2,
+    "explanation": "Certains critiques ont qualifié Le Parfum des fleurs la nuit d'« autofiction », mais le terme est discutable : Slimani y parle en son nom, sans travestissement fictionnel affiché. Il vaut mieux parler de récit autobiographique ou de récit de soi hybride, mêlé d'essai.",
+    "tags": ["notion", "genre"]
+  },
+  {
+    "id": "sli-035",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Description littéraire d'une œuvre d'art (tableau, sculpture, installation), qui la rend présente au lecteur par les mots.",
+    "choices": [
+      "Hypotypose",
+      "Ekphrasis",
+      "Prosopopée",
+      "Blason"
+    ],
+    "answer": 1,
+    "explanation": "L'ekphrasis remonte à la description du bouclier d'Achille dans l'Iliade. Slimani la pratique de manière subjective : les blocs de Roni Horn ressemblent à « d'énormes bonbons à la menthe », à « des icebergs qu'une main humaine aurait modelés ». La description glisse toujours vers le souvenir ou la réflexion sur l'écriture.",
+    "tags": ["procédé", "art"]
+  },
+  {
+    "id": "sli-036",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Développement qui s'écarte du fil principal du récit ou du raisonnement pour aborder un autre sujet, avant d'y revenir.",
+    "choices": [
+      "Ellipse",
+      "Prolepse",
+      "Pause descriptive",
+      "Digression"
+    ],
+    "answer": 3,
+    "explanation": "La déambulation nocturne fonctionne comme une suite de digressions : une œuvre fait surgir un souvenir (le père, l'enfance à Rabat), une citation (Zweig, Kundera, Tchekhov) ou une réflexion (identité, enfermement, écriture). La structure libre, associative, rapproche le livre de l'essai à la manière de Montaigne.",
+    "tags": ["procédé", "structure"]
+  },
+  {
+    "id": "sli-037",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Dimension d'un texte littéraire qui prend pour objet sa propre élaboration et réfléchit sur l'écriture, ses conditions et ses difficultés.",
+    "choices": [
+      "Intertextualité",
+      "Paratexte",
+      "Réflexivité (dimension métalittéraire)",
+      "Hypotexte"
+    ],
+    "answer": 2,
+    "explanation": "Le livre est autant un récit qu'une réflexion sur le métier d'écrivain : discipline, solitude, panne d'inspiration (l'anecdote de Tolstoï attendant le retour d'Anna Karénine), sentiment d'échec. Slimani compare les écrivains à des opiomanes qui oublient les effets secondaires et ne se souviennent que de l'extase.",
+    "tags": ["notion", "écriture"]
+  },
+  {
+    "id": "sli-038",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Courte citation placée en tête d'un livre ou d'un chapitre, qui en éclaire le sens ou l'esprit.",
+    "choices": [
+      "Épigraphe",
+      "Dédicace",
+      "Avant-propos",
+      "Préface"
+    ],
+    "answer": 0,
+    "explanation": "Les épigraphes de Camus (la solitude rêvée comme un paradis) et de Tchekhov (l'art et le talent qui abolissent solitude, vieillesse et maladie) programment la lecture. Les distinguer de la dédicace (à Jean-Marie Laclavetine et à Salman Rushdie) fait partie de l'étude du paratexte.",
+    "tags": ["notion", "paratexte"]
+  },
+  {
+    "id": "sli-039",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Ensemble des éléments qui entourent le texte et en orientent la lecture (titre, dédicace, épigraphes, quatrième de couverture, nom de collection), selon Gérard Genette.",
+    "choices": [
+      "Métatexte",
+      "Hypertexte",
+      "Architexte",
+      "Paratexte"
+    ],
+    "answer": 3,
+    "explanation": "Dans Seuils (1987), Genette distingue péritexte et épitexte. Pour Le Parfum des fleurs la nuit, le nom de la collection « Ma nuit au musée » est un élément décisif : il annonce un pacte de lecture (une nuit réelle, un musée réel) et un texte de commande. Les entretiens de l'autrice relèvent de l'épitexte.",
+    "tags": ["notion", "paratexte"]
+  },
+  {
+    "id": "sli-040",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Retour en arrière dans la narration, qui évoque un événement antérieur au moment du récit principal.",
+    "choices": [
+      "Prolepse",
+      "Analepse",
+      "Ellipse",
+      "Sommaire"
+    ],
+    "answer": 1,
+    "explanation": "Le récit principal tient en une nuit, mais les analepses y font affluer l'enfance à Rabat, l'adolescence, le père emprisonné, l'écriture du premier roman en 2013. Ce va-et-vient entre présent de la nuit et passé remémoré est caractéristique des écritures de soi étudiées au lycée.",
+    "tags": ["procédé", "temps"]
+  },
+  {
+    "id": "sli-041",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Parchemin dont on a effacé le premier texte pour en écrire un nouveau, et, par métaphore, réalité où des traces anciennes restent lisibles sous les plus récentes.",
+    "choices": [
+      "Codex",
+      "Incunable",
+      "Palimpseste",
+      "Enluminure"
+    ],
+    "answer": 2,
+    "explanation": "Devant les photographies de Berenice Abbott, Slimani voit les immeubles new-yorkais « comme des palimpsestes » qui portent « dans leur chair de béton les témoignages du passé ». La métaphore vaut pour tout le livre : les murs restaurés de la Douane, la mémoire de l'autrice, où rien ne meurt jamais tout à fait.",
+    "tags": ["notion", "mémoire"]
+  },
+  {
+    "id": "sli-042",
+    "theme": "slimani",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Présence, dans un texte, d'autres textes sous forme de citations, d'allusions ou de références.",
+    "choices": [
+      "Polyphonie",
+      "Pastiche",
+      "Parodie",
+      "Intertextualité"
+    ],
+    "answer": 3,
+    "explanation": "Le livre est tissé de références : Hemingway, Roth et Stevenson sur la solitude, Zweig et Rilke sur le silence, Kundera sur le corps, Tchekhov sur l'illusion romanesque, Virginia Woolf. Ces voix construisent la figure d'une écrivaine qui se définit par ses lectures.",
+    "tags": ["notion", "intertextualité"]
+  },
+  {
+    "id": "sli-043",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces étapes du parcours de Leïla Slimani dans l'ordre chronologique.",
+    "events": [
+      { "label": "Naissance de Leïla Slimani à Rabat", "year": 1981 },
+      { "label": "Mort de son père, Othman Slimani", "year": 2004 },
+      { "label": "Publication de Dans le jardin de l'ogre", "year": 2014 },
+      { "label": "Prix Goncourt pour Chanson douce", "year": 2016 },
+      { "label": "Publication du Parfum des fleurs la nuit", "year": 2021 }
+    ],
+    "explanation": "Née à Rabat en 1981, formée à Sciences Po, d'abord journaliste, Slimani publie son premier roman en 2014 puis obtient le Goncourt deux ans plus tard. La mort de son père, quand elle avait 22 ans, est une blessure qu'elle aborde pour la première fois dans Le Parfum des fleurs la nuit (Stock, janvier 2021).",
+    "tags": ["biographie", "repères"]
+  },
+  {
+    "id": "sli-044",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces moments liés à la genèse du livre dans l'ordre chronologique.",
+    "events": [
+      { "label": "Elle prend conscience de la liberté de l'écriture en rédigeant son premier roman", "year": 2013 },
+      { "label": "Journée parisienne et rendez-vous avec l'éditrice Alina", "year": 2018 },
+      { "label": "Nuit à la Punta della Dogana, à Venise", "year": 2019 },
+      { "label": "Parution du Pays des autres, le roman en chantier", "year": 2020 },
+      { "label": "Parution du Parfum des fleurs la nuit chez Stock", "year": 2021 }
+    ],
+    "explanation": "Le récit s'ouvre en décembre 2018 à Paris, la nuit au musée a lieu en avril 2019, et le roman sur Meknès qui « n'a pas encore de titre » paraît en 2020. Le souvenir de décembre 2013 est une analepse : le livre superpose plusieurs strates de la vie d'écrivaine.",
+    "tags": ["genèse", "repères"]
+  },
+  {
+    "id": "sli-045",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces étapes de la vie d'Othman Slimani, le père de l'autrice, dans l'ordre chronologique.",
+    "events": [
+      { "label": "Naissance à Fès", "year": 1941 },
+      { "label": "Entrée au gouvernement, chargé de l'Économie", "year": 1977 },
+      { "label": "Écarté de la présidence du CIH après un scandale financier", "year": 1993 },
+      { "label": "Mise en cause judiciaire et incarcération dans l'affaire du CIH", "year": 2002 },
+      { "label": "Mort, avant l'issue de la procédure", "year": 2004 }
+    ],
+    "explanation": "Ministre de 1977 à 1979, puis président du CIH jusqu'en 1993, il est mis en cause en 2002 avec d'anciens collaborateurs et emprisonné plusieurs mois. Il meurt en 2004. Sa fille, qui le dit injustement accusé, présente la littérature comme une « présomption d'innocence » et l'écriture comme une manière de « réparer » les infamies subies par sa famille.",
+    "tags": ["père", "repères"]
+  },
+  {
+    "id": "sli-046",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre du récit ces moments de la première partie et de l'arrivée au musée.",
+    "events": [
+      { "label": "« La première règle quand on veut écrire un roman, c'est de dire non »", "year": 1, "marker": "Étape 1" },
+      { "label": "Souvenir de décembre 2013 et de la liberté vertigineuse de l'écriture", "year": 2, "marker": "Étape 2" },
+      { "label": "Dans le métro, en route vers le rendez-vous avec Alina", "year": 3, "marker": "Étape 3" },
+      { "label": "Réflexion sur le silence à partir de Zweig et de Rilke", "year": 4, "marker": "Étape 4" },
+      { "label": "Visite du musée en compagnie du gardien, qui ne parle pas français", "year": 5, "marker": "Étape 5" }
+    ],
+    "explanation": "Le livre progresse du temps contraint (le bureau parisien, la panne d'inspiration, le rendez-vous) vers le temps choisi de la nuit vénitienne. La réflexion sur une époque qui ne permet plus le silence fait la transition, avant que le gardien ne laisse l'écrivaine seule dans un bâtiment qu'elle compare à un organisme vivant, comme si elle avait été « avalée par une baleine ».",
+    "tags": ["structure", "récit"]
+  },
+  {
+    "id": "sli-047",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre de leur apparition dans le récit ces œuvres rencontrées au cours de la nuit.",
+    "events": [
+      { "label": "Le rideau de perles rouges de Félix González-Torres", "year": 1, "marker": "Œuvre 1" },
+      { "label": "Les blocs de verre de Roni Horn, dans le « cube »", "year": 2, "marker": "Œuvre 2" },
+      { "label": "Les terrariums de galants de nuit d'Hicham Berrada", "year": 3, "marker": "Œuvre 3" },
+      { "label": "La série Changing New York de Berenice Abbott", "year": 4, "marker": "Œuvre 4" },
+      { "label": "Marilyn de Philippe Parreno", "year": 5, "marker": "Œuvre 5" }
+    ],
+    "explanation": "Le parcours va du corps et de la maladie (González-Torres) à l'échec de l'écriture (Horn), au parfum de l'enfance (Berrada), puis à la mémoire des lieux (Abbott) et au retour des morts par la fiction (Parreno). Chaque œuvre est moins décrite pour elle-même que comme miroir de l'écrivaine.",
+    "tags": ["structure", "art contemporain"]
+  },
+  {
+    "id": "sli-048",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces repères liés au lieu et à la collection dans l'ordre chronologique.",
+    "events": [
+      { "label": "Ouverture de la Punta della Dogana réhabilitée par Tadao Ando", "year": 2009 },
+      { "label": "Création de la collection « Ma nuit au musée » ; Kamel Daoud au musée Picasso", "year": 2018 },
+      { "label": "Exposition « Luogo e Segni » à la Punta della Dogana", "year": 2019 },
+      { "label": "Parution du Parfum des fleurs la nuit", "year": 2021 },
+      { "label": "Parution de Quand tu écouteras cette chanson de Lola Lafon", "year": 2022 }
+    ],
+    "explanation": "La collection d'Alina Gurdiel chez Stock propose à chaque auteur de passer une nuit seul dans un musée : le musée Picasso pour Kamel Daoud, la Punta della Dogana pour Slimani, l'Annexe du musée Anne Frank pour Lola Lafon. Ces textes de commande deviennent souvent des récits très personnels.",
+    "tags": ["collection", "repères"]
+  },
+  {
+    "id": "sli-049",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces repères relatifs aux artistes évoqués par Slimani dans l'ordre chronologique.",
+    "events": [
+      { "label": "Berenice Abbott retourne à New York et photographie la ville en mutation", "year": 1929 },
+      { "label": "Félix González-Torres crée « Untitled » (Blood), le rideau rouge", "year": 1992 },
+      { "label": "Mort de Félix González-Torres, emporté par le sida", "year": 1996 },
+      { "label": "Philippe Parreno réalise Marilyn", "year": 2012 },
+      { "label": "Ces œuvres sont réunies dans « Luogo e Segni »", "year": 2019 }
+    ],
+    "explanation": "L'exposition met en regard des œuvres de près d'un siècle : la photographie documentaire d'Abbott, héritière d'Atget, et les installations contemporaines. Slimani y voit une obsession commune : « retrouver, dans le monde qui les entoure, la trace des fantômes et prouver ainsi que rien ne meurt jamais tout à fait ».",
+    "tags": ["art contemporain", "repères"]
+  },
+  {
+    "id": "sli-050",
+    "theme": "slimani",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Situez Le Parfum des fleurs la nuit dans l'histoire des écritures de soi : classez ces œuvres et textes théoriques dans l'ordre chronologique.",
+    "events": [
+      { "label": "Montaigne, première édition des Essais", "year": 1580 },
+      { "label": "Rousseau, première partie des Confessions (publication posthume)", "year": 1782 },
+      { "label": "Philippe Lejeune, Le Pacte autobiographique", "year": 1975 },
+      { "label": "Nathalie Sarraute, Enfance", "year": 1983 },
+      { "label": "Leïla Slimani, Le Parfum des fleurs la nuit", "year": 2021 }
+    ],
+    "explanation": "Le livre de Slimani hérite de l'essai montaignien (« je suis moi-même la matière de mon livre ») autant que de l'autobiographie rousseauiste. Il entre dans l'objet d'étude de seconde professionnelle « Devenir soi : écritures autobiographiques » : se construire par le souvenir, l'enfance, la famille et le rapport au monde.",
+    "tags": ["genre", "lycée professionnel"]
+  }
+]

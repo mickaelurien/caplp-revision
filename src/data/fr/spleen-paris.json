@@ -1,0 +1,580 @@
+[
+  {
+    "id": "spl-001",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "En quelle année paraît pour la première fois en volume le recueil des poèmes en prose de Baudelaire ?",
+    "choices": ["1857", "1861", "1869", "1866"],
+    "answer": 2,
+    "explanation": "Le recueil paraît en 1869, à titre posthume (Baudelaire meurt le 31 août 1867), dans le tome IV des Œuvres complètes publiées chez Michel Lévy par Charles Asselineau et Théodore de Banville, sous le titre Petits poèmes en prose. L'ordre des 50 pièces de cette édition est devenu l'ordre de référence.",
+    "tags": ["genèse", "édition"]
+  },
+  {
+    "id": "spl-002",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "À qui est adressée la lettre-dédicace placée en tête du recueil ?",
+    "choices": ["Arsène Houssaye", "Victor Hugo", "Théophile Gautier", "Charles Asselineau"],
+    "answer": 0,
+    "explanation": "La lettre est adressée à Arsène Houssaye, directeur de La Presse, où paraît en 1862 une série de « petits poèmes en prose » précédée de cette dédicace. Le texte sert d'art poétique au recueil : Baudelaire y définit son projet et y rend hommage à Aloysius Bertrand.",
+    "tags": ["dédicace", "genèse"]
+  },
+  {
+    "id": "spl-003",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel livre Baudelaire dit-il avoir feuilleté « pour la vingtième fois au moins » avant de concevoir ses poèmes en prose ?",
+    "choices": ["Les Rêveries du promeneur solitaire de Rousseau", "Gaspard de la Nuit d'Aloysius Bertrand", "Les Chansons de Bilitis de Pierre Louÿs", "Les Chants de Maldoror de Lautréamont"],
+    "answer": 1,
+    "explanation": "Gaspard de la Nuit (posthume, 1842) est le modèle avoué : Baudelaire veut appliquer « à la description de la vie moderne, ou plutôt d'une vie moderne et plus abstraite » le procédé que Bertrand avait appliqué « à la peinture de la vie ancienne, si étrangement pittoresque ». Maldoror (1869) et Bilitis (1894) sont postérieurs.",
+    "tags": ["dédicace", "Bertrand"]
+  },
+  {
+    "id": "spl-004",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans la dédicace, la prose poétique rêvée doit être « assez souple et assez heurtée pour s'adapter… » à quoi ?",
+    "choices": ["aux caprices de la mode, aux bruits de la rue, aux cris des marchands", "aux règles de l'éloquence, aux élans du cœur, aux leçons de l'histoire", "aux couleurs du tableau, aux timbres de l'orchestre, aux gestes du mime", "aux mouvements lyriques de l'âme, aux ondulations de la rêverie, aux soubresauts de la conscience"],
+    "answer": 3,
+    "explanation": "La phrase complète est : « Quel est celui de nous qui n'a pas, dans ses jours d'ambition, rêvé le miracle d'une prose poétique, musicale sans rythme et sans rime, assez souple et assez heurtée pour s'adapter aux mouvements lyriques de l'âme, aux ondulations de la rêverie, aux soubresauts de la conscience ? » Le couple « souple / heurtée » définit une prose à la fois mélodique et discontinue.",
+    "tags": ["dédicace", "poétique"]
+  },
+  {
+    "id": "spl-005",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Selon la dédicace, de quoi « naît cet idéal obsédant » d'une prose poétique ?",
+    "choices": ["De la lecture assidue des poètes latins de la décadence", "Du désir de rivaliser avec le roman réaliste", "De la fréquentation des villes énormes et du croisement de leurs innombrables rapports", "De la contemplation solitaire de la nature et de la mer"],
+    "answer": 2,
+    "explanation": "« C'est surtout de la fréquentation des villes énormes, c'est du croisement de leurs innombrables rapports que naît cet idéal obsédant. » Le poème en prose est donc lié à l'expérience urbaine moderne ; Baudelaire cite aussitôt l'exemple du « cri strident du Vitrier », qu'Houssaye avait tenté de traduire en chanson.",
+    "tags": ["dédicace", "ville"]
+  },
+  {
+    "id": "spl-006",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans « L'Étranger », poème qui ouvre le recueil, qu'est-ce que l'« homme énigmatique » déclare aimer ?",
+    "choices": ["Les nuages qui passent", "Sa patrie et sa famille", "La beauté, déesse immortelle", "L'or et la gloire"],
+    "answer": 0,
+    "explanation": "Interrogé sur son père, sa mère, sa sœur, son frère, ses amis, sa patrie, la beauté et l'or, l'étranger refuse tout et répond : « J'aime les nuages… les nuages qui passent… là-bas… là-bas… les merveilleux nuages ! » Ce dialogue liminaire pose la figure du poète déraciné, tourné vers un ailleurs insaisissable.",
+    "tags": ["L'Étranger", "poète"]
+  },
+  {
+    "id": "spl-007",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "De quel poème est tirée la formule « Multitude, solitude : termes égaux et convertibles pour le poète actif et fécond » ?",
+    "choices": ["« La Solitude »", "« Les Veuves »", "« À une heure du matin »", "« Les Foules »"],
+    "answer": 3,
+    "explanation": "« Les Foules » (poème 12) s'ouvre sur : « Il n'est pas donné à chacun de prendre un bain de multitude : jouir de la foule est un art. » Le poète y revendique « cet incomparable privilège, qu'il peut à sa guise être lui-même et autrui » : une « sainte prostitution de l'âme » qui fait de lui un flâneur capable d'épouser toutes les vies.",
+    "tags": ["Les Foules", "foule"]
+  },
+  {
+    "id": "spl-008",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Où se déroule la scène des « Yeux des pauvres » ?",
+    "choices": ["Dans un jardin public où joue une musique militaire", "Devant un café neuf, au coin d'un boulevard neuf", "Sur le pont des Arts, au soleil couchant", "Dans un omnibus traversant les faubourgs"],
+    "answer": 1,
+    "explanation": "Le couple s'assied « devant un café neuf qui formait le coin d'un boulevard neuf, encore tout plein de gravois », éclatant de dorures. Le décor renvoie directement au Paris haussmannien, où la ville neuve expose le luxe aux regards des pauvres, ici un homme et ses deux enfants.",
+    "tags": ["Les Yeux des pauvres", "Haussmann"]
+  },
+  {
+    "id": "spl-009",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Que reproche le narrateur du « Mauvais Vitrier » au vitrier qu'il a fait monter chez lui ?",
+    "choices": ["De n'avoir pas de verres de couleur", "D'avoir réveillé le quartier par son cri", "De vendre des vitres trop chères", "D'avoir brisé un carreau dans l'escalier"],
+    "answer": 0,
+    "explanation": "« Comment ? vous n'avez pas de verres de couleur ? des verres roses, rouges, bleus, des vitres magiques, des vitres de paradis ? » Le narrateur brise ensuite toute la marchandise avec un pot de fleurs en criant « La vie en beau ! la vie en beau ! ». Le poème illustre l'« acte gratuit » et l'humour cruel du recueil.",
+    "tags": ["Le Mauvais Vitrier", "cruauté"]
+  },
+  {
+    "id": "spl-010",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans « Perte d'auréole », comment le poète a-t-il perdu son auréole ?",
+    "choices": ["Elle lui a été volée par un mendiant dans une église", "Il l'a vendue à un brocanteur pour payer ses dettes", "Elle a glissé dans la fange du macadam alors qu'il traversait le boulevard", "Il l'a jetée dans la Seine par dégoût de la gloire"],
+    "answer": 2,
+    "explanation": "Pressé de traverser le boulevard au milieu du chaos des voitures, le poète laisse tomber son auréole « dans la fange du macadam » et ne la ramasse pas. Walter Benjamin a lu ce poème comme l'emblème de la perte de l'aura de l'art et de l'expérience du choc propre à la grande ville.",
+    "tags": ["Perte d'auréole", "modernité"]
+  },
+  {
+    "id": "spl-011",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel poème commence par « Cette vie est un hôpital où chaque malade est possédé du désir de changer de lit » ?",
+    "choices": ["« Le Port »", "« Any where out of the world »", "« L'Invitation au voyage »", "« Les Projets »"],
+    "answer": 1,
+    "explanation": "Le narrateur y propose à son âme diverses destinations (Lisbonne, la Hollande, Batavia, Tornéo, le pôle) ; elle finit par « faire explosion » : « N'importe où ! n'importe où ! pourvu que ce soit hors de ce monde ! » Le titre anglais est emprunté au poète Thomas Hood.",
+    "tags": ["Any where out of the world", "évasion"]
+  },
+  {
+    "id": "spl-012",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans « Le Joujou du pauvre », quel est le jouet de l'enfant pauvre, de l'autre côté de la grille ?",
+    "choices": ["Un pantin de bois sans tête", "Une toupie fabriquée avec un bouchon", "Un cerceau rouillé", "Un rat vivant enfermé dans une boîte grillée"],
+    "answer": 3,
+    "explanation": "L'enfant riche délaisse son joujou splendide pour regarder le « joujou » du pauvre : « un rat vivant ! » Les deux enfants se rient l'un à l'autre « fraternellement, avec des dents d'une égale blancheur » : la grille sépare les classes, mais le rire révèle une égalité naturelle, non sans ironie.",
+    "tags": ["Le Joujou du pauvre", "misère"]
+  },
+  {
+    "id": "spl-013",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "À quel peintre est dédié le poème « La Corde » ?",
+    "choices": ["Eugène Delacroix", "Constantin Guys", "Édouard Manet", "Gustave Courbet"],
+    "answer": 2,
+    "explanation": "« La Corde » est dédiée « À Édouard Manet ». Un peintre y raconte le suicide du jeune garçon qui lui servait de modèle et la démarche de la mère venue réclamer la corde, dont les morceaux se vendent comme porte-bonheur. Le récit s'inspire d'un fait réel survenu dans l'atelier de Manet ; il démonte les « illusions » sur l'amour maternel.",
+    "tags": ["La Corde", "cruauté"]
+  },
+  {
+    "id": "spl-014",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans « Le Vieux Saltimbanque », de qui le narrateur croit-il voir l'image dans le vieil homme misérable et immobile au milieu de la fête ?",
+    "choices": ["Du vieil homme de lettres qui a survécu à la génération dont il fut le brillant amuseur", "Du soldat de l'Empire oublié par la patrie qu'il a servie", "Du prêtre qui a perdu la foi et continue d'officier", "De l'ouvrier chassé de son faubourg par les démolitions"],
+    "answer": 0,
+    "explanation": "La chute du poème identifie le saltimbanque à l'artiste vieillissant : « Je viens de voir l'image du vieil homme de lettres qui a survécu à la génération dont il fut le brillant amuseur ». Le texte est une allégorie de la condition de l'artiste, abandonné par un public qui ne cherche que le divertissement.",
+    "tags": ["Le Vieux Saltimbanque", "artiste"]
+  },
+  {
+    "id": "spl-015",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans « Enivrez-vous », de quoi le poète invite-t-il à s'enivrer ?",
+    "choices": ["D'opium, de haschisch ou d'éther", "De vin, de poésie ou de vertu", "D'amour, de gloire ou de voyages", "De musique, de parfums ou de couleurs"],
+    "answer": 1,
+    "explanation": "« Il faut être toujours ivre. Tout est là » ; pour ne pas sentir « l'horrible fardeau du Temps », il faut s'enivrer « de vin, de poésie ou de vertu, à votre guise ». L'ivresse, au sens large, est un remède contre le spleen et la conscience du temps, thème commun avec Les Paradis artificiels (1860).",
+    "tags": ["Enivrez-vous", "ivresse"]
+  },
+  {
+    "id": "spl-016",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel préfet de la Seine conduit, sous le Second Empire, les grands travaux qui bouleversent le Paris de Baudelaire ?",
+    "choices": ["Le baron Haussmann", "Le comte de Rambuteau", "Eugène Poubelle", "Adolphe Thiers"],
+    "answer": 0,
+    "explanation": "Georges Eugène Haussmann est préfet de la Seine de 1853 à 1870 : percées de boulevards, démolition du vieux Paris, nouveaux cafés et éclairage. Baudelaire en fait une matière poétique : « la forme d'une ville / Change plus vite, hélas ! que le cœur d'un mortel » (« Le Cygne », Les Fleurs du mal, 1861).",
+    "tags": ["Haussmann", "ville"]
+  },
+  {
+    "id": "spl-017",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel artiste, désigné par l'initiale « M. G. », est au centre du Peintre de la vie moderne (1863) ?",
+    "choices": ["Honoré Daumier", "Gustave Doré", "Paul Gavarni", "Constantin Guys"],
+    "answer": 3,
+    "explanation": "Le Peintre de la vie moderne, publié dans Le Figaro fin 1863, célèbre le dessinateur Constantin Guys, « homme des foules » et flâneur. Baudelaire y définit la modernité : « le transitoire, le fugitif, le contingent, la moitié de l'art, dont l'autre moitié est l'éternel et l'immuable ».",
+    "tags": ["Peintre de la vie moderne", "modernité"]
+  },
+  {
+    "id": "spl-018",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel critique a fait de Baudelaire le poète du flâneur, de la foule et de l'« expérience du choc » dans la grande ville capitaliste ?",
+    "choices": ["Jean-Paul Sartre", "Georges Blin", "Walter Benjamin", "Paul Valéry"],
+    "answer": 2,
+    "explanation": "Walter Benjamin, dans ses travaux sur Paris (exposé « Paris, capitale du XIXe siècle », 1935) et dans « Sur quelques thèmes baudelairiens » (1939-1940), lit Baudelaire comme le poète lyrique à l'apogée du capitalisme. Le flâneur, la marchandise, la foule et le choc y deviennent des catégories critiques ; Sartre, lui, propose une psychanalyse existentielle (Baudelaire, 1947).",
+    "tags": ["critique", "Benjamin"]
+  },
+  {
+    "id": "spl-019",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quels sont les trois critères du poème en prose définis par Suzanne Bernard (Le Poème en prose de Baudelaire jusqu'à nos jours, 1959) ?",
+    "choices": ["Musicalité, image, rythme", "Brièveté, unité, gratuité", "Narration, description, moralité", "Concision, chute, ironie"],
+    "answer": 1,
+    "explanation": "Pour Suzanne Bernard, le poème en prose est un tout organique (unité), ramassé (brièveté), sans visée narrative ou démonstrative extérieure à lui-même (gratuité). Ces critères, devenus classiques, s'appliquent imparfaitement au Spleen de Paris, dont plusieurs pièces sont proches de l'anecdote, du conte ou de l'apologue.",
+    "tags": ["critique", "genre"]
+  },
+  {
+    "id": "spl-020",
+    "theme": "spleen",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "En 1866, Baudelaire présente son recueil en prose comme « encore Les Fleurs du mal, mais avec beaucoup plus de liberté, et de détail, et de… » ?",
+    "choices": ["mélancolie", "musique", "raillerie", "violence"],
+    "answer": 2,
+    "explanation": "Dans une lettre à Jules Troubat (19 février 1866), Baudelaire définit Le Spleen de Paris comme « encore Les Fleurs du mal, mais avec beaucoup plus de liberté, et de détail, et de raillerie ». La formule souligne la continuité thématique entre les deux recueils et la place nouvelle de l'ironie dans la prose.",
+    "tags": ["correspondance", "Fleurs du mal"]
+  },
+  {
+    "id": "spl-021",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Baudelaire a lui-même publié en volume Le Spleen de Paris, un an avant sa mort.",
+    "answer": false,
+    "explanation": "Baudelaire meurt en 1867 sans avoir réuni ses poèmes en prose en volume ; seules des publications en revue (une quarantaine de pièces) ont eu lieu de son vivant. Le recueil paraît en 1869 dans les Œuvres complètes, sous le titre Petits poèmes en prose.",
+    "tags": ["édition", "genèse"]
+  },
+  {
+    "id": "spl-022",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le titre « Le Spleen de Paris » apparaît en 1864 dans Le Figaro, alors que celui de « Petits poèmes en prose » est retenu pour l'édition posthume de 1869.",
+    "answer": true,
+    "explanation": "Le Figaro publie le 7 février 1864 quatre pièces sous le titre Le Spleen de Paris, que Baudelaire présente ensuite comme devant faire pendant aux Fleurs du mal. Le recueil a connu d'autres titres envisagés ou employés : « Poèmes nocturnes », « Petits poèmes en prose », « Le Promeneur solitaire », « Le Rôdeur parisien ».",
+    "tags": ["titres", "genèse"]
+  },
+  {
+    "id": "spl-023",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "En août 1857, Baudelaire est condamné pour « outrage à la morale religieuse » à cause des Fleurs du mal.",
+    "answer": false,
+    "explanation": "Le tribunal correctionnel relaxe Baudelaire du chef d'outrage à la morale religieuse et le condamne pour outrage à la morale publique et aux bonnes mœurs : amende et suppression de six poèmes. Le procureur Ernest Pinard avait déjà requis contre Madame Bovary la même année.",
+    "tags": ["procès 1857", "biographie"]
+  },
+  {
+    "id": "spl-024",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "« L'Invitation au voyage » existe à la fois en vers dans Les Fleurs du mal et en prose dans Le Spleen de Paris.",
+    "answer": true,
+    "explanation": "C'est l'exemple le plus célèbre des doublets. Le poème en vers (« Mon enfant, ma sœur, / Songe à la douceur… ») devient dans la prose (poème 18) l'évocation d'un « pays de Cocagne », plus détaillée et plus ironique. D'autres doublets existent : « La Chevelure » / « Un hémisphère dans une chevelure », « Le Crépuscule du soir ».",
+    "tags": ["doublets", "Fleurs du mal"]
+  },
+  {
+    "id": "spl-025",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans « Les Yeux des pauvres », c'est le narrateur qui demande au maître du café d'éloigner la famille pauvre.",
+    "answer": false,
+    "explanation": "C'est la femme aimée qui s'exclame : « Ces gens-là me sont insupportables avec leurs yeux ouverts comme des portes cochères ! Ne pourriez-vous pas prier le maître du café de les éloigner d'ici ? » Le narrateur, lui, se sentait « un peu honteux » de leur luxe ; le poème conclut ironiquement sur l'impossibilité de « s'entendre ».",
+    "tags": ["Les Yeux des pauvres", "misère"]
+  },
+  {
+    "id": "spl-026",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans sa dédicace, Baudelaire évoque une « chanson » d'Arsène Houssaye consacrée au cri du vitrier, ce qui éclaire le poème « Le Mauvais Vitrier ».",
+    "answer": true,
+    "explanation": "Baudelaire écrit à Houssaye : « Vous-même, mon cher ami, n'avez-vous pas tenté de traduire en une chanson le cri strident du Vitrier » ; il s'agit de « La Chanson du vitrier », texte d'Houssaye empreint de compassion. « Le Mauvais Vitrier » en prend le contre-pied par sa cruauté gratuite, ce qui donne à l'hommage une dimension parodique.",
+    "tags": ["dédicace", "Le Mauvais Vitrier"]
+  },
+  {
+    "id": "spl-027",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans « Assommons les pauvres ! », le mendiant battu par le narrateur finit par lui rendre ses coups, ce dont le narrateur se félicite.",
+    "answer": true,
+    "explanation": "Le narrateur, après avoir lu les doctrinaires du bonheur public, roue de coups un mendiant ; celui-ci riposte, et le narrateur lui déclare : « Monsieur, vous êtes mon égal ! » La morale provocatrice (« Celui-là seul est l'égal d'un autre, qui le prouve ») vise, par l'ironie, l'humanitarisme et les utopies sociales.",
+    "tags": ["Assommons les pauvres !", "ironie"]
+  },
+  {
+    "id": "spl-028",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Baudelaire affirme dans sa dédicace avoir fidèlement reproduit la manière d'Aloysius Bertrand.",
+    "answer": false,
+    "explanation": "Il avoue au contraire qu'il est resté « bien loin de [son] mystérieux et brillant modèle » et qu'il a fait « quelque chose (si cela peut s'appeler quelque chose) de singulièrement différent ». Bertrand peignait une « vie ancienne » pittoresque ; Baudelaire veut saisir la vie moderne et abstraite.",
+    "tags": ["dédicace", "Bertrand"]
+  },
+  {
+    "id": "spl-029",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Comme Les Fleurs du mal, Le Spleen de Paris est organisé en sections titrées formant une architecture revendiquée.",
+    "answer": false,
+    "explanation": "Les Fleurs du mal (1861) comptent six sections (« Spleen et Idéal », « Tableaux parisiens »…). La dédicace du Spleen revendique au contraire un ouvrage dont « tout […] y est à la fois tête et queue » : « Nous pouvons couper où nous voulons, moi ma rêverie, vous le manuscrit, le lecteur sa lecture ». La métaphore du serpent (« Enlevez une vertèbre ») dit cette composition fragmentaire.",
+    "tags": ["composition", "dédicace"]
+  },
+  {
+    "id": "spl-030",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans la « lettre du voyant » (1871), Rimbaud salue Baudelaire comme « le premier voyant, roi des poètes, un vrai Dieu », tout en jugeant sa forme « mesquine ».",
+    "answer": true,
+    "explanation": "Lettre à Paul Demeny du 15 mai 1871 : « Baudelaire est le premier voyant, roi des poètes, un vrai Dieu. Encore a-t-il vécu dans un milieu trop artiste ; et la forme si vantée en lui est mesquine. » Rimbaud prolonge pourtant la voie du poème en prose avec Une saison en enfer et les Illuminations.",
+    "tags": ["réception", "Rimbaud"]
+  },
+  {
+    "id": "spl-031",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Les 50 pièces du recueil de 1869 avaient toutes paru en revue du vivant de Baudelaire.",
+    "answer": false,
+    "explanation": "Une quarantaine de pièces seulement ont paru en revue de son vivant (Le Présent, La Presse, Le Figaro, la Revue de Paris…) ; une dizaine sont publiées de façon posthume, entre 1867 et 1869, comme « Any where out of the world ». L'état du recueil reste donc en partie tributaire des éditeurs de 1869.",
+    "tags": ["genèse", "édition"]
+  },
+  {
+    "id": "spl-032",
+    "theme": "spleen",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "En lycée professionnel, comparer « La Chevelure » (en vers) et « Un hémisphère dans une chevelure » (en prose) permet de faire percevoir aux élèves ce qui fait la poésie au-delà du vers et de la rime.",
+    "answer": true,
+    "explanation": "L'étude des doublets est une entrée efficace : même motif (la chevelure, le parfum, le voyage), mais disparition du vers au profit de la phrase, du rythme et des anaphores (« Laisse-moi respirer longtemps, longtemps, l'odeur de tes cheveux »). Elle prépare des activités d'écriture : transposer un poème en vers en prose, ou écrire un poème en prose sur une scène de rue.",
+    "tags": ["didactique", "doublets"]
+  },
+  {
+    "id": "spl-033",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Texte bref en prose, à forte densité poétique (images, rythme, échos sonores), formant un tout autonome sans recourir au vers ni à la rime.",
+    "choices": ["Poème en prose", "Vers libre", "Prose rythmée de roman", "Fable"],
+    "answer": 0,
+    "explanation": "Le genre naît avec Aloysius Bertrand (Gaspard de la Nuit, 1842) et s'affirme avec Baudelaire, qui en fait l'instrument de la « vie moderne ». Il ne faut pas le confondre avec le vers libre (Rimbaud, Laforgue, Kahn), qui conserve le retour à la ligne et la segmentation en vers.",
+    "tags": ["genre", "notions"]
+  },
+  {
+    "id": "spl-034",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Promeneur oisif et attentif de la grande ville, qui observe la foule et les spectacles de la rue en s'y mêlant sans s'y perdre.",
+    "choices": ["Dandy", "Flâneur", "Bohème", "Badaud"],
+    "answer": 1,
+    "explanation": "Baudelaire décrit dans Le Peintre de la vie moderne ce « parfait flâneur » pour qui « c'est une immense jouissance que d'élire domicile dans le nombre ». Walter Benjamin en a fait une figure centrale de la modernité parisienne. Le badaud, à la différence du flâneur, s'absorbe dans le spectacle et y perd sa conscience.",
+    "tags": ["flâneur", "notions"]
+  },
+  {
+    "id": "spl-035",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Chez Baudelaire, état d'ennui profond et d'angoisse, mêlant dégoût de l'existence, conscience oppressante du temps et impuissance, opposé à l'aspiration vers l'Idéal.",
+    "choices": ["Nostalgie", "Acédie", "Spleen", "Mal du siècle"],
+    "answer": 2,
+    "explanation": "Le mot anglais (« rate », siège supposé de la bile noire, donc de la mélancolie) structure « Spleen et Idéal », la première section des Fleurs du mal. Dans le recueil en prose, le spleen s'incarne notamment dans la tyrannie du Temps (« La Chambre double », « Enivrez-vous »). Le « mal du siècle » désigne plutôt la mélancolie de la génération romantique d'après 1815.",
+    "tags": ["spleen", "notions"]
+  },
+  {
+    "id": "spl-036",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Texte qui reprend, sous une autre forme (ici en prose), un poème antérieur du même auteur portant sur le même motif, souvent sous le même titre.",
+    "choices": ["Pastiche", "Palinodie", "Réécriture parodique", "Doublet"],
+    "answer": 3,
+    "explanation": "On parle de doublets pour les poèmes en prose qui reprennent des pièces des Fleurs du mal : « L'Invitation au voyage », « Le Crépuscule du soir », « Un hémisphère dans une chevelure » / « La Chevelure ». Leur comparaison montre ce que la prose ajoute : détail, digression, ironie, présence du réel urbain.",
+    "tags": ["doublets", "notions"]
+  },
+  {
+    "id": "spl-037",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Selon Baudelaire (1863), « le transitoire, le fugitif, le contingent, la moitié de l'art, dont l'autre moitié est l'éternel et l'immuable ».",
+    "choices": ["La modernité", "Le progrès", "Le réalisme", "L'impressionnisme"],
+    "answer": 0,
+    "explanation": "La définition vient du Peintre de la vie moderne. L'artiste moderne doit « dégager de la mode ce qu'elle peut contenir de poétique dans l'historique, tirer l'éternel du transitoire ». Baudelaire se méfie par ailleurs de l'idée de progrès, ce « fanal obscur » qu'il dénonce dès 1855.",
+    "tags": ["modernité", "notions"]
+  },
+  {
+    "id": "spl-038",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Figure de l'élégance raffinée et de la distinction froide, que Baudelaire définit comme un « dernier éclat d'héroïsme dans les décadences ».",
+    "choices": ["Le saltimbanque", "Le dandy", "Le flâneur", "L'étranger"],
+    "answer": 1,
+    "explanation": "Le chapitre « Le Dandy » du Peintre de la vie moderne affirme : « Le dandysme est le dernier éclat d'héroïsme dans les décadences ». Le dandy cultive « le plaisir d'étonner et la satisfaction orgueilleuse de ne jamais être étonné » ; c'est une aristocratie de l'esprit face à la démocratie montante.",
+    "tags": ["dandysme", "notions"]
+  },
+  {
+    "id": "spl-039",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Fin brève et inattendue d'un texte court, qui renverse ou éclaire rétrospectivement tout ce qui précède.",
+    "choices": ["Incipit", "Péripétie", "Chute", "Épiphanie"],
+    "answer": 2,
+    "explanation": "Beaucoup de poèmes du Spleen de Paris reposent sur une chute : « Monsieur, vous êtes mon égal ! » (« Assommons les pauvres ! »), la phrase sur le « vieil homme de lettres » (« Le Vieux Saltimbanque »), ou l'apostrophe de l'aimée dans « La Soupe et les nuages ». Repérer la chute est une entrée accessible pour l'analyse en classe.",
+    "tags": ["chute", "notions"]
+  },
+  {
+    "id": "spl-040",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Court récit à visée morale, dont la leçon est explicite ou implicite ; plusieurs poèmes en prose de Baudelaire en adoptent la forme pour mieux la subvertir.",
+    "choices": ["Nouvelle", "Allégorie", "Parabole évangélique", "Apologue"],
+    "answer": 3,
+    "explanation": "« Le Chien et le flacon », « La Fausse Monnaie » ou « Assommons les pauvres ! » ont l'allure d'apologues, mais leur « morale » est souvent paradoxale, cruelle ou ironique. Baudelaire détourne ainsi la tradition de la fable pour déstabiliser le lecteur bourgeois.",
+    "tags": ["apologue", "notions"]
+  },
+  {
+    "id": "spl-041",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Procédé par lequel un être concret (personnage, objet, scène) représente terme à terme une idée abstraite, comme le saltimbanque figurant l'artiste délaissé.",
+    "choices": ["Allégorie", "Métonymie", "Hypotypose", "Antiphrase"],
+    "answer": 0,
+    "explanation": "« Le Vieux Saltimbanque » ou « Perte d'auréole » fonctionnent comme des allégories de la condition de l'artiste. Benjamin a souligné l'importance de l'allégorie chez Baudelaire, regard qui « déchiffre » la ville moderne. L'hypotypose, elle, désigne une description si vive qu'elle met la scène sous les yeux.",
+    "tags": ["allégorie", "notions"]
+  },
+  {
+    "id": "spl-042",
+    "theme": "spleen",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Décalage volontaire entre ce qui est dit et ce qui est pensé, permettant de railler une idée ou une attitude en feignant de l'adopter.",
+    "choices": ["Lyrisme", "Ironie", "Pathétique", "Satire ménippée"],
+    "answer": 1,
+    "explanation": "L'ironie est le trait majeur du recueil selon Baudelaire lui-même (« beaucoup plus de […] raillerie »). Elle frappe la bonne conscience charitable (« La Fausse Monnaie »), l'humanitarisme (« Assommons les pauvres ! ») ou l'amour (« Les Yeux des pauvres »), et parfois le narrateur lui-même.",
+    "tags": ["ironie", "notions"]
+  },
+  {
+    "id": "spl-043",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez dans l'ordre chronologique ces étapes de la genèse du recueil.",
+    "events": [
+      { "label": "Publication posthume de Gaspard de la Nuit d'Aloysius Bertrand", "year": 1842 },
+      { "label": "Six « Poèmes nocturnes » paraissent dans la revue Le Présent", "year": 1857 },
+      { "label": "Série de « petits poèmes en prose » dans La Presse, avec la dédicace à Houssaye", "year": 1862 },
+      { "label": "Premier emploi du titre « Le Spleen de Paris » dans Le Figaro", "year": 1864 },
+      { "label": "Édition posthume des Petits poèmes en prose chez Michel Lévy", "year": 1869 }
+    ],
+    "explanation": "La genèse s'étend sur une quinzaine d'années de publications dispersées dans la presse. Le titre fluctue (« Poèmes nocturnes », « Petits poèmes en prose », « Le Spleen de Paris ») : Baudelaire n'a jamais fixé lui-même la forme définitive du volume, ce qui explique l'existence de deux titres concurrents aujourd'hui.",
+    "tags": ["genèse", "publications"]
+  },
+  {
+    "id": "spl-044",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces événements de la vie de Baudelaire dans l'ordre chronologique.",
+    "events": [
+      { "label": "Naissance de Charles Baudelaire à Paris", "year": 1821 },
+      { "label": "Voyage forcé vers l'océan Indien (île Maurice, La Réunion)", "year": 1841 },
+      { "label": "Procès et condamnation des Fleurs du mal", "year": 1857 },
+      { "label": "Départ pour la Belgique (séjour à Bruxelles)", "year": 1864 },
+      { "label": "Mort de Baudelaire à Paris", "year": 1867 }
+    ],
+    "explanation": "Le voyage de 1841-1842, imposé par sa famille, nourrit l'imaginaire exotique (« La Chevelure », « Un hémisphère dans une chevelure »). Après le procès de 1857 viennent les années de dettes et d'écriture des poèmes en prose ; frappé d'une attaque à Namur en 1866, Baudelaire meurt aphasique le 31 août 1867.",
+    "tags": ["biographie", "repères"]
+  },
+  {
+    "id": "spl-045",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces événements historiques qui encadrent l'écriture baudelairienne.",
+    "events": [
+      { "label": "Révolution de février : Baudelaire sur les barricades", "year": 1848 },
+      { "label": "Coup d'État de Louis-Napoléon Bonaparte", "year": 1851 },
+      { "label": "Haussmann nommé préfet de la Seine", "year": 1853 },
+      { "label": "Seconde édition des Fleurs du mal, avec la section « Tableaux parisiens »", "year": 1861 },
+      { "label": "Publication du Peintre de la vie moderne dans Le Figaro", "year": 1863 }
+    ],
+    "explanation": "Après l'engagement de 1848, le coup d'État de 1851 « a « physiquement dépolitiqué » Baudelaire, selon une lettre de mars 1852. Le Second Empire et les travaux d'Haussmann transforment Paris, que la section « Tableaux parisiens » (1861), puis les poèmes en prose, prennent pour sujet.",
+    "tags": ["contexte", "Second Empire"]
+  },
+  {
+    "id": "spl-046",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces poèmes dans l'ordre où ils apparaissent dans le recueil de 1869.",
+    "events": [
+      { "label": "« L'Étranger »", "year": 1, "marker": "Poème 1" },
+      { "label": "« Le Confiteor de l'artiste »", "year": 2, "marker": "Poème 3" },
+      { "label": "« Le Mauvais Vitrier »", "year": 3, "marker": "Poème 9" },
+      { "label": "« Les Foules »", "year": 4, "marker": "Poème 12" },
+      { "label": "« Le Vieux Saltimbanque »", "year": 5, "marker": "Poème 14" }
+    ],
+    "explanation": "Le recueil s'ouvre sur la figure de l'étranger, puis sur le « duel » de l'artiste avec le beau : « L'étude du beau est un duel où l'artiste crie de frayeur avant d'être vaincu » (« Le Confiteor de l'artiste »). Les premiers poèmes posent ainsi la question de la place du poète dans le monde moderne.",
+    "tags": ["composition", "ordre des poèmes"]
+  },
+  {
+    "id": "spl-047",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces poèmes dans l'ordre où ils apparaissent dans le recueil de 1869.",
+    "events": [
+      { "label": "« La Chambre double »", "year": 1, "marker": "Poème 5" },
+      { "label": "« Les Veuves »", "year": 2, "marker": "Poème 13" },
+      { "label": "« Un hémisphère dans une chevelure »", "year": 3, "marker": "Poème 17" },
+      { "label": "« L'Invitation au voyage »", "year": 4, "marker": "Poème 18" },
+      { "label": "« Le Crépuscule du soir »", "year": 5, "marker": "Poème 22" }
+    ],
+    "explanation": "« La Chambre double » oppose la chambre « spirituelle » du rêve à la chambre sordide où le Temps reprend son règne. Les poèmes 17 et 18 se suivent et constituent deux doublets de pièces des Fleurs du mal, tout comme « Le Crépuscule du soir », déjà présent en vers dans les « Tableaux parisiens ».",
+    "tags": ["composition", "ordre des poèmes"]
+  },
+  {
+    "id": "spl-048",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces poèmes dans l'ordre où ils apparaissent dans le recueil de 1869.",
+    "events": [
+      { "label": "« Le Joujou du pauvre »", "year": 1, "marker": "Poème 19" },
+      { "label": "« Les Yeux des pauvres »", "year": 2, "marker": "Poème 26" },
+      { "label": "« La Corde »", "year": 3, "marker": "Poème 30" },
+      { "label": "« Enivrez-vous »", "year": 4, "marker": "Poème 33" },
+      { "label": "« Les Fenêtres »", "year": 5, "marker": "Poème 35" }
+    ],
+    "explanation": "« Les Fenêtres » affirme que « Celui qui regarde du dehors à travers une fenêtre ouverte, ne voit jamais autant de choses que celui qui regarde une fenêtre fermée » : le poète y invente la « légende » d'une vieille femme aperçue derrière une vitre, emblème d'une poésie qui recrée le réel plutôt qu'elle ne le copie.",
+    "tags": ["composition", "ordre des poèmes"]
+  },
+  {
+    "id": "spl-049",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces poèmes dans l'ordre où ils apparaissent dans le recueil de 1869.",
+    "events": [
+      { "label": "« Le Port »", "year": 1, "marker": "Poème 41" },
+      { "label": "« Perte d'auréole »", "year": 2, "marker": "Poème 46" },
+      { "label": "« Any where out of the world »", "year": 3, "marker": "Poème 48" },
+      { "label": "« Assommons les pauvres ! »", "year": 4, "marker": "Poème 49" },
+      { "label": "« Les Bons Chiens »", "year": 5, "marker": "Poème 50" }
+    ],
+    "explanation": "« Le Port » s'ouvre sur « Un port est un séjour charmant pour une âme fatiguée des luttes de la vie ». Le recueil se clôt sur « Les Bons Chiens », dédié au peintre Joseph Stevens, éloge des chiens errants et crottés de la ville, double possible du poète des rues.",
+    "tags": ["composition", "ordre des poèmes"]
+  },
+  {
+    "id": "spl-050",
+    "theme": "spleen",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces lectures critiques ou réceptions de Baudelaire dans l'ordre chronologique.",
+    "events": [
+      { "label": "Rimbaud, « lettre du voyant » à Paul Demeny", "year": 1871 },
+      { "label": "Jean-Paul Sartre, Baudelaire", "year": 1947 },
+      { "label": "Suzanne Bernard, Le Poème en prose de Baudelaire jusqu'à nos jours", "year": 1959 },
+      { "label": "Barbara Johnson, Défigurations du langage poétique", "year": 1979 },
+      { "label": "Jacques Derrida, Donner le temps (analyse de « La Fausse Monnaie »)", "year": 1991 }
+    ],
+    "explanation": "La critique a d'abord privilégié Les Fleurs du mal ; Suzanne Bernard fonde l'étude du genre en 1959, et Barbara Johnson compare la « seconde révolution baudelairienne » des poèmes en prose aux poèmes en vers. Derrida, dans Donner le temps, fait de « La Fausse Monnaie » un texte majeur pour penser le don et la contrefaçon.",
+    "tags": ["critique", "réception"]
+  }
+]

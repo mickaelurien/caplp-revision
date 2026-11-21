@@ -59,6 +59,10 @@ for (const d of dirs) {
           const years = q.events.map((e) => e.year);
           if (years.some((y) => !Number.isInteger(y))) fail(file, id, 'année non entière');
           if (new Set(years).size !== years.length) fail(file, id, 'années non distinctes');
+          if (q.events.some((e) => !e.label?.trim())) fail(file, id, 'événement sans libellé');
+          const markers = q.events.filter((e) => e.marker !== undefined);
+          if (markers.some((e) => typeof e.marker !== 'string' || !e.marker.trim())) fail(file, id, 'marker invalide');
+          if (markers.length && markers.length !== q.events.length) fail(file, id, 'marker présent sur une partie des événements seulement');
         }
       }
     }

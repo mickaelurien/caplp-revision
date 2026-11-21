@@ -1,0 +1,580 @@
+[
+  {
+    "id": "gen-001",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel texte publié en 1549 par Joachim Du Bellay sert de manifeste au groupe qui deviendra la Pléiade ?",
+    "choices": ["La Deffence et illustration de la langue françoyse", "L'Art poétique françois", "L'Abrégé de l'art poétique françois", "Le Champ fleury"],
+    "answer": 0,
+    "explanation": "La Deffence et illustration (1549) défend la dignité du français face au latin et invite à l'enrichir par l'imitation des Anciens et des Italiens, dans l'esprit humaniste. L'Art poétique françois est de Thomas Sébillet (1548), auquel Du Bellay répond en partie ; l'Abrégé de l'art poétique françois est de Ronsard (1565) et le Champ fleury de Geoffroy Tory (1529).",
+    "tags": ["Pléiade", "manifeste"]
+  },
+  {
+    "id": "gen-002",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans le sonnet « Quand vous serez bien vieille, au soir, à la chandelle » (Sonnets pour Hélène), à quoi le poète invite-t-il finalement Hélène ?",
+    "choices": ["À se retirer du monde pour méditer sur la mort", "À profiter de la vie et de l'amour sans attendre", "À rester fidèle au souvenir d'un premier amour", "À renoncer à la poésie pour la vie de cour"],
+    "answer": 1,
+    "explanation": "Le sonnet s'achève sur le célèbre vers « Cueillez dès aujourd'hui les roses de la vie », reprise du carpe diem d'Horace. Ronsard y joue aussi de l'immortalité poétique : la vieille Hélène se vantera d'avoir été célébrée par lui, alors que le poète reposera « sous la terre ».",
+    "tags": ["Ronsard", "carpe diem"]
+  },
+  {
+    "id": "gen-003",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans sa préface de Phèdre (1677), comment Racine justifie-t-il moralement sa tragédie ?",
+    "choices": ["Il affirme que le théâtre n'a d'autre but que de divertir la cour", "Il présente la pièce comme une simple traduction fidèle d'Euripide", "Il assure qu'aucune de ses tragédies ne met davantage la vertu en lumière", "Il renonce à toute visée morale au nom de la seule beauté"],
+    "answer": 2,
+    "explanation": "Racine écrit : « Je n'ai point fait de tragédie où la vertu soit plus mise en jour que dans celle-ci » ; les fautes y sont punies et la passion montrée dans tout le désordre qu'elle cause. Cette défense, qui semble adressée aux milieux dévots et à Port-Royal, précède son retrait du théâtre profane jusqu'à Esther (1689).",
+    "tags": ["Racine", "préface"]
+  },
+  {
+    "id": "gen-004",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel dramaturge grec Racine revendique-t-il, dans la préface de Phèdre, comme la source principale de sa pièce ?",
+    "choices": ["Sophocle", "Eschyle", "Aristophane", "Euripide"],
+    "answer": 3,
+    "explanation": "La préface s'ouvre sur cette filiation : « Voici encore une tragédie dont le sujet est pris d'Euripide », c'est-à-dire de son Hippolyte. Racine mentionne aussi Sénèque, mais il déplace le centre de gravité vers Phèdre et invente le personnage d'Aricie, qui rend Hippolyte amoureux et donc moins parfait.",
+    "tags": ["Racine", "sources antiques"]
+  },
+  {
+    "id": "gen-005",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel roman épistolaire de Rousseau (1761), immense succès du siècle, incarne la sensibilité dite « préromantique » ?",
+    "choices": ["Julie ou la Nouvelle Héloïse", "Émile ou De l'éducation", "Paul et Virginie", "Les Rêveries du promeneur solitaire"],
+    "answer": 0,
+    "explanation": "Julie ou la Nouvelle Héloïse (1761) exalte la passion, la vertu et la nature (le cadre du lac Léman) sous forme de lettres. Paul et Virginie (1788) relève aussi du roman sensible mais il est de Bernardin de Saint-Pierre ; Émile (1762) est un traité d'éducation et les Rêveries un texte autobiographique posthume.",
+    "tags": ["roman sensible", "Rousseau"]
+  },
+  {
+    "id": "gen-006",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "L'Histoire du chevalier des Grieux et de Manon Lescaut paraît en 1731 comme septième tome de quelle œuvre de Prévost ?",
+    "choices": ["Le Philosophe anglais ou Histoire de M. Cleveland", "Mémoires et aventures d'un homme de qualité qui s'est retiré du monde", "Le Doyen de Killerine", "Les Égarements du cœur et de l'esprit"],
+    "answer": 1,
+    "explanation": "Manon Lescaut est d'abord un épisode des Mémoires et aventures d'un homme de qualité, avant de connaître une édition séparée et revue en 1753. Cleveland et Le Doyen de Killerine sont d'autres romans de Prévost ; Les Égarements du cœur et de l'esprit (1736-1738) sont de Crébillon fils.",
+    "tags": ["Prévost", "roman-mémoires"]
+  },
+  {
+    "id": "gen-007",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans Manon Lescaut, à qui des Grieux fait-il le récit de ses aventures ?",
+    "choices": ["À son ami Tiberge", "À son père", "À l'homme de qualité, le marquis de Renoncour", "Au frère de Manon, Lescaut"],
+    "answer": 2,
+    "explanation": "Le roman repose sur un récit enchâssé : Renoncour, narrateur des Mémoires, a croisé les amants à Pacy, puis retrouve des Grieux à Calais et l'écoute raconter son histoire. Ce dispositif rend le récit rétrospectif et plaidant : des Grieux cherche à justifier ses fautes, ce qui invite à lire son discours avec distance.",
+    "tags": ["Prévost", "récit enchâssé"]
+  },
+  {
+    "id": "gen-008",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans la dédicace du Spleen de Paris à Arsène Houssaye, quel modèle Baudelaire dit-il avoir voulu imiter ?",
+    "choices": ["Maurice de Guérin, Le Centaure", "Lautréamont, Les Chants de Maldoror", "Rimbaud, Illuminations", "Aloysius Bertrand, Gaspard de la nuit"],
+    "answer": 3,
+    "explanation": "Baudelaire dit avoir feuilleté « pour la vingtième fois au moins » Gaspard de la nuit (1842) d'Aloysius Bertrand et voulu appliquer à « la vie moderne » le procédé que Bertrand appliquait à la vie ancienne. Il y rêve « le miracle d'une prose poétique, musicale sans rythme et sans rime ».",
+    "tags": ["Baudelaire", "poème en prose"]
+  },
+  {
+    "id": "gen-009",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans Le Peintre de la vie moderne (1863), Baudelaire définit la modernité comme « le transitoire, le fugitif, le contingent ». Comment complète-t-il cette définition ?",
+    "choices": ["C'est « la moitié de l'art, dont l'autre moitié est l'éternel et l'immuable »", "C'est l'art tout entier, qui doit rompre avec toute idée d'éternité", "C'est ce que l'artiste doit fuir pour atteindre le beau idéal", "C'est le domaine propre de la photographie, non de la peinture"],
+    "answer": 0,
+    "explanation": "Pour Baudelaire, le beau a une double composante : un élément éternel et un élément circonstanciel, lié à l'époque, à la mode, à la ville. Le Spleen de Paris met en œuvre cette esthétique : la grande ville, la foule, les passants y deviennent matière poétique.",
+    "tags": ["Baudelaire", "modernité"]
+  },
+  {
+    "id": "gen-010",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans Caligula de Camus, quel événement déclenche la transformation de l'empereur au début de la pièce ?",
+    "choices": ["Un complot ourdi par Cherea", "La mort de Drusilla, sa sœur et son amante", "La trahison de Caesonia", "Une défaite militaire en Germanie"],
+    "answer": 1,
+    "explanation": "Après la mort de Drusilla, Caligula disparaît trois jours puis revient avec une vérité « toute simple » : « Les hommes meurent et ils ne sont pas heureux. » Il entreprend alors de pousser jusqu'au bout la logique de l'absurde en exerçant une liberté sans limite, qui devient tyrannie.",
+    "tags": ["Camus", "absurde"]
+  },
+  {
+    "id": "gen-011",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "À quel « cycle » de son œuvre Camus rattache-t-il Caligula ?",
+    "choices": ["Le cycle de la révolte, avec La Peste et Les Justes", "Le cycle de l'amour, avec Le Premier Homme", "Le cycle de l'absurde, avec L'Étranger et Le Mythe de Sisyphe", "Le cycle de l'exil, avec La Chute et L'Exil et le Royaume"],
+    "answer": 2,
+    "explanation": "Camus a conçu son œuvre par cycles, chacun combinant un roman, un essai et du théâtre : l'absurde (L'Étranger, Le Mythe de Sisyphe, Caligula, Le Malentendu), puis la révolte (La Peste, L'Homme révolté, Les Justes). Caligula illustre une réponse fausse à l'absurde : la liberté qui nie les autres hommes.",
+    "tags": ["Camus", "absurde"]
+  },
+  {
+    "id": "gen-012",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "De quelle expérience est né Le Parfum des fleurs la nuit (2021) de Leïla Slimani ?",
+    "choices": ["Un séjour de plusieurs mois dans une résidence d'écrivains à Tanger", "Une retraite dans un monastère pendant le confinement", "Un voyage sur les traces de son grand-père en Alsace", "Une nuit passée seule dans un musée d'art contemporain à Venise"],
+    "answer": 3,
+    "explanation": "Le livre s'inscrit dans la collection « Ma nuit au musée » (Stock) : Slimani accepte de se laisser enfermer une nuit à la Pointe de la Douane, à Venise. Ce récit hybride, entre écriture de soi et essai, médite sur l'enfermement, l'écriture, l'art et son identité entre Maroc et France.",
+    "tags": ["Slimani", "écriture de soi"]
+  },
+  {
+    "id": "gen-013",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Lors de la querelle du Cid (1637), que reprochent notamment Scudéry puis les Sentiments de l'Académie française à la pièce de Corneille ?",
+    "choices": ["Que Chimène accepte d'épouser le meurtrier de son père, ce qui choque bienséance et vraisemblance", "Que la pièce soit écrite en prose et non en alexandrins", "Que Rodrigue meure sur scène sous les yeux du public", "Que l'intrigue soit empruntée à la mythologie grecque plutôt qu'à l'histoire"],
+    "answer": 0,
+    "explanation": "Les adversaires du Cid, alors qualifié de tragi-comédie, lui reprochent un sujet invraisemblable et contraire aux bienséances ainsi que l'entassement d'événements en vingt-quatre heures. La querelle, arbitrée par la jeune Académie (Sentiments rédigés surtout par Chapelain), contribue à fixer les règles de la dramaturgie classique.",
+    "tags": ["querelle du Cid", "classicisme"]
+  },
+  {
+    "id": "gen-014",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Lequel de ces écrivains se range dans le camp des Modernes lors de la Querelle des Anciens et des Modernes ?",
+    "choices": ["Boileau", "Fontenelle", "La Fontaine", "La Bruyère"],
+    "answer": 1,
+    "explanation": "La querelle éclate en 1687 lorsque Charles Perrault lit à l'Académie Le Siècle de Louis le Grand, qui place les auteurs du temps au-dessus des Anciens. Fontenelle (Digression sur les Anciens et les Modernes, 1688) soutient les Modernes ; Boileau, La Fontaine, La Bruyère et Racine défendent l'imitation des Anciens.",
+    "tags": ["querelle", "Anciens et Modernes"]
+  },
+  {
+    "id": "gen-015",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel écrivain, alors jeune romantique, est resté célèbre pour le gilet rouge qu'il arborait lors de la bataille d'Hernani (1830) ?",
+    "choices": ["Alfred de Musset", "Alexandre Dumas", "Théophile Gautier", "Alfred de Vigny"],
+    "answer": 2,
+    "explanation": "Lors de la première d'Hernani à la Comédie-Française (25 février 1830), les jeunes partisans de Hugo, dont Gautier, affrontent les classiques. Le scandale commence dès le premier vers avec l'enjambement « C'est bien à l'escalier / Dérobé », qui disloque l'alexandrin classique.",
+    "tags": ["drame romantique", "Hernani"]
+  },
+  {
+    "id": "gen-016",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle formule résume la thèse centrale de L'existentialisme est un humanisme de Sartre (1946) ?",
+    "choices": ["« Il faut imaginer Sisyphe heureux »", "« On ne naît pas femme : on le devient »", "« Je pense, donc je suis »", "« L'existence précède l'essence »"],
+    "answer": 3,
+    "explanation": "Pour Sartre, l'homme n'a pas de nature donnée : il existe d'abord, puis se définit par ses actes, ce qui fonde sa liberté et sa responsabilité. « Il faut imaginer Sisyphe heureux » conclut Le Mythe de Sisyphe de Camus, qui refusait d'ailleurs l'étiquette d'existentialiste ; la phrase sur la femme est de Beauvoir (Le Deuxième Sexe, 1949).",
+    "tags": ["existentialisme", "Sartre"]
+  },
+  {
+    "id": "gen-017",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans La Littérature de l'âge baroque en France (1953), quelles deux figures Jean Rousset choisit-il comme emblèmes du baroque ?",
+    "choices": ["Circé et le paon", "Protée et Narcisse", "Icare et le phénix", "Orphée et la colombe"],
+    "answer": 0,
+    "explanation": "Le sous-titre de l'essai est « Circé et le paon » : Circé, la magicienne des métamorphoses, symbolise l'inconstance et le changement ; le paon, l'ostentation et le goût du décor. Rousset a ainsi contribué à faire du baroque une catégorie critique pour la littérature française de la fin du XVIe et du début du XVIIe siècle.",
+    "tags": ["baroque", "critique"]
+  },
+  {
+    "id": "gen-018",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "« Il n'y a de vraiment beau que ce qui ne peut servir à rien » : quelle doctrine, reprise par le Parnasse, Théophile Gautier formule-t-il ainsi dans la préface de Mademoiselle de Maupin (1835) ?",
+    "choices": ["L'engagement de l'écrivain", "L'art pour l'art", "L'art social", "Le réalisme"],
+    "answer": 1,
+    "explanation": "Gautier y défend l'autonomie de l'art contre l'exigence d'utilité morale ou sociale. Le Parnasse (Leconte de Lisle, Banville, Heredia), réuni autour du Parnasse contemporain (1866), en hérite le culte de la forme travaillée et de l'impassibilité ; Baudelaire dédie Les Fleurs du mal à Gautier, « poète impeccable ».",
+    "tags": ["Parnasse", "art pour l'art"]
+  },
+  {
+    "id": "gen-019",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui publie en 1886 dans Le Figaro un « Manifeste du symbolisme » ?",
+    "choices": ["Stéphane Mallarmé", "Paul Verlaine", "Jean Moréas", "Arthur Rimbaud"],
+    "answer": 2,
+    "explanation": "Moréas y propose d'appeler « symbolisme » la nouvelle poésie, qui cherche à « vêtir l'Idée d'une forme sensible ». Baudelaire (« Correspondances »), Verlaine et Mallarmé en sont les grands inspirateurs, mais le mouvement n'a jamais été une école unifiée.",
+    "tags": ["symbolisme", "manifeste"]
+  },
+  {
+    "id": "gen-020",
+    "theme": "genres",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel trait rapproche la passion de Phèdre chez Racine et celle de des Grieux chez Prévost ?",
+    "choices": ["Une passion heureuse qui finit par triompher des obstacles sociaux", "Une passion purement sensuelle, vécue sans aucune conscience morale", "Une passion feinte, qui sert d'abord une stratégie d'ascension sociale", "Une passion subie comme une fatalité, que la lucidité morale ne parvient pas à vaincre"],
+    "answer": 3,
+    "explanation": "Phèdre se sait coupable et se condamne, mais ne peut résister à « Vénus tout entière à sa proie attachée » ; des Grieux reconnaît ses fautes tout en se disant entraîné par une force supérieure. Les deux œuvres sont souvent lues à la lumière de l'augustinisme (Racine formé à Port-Royal, Prévost ancien bénédictin) : sans la grâce, la volonté humaine est impuissante face à la passion.",
+    "tags": ["passion", "comparaison"]
+  },
+  {
+    "id": "gen-021",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Poème à forme fixe de quatorze vers, composé de deux quatrains et de deux tercets, venu d'Italie (Pétrarque) et acclimaté en France au XVIe siècle.",
+    "choices": ["Le rondeau", "La ballade", "Le sonnet", "L'ode"],
+    "answer": 2,
+    "explanation": "Introduit en France par Marot et Mellin de Saint-Gelais, le sonnet devient la forme reine de la Pléiade (Du Bellay, L'Olive ; Ronsard, Les Amours). Sa structure favorise une progression vers la chute du dernier tercet ; Baudelaire le pratiquera encore abondamment dans Les Fleurs du mal avant de passer au poème en prose.",
+    "tags": ["poésie", "forme fixe"]
+  },
+  {
+    "id": "gen-022",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Texte bref et autonome, écrit en prose mais à visée poétique, que Suzanne Bernard (1959) caractérise par la brièveté, l'unité organique et la gratuité.",
+    "choices": ["La prose poétique", "Le verset", "Le vers libre", "Le poème en prose"],
+    "answer": 3,
+    "explanation": "Le poème en prose se distingue de la simple prose poétique (un passage lyrique dans un roman, par exemple) par son autonomie de texte clos. Après Bertrand (Gaspard de la nuit, 1842), Baudelaire en fait avec Le Spleen de Paris le genre de la modernité urbaine, avant Rimbaud (Illuminations) et Lautréamont.",
+    "tags": ["poésie", "poème en prose"]
+  },
+  {
+    "id": "gen-023",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Vers affranchi du mètre régulier et de l'obligation de la rime, dont la longueur varie selon le rythme et le sens, pratiqué à partir des années 1880 (Rimbaud, Laforgue, Kahn).",
+    "choices": ["Le vers libre", "Le vers libéré", "Le vers blanc", "Le vers impair"],
+    "answer": 0,
+    "explanation": "Le vers libre se distingue du vers libéré (vers encore compté mais assoupli, comme chez Verlaine) et du vers blanc (vers régulier non rimé). « Marine » et « Mouvement » de Rimbaud (Illuminations) passent pour les premiers vers libres français ; Apollinaire (Alcools, 1913) en généralise l'usage en supprimant la ponctuation.",
+    "tags": ["poésie", "versification"]
+  },
+  {
+    "id": "gen-024",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Selon la Poétique d'Aristote, purgation ou purification des passions que la tragédie, en suscitant terreur et pitié, opère chez le spectateur.",
+    "choices": ["L'hamartia", "La catharsis", "L'hybris", "La mimèsis"],
+    "answer": 1,
+    "explanation": "La catharsis justifie moralement la tragédie aux yeux des théoriciens classiques. L'hamartia désigne la faute ou l'erreur du héros, l'hybris la démesure, la mimèsis l'imitation ; Racine rattache sa Phèdre à l'idée aristotélicienne d'un héros « ni tout à fait coupable, ni tout à fait innocent ».",
+    "tags": ["tragédie", "Aristote"]
+  },
+  {
+    "id": "gen-025",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Règle de la dramaturgie classique qui interdit de montrer sur scène ce qui pourrait choquer le goût et la morale du public, comme la violence physique ou la mort.",
+    "choices": ["La vraisemblance", "L'unité d'action", "La bienséance", "La catharsis"],
+    "answer": 2,
+    "explanation": "C'est pourquoi la mort d'Hippolyte n'est pas montrée dans Phèdre mais racontée par Théramène dans un célèbre récit (acte V). La bienséance concerne aussi la cohérence des mœurs des personnages avec leur rang ; la vraisemblance, elle, exige que l'action paraisse crédible au public.",
+    "tags": ["tragédie", "règles classiques"]
+  },
+  {
+    "id": "gen-026",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Fiction narrée à la première personne par un personnage qui revient rétrospectivement sur sa propre vie, forme romanesque dominante au XVIIIe siècle.",
+    "choices": ["Le roman épistolaire", "L'autofiction", "Le roman à thèse", "Le roman-mémoires"],
+    "answer": 3,
+    "explanation": "Le roman-mémoires imite le genre authentique des mémoires pour gagner en vraisemblance : Prévost (Manon Lescaut), Marivaux (La Vie de Marianne), Crébillon fils. L'écart entre le « je » narrant, plus âgé, et le « je » narré, aveuglé par la passion, en est un ressort essentiel.",
+    "tags": ["roman", "XVIIIe siècle"]
+  },
+  {
+    "id": "gen-027",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Notion forgée par Serge Doubrovsky en 1977, sur la quatrième de couverture de Fils, pour désigner une « fiction, d'événements et de faits strictement réels ».",
+    "choices": ["L'autofiction", "L'autobiographie", "Les mémoires", "Le roman autobiographique"],
+    "answer": 0,
+    "explanation": "Doubrovsky réagit au Pacte autobiographique de Lejeune, qui laissait vide la case d'un roman où le héros porterait le nom de l'auteur. L'autofiction revendique l'identité auteur-narrateur-personnage tout en assumant le travail de la langue et de la fiction ; elle éclaire des récits contemporains comme ceux de Slimani ou d'Ernaux, cette dernière préférant parler d'« auto-socio-biographie ».",
+    "tags": ["écritures de soi", "autofiction"]
+  },
+  {
+    "id": "gen-028",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Selon Philippe Lejeune (1975), engagement explicite ou implicite par lequel l'auteur affirme l'identité entre auteur, narrateur et personnage, et s'engage envers le lecteur à dire la vérité sur lui-même.",
+    "choices": ["Le pacte romanesque", "Le pacte autobiographique", "Le pacte fantasmatique", "L'horizon d'attente"],
+    "answer": 1,
+    "explanation": "Le pacte autobiographique se manifeste souvent par l'identité du nom propre sur la couverture et dans le récit, ou par un texte liminaire (le préambule des Confessions de Rousseau). Le pacte romanesque signale au contraire la fiction ; l'horizon d'attente est une notion de Jauss sur la réception.",
+    "tags": ["écritures de soi", "Lejeune"]
+  },
+  {
+    "id": "gen-029",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Courant romanesque des années 1950-1960, largement publié aux Éditions de Minuit, qui récuse le personnage, l'intrigue et la psychologie hérités du roman balzacien.",
+    "choices": ["L'Oulipo", "Le naturalisme", "Le Nouveau Roman", "L'existentialisme"],
+    "answer": 2,
+    "explanation": "Robbe-Grillet (Pour un nouveau roman, 1963), Nathalie Sarraute (L'Ère du soupçon, 1956), Michel Butor ou Claude Simon y explorent une écriture de la description, des sous-conversations et du soupçon. Le roman devient selon la formule de Jean Ricardou « l'aventure d'une écriture » plutôt que « l'écriture d'une aventure ».",
+    "tags": ["roman", "Nouveau Roman"]
+  },
+  {
+    "id": "gen-030",
+    "theme": "genres",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Selon Camus dans Le Mythe de Sisyphe (1942), sentiment qui naît de la « confrontation entre l'appel humain et le silence déraisonnable du monde ».",
+    "choices": ["Le nihilisme", "La nausée", "Le spleen", "L'absurde"],
+    "answer": 3,
+    "explanation": "L'absurde n'est ni dans l'homme ni dans le monde, mais dans leur rapport. Camus refuse le suicide comme le « saut » religieux et prône la révolte lucide ; Caligula montre l'impasse d'une autre réponse, la liberté meurtrière qui pousse la logique de l'absurde jusqu'au nihilisme.",
+    "tags": ["absurde", "Camus"]
+  },
+  {
+    "id": "gen-031",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le Spleen de Paris a paru après la mort de Baudelaire, en 1869, sous le titre Petits Poèmes en prose.",
+    "answer": true,
+    "explanation": "Baudelaire meurt en 1867 sans avoir publié le recueil en volume, mais de nombreux poèmes avaient paru en revue. Le recueil de cinquante poèmes paraît en 1869 dans le tome IV des Œuvres complètes ; le titre Le Spleen de Paris, souhaité par Baudelaire, s'est imposé ensuite.",
+    "tags": ["Baudelaire", "publication"]
+  },
+  {
+    "id": "gen-032",
+    "theme": "genres",
+    "type": "truefalse",
+    "statement": "Caligula de Camus appartient au théâtre de l'absurde au même titre que La Cantatrice chauve de Ionesco ou En attendant Godot de Beckett.",
+    "difficulty": 2,
+    "answer": false,
+    "explanation": "Caligula traite de l'absurde comme thème philosophique, mais dans une forme dramatique traditionnelle (intrigue suivie, personnages cohérents, langage clair) : c'est un théâtre d'idées. Le « théâtre de l'absurde », étiquette popularisée par Martin Esslin (1961), désigne au contraire des pièces qui disloquent l'intrigue, le personnage et le langage eux-mêmes.",
+    "tags": ["théâtre", "absurde"]
+  },
+  {
+    "id": "gen-033",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans la Préface de Cromwell (1827), Hugo rejette les trois unités classiques, y compris l'unité d'action.",
+    "answer": false,
+    "explanation": "Hugo rejette les unités de temps et de lieu, jugées artificielles, mais conserve l'unité d'action (ou d'ensemble), « aussi nécessaire que les deux autres sont inutiles ». Le drame romantique revendique en outre le mélange du grotesque et du sublime et la couleur locale.",
+    "tags": ["drame romantique", "Hugo"]
+  },
+  {
+    "id": "gen-034",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans la préface de sa tragédie, Racine écrit que Phèdre « n'est ni tout à fait coupable, ni tout à fait innocente ».",
+    "answer": true,
+    "explanation": "Racine applique ici la doctrine d'Aristote : le héros tragique doit être moyen pour susciter à la fois terreur et pitié. Phèdre est engagée « par sa destinée et par la colère des dieux » dans une passion illégitime dont elle a horreur, et c'est Œnone qui porte la calomnie contre Hippolyte.",
+    "tags": ["Racine", "héros tragique"]
+  },
+  {
+    "id": "gen-035",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Les Sonnets pour Hélène célèbrent Cassandre Salviati, la jeune Italienne rencontrée par Ronsard à Blois.",
+    "answer": false,
+    "explanation": "Cassandre est l'inspiratrice des Amours (1552). Les Sonnets pour Hélène (1578) sont adressés à Hélène de Surgères, fille d'honneur de Catherine de Médicis : Ronsard, poète vieillissant, y mêle pétrarquisme, amour déçu et méditation sur le temps.",
+    "tags": ["Ronsard", "inspiratrices"]
+  },
+  {
+    "id": "gen-036",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans l'avis « Au lecteur » des Essais, Montaigne affirme : « je suis moi-même la matière de mon livre ».",
+    "answer": true,
+    "explanation": "Montaigne y présente son livre comme un livre « de bonne foi », destiné à ses parents et amis, et précise « c'est moi que je peins ». Les Essais (1580, complétés jusqu'en 1592) fondent à la fois l'essai comme genre et une forme moderne d'écriture de soi, sans être une autobiographie au sens de Lejeune.",
+    "tags": ["essai", "Montaigne"]
+  },
+  {
+    "id": "gen-037",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Manon Lescaut est un roman épistolaire, composé des lettres échangées entre des Grieux et Manon.",
+    "answer": false,
+    "explanation": "Manon Lescaut est un roman-mémoires : un récit oral rétrospectif de des Grieux, rapporté par l'homme de qualité. Le roman épistolaire, autre grande forme du XVIIIe siècle, est illustré par les Lettres persanes (1721), La Nouvelle Héloïse (1761) ou Les Liaisons dangereuses (1782).",
+    "tags": ["Prévost", "roman"]
+  },
+  {
+    "id": "gen-038",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans son Art poétique (1674), Boileau formule la règle des trois unités : « Qu'en un lieu, qu'en un jour, un seul fait accompli / Tienne jusqu'à la fin le théâtre rempli ».",
+    "answer": true,
+    "explanation": "Ces vers du chant III condensent les unités de lieu, de temps et d'action. L'Art poétique codifie l'esthétique classique déjà pratiquée (raison, imitation des Anciens, vraisemblance) : « Jamais au spectateur n'offrez rien d'incroyable » y dit encore Boileau.",
+    "tags": ["classicisme", "Boileau"]
+  },
+  {
+    "id": "gen-039",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le naturalisme a été théorisé par Flaubert dans Le Roman expérimental (1880).",
+    "answer": false,
+    "explanation": "Le Roman expérimental est de Zola, qui transpose au roman la méthode expérimentale de Claude Bernard et étudie l'hérédité et le milieu dans les Rougon-Macquart. Flaubert, souvent associé au réalisme (Madame Bovary, 1857), refusait d'ailleurs les étiquettes d'école.",
+    "tags": ["naturalisme", "Zola"]
+  },
+  {
+    "id": "gen-040",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Philippe Lejeune définit l'autobiographie comme un « récit rétrospectif en prose qu'une personne réelle fait de sa propre existence ».",
+    "answer": true,
+    "explanation": "La définition complète ajoute : « lorsqu'elle met l'accent sur sa vie individuelle, en particulier sur l'histoire de sa personnalité ». Elle exclut donc l'autobiographie en vers, le journal intime (non rétrospectif) ou les mémoires centrés sur l'histoire collective ; Lejeune a lui-même nuancé ensuite cette définition stricte.",
+    "tags": ["écritures de soi", "Lejeune"]
+  },
+  {
+    "id": "gen-041",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Racine qualifie le Néron de Britannicus de « monstre naissant », figure de tyran qu'on peut comparer au Caligula de Camus.",
+    "answer": true,
+    "explanation": "Chez Racine, la tyrannie naît de la passion (l'amour de Néron pour Junie) et de l'émancipation à l'égard d'Agrippine. Chez Camus, elle procède d'une logique métaphysique : Caligula veut l'impossible et exerce une liberté sans limite qui révèle l'absurde, jusqu'à accepter sa propre mort (« Je suis encore vivant ! »).",
+    "tags": ["tyran", "comparaison"]
+  },
+  {
+    "id": "gen-042",
+    "theme": "genres",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La Pléiade prend pour modèles privilégiés les genres médiévaux, comme le rondeau, la ballade ou le virelai, qu'elle entend renouveler.",
+    "answer": false,
+    "explanation": "Du Bellay rejette au contraire ces formes comme des « épiceries » qui corrompent le goût de la langue. Il prône les genres antiques et italiens : odes, élégies, épigrammes, épopée, et ces « beaux sonnets », « non moins docte que plaisante invention italienne ».",
+    "tags": ["Pléiade", "genres poétiques"]
+  },
+  {
+    "id": "gen-043",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces textes théoriques ou manifestes.",
+    "events": [
+      { "label": "Préface de Cromwell (Hugo)", "year": 1827 },
+      { "label": "Défense et illustration de la langue française (Du Bellay)", "year": 1549 },
+      { "label": "Pour un nouveau roman (Robbe-Grillet)", "year": 1963 },
+      { "label": "Art poétique (Boileau)", "year": 1674 },
+      { "label": "Manifeste du symbolisme (Moréas)", "year": 1886 }
+    ],
+    "explanation": "Chaque mouvement se définit contre le précédent : la Pléiade contre la poésie médiévale, le classicisme par la règle, le romantisme contre les unités classiques, le symbolisme contre le naturalisme et le Parnasse, le Nouveau Roman contre le roman balzacien. Ces textes sont des repères commodes pour situer une œuvre dans l'histoire littéraire.",
+    "tags": ["mouvements", "manifestes"]
+  },
+  {
+    "id": "gen-044",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre chronologique la première publication (ou création) de ces œuvres au programme.",
+    "events": [
+      { "label": "Prévost, Manon Lescaut", "year": 1731 },
+      { "label": "Slimani, Le Parfum des fleurs la nuit", "year": 2021 },
+      { "label": "Ronsard, Sonnets pour Hélène", "year": 1578 },
+      { "label": "Baudelaire, Petits Poèmes en prose (Le Spleen de Paris)", "year": 1869 },
+      { "label": "Racine, Phèdre", "year": 1677 }
+    ],
+    "explanation": "Le programme parcourt la Renaissance (Ronsard), le classicisme (Racine), les Lumières (Prévost), la modernité poétique (Baudelaire) et l'écriture contemporaine (Slimani). Caligula (écrit à partir de 1938, publié en 1944, créé en 1945) représente le XXe siècle.",
+    "tags": ["programme", "repères"]
+  },
+  {
+    "id": "gen-045",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces moments de l'histoire du théâtre.",
+    "events": [
+      { "label": "Ionesco, La Cantatrice chauve", "year": 1950 },
+      { "label": "Corneille, Le Cid", "year": 1637 },
+      { "label": "Sartre, Huis clos", "year": 1944 },
+      { "label": "Hugo, Hernani", "year": 1830 },
+      { "label": "Racine, Phèdre", "year": 1677 }
+    ],
+    "explanation": "De la tragi-comédie qui déclenche une querelle (Le Cid) à la tragédie régulière (Phèdre), puis au drame romantique (Hernani), au théâtre philosophique (Huis clos) et au théâtre de l'absurde (La Cantatrice chauve), le théâtre français ne cesse de redéfinir ses règles. Caligula, créé en 1945, se situe dans le moment du théâtre d'idées, aux côtés de Sartre.",
+    "tags": ["théâtre", "repères"]
+  },
+  {
+    "id": "gen-046",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique la publication de ces romans.",
+    "events": [
+      { "label": "Laclos, Les Liaisons dangereuses", "year": 1782 },
+      { "label": "Madame de La Fayette, La Princesse de Clèves", "year": 1678 },
+      { "label": "Flaubert, Madame Bovary", "year": 1857 },
+      { "label": "Prévost, Manon Lescaut", "year": 1731 },
+      { "label": "Rousseau, Julie ou la Nouvelle Héloïse", "year": 1761 }
+    ],
+    "explanation": "La Princesse de Clèves fonde le roman d'analyse ; le XVIIIe siècle voit dominer le roman-mémoires (Prévost) puis le roman épistolaire, sensible (Rousseau) ou libertin (Laclos). Madame Bovary, jugée en 1857 pour outrage à la morale, devient le modèle du roman réaliste.",
+    "tags": ["roman", "repères"]
+  },
+  {
+    "id": "gen-047",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces recueils poétiques.",
+    "events": [
+      { "label": "Baudelaire, Les Fleurs du mal", "year": 1857 },
+      { "label": "Apollinaire, Alcools", "year": 1913 },
+      { "label": "Ronsard, Les Amours (de Cassandre)", "year": 1552 },
+      { "label": "Bertrand, Gaspard de la nuit", "year": 1842 },
+      { "label": "Lamartine, Méditations poétiques", "year": 1820 }
+    ],
+    "explanation": "Les Méditations poétiques marquent l'entrée en poésie du romantisme ; Gaspard de la nuit, publié posthume, ouvre la voie au poème en prose que Baudelaire reprendra après Les Fleurs du mal. Alcools consacre la modernité du début du XXe siècle (vers libre, absence de ponctuation).",
+    "tags": ["poésie", "repères"]
+  },
+  {
+    "id": "gen-048",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces jalons de l'écriture de soi.",
+    "events": [
+      { "label": "Lejeune, Le Pacte autobiographique", "year": 1975 },
+      { "label": "Ernaux, Les Années", "year": 2008 },
+      { "label": "Montaigne, première édition des Essais", "year": 1580 },
+      { "label": "Doubrovsky, Fils", "year": 1977 },
+      { "label": "Rousseau, Confessions (livres I à VI, posthumes)", "year": 1782 }
+    ],
+    "explanation": "Des Essais aux Confessions, l'écriture de soi passe de la peinture de l'homme en général à l'histoire d'une personnalité singulière. La théorie de Lejeune suscite la riposte de Doubrovsky (autofiction), puis des formes nouvelles comme l'« autobiographie impersonnelle » des Années d'Ernaux, prix Nobel en 2022.",
+    "tags": ["écritures de soi", "repères"]
+  },
+  {
+    "id": "gen-049",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces querelles et scandales littéraires.",
+    "events": [
+      { "label": "Bataille d'Hernani", "year": 1830 },
+      { "label": "Procès des Fleurs du mal", "year": 1857 },
+      { "label": "Querelle du Cid", "year": 1637 },
+      { "label": "Parution du premier tome de l'Encyclopédie", "year": 1751 },
+      { "label": "Perrault lit Le Siècle de Louis le Grand à l'Académie", "year": 1687 }
+    ],
+    "explanation": "Ces conflits révèlent les enjeux de chaque époque : règles du théâtre (Cid, Hernani), autorité des Anciens (1687), liberté de penser (l'Encyclopédie, condamnée en 1759) et morale publique (Baudelaire condamné en 1857 pour six poèmes, réhabilités seulement en 1949).",
+    "tags": ["querelles", "repères"]
+  },
+  {
+    "id": "gen-050",
+    "theme": "genres",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces repères autour de Camus et de l'existentialisme.",
+    "events": [
+      { "label": "Camus, La Peste", "year": 1947 },
+      { "label": "Sartre, La Nausée", "year": 1938 },
+      { "label": "Prix Nobel de littérature attribué à Camus", "year": 1957 },
+      { "label": "Camus, L'Étranger", "year": 1942 },
+      { "label": "Création de Caligula au théâtre Hébertot", "year": 1945 }
+    ],
+    "explanation": "L'Étranger et Le Mythe de Sisyphe (1942) ouvrent le cycle de l'absurde, que complète Caligula, créé en 1945 avec Gérard Philipe dans le rôle-titre. La Peste ouvre le cycle de la révolte ; Camus reçoit le Nobel en 1957, trois ans avant sa mort.",
+    "tags": ["absurde", "repères"]
+  }
+]

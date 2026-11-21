@@ -32,7 +32,7 @@ export function Chronology({ pq, answer, reveal, onAnswer }: QuestionProps) {
             <button key={i} className={cls} disabled={locked} onClick={() => toggle(i)}>
               <span className="choice-letter">{rank >= 0 ? rank + 1 : '·'}</span>
               <span>{e.label}</span>
-              {locked && reveal && <span className="year">{e.year}</span>}
+              {locked && reveal && <span className="year">{e.marker ?? e.year}</span>}
             </button>
           );
         })}
@@ -55,7 +55,7 @@ export function Chronology({ pq, answer, reveal, onAnswer }: QuestionProps) {
         <ol className="chrono-solution">
           {sorted.map((e) => (
             <li key={e.label}>
-              <strong>{e.year}</strong> — {e.label}
+              <strong>{e.marker ?? e.year}</strong> — {e.label}
             </li>
           ))}
         </ol>

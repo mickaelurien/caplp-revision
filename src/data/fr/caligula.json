@@ -1,0 +1,576 @@
+[
+  {
+    "id": "cal-001",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "À partir de quelle année Albert Camus commence-t-il l'écriture de Caligula ?",
+    "choices": ["1935", "1938", "1942", "1947"],
+    "answer": 1,
+    "explanation": "Camus entreprend Caligula en 1938 (des notes apparaissent dès 1937 dans les Carnets) ; un premier manuscrit est achevé en 1939, une version de 1941 a été publiée en 1984 dans les Cahiers Albert Camus. La pièce paraît chez Gallimard en 1944 et sera retouchée jusqu'à l'édition de 1958.",
+    "tags": ["genèse", "dates"]
+  },
+  {
+    "id": "cal-002",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel jeune comédien crée le rôle de Caligula au théâtre Hébertot en septembre 1945 ?",
+    "choices": ["Jean Vilar", "Jean-Louis Barrault", "Gérard Philipe", "Serge Reggiani"],
+    "answer": 2,
+    "explanation": "Gérard Philipe, âgé de 22 ans, crée le rôle à Paris dans une mise en scène de Paul Œttly ; ce succès lance sa carrière. La jeunesse de l'interprète accentue la dimension d'un Caligula adolescent révolté plutôt que d'un vieux tyran sanguinaire.",
+    "tags": ["création", "mise en scène"]
+  },
+  {
+    "id": "cal-003",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle source antique Camus utilise-t-il principalement pour construire sa pièce ?",
+    "choices": ["Les Annales de Tacite", "Les Vies parallèles de Plutarque", "L'Histoire romaine de Tite-Live", "Les Vies des douze Césars de Suétone"],
+    "answer": 3,
+    "explanation": "Camus puise dans la Vie de Caligula de Suétone (IIe siècle) de nombreux détails : la mort de Drusilla, la fuite de l'empereur, le désir de la lune, le déguisement en Vénus, les humiliations infligées aux patriciens. Mais il transforme le monstre historique en héros d'une logique métaphysique.",
+    "tags": ["sources", "Antiquité"]
+  },
+  {
+    "id": "cal-004",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle mort déclenche la crise de Caligula au début de la pièce ?",
+    "choices": ["Celle de Drusilla, sa sœur et sa maîtresse", "Celle de Caesonia, sa vieille maîtresse", "Celle d'Agrippine, sa mère", "Celle du père de Scipion"],
+    "answer": 0,
+    "explanation": "Drusilla, sœur et amante de Caligula, est morte avant le lever du rideau : c'est un personnage absent qui n'apparaît jamais sur scène. Sa mort ne compte pas tant comme chagrin d'amour que comme révélation : elle fait découvrir à Caligula que le monde n'est pas satisfaisant.",
+    "tags": ["intrigue", "personnages"]
+  },
+  {
+    "id": "cal-005",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "À son retour au palais (acte I), qu'explique Caligula à Hélicon avoir voulu obtenir ?",
+    "choices": ["Le pardon des dieux", "La lune", "Le corps de Drusilla", "Un oracle sur son avenir"],
+    "answer": 1,
+    "explanation": "Caligula confie à Hélicon qu'il voulait la lune : « J'ai donc besoin de la lune, ou du bonheur, ou de l'immortalité… ». La lune symbolise l'impossible ; Caligula affirme d'ailleurs s'être senti « tout d'un coup un besoin d'impossible ».",
+    "tags": ["acte I", "symboles"]
+  },
+  {
+    "id": "cal-006",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "À quel personnage Caligula énonce-t-il, à l'acte I, la vérité : « Les hommes meurent et ils ne sont pas heureux » ?",
+    "choices": ["Cherea", "Caesonia", "Hélicon", "Scipion"],
+    "answer": 2,
+    "explanation": "Cette réplique de la scène 4 de l'acte I, adressée à Hélicon, condense la découverte de l'absurde. Hélicon répond avec cynisme qu'il s'agit d'une vérité dont on s'arrange très bien : l'enjeu de la pièce est justement le refus de Caligula de « s'arranger » avec elle.",
+    "tags": ["acte I", "absurde"]
+  },
+  {
+    "id": "cal-007",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel est le statut social d'Hélicon dans la pièce ?",
+    "choices": ["Un vieux patricien", "Un jeune poète", "Le chef de la garde prétorienne", "Un ancien esclave affranchi"],
+    "answer": 3,
+    "explanation": "Hélicon est un affranchi, ce qui explique en partie son mépris pour les patriciens et sa fidélité à Caligula. Cynique et lucide, il sert l'empereur sans illusion et meurt en tentant de le défendre à la fin de l'acte IV.",
+    "tags": ["personnages", "Hélicon"]
+  },
+  {
+    "id": "cal-008",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui est Scipion ?",
+    "choices": ["Un jeune poète dont Caligula a fait mourir le père", "Le fils de Caesonia, héritier de l'empire", "Un patricien chargé du Trésor public", "Un affranchi espion de Cherea"],
+    "answer": 0,
+    "explanation": "Scipion, jeune poète, aurait toutes les raisons de haïr Caligula qui a tué son père. Pourtant il se reconnaît en lui (même sensibilité à la nature, même exigence de pureté) et refuse finalement de participer au complot : il incarne une révolte qui ne peut se résoudre au meurtre.",
+    "tags": ["personnages", "Scipion"]
+  },
+  {
+    "id": "cal-009",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel personnage, présenté comme un homme de lettres, organise et justifie rationnellement la conjuration ?",
+    "choices": ["Mucius", "Cherea", "Lepidus", "Le vieux patricien"],
+    "answer": 1,
+    "explanation": "Cherea est l'adversaire le plus lucide de Caligula : il comprend sa logique mais la refuse parce qu'il veut vivre et être heureux dans un monde qui garde un sens relatif. Il s'oppose à lui non par vengeance mais au nom de la sécurité commune et de l'idée que certaines actions valent mieux que d'autres.",
+    "tags": ["personnages", "Cherea"]
+  },
+  {
+    "id": "cal-010",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quelle décision Caligula impose-t-il à propos du Trésor public à l'acte I ?",
+    "choices": ["Il fait fondre l'or des temples pour nourrir la plèbe", "Il supprime tous les impôts pour se rendre populaire", "Les patriciens devront déshériter leurs enfants au profit de l'État et seront exécutés selon une liste arbitraire", "Il confie la gestion du Trésor à Hélicon et exile l'intendant"],
+    "answer": 2,
+    "explanation": "Pour démontrer par l'absurde que « si le Trésor a de l'importance, la vie humaine n'en a pas », Caligula pousse jusqu'au bout la logique de l'intendant. C'est le premier exemple de sa méthode : appliquer avec rigueur une logique admise pour en révéler l'inhumanité.",
+    "tags": ["acte I", "pouvoir"]
+  },
+  {
+    "id": "cal-011",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Sous quel déguisement Caligula se présente-t-il aux patriciens au début de l'acte III ?",
+    "choices": ["Jupiter", "Mars", "Apollon", "Vénus"],
+    "answer": 3,
+    "explanation": "Grimé en Vénus de façon grotesque, Caligula oblige les patriciens à lui adresser une prière parodique. La scène, empruntée à Suétone, mêle burlesque et tragique et montre que Caligula se fait dieu pour mieux tourner les dieux en dérision.",
+    "tags": ["acte III", "parodie"]
+  },
+  {
+    "id": "cal-012",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Sur quel thème porte le concours de poésie organisé par Caligula à l'acte IV ?",
+    "choices": ["La mort", "L'amour", "La lune", "La gloire de Rome"],
+    "answer": 0,
+    "explanation": "Caligula organise un concours sur le thème de la mort et éconduit les concurrents d'un coup de sifflet, transformant l'art en spectacle tyrannique. Seul le poème de Scipion le touche, signe d'une parenté profonde entre l'empereur et le jeune poète.",
+    "tags": ["acte IV", "art"]
+  },
+  {
+    "id": "cal-013",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle est la dernière réplique de Caligula, frappé par les conjurés ?",
+    "choices": ["« Tu quoque, mi fili ! »", "« Je suis encore vivant ! »", "« Qualis artifex pereo ! »", "« La pièce est jouée ! »"],
+    "answer": 1,
+    "explanation": "Caligula meurt en criant « Je suis encore vivant ! ». La réplique se lit de plusieurs façons : défi au néant, survie du personnage dans l'Histoire qu'il vient d'invoquer (« À l'histoire, Caligula, à l'histoire »), ou persistance de la question qu'il incarne chaque fois que la pièce est rejouée.",
+    "tags": ["dénouement", "citations"]
+  },
+  {
+    "id": "cal-014",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans sa préface à l'édition américaine de son théâtre (1958), comment Camus définit-il Caligula ?",
+    "choices": ["« Une tragédie de la vengeance »", "« L'éloge d'un tyran lucide »", "« L'histoire d'un suicide supérieur »", "« La chronique d'une folie héréditaire »"],
+    "answer": 2,
+    "explanation": "Camus écrit que Caligula est « l'histoire d'un suicide supérieur », la plus humaine et la plus tragique des erreurs : en voulant exercer une liberté sans limites, Caligula découvre qu'on ne peut tout détruire sans se détruire soi-même. Il se laisse en quelque sorte tuer, conscient de l'échec de sa logique.",
+    "tags": ["préface", "interprétation"]
+  },
+  {
+    "id": "cal-015",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Avec quelles œuvres Caligula forme-t-il ce que Camus appelait le cycle de l'absurde ?",
+    "choices": ["La Peste et L'Homme révolté", "La Chute et L'Exil et le royaume", "Noces et L'Envers et l'endroit", "L'Étranger et Le Mythe de Sisyphe"],
+    "answer": 3,
+    "explanation": "Camus concevait une œuvre par cycles : roman, essai et théâtre pour l'absurde (L'Étranger, Le Mythe de Sisyphe, Caligula, auxquels on joint souvent Le Malentendu), puis pour la révolte (La Peste, L'Homme révolté, Les Justes). Il désignait ses trois premiers textes comme « les trois Absurdes ».",
+    "tags": ["genèse", "cycles"]
+  },
+  {
+    "id": "cal-016",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quelle troupe Camus fonde-t-il à Alger en 1935, avant le Théâtre de l'Équipe ?",
+    "choices": ["Le Théâtre du Travail", "Le Cartel des Quatre", "Le Théâtre national populaire", "La Compagnie des Masques"],
+    "answer": 0,
+    "explanation": "Lié au Parti communiste, le Théâtre du Travail monte notamment Révolte dans les Asturies, création collective interdite par la municipalité. Devenu Théâtre de l'Équipe en 1937, il est le laboratoire où Camus, acteur, metteur en scène et adaptateur, conçoit Caligula, dont il envisageait d'interpréter lui-même le rôle.",
+    "tags": ["genèse", "Alger"]
+  },
+  {
+    "id": "cal-017",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "De quelle œuvre de Camus est tirée la phrase : « Il n'y a qu'un problème philosophique vraiment sérieux : c'est le suicide » ?",
+    "choices": ["L'Homme révolté", "Le Mythe de Sisyphe", "Noces", "Lettres à un ami allemand"],
+    "answer": 1,
+    "explanation": "C'est l'incipit du Mythe de Sisyphe (1942), essai sur l'absurde. Caligula en offre une illustration dramatique : face à l'absurde, Camus refuse le suicide comme la fuite dans l'espoir, et la pièce montre l'impasse d'une troisième voie, la destruction généralisée, qui aboutit à un « suicide supérieur ».",
+    "tags": ["absurde", "essai"]
+  },
+  {
+    "id": "cal-018",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Qui a popularisé l'expression « théâtre de l'absurde » dans un essai paru en 1961 ?",
+    "choices": ["Eugène Ionesco", "Jean-Paul Sartre", "Martin Esslin", "Roland Barthes"],
+    "answer": 2,
+    "explanation": "Le critique Martin Esslin réunit sous cette étiquette Beckett, Ionesco, Adamov ou Genet, dont les pièces font éprouver l'absurde par la dislocation du langage et de l'intrigue. Le théâtre de Camus, lui, exprime l'absurde dans une forme classique et un langage rationnel : il le pense plus qu'il ne le met en forme.",
+    "tags": ["théâtre de l'absurde", "critique"]
+  },
+  {
+    "id": "cal-019",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "En quelle année Albert Camus reçoit-il le prix Nobel de littérature ?",
+    "choices": ["1947", "1952", "1960", "1957"],
+    "answer": 3,
+    "explanation": "Camus reçoit le Nobel en 1957, à 44 ans, l'un des plus jeunes lauréats. Il meurt le 4 janvier 1960 dans un accident de voiture à Villeblevin, laissant inachevé le manuscrit du Premier Homme.",
+    "tags": ["biographie", "Nobel"]
+  },
+  {
+    "id": "cal-020",
+    "theme": "caligula",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Avec quelle autre pièce de Camus Caligula est-il publié en volume chez Gallimard en 1944 ?",
+    "choices": ["Le Malentendu", "Les Justes", "L'État de siège", "Les Possédés"],
+    "answer": 0,
+    "explanation": "Le volume de 1944 réunit Le Malentendu et Caligula, deux pièces de l'absurde. Le Malentendu, créé en 1944 au théâtre des Mathurins avec Maria Casarès, montre une mère et une fille qui tuent sans le reconnaître le fils revenu au pays.",
+    "tags": ["publication", "œuvre"]
+  },
+  {
+    "id": "cal-021",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Au lever du rideau, Caligula a disparu depuis trois jours, après la mort de Drusilla.",
+    "answer": true,
+    "explanation": "L'acte I s'ouvre sur l'inquiétude des patriciens qui attendent le retour de l'empereur. Cette exposition par l'absence crée l'attente : Caligula revient transformé, porteur d'une vérité qu'il va imposer à tous.",
+    "tags": ["acte I", "exposition"]
+  },
+  {
+    "id": "cal-022",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Caligula appartient au théâtre de l'absurde au même titre que La Cantatrice chauve d'Ionesco : langage disloqué et intrigue sans progression.",
+    "answer": false,
+    "explanation": "Caligula traite de l'absurde, mais dans une forme traditionnelle : actes, conflit, progression dramatique, langage clair et argumentatif. Camus fait un théâtre d'idées où l'absurde est un sujet philosophique, alors qu'Ionesco et Beckett le font éprouver par la forme même.",
+    "tags": ["théâtre de l'absurde", "esthétique"]
+  },
+  {
+    "id": "cal-023",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Seul devant son miroir, à la fin de la pièce, Caligula reconnaît : « Ma liberté n'est pas la bonne. »",
+    "answer": true,
+    "explanation": "Dans le dernier monologue (acte IV, scène 14), Caligula admet n'avoir abouti à rien : il n'a pas eu la lune. Cet aveu fonde la lecture de la préface : une liberté qui s'exerce contre les autres hommes se détruit elle-même.",
+    "tags": ["acte IV", "liberté"]
+  },
+  {
+    "id": "cal-024",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Cherea s'oppose à Caligula au nom des dieux et de la religion romaine traditionnelle.",
+    "answer": false,
+    "explanation": "Cherea ne croit pas davantage que Caligula à un sens transcendant ; il s'oppose à lui parce qu'il veut vivre et être heureux, et parce qu'une logique poussée jusqu'au bout rend la vie impossible. Son opposition est humaine et rationnelle, non religieuse.",
+    "tags": ["Cherea", "révolte"]
+  },
+  {
+    "id": "cal-025",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "À la fin de l'acte III, Caligula détruit devant Cherea la tablette qui prouve sa participation au complot.",
+    "answer": true,
+    "explanation": "Caligula tient la preuve de la conjuration mais la brûle, laissant Cherea libre. Ce geste montre qu'il ne cherche pas à se protéger : il accepte, voire prépare, sa propre mort, ce qui éclaire la notion de « suicide supérieur ».",
+    "tags": ["acte III", "complot"]
+  },
+  {
+    "id": "cal-026",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Caligula est une tragédie en cinq actes, conformément au modèle de la tragédie classique.",
+    "answer": false,
+    "explanation": "La pièce compte quatre actes (11, 14, 6 et 14 scènes). Camus emprunte à la tragédie son sujet antique et la marche vers la mort du héros, mais s'affranchit de la règle des cinq actes et mêle le tragique au grotesque.",
+    "tags": ["structure", "tragédie"]
+  },
+  {
+    "id": "cal-027",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Camus envisageait d'interpréter lui-même le rôle de Caligula avec sa troupe algéroise.",
+    "answer": true,
+    "explanation": "La pièce a été pensée pour le Théâtre de l'Équipe, où Camus était acteur ; la guerre et son départ d'Algérie empêchent ce projet. La création n'a lieu qu'en 1945, à Paris, avec Gérard Philipe.",
+    "tags": ["genèse", "Alger"]
+  },
+  {
+    "id": "cal-028",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Caligula meurt empoisonné par Caesonia.",
+    "answer": false,
+    "explanation": "C'est l'inverse : Caligula étrangle Caesonia, la dernière qui l'aimait encore, avant d'être poignardé par les conjurés. Le meurtre de Caesonia marque la rupture avec le dernier lien humain, l'amour.",
+    "tags": ["dénouement", "Caesonia"]
+  },
+  {
+    "id": "cal-029",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Camus a conçu Caligula après la Libération pour dénoncer explicitement Hitler.",
+    "answer": false,
+    "explanation": "La pièce est commencée en 1938, avant la guerre : c'est d'abord une tragédie métaphysique de l'absurde. Le public de 1945, sortant du nazisme, y a toutefois lu une méditation sur le pouvoir totalitaire, lecture que la montée des dictatures des années 1930 rend légitime sans qu'elle soit exclusive.",
+    "tags": ["contexte", "totalitarisme"]
+  },
+  {
+    "id": "cal-030",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Albert Camus est mort en 1960 dans un accident de voiture.",
+    "answer": true,
+    "explanation": "Camus meurt le 4 janvier 1960 à Villeblevin (Yonne), dans la voiture conduite par Michel Gallimard. Né en 1913 à Mondovi en Algérie, il avait reçu le prix Nobel trois ans plus tôt.",
+    "tags": ["biographie", "dates"]
+  },
+  {
+    "id": "cal-031",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Scipion finit par rejoindre les conjurés et participe à l'assassinat de Caligula.",
+    "answer": false,
+    "explanation": "Au début de l'acte IV, Scipion annonce à Cherea qu'il ne se joindra pas au complot : il comprend Caligula et se reconnaît en lui. Il s'éloigne, incapable de condamner ou de suivre l'empereur, figure de la pureté impuissante.",
+    "tags": ["Scipion", "acte IV"]
+  },
+  {
+    "id": "cal-032",
+    "theme": "caligula",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Hélicon reste fidèle à Caligula jusqu'au bout et meurt frappé par les conjurés.",
+    "answer": true,
+    "explanation": "Hélicon, l'affranchi, réaffirme sa loyauté et tombe en essayant d'avertir l'empereur, juste avant que les conjurés ne frappent Caligula. Sa fidélité sans illusion contraste avec la lâcheté des patriciens.",
+    "tags": ["Hélicon", "dénouement"]
+  },
+  {
+    "id": "cal-033",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Selon Camus, sentiment né de la confrontation entre l'appel humain à la clarté et au sens et le silence déraisonnable du monde.",
+    "choices": ["L'absurde", "Le tragique", "Le nihilisme", "Le cynisme"],
+    "answer": 0,
+    "difficulty": 1,
+    "explanation": "Pour Le Mythe de Sisyphe, l'absurde n'est ni dans l'homme ni dans le monde mais dans leur confrontation. Caligula découvre cette fracture à la mort de Drusilla ; son erreur est d'en tirer que « tout est permis ».",
+    "tags": ["absurde", "notions"]
+  },
+  {
+    "id": "cal-034",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Chez Camus, mouvement par lequel l'homme dit non à une condition injuste tout en affirmant une limite et une valeur commune à tous les hommes.",
+    "choices": ["La résignation", "La révolte", "La révolution", "La vengeance"],
+    "answer": 1,
+    "explanation": "L'Homme révolté (1951) résume : « Je me révolte, donc nous sommes. » Caligula pousse la révolte jusqu'à nier les autres hommes, ce qui la pervertit ; Cherea incarne au contraire une révolte qui reconnaît une limite.",
+    "difficulty": 2,
+    "tags": ["révolte", "notions"]
+  },
+  {
+    "id": "cal-035",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Dans la tragédie grecque, démesure du héros qui outrepasse les limites assignées à l'homme et appelle le châtiment.",
+    "choices": ["La catharsis", "L'anagnorisis", "L'hybris", "La mimèsis"],
+    "answer": 2,
+    "difficulty": 2,
+    "explanation": "Caligula, qui veut la lune et se fait dieu, est une figure de l'hybris ; Camus, nourri de pensée grecque, oppose à cette démesure la « mesure » (la némésis en est la sanction). La mort finale répond à cet excès.",
+    "tags": ["tragédie", "notions"]
+  },
+  {
+    "id": "cal-036",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Forme dramatique où les personnages incarnent et confrontent des positions philosophiques ou morales, le conflit étant d'abord un débat d'arguments.",
+    "choices": ["Le drame bourgeois", "Le théâtre de boulevard", "La farce", "Le théâtre d'idées"],
+    "answer": 3,
+    "difficulty": 2,
+    "explanation": "Le théâtre de Camus, comme celui de Sartre, est un théâtre d'idées : Caligula, Cherea, Scipion et Hélicon représentent autant de réponses à l'absurde. C'est l'un des critères qui le distinguent du théâtre de l'absurde de Beckett ou d'Ionesco.",
+    "tags": ["esthétique", "notions"]
+  },
+  {
+    "id": "cal-037",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Procédé par lequel une œuvre inclut en son sein une représentation d'elle-même ou un spectacle enchâssé, comme les mises en scène que Caligula organise pour les patriciens.",
+    "choices": ["La mise en abyme", "La double énonciation", "Le quiproquo", "La catharsis"],
+    "answer": 0,
+    "difficulty": 2,
+    "explanation": "Caligula se fait acteur et metteur en scène : apparition en Vénus, concours de poésie, numéro de danseuse à l'acte IV. Ce théâtre dans le théâtre fait de l'empereur un artiste qui transforme Rome en scène et les patriciens en spectateurs forcés.",
+    "tags": ["dramaturgie", "notions"]
+  },
+  {
+    "id": "cal-038",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Doctrine ou attitude qui nie toute valeur et tout sens, et peut conduire à juger que tout est permis.",
+    "choices": ["Le stoïcisme", "Le nihilisme", "L'existentialisme", "L'épicurisme"],
+    "answer": 1,
+    "difficulty": 3,
+    "explanation": "Caligula tire de l'absurde une conclusion nihiliste : si rien n'a de sens, tuer ou épargner se valent. Camus montre que ce nihilisme se retourne contre son auteur ; dans L'Homme révolté il fera du dépassement du nihilisme l'enjeu de sa pensée.",
+    "tags": ["nihilisme", "notions"]
+  },
+  {
+    "id": "cal-039",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Gouvernement d'un seul qui exerce un pouvoir absolu et arbitraire, sans limite légale, en s'appuyant sur la peur.",
+    "choices": ["La monarchie constitutionnelle", "L'oligarchie", "La tyrannie", "La théocratie"],
+    "answer": 2,
+    "difficulty": 1,
+    "explanation": "Caligula use du pouvoir comme d'un instrument pour « donner ses chances à l'impossible » : exécutions arbitraires, famine décrétée, humiliations. La pièce interroge le lien entre liberté absolue d'un seul et servitude de tous, ce qui permet de la relire à la lumière des totalitarismes.",
+    "tags": ["pouvoir", "notions"]
+  },
+  {
+    "id": "cal-040",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Réplique longue prononcée par un personnage seul en scène, qui donne accès à son intériorité.",
+    "choices": ["La tirade", "L'aparté", "La stichomythie", "Le monologue"],
+    "answer": 3,
+    "difficulty": 1,
+    "explanation": "Le monologue final de Caligula devant le miroir (acte IV, scène 14) est un dialogue avec son double : l'empereur y fait le bilan de son échec. La tirade, elle, est une longue réplique adressée à d'autres personnages présents.",
+    "tags": ["dramaturgie", "notions"]
+  },
+  {
+    "id": "cal-041",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Caractéristique du texte théâtral dont les répliques s'adressent à la fois aux personnages sur scène et, par-delà eux, au public.",
+    "choices": ["La double énonciation", "L'ironie tragique", "La mise en abyme", "Le registre polémique"],
+    "answer": 0,
+    "difficulty": 2,
+    "explanation": "Quand Caligula expose aux patriciens que la vie humaine n'a pas d'importance, il s'adresse aussi au spectateur pour l'obliger à penser l'absurde. Cette notion est centrale pour analyser une scène en classe.",
+    "tags": ["dramaturgie", "notions"]
+  },
+  {
+    "id": "cal-042",
+    "theme": "caligula",
+    "type": "definition",
+    "definition": "Selon Aristote, purification des passions (terreur et pitié) que la représentation tragique produit chez le spectateur.",
+    "choices": ["L'hybris", "La catharsis", "La péripétie", "Le pathos"],
+    "answer": 1,
+    "difficulty": 3,
+    "explanation": "Caligula suscite à la fois effroi devant le tyran et pitié pour l'homme blessé. En voyant la logique de l'absurde poussée à son terme, le spectateur peut s'en libérer : Camus pensait que la tragédie moderne devait naître de la tension entre l'homme et un ordre qui le dépasse.",
+    "tags": ["tragédie", "notions"]
+  },
+  {
+    "id": "cal-043",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces œuvres de Camus par date de publication.",
+    "events": [
+      { "label": "L'Étranger", "year": 1942 },
+      { "label": "Caligula (avec Le Malentendu)", "year": 1944 },
+      { "label": "La Peste", "year": 1947 },
+      { "label": "L'Homme révolté", "year": 1951 },
+      { "label": "La Chute", "year": 1956 }
+    ],
+    "explanation": "On passe du cycle de l'absurde (L'Étranger, Le Mythe de Sisyphe, Caligula) au cycle de la révolte (La Peste, Les Justes, L'Homme révolté). L'Homme révolté provoque en 1952 la rupture avec Sartre ; La Chute est le dernier récit publié du vivant de Camus.",
+    "tags": ["œuvre", "dates"]
+  },
+  {
+    "id": "cal-044",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces étapes de la vie de Camus et de l'histoire de Caligula.",
+    "events": [
+      { "label": "Fondation du Théâtre du Travail à Alger", "year": 1935 },
+      { "label": "Début de l'écriture de Caligula", "year": 1938 },
+      { "label": "Publication de Caligula chez Gallimard", "year": 1944 },
+      { "label": "Création au théâtre Hébertot avec Gérard Philipe", "year": 1945 },
+      { "label": "Prix Nobel de littérature", "year": 1957 }
+    ],
+    "explanation": "Entre l'écriture et la création s'écoulent sept ans, marqués par la guerre et l'engagement de Camus dans la Résistance (journal Combat). La pièce est encore remaniée pour l'édition de 1958, ce qui en fait une œuvre accompagnant toute la carrière de l'auteur.",
+    "tags": ["genèse", "dates"]
+  },
+  {
+    "id": "cal-045",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces jalons du théâtre de l'après-guerre.",
+    "events": [
+      { "label": "Création de Caligula de Camus", "year": 1945 },
+      { "label": "Création des Justes de Camus", "year": 1949 },
+      { "label": "Création de La Cantatrice chauve d'Ionesco", "year": 1950 },
+      { "label": "Création d'En attendant Godot de Beckett", "year": 1953 },
+      { "label": "Parution de The Theatre of the Absurd de Martin Esslin", "year": 1961 }
+    ],
+    "explanation": "Le théâtre de Camus précède le « théâtre de l'absurde » proprement dit et s'en distingue : ses pièces gardent une intrigue et un langage logique. Esslin forge l'étiquette après coup pour Beckett, Ionesco, Adamov ou Genet.",
+    "tags": ["théâtre de l'absurde", "dates"]
+  },
+  {
+    "id": "cal-046",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces événements du contexte historique de la pièce.",
+    "events": [
+      { "label": "Hitler devient chancelier", "year": 1933 },
+      { "label": "Accords de Munich", "year": 1938 },
+      { "label": "Parution du Mythe de Sisyphe", "year": 1942 },
+      { "label": "Libération de Paris", "year": 1944 },
+      { "label": "Création parisienne de Caligula", "year": 1945 }
+    ],
+    "explanation": "Écrite au moment où les dictatures s'imposent en Europe, jouée au lendemain de la guerre, la pièce a été reçue comme une réflexion sur la tyrannie. Camus la présentait pourtant d'abord comme une tragédie de l'absurde et de la liberté mal comprise.",
+    "tags": ["contexte", "totalitarisme"]
+  },
+  {
+    "id": "cal-047",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces repères sur le Caligula historique et sa source.",
+    "events": [
+      { "label": "Caligula devient empereur", "year": 37 },
+      { "label": "Mort de Drusilla", "year": 38 },
+      { "label": "Assassinat de Caligula par des conjurés dont Cassius Chaerea", "year": 41 },
+      { "label": "Rédaction des Vies des douze Césars par Suétone (vers)", "year": 121 }
+    ],
+    "explanation": "Le règne de Gaius, surnommé Caligula (« petite botte »), dure moins de quatre ans. Le tribun Cassius Chaerea, modèle du Cherea de Camus, conduit l'assassinat en 41 ; Suétone, près d'un siècle plus tard, fixe l'image du tyran extravagant.",
+    "tags": ["sources", "Antiquité"]
+  },
+  {
+    "id": "cal-048",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Replacez ces épisodes dans l'ordre des actes de la pièce.",
+    "events": [
+      { "label": "Caligula revient au palais et confie à Hélicon qu'il voulait la lune", "year": 1, "marker": "Acte I" },
+      { "label": "Caligula prend la femme de Mucius et fait périr Mereia", "year": 2, "marker": "Acte II" },
+      { "label": "Caligula apparaît déguisé en Vénus", "year": 3, "marker": "Acte III" },
+      { "label": "Concours de poésie sur le thème de la mort", "year": 4, "marker": "Acte IV" }
+    ],
+    "explanation": "L'acte I expose la découverte de l'absurde, l'acte II montre le « jeu » macabre trois ans plus tard, l'acte III la démesure et la découverte du complot, l'acte IV l'isolement et la mort. La progression va de la révélation à l'échec reconnu.",
+    "tags": ["structure", "intrigue"]
+  },
+  {
+    "id": "cal-049",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces épisodes de l'acte I dans l'ordre.",
+    "events": [
+      { "label": "Les patriciens s'inquiètent de la disparition de l'empereur", "year": 1, "marker": "Étape 1" },
+      { "label": "Caligula, de retour, parle de la lune avec Hélicon", "year": 2, "marker": "Étape 2" },
+      { "label": "Caligula impose sa décision sur le Trésor et les héritages", "year": 3, "marker": "Étape 3" }
+    ],
+    "explanation": "L'acte I suit le schéma exposition, révélation, passage à l'acte : la vérité découverte (« Les hommes meurent et ils ne sont pas heureux ») devient aussitôt programme politique. Caligula décide d'enseigner cette vérité à tous par l'exercice du pouvoir.",
+    "tags": ["acte I", "structure"]
+  },
+  {
+    "id": "cal-050",
+    "theme": "caligula",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces moments de l'acte IV dans l'ordre.",
+    "events": [
+      { "label": "Scipion annonce à Cherea qu'il ne participera pas au complot", "year": 1, "marker": "Étape 1" },
+      { "label": "Concours de poésie sur la mort", "year": 2, "marker": "Étape 2" },
+      { "label": "Caligula étrangle Caesonia", "year": 3, "marker": "Étape 3" },
+      { "label": "Monologue devant le miroir", "year": 4, "marker": "Étape 4" },
+      { "label": "Les conjurés frappent : « Je suis encore vivant ! »", "year": 5, "marker": "Étape 5" }
+    ],
+    "explanation": "L'acte IV isole progressivement Caligula : il perd Scipion, détruit Caesonia, se retrouve face à son reflet, puis meurt. Le miroir brisé figure la rupture avec sa propre image ; le cri final transforme la mort en défi.",
+    "tags": ["acte IV", "dénouement"]
+  }
+]

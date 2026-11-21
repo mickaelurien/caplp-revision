@@ -1,0 +1,997 @@
+[
+  {
+    "id": "ron-001",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "En quelle année les Sonnets pour Hélène paraissent-ils pour la première fois, au sein d’une édition collective des Œuvres de Ronsard ?",
+    "choices": [
+      "1552",
+      "1578",
+      "1565",
+      "1585"
+    ],
+    "answer": 1,
+    "explanation": "Les Sonnets pour Hélène (Premier et Second livre) paraissent en 1578 dans l’édition collective des Œuvres, aux côtés notamment des pièces Sur la mort de Marie. Ronsard a alors plus de cinquante ans : c’est une œuvre de maturité, que le poète remaniera encore dans les éditions suivantes.",
+    "tags": [
+      "publication",
+      "contexte"
+    ]
+  },
+  {
+    "id": "ron-002",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui est Hélène de Surgères, la dédicataire du recueil ?",
+    "choices": [
+      "Une fille d’honneur de la reine mère Catherine de Médicis",
+      "Une paysanne de Bourgueil rencontrée par le poète",
+      "Une jeune Florentine, fille d’un banquier italien",
+      "Une dame d’honneur de Marguerite de Navarre"
+    ],
+    "answer": 0,
+    "explanation": "Hélène de Fonsèque, dite de Surgères, appartient à la maison de Catherine de Médicis comme fille d’honneur. Femme lettrée, réputée pour son goût des conversations savantes, elle demeure insensible à l’hommage du vieux poète. La paysanne de Bourgueil est Marie, et la Florentine renvoie à Cassandre Salviati, fille d’un banquier italien.",
+    "tags": [
+      "Hélène",
+      "cour"
+    ]
+  },
+  {
+    "id": "ron-003",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel texte de 1549, signé par Joachim Du Bellay, sert de manifeste à la Pléiade ?",
+    "choices": [
+      "L’Abrégé de l’art poétique français",
+      "L’Art poétique français de Thomas Sébillet",
+      "La Défense et illustration de la langue française",
+      "L’Art poétique de Boileau"
+    ],
+    "answer": 2,
+    "explanation": "La Défense et illustration de la langue française (1549) revendique la dignité du français face au latin et appelle à l’imitation des Anciens et des Italiens (ode, sonnet, épopée, tragédie). Elle répond en partie à l’Art poétique français de Sébillet (1548), jugé trop favorable à Marot ; l’Abrégé est de Ronsard (1565) et l’Art poétique de Boileau date de 1674.",
+    "tags": [
+      "Pléiade",
+      "manifeste"
+    ]
+  },
+  {
+    "id": "ron-004",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est le dernier vers du sonnet « Quand vous serez bien vieille, au soir, à la chandelle » ?",
+    "choices": [
+      "« Cueillez, cueillez votre jeunesse »",
+      "« Mignonne, allons voir si la rose »",
+      "« Comme on voit sur la branche au mois de mai la rose »",
+      "« Cueillez dès aujourd’hui les roses de la vie »"
+    ],
+    "answer": 3,
+    "explanation": "Le sonnet s’achève sur l’injonction « Vivez, si m’en croyez, n’attendez à demain : / Cueillez dès aujourd’hui les roses de la vie. » « Cueillez, cueillez votre jeunesse » et « Mignonne, allons voir si la rose » appartiennent à l’ode à Cassandre ; « Comme on voit sur la branche… » ouvre un sonnet Sur la mort de Marie.",
+    "tags": [
+      "Quand vous serez bien vieille",
+      "citation"
+    ]
+  },
+  {
+    "id": "ron-005",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel est le schéma des rimes des tercets de « Quand vous serez bien vieille » (os / repos / accroupie / dédain / demain / vie) ?",
+    "choices": [
+      "CCD EED",
+      "CDC DCD",
+      "CDE CDE",
+      "CCD EDE"
+    ],
+    "answer": 0,
+    "explanation": "Les tercets riment CCD EED (os/repos, accroupie… vie, dédain/demain), après deux quatrains embrassés ABBA ABBA : c’est la forme dite « française » ou « marotique » du sonnet. Le distique final (CC… EE) isole le dernier vers et prépare la pointe ; la formule italienne de Pétrarque préfère des tercets du type CDE CDE.",
+    "tags": [
+      "versification",
+      "sonnet"
+    ]
+  },
+  {
+    "id": "ron-006",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel roi règne sur la France lorsque paraissent les Sonnets pour Hélène ?",
+    "choices": [
+      "Charles IX",
+      "Henri III",
+      "Henri II",
+      "Henri IV"
+    ],
+    "answer": 1,
+    "explanation": "Henri III règne de 1574 à 1589. Sa cour, raffinée et lettrée, favorise une poésie galante et maniériste, incarnée par Philippe Desportes : Ronsard, poète consacré des règnes d’Henri II et de Charles IX, doit y défendre sa prééminence. Le contexte est aussi celui des guerres de Religion, qui se poursuivent.",
+    "tags": [
+      "contexte historique",
+      "cour"
+    ]
+  },
+  {
+    "id": "ron-007",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel poète, favori d’Henri III, incarne la nouvelle génération qui concurrence Ronsard à la cour dans les années 1570 ?",
+    "choices": [
+      "Jean-Antoine de Baïf",
+      "Agrippa d’Aubigné",
+      "Rémy Belleau",
+      "Philippe Desportes"
+    ],
+    "answer": 3,
+    "explanation": "Philippe Desportes (1546-1606), dont les Premières Œuvres paraissent en 1573, séduit la cour d’Henri III par une poésie pétrarquiste fluide et élégante. Les Sonnets pour Hélène se lisent en partie comme la réponse du vieux maître à cette concurrence : Ronsard y montre qu’il maîtrise lui aussi la poésie de cour, tout en la dépassant.",
+    "tags": [
+      "Desportes",
+      "cour"
+    ]
+  },
+  {
+    "id": "ron-008",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans le sonnet « Je plante en ta faveur cet arbre de Cybèle », quel arbre est désigné par la périphrase ?",
+    "choices": [
+      "Le laurier",
+      "Le myrte",
+      "Le pin",
+      "Le chêne"
+    ],
+    "answer": 2,
+    "explanation": "Le pin est l’arbre consacré à Cybèle, en souvenir d’Attis métamorphosé. En plantant l’arbre, le poète associe son amour et le nom d’Hélène à un symbole de durée : l’arbre qui croît figure la renommée que la poésie confère à la bien-aimée. Le laurier est l’arbre d’Apollon, le myrte celui de Vénus, le chêne celui de Jupiter.",
+    "tags": [
+      "mythologie",
+      "périphrase"
+    ]
+  },
+  {
+    "id": "ron-009",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans « Quand vous serez bien vieille », à quel texte antique renvoient les « ombres myrteux » où le poète imagine prendre son repos ?",
+    "choices": [
+      "Au livre VI de l’Énéide de Virgile",
+      "Au chant III de l’Iliade d’Homère",
+      "Aux Métamorphoses d’Ovide, livre X",
+      "Aux Odes d’Horace, livre I"
+    ],
+    "answer": 0,
+    "explanation": "Au livre VI de l’Énéide, les morts victimes de l’amour errent aux Enfers dans un bois de myrtes, l’arbre de Vénus. Ronsard se place ainsi parmi les amants malheureux, tandis qu’Hélène deviendra « une vieille accroupie » : le contraste oppose le repos glorieux du poète au regret de la dame.",
+    "tags": [
+      "intertextualité",
+      "Quand vous serez bien vieille"
+    ]
+  },
+  {
+    "id": "ron-010",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "À quelle figure mythologique le prénom de la dédicataire invite-t-il constamment Ronsard à la comparer ?",
+    "choices": [
+      "Pénélope, l’épouse fidèle d’Ulysse",
+      "Hélène de Troie",
+      "Didon, reine de Carthage",
+      "Ariane, abandonnée par Thésée"
+    ],
+    "answer": 1,
+    "explanation": "L’homonymie avec Hélène de Troie, la plus belle des femmes et cause de la guerre de Troie, nourrit tout le recueil : Ronsard joue sur le nom, la beauté fatale et la guerre. Le parallèle est d’autant plus suggestif que les amours de la dame ont été endeuillées par la guerre civile.",
+    "tags": [
+      "mythologie",
+      "Hélène"
+    ]
+  },
+  {
+    "id": "ron-011",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel poète irlandais s’inspire librement de « Quand vous serez bien vieille » dans son poème « When You Are Old » ?",
+    "choices": [
+      "John Keats",
+      "Alfred Tennyson",
+      "William Butler Yeats",
+      "Percy Bysshe Shelley"
+    ],
+    "answer": 2,
+    "explanation": "Le poème de Yeats (« When you are old and grey and full of sleep ») transpose la scène du coin du feu et le livre relu dans la vieillesse, mais remplace l’orgueil du poète par une tonalité plus mélancolique. C’est un exemple célèbre de la fortune européenne du sonnet.",
+    "tags": [
+      "réception",
+      "réécriture"
+    ]
+  },
+  {
+    "id": "ron-012",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel écrivain du XXe siècle réécrit le carpe diem ronsardien dans « Si tu t’imagines », poème chanté par Juliette Gréco ?",
+    "choices": [
+      "Jacques Prévert",
+      "Boris Vian",
+      "Louis Aragon",
+      "Raymond Queneau"
+    ],
+    "answer": 3,
+    "explanation": "Dans « Si tu t’imagines », adressé à une « fillette » qui croit que la saison des amours va « durer toujours », Queneau reprend en langage parlé le motif de la jeunesse fugitive et de la vieillesse inéluctable. Le texte offre un excellent point de comparaison avec Ronsard en classe.",
+    "tags": [
+      "réception",
+      "carpe diem"
+    ]
+  },
+  {
+    "id": "ron-013",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel critique contribue à la réhabilitation de Ronsard avec son Tableau historique et critique de la poésie française et du théâtre français au XVIe siècle (1828) ?",
+    "choices": [
+      "Sainte-Beuve",
+      "Théophile Gautier",
+      "Victor Hugo",
+      "Gérard de Nerval"
+    ],
+    "answer": 0,
+    "explanation": "Après le discrédit de l’âge classique, Sainte-Beuve redécouvre la Pléiade et en fait une source de la poésie moderne ; les romantiques saluent en Ronsard un précurseur de la liberté lyrique. Cette réhabilitation fonde l’image durable d’un Ronsard poète de l’amour et de la rose.",
+    "tags": [
+      "réception",
+      "XIXe siècle"
+    ]
+  },
+  {
+    "id": "ron-014",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel reproche Boileau adresse-t-il à Ronsard dans son Art poétique (1674) ?",
+    "choices": [
+      "D’avoir écrit en latin plutôt qu’en français",
+      "D’avoir une muse « en français parlant grec et latin »",
+      "D’avoir abandonné le sonnet au profit de l’ode",
+      "D’avoir servilement imité la manière de Marot"
+    ],
+    "answer": 1,
+    "explanation": "Boileau écrit que Ronsard « Réglant tout, brouilla tout » et que « sa muse, en français parlant grec et latin, / Vit dans l’âge suivant, par un retour grotesque, / Tomber de ses grands mots le faste pédantesque ». Le classicisme, après Malherbe, condamne l’érudition et les néologismes savants de la Pléiade.",
+    "tags": [
+      "réception",
+      "classicisme"
+    ]
+  },
+  {
+    "id": "ron-015",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel humaniste florentin a, par son commentaire latin du Banquet de Platon (De amore), diffusé la conception néoplatonicienne de l’amour reprise à la cour des Valois ?",
+    "choices": [
+      "Pétrarque",
+      "Baldassare Castiglione",
+      "Marsile Ficin",
+      "Nicolas Machiavel"
+    ],
+    "answer": 2,
+    "explanation": "Marsile Ficin, traducteur de Platon, fait de l’amour un désir de beauté qui doit s’élever du corps vers l’âme puis vers Dieu. Cette doctrine, débattue dans les cercles savants de la cour d’Henri III, est celle qu’affectionne Hélène ; Ronsard en joue mais lui oppose souvent les droits du désir.",
+    "tags": [
+      "néoplatonisme",
+      "sources"
+    ]
+  },
+  {
+    "id": "ron-016",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "En classe de Première baccalauréat professionnel, dans quel objet d’étude un travail sur la poésie amoureuse de Ronsard s’inscrit-il le plus naturellement ?",
+    "choices": [
+      "« Lire et suivre un personnage : itinéraires romanesques »",
+      "« Vivre aujourd’hui : l’humanité, le monde, les sciences et la technique »",
+      "« Devenir soi : écritures autobiographiques »",
+      "« Créer, fabriquer : l’invention et l’imaginaire »"
+    ],
+    "answer": 3,
+    "explanation": "En Première, l’objet « Créer, fabriquer : l’invention et l’imaginaire » invite à observer le travail de la langue et de la forme : le sonnet, contrainte féconde, et la réécriture (Ronsard, Queneau, Yeats) s’y prêtent parfaitement. « Devenir soi » relève de la Seconde et « Vivre aujourd’hui » de la Terminale ; « Lire et suivre un personnage » concerne le roman.",
+    "tags": [
+      "lycée professionnel",
+      "programmes"
+    ]
+  },
+  {
+    "id": "ron-017",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Sous la direction de quel helléniste Ronsard, Baïf et Du Bellay étudient-ils les auteurs grecs au collège de Coqueret ?",
+    "choices": [
+      "Jean Dorat",
+      "Guillaume Budé",
+      "Jacques Amyot",
+      "Marc-Antoine Muret"
+    ],
+    "answer": 0,
+    "explanation": "Jean Dorat initie les futurs poètes de la Pléiade à Homère, Pindare, aux Alexandrins et à l’Anthologie grecque. Cette formation explique l’érudition mythologique de Ronsard, sensible jusque dans les Sonnets pour Hélène. Muret, autre humaniste, commentera les Amours de Ronsard en 1553.",
+    "tags": [
+      "Pléiade",
+      "biographie"
+    ]
+  },
+  {
+    "id": "ron-018",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel événement de 1562 marque le début des guerres de Religion, auxquelles Ronsard répond la même année par ses Discours des misères de ce temps ?",
+    "choices": [
+      "Le massacre de la Saint-Barthélemy",
+      "Le massacre de Wassy",
+      "La conjuration d’Amboise",
+      "L’assassinat du duc de Guise à Blois"
+    ],
+    "answer": 1,
+    "explanation": "Le massacre de protestants à Wassy par les troupes du duc François de Guise (1er mars 1562) déclenche la première guerre de Religion. Ronsard s’engage dans le camp catholique et royal avec les Discours, ce qui lui vaut de violentes attaques protestantes. La Saint-Barthélemy date de 1572, la conjuration d’Amboise de 1560, l’assassinat d’Henri de Guise à Blois de 1588.",
+    "tags": [
+      "guerres de Religion",
+      "contexte historique"
+    ]
+  },
+  {
+    "id": "ron-019",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Où Ronsard meurt-il en décembre 1585 ?",
+    "choices": [
+      "Au château de la Possonnière, en Vendômois",
+      "Au collège de Coqueret, à Paris",
+      "Au prieuré de Saint-Cosme, près de Tours",
+      "Au palais du Louvre"
+    ],
+    "answer": 2,
+    "explanation": "Ronsard, qui avait reçu la tonsure et vivait de bénéfices ecclésiastiques, était prieur de Saint-Cosme-lez-Tours ; il y meurt le 27 décembre 1585. Ses Derniers vers, poèmes de la maladie et de la mort, paraissent en 1586. La Possonnière est son lieu de naissance (1524).",
+    "tags": [
+      "biographie",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-020",
+    "theme": "ronsard",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Laquelle de ces problématiques convient le mieux à une lecture d’ensemble du Second livre des Sonnets pour Hélène ?",
+    "choices": [
+      "Comment Ronsard célèbre-t-il un amour heureux et partagé ?",
+      "Comment le recueil raconte-t-il le mariage du poète avec Hélène ?",
+      "Comment Ronsard y défend-il la cause catholique contre la Réforme ?",
+      "Comment le poète éconduit fait-il de l’échec amoureux le triomphe de son art ?"
+    ],
+    "answer": 3,
+    "explanation": "Le Second livre chante un amour non partagé : face au « fier dédain » d’Hélène, le poète affirme que seule la poésie donne l’immortalité, à la dame comme à lui-même. On peut aussi problématiser la tension entre idéal néoplatonicien et désir sensuel, ou entre hommage de cour et voix personnelle d’un poète vieillissant.",
+    "tags": [
+      "problématique",
+      "épreuve"
+    ]
+  },
+  {
+    "id": "ron-021",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Imitation du Canzoniere : célébration d’une dame idéalisée et inaccessible, antithèses (feu/glace), hyperboles, blason des beautés et plainte de l’amant souffrant.",
+    "choices": [
+      "Néoplatonisme",
+      "Épicurisme",
+      "Pétrarquisme",
+      "Stoïcisme"
+    ],
+    "answer": 2,
+    "explanation": "Le pétrarquisme, né de l’imitation des poèmes de Pétrarque pour Laure, domine la poésie amoureuse européenne au XVIe siècle. Ronsard en reprend les codes dans les Sonnets pour Hélène mais les infléchit par l’ironie, la sensualité et l’affirmation de soi, ce qui permet de parler d’un pétrarquisme critique.",
+    "tags": [
+      "pétrarquisme",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-022",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Doctrine qui fait de l’amour une ascension de l’âme, de la beauté sensible d’un corps vers la Beauté idéale et le divin, selon une lecture chrétienne de Platon.",
+    "choices": [
+      "Néoplatonisme",
+      "Pétrarquisme",
+      "Scepticisme",
+      "Évhémérisme"
+    ],
+    "answer": 0,
+    "explanation": "Le néoplatonisme, diffusé par Marsile Ficin, est à la mode dans les cercles lettrés de la cour d’Henri III. Hélène s’en réclame, ce qui justifie sa réserve ; Ronsard en adopte parfois le vocabulaire mais revendique aussi, avec ironie, les droits du corps et du désir.",
+    "tags": [
+      "néoplatonisme",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-023",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Invitation à jouir du moment présent avant que la vieillesse et la mort ne l’interdisent, souvent adressée à une jeune femme et associée au motif de la rose.",
+    "choices": [
+      "Memento mori",
+      "Ubi sunt",
+      "Locus amoenus",
+      "Carpe diem"
+    ],
+    "answer": 3,
+    "explanation": "L’expression vient d’Horace (Odes, I, 11 : « carpe diem, quam minimum credula postero »). Chez Ronsard, le carpe diem devient un argument de séduction (« Cueillez dès aujourd’hui les roses de la vie ») où la menace de la vieillesse sert à presser la dame.",
+    "tags": [
+      "carpe diem",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-024",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Trait final frappant, souvent concentré dans le dernier vers d’un sonnet, qui surprend le lecteur et donne sens à tout le poème.",
+    "choices": [
+      "Volta",
+      "Pointe",
+      "Envoi",
+      "Refrain"
+    ],
+    "answer": 1,
+    "explanation": "La pointe (ou chute) est un trait essentiel du sonnet. Dans « Quand vous serez bien vieille », le dernier vers renverse la menace en conseil, l’orgueil du poète en carpe diem. L’envoi, lui, conclut la ballade en s’adressant au dédicataire.",
+    "tags": [
+      "sonnet",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-025",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Tournant du sonnet, généralement situé au passage des quatrains aux tercets, où le propos change d’orientation (concession, opposition, retournement).",
+    "choices": [
+      "Césure",
+      "Rejet",
+      "Volta",
+      "Anaphore"
+    ],
+    "answer": 2,
+    "explanation": "Le terme italien volta désigne la bascule entre l’octave (les deux quatrains) et le sizain (les tercets). Dans « Quand vous serez bien vieille », les quatrains imaginent la gloire du poète tandis que les tercets opposent son repos parmi les ombres à la triste vieillesse d’Hélène.",
+    "tags": [
+      "sonnet",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-026",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Dans la doctrine de la Pléiade, assimilation profonde des auteurs anciens et italiens, « digérés » pour nourrir une œuvre originale en langue française, à l’opposé de la simple traduction.",
+    "choices": [
+      "Innutrition",
+      "Translation",
+      "Paraphrase",
+      "Pastiche"
+    ],
+    "answer": 0,
+    "explanation": "La Défense et illustration compare le poète aux Romains qui, imitant les Grecs, les ont « dévorés » puis « digérés » pour les convertir en leur propre substance. Les Sonnets pour Hélène illustrent cette méthode : Homère, Virgile, Pétrarque ou l’Anthologie grecque y sont refondus dans une voix personnelle.",
+    "tags": [
+      "Pléiade",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-027",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Selon une conception héritée de Platon et chère à la Pléiade, inspiration divine qui saisit le poète et l’élève au-dessus du commun, faisant de lui un être sacré.",
+    "choices": [
+      "Mimèsis",
+      "Catharsis",
+      "Enthymème",
+      "Fureur poétique"
+    ],
+    "answer": 3,
+    "explanation": "La fureur (furor) poétique, décrite dans l’Ion et le Phèdre de Platon, fonde la haute idée que Ronsard se fait du poète, interprète des dieux. Elle explique la certitude, exprimée dans les Sonnets pour Hélène, que les vers donnent une gloire immortelle à celle qu’ils célèbrent.",
+    "tags": [
+      "Pléiade",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-028",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Rappel de la condition mortelle de l’homme, destiné à l’inviter à méditer sur la fragilité de la vie et la vanité des biens terrestres.",
+    "choices": [
+      "Carpe diem",
+      "Memento mori",
+      "Tempus fugit",
+      "Nunc est bibendum"
+    ],
+    "answer": 1,
+    "explanation": "Le memento mori (« souviens-toi que tu dois mourir ») partage avec le carpe diem la conscience du temps, mais en tire une leçon de détachement plutôt que de jouissance. Ronsard emprunte à ce motif l’image du poète « sous la terre et fantôme sans os », pour mieux conclure sur l’urgence de vivre.",
+    "tags": [
+      "temps",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-029",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Courte pièce lyrique d’origine italienne, de forme plus libre que le sonnet, de ton galant et souvent conclue par un trait d’esprit ; Ronsard en insère quelques-unes parmi les sonnets du recueil.",
+    "choices": [
+      "Rondeau",
+      "Ballade",
+      "Madrigal",
+      "Épigramme"
+    ],
+    "answer": 2,
+    "explanation": "Le madrigal, très prisé à la cour des Valois (et chez Desportes), varie le rythme du recueil. Celui des Sonnets pour Hélène qui commence par « Si c’est aimer, Madame, et de jour et de nuit » en est un exemple. Le rondeau et la ballade, formes fixes médiévales, sont au contraire rejetés par la Défense comme des « épiceries ».",
+    "tags": [
+      "forme",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-030",
+    "theme": "ronsard",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Pause métrique qui, dans l’alexandrin classique, sépare le vers en deux moitiés de six syllabes.",
+    "choices": [
+      "Césure",
+      "Hémistiche",
+      "Diérèse",
+      "Enjambement"
+    ],
+    "answer": 0,
+    "explanation": "La césure sépare deux hémistiches (chaque moitié du vers). Ronsard, qui a largement contribué à imposer l’alexandrin, en joue avec souplesse : « Quand vous serez bien vieille, // au soir, à la chandelle » installe d’emblée la temporalité future et le décor intime.",
+    "tags": [
+      "versification",
+      "notion"
+    ]
+  },
+  {
+    "id": "ron-031",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le sonnet « Quand vous serez bien vieille » est composé en alexandrins.",
+    "answer": true,
+    "explanation": "Le poème est en alexandrins, comme la plupart des Sonnets pour Hélène, alors que les Amours de Cassandre (1552) privilégiaient le décasyllabe. Ce choix accompagne l’évolution de Ronsard vers un style plus ample et plus familier, amorcé avec les Amours de Marie.",
+    "tags": [
+      "versification",
+      "Quand vous serez bien vieille"
+    ]
+  },
+  {
+    "id": "ron-032",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Les Sonnets pour Hélène célèbrent une jeune paysanne de Bourgueil, rencontrée par le poète dans son Anjou.",
+    "answer": false,
+    "explanation": "La paysanne de Bourgueil est Marie, inspiratrice de la Continuation des Amours (1555) et de la Nouvelle Continuation (1556). Hélène de Surgères est au contraire une aristocrate lettrée de la cour, fille d’honneur de Catherine de Médicis : le changement de dame implique un changement de registre.",
+    "tags": [
+      "Hélène",
+      "inspiratrices"
+    ]
+  },
+  {
+    "id": "ron-033",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Selon la tradition, c’est Catherine de Médicis qui aurait encouragé Ronsard à célébrer Hélène, pour la consoler de la mort d’un amant tué pendant les guerres civiles.",
+    "answer": true,
+    "explanation": "Cette origine, souvent rapportée, fait du recueil une sorte de commande de cour. Elle éclaire la double nature de l’œuvre : exercice galant de poète officiel, mais aussi expression d’une passion tardive, réelle ou feinte, qui donne au recueil sa mélancolie singulière.",
+    "tags": [
+      "contexte",
+      "Catherine de Médicis"
+    ]
+  },
+  {
+    "id": "ron-034",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Ronsard est un jeune poète d’une vingtaine d’années lorsqu’il publie les Sonnets pour Hélène.",
+    "answer": false,
+    "explanation": "Né en 1524, Ronsard a plus de cinquante ans en 1578. L’écart d’âge avec Hélène est un ressort essentiel du recueil : le poète vieillissant oppose sa gloire durable à la beauté périssable de la jeune femme, ce qui donne tout son sel à « Quand vous serez bien vieille ».",
+    "tags": [
+      "biographie",
+      "vieillesse"
+    ]
+  },
+  {
+    "id": "ron-035",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La numérotation des Sonnets pour Hélène varie selon les éditions, car Ronsard a remanié le recueil après 1578 (ajouts, suppressions, déplacements).",
+    "answer": true,
+    "explanation": "Ronsard corrige sans cesse ses œuvres : les Sonnets pour Hélène sont modifiés dans l’édition de 1584, puis dans l’édition posthume de 1587. C’est pourquoi un même sonnet, comme « Quand vous serez bien vieille », ne porte pas le même numéro d’une édition à l’autre : il faut toujours préciser l’édition de référence.",
+    "tags": [
+      "éditions",
+      "composition"
+    ]
+  },
+  {
+    "id": "ron-036",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans « Quand vous serez bien vieille », les quatrains sont construits sur des rimes croisées.",
+    "answer": false,
+    "explanation": "Les quatrains sont à rimes embrassées (ABBA ABBA : chandelle / filant / émerveillant / belle), selon l’usage du sonnet régulier. Ronsard respecte en outre l’alternance des rimes masculines et féminines, qu’il recommande dans son Abrégé de l’art poétique français (1565).",
+    "tags": [
+      "versification",
+      "sonnet"
+    ]
+  },
+  {
+    "id": "ron-037",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Du Bellay a raillé la mode pétrarquiste dans un poème qui s’ouvre sur le vers « J’ai oublié l’art de pétrarquiser ».",
+    "answer": true,
+    "explanation": "Le poème « Contre les pétrarquistes » (recueilli dans les Divers Jeux rustiques, 1558) moque les hyperboles convenues des imitateurs de Pétrarque. Cet anti-pétrarquisme existe dans la Pléiade même : Ronsard, dans les Sonnets pour Hélène, en garde les codes tout en les ironisant.",
+    "tags": [
+      "anti-pétrarquisme",
+      "Du Bellay"
+    ]
+  },
+  {
+    "id": "ron-038",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le thème du carpe diem est une invention de la Pléiade.",
+    "answer": false,
+    "explanation": "La formule vient d’Horace (Odes, I, 11) et le motif de la rose à cueillir se trouve déjà dans la poésie latine tardive (le poème « Collige, virgo, rosas » attribué à Ausone). La Pléiade le reprend par imitation des Anciens, conformément au programme de la Défense.",
+    "tags": [
+      "carpe diem",
+      "sources"
+    ]
+  },
+  {
+    "id": "ron-039",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Les Sonnets pour Hélène parurent d’abord en 1578 sous la forme d’un volume isolé, indépendant des Œuvres de Ronsard.",
+    "answer": false,
+    "explanation": "Les Sonnets pour Hélène paraissent en 1578 au sein de l’édition collective des Œuvres, dans la section des Amours. Ronsard compose ainsi un vaste cycle amoureux (Cassandre, Marie, Hélène) que le lecteur peut lire comme l’histoire d’une vie poétique.",
+    "tags": [
+      "publication",
+      "composition"
+    ]
+  },
+  {
+    "id": "ron-040",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Ronsard a participé à l’Académie du Palais, cercle savant réuni autour d’Henri III où l’on débattait de questions morales et philosophiques.",
+    "answer": true,
+    "explanation": "Dans la seconde moitié des années 1570, Henri III réunit au Louvre des savants et des poètes, dont Ronsard et Desportes, pour des discours sur les vertus, les passions ou l’amour. Ce milieu, imprégné de néoplatonisme, est celui d’Hélène de Surgères et forme l’arrière-plan intellectuel du recueil.",
+    "tags": [
+      "cour",
+      "néoplatonisme"
+    ]
+  },
+  {
+    "id": "ron-041",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans « Quand vous serez bien vieille », le poète imagine qu’Hélène, devenue âgée, aura tout oublié de ses vers.",
+    "answer": false,
+    "explanation": "C’est l’inverse : Hélène vieillie dira « chantant mes vers, en vous émerveillant : / Ronsard me célébrait du temps que j’étais belle ». Le poème repose sur la certitude que la poésie survit au temps et donne au nom du poète une gloire capable de réveiller jusqu’à la servante.",
+    "tags": [
+      "immortalité poétique",
+      "Quand vous serez bien vieille"
+    ]
+  },
+  {
+    "id": "ron-042",
+    "theme": "ronsard",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "En CAP, la poésie lyrique amoureuse peut s’étudier dans l’objet d’étude « Se dire, s’affirmer, s’émanciper ».",
+    "answer": true,
+    "explanation": "Le programme de CAP (2019) comprend notamment « Se dire, s’affirmer, s’émanciper », qui accueille les écritures de soi et la poésie lyrique, et « Rêver, imaginer, créer ». Le sonnet de Ronsard, court et très structuré, se prête à une lecture expressive et à des activités d’écriture (réécriture, réponse d’Hélène).",
+    "tags": [
+      "lycée professionnel",
+      "programmes"
+    ]
+  },
+  {
+    "id": "ron-043",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces étapes de la vie et de l’œuvre de Ronsard dans l’ordre chronologique.",
+    "events": [
+      {
+        "label": "Naissance au château de la Possonnière, en Vendômois",
+        "year": 1524
+      },
+      {
+        "label": "Publication des Quatre premiers livres des Odes",
+        "year": 1550
+      },
+      {
+        "label": "Publication des Amours (dits de Cassandre)",
+        "year": 1552
+      },
+      {
+        "label": "Discours des misères de ce temps",
+        "year": 1562
+      },
+      {
+        "label": "Mort au prieuré de Saint-Cosme-lez-Tours",
+        "year": 1585
+      }
+    ],
+    "explanation": "Ronsard s’impose d’abord en lyrique savant (Odes pindariques, Amours de Cassandre), puis devient poète engagé lors des guerres de Religion. Les Sonnets pour Hélène (1578) appartiennent à la dernière période, celle du poète consacré et vieillissant, que concurrencent les poètes de la cour d’Henri III.",
+    "tags": [
+      "biographie",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-044",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces publications de la Pléiade dans l’ordre chronologique.",
+    "events": [
+      {
+        "label": "Du Bellay, Défense et illustration de la langue française",
+        "year": 1549
+      },
+      {
+        "label": "Jodelle, Cléopâtre captive, première tragédie humaniste en français",
+        "year": 1553
+      },
+      {
+        "label": "Du Bellay, Les Regrets",
+        "year": 1558
+      },
+      {
+        "label": "Ronsard, Abrégé de l’art poétique français",
+        "year": 1565
+      },
+      {
+        "label": "Ronsard, La Franciade (quatre premiers livres)",
+        "year": 1572
+      }
+    ],
+    "explanation": "Du manifeste de 1549 à l’épopée inachevée de 1572, la Pléiade réalise son programme : tragédie à l’antique, sonnet, art poétique, épopée nationale. L’échec relatif de La Franciade précède de peu le recentrage de Ronsard sur la poésie amoureuse avec les Sonnets pour Hélène.",
+    "tags": [
+      "Pléiade",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-045",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces événements de l’histoire de France dans l’ordre chronologique.",
+    "events": [
+      {
+        "label": "Massacre de Wassy, début des guerres de Religion",
+        "year": 1562
+      },
+      {
+        "label": "Massacre de la Saint-Barthélemy",
+        "year": 1572
+      },
+      {
+        "label": "Avènement d’Henri III",
+        "year": 1574
+      },
+      {
+        "label": "Assassinat d’Henri III",
+        "year": 1589
+      },
+      {
+        "label": "Édit de Nantes",
+        "year": 1598
+      }
+    ],
+    "explanation": "Les Sonnets pour Hélène paraissent en 1578, en pleine période de guerres civiles et sous Henri III. Hélène elle-même a perdu un amant au combat : la violence de l’époque affleure ainsi en arrière-plan d’une poésie galante en apparence éloignée de l’histoire.",
+    "tags": [
+      "contexte historique",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-046",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces œuvres de Ronsard dans l’ordre de leur publication.",
+    "events": [
+      {
+        "label": "Les Odes",
+        "year": 1550
+      },
+      {
+        "label": "Les Amours de Cassandre",
+        "year": 1552
+      },
+      {
+        "label": "La Continuation des Amours (Marie)",
+        "year": 1555
+      },
+      {
+        "label": "La Franciade",
+        "year": 1572
+      },
+      {
+        "label": "Les Sonnets pour Hélène",
+        "year": 1578
+      }
+    ],
+    "explanation": "Le cycle amoureux de Ronsard évolue d’un pétrarquisme savant et décasyllabique (Cassandre) vers le « beau style bas » des Amours de Marie, puis vers la maturité mélancolique et ironique des Sonnets pour Hélène. Entre-temps, Ronsard s’est essayé à l’hymne, au discours politique et à l’épopée.",
+    "tags": [
+      "œuvre",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-047",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces jalons de la tradition pétrarquiste et de sa réception en France.",
+    "events": [
+      {
+        "label": "Première rencontre de Pétrarque et de Laure, à Avignon",
+        "year": 1327
+      },
+      {
+        "label": "Du Bellay, L’Olive, premier recueil de sonnets amoureux en français",
+        "year": 1549
+      },
+      {
+        "label": "Ronsard, Les Amours de Cassandre",
+        "year": 1552
+      },
+      {
+        "label": "Desportes, Les Premières Œuvres",
+        "year": 1573
+      },
+      {
+        "label": "Ronsard, Sonnets pour Hélène",
+        "year": 1578
+      }
+    ],
+    "explanation": "Pétrarque date sa rencontre avec Laure du Vendredi saint 1327. Deux siècles plus tard, la Pléiade acclimate le sonnet amoureux en français ; Desportes en propose une version courtoise et maniériste qui séduit la cour, et Ronsard lui répond avec les Sonnets pour Hélène, entre fidélité au modèle et prise de distance.",
+    "tags": [
+      "pétrarquisme",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-048",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces étapes de la réception de Ronsard dans l’ordre chronologique.",
+    "events": [
+      {
+        "label": "Publication des Sonnets pour Hélène",
+        "year": 1578
+      },
+      {
+        "label": "Mort de Ronsard, salué comme « prince des poètes »",
+        "year": 1585
+      },
+      {
+        "label": "Boileau condamne sa muse « en français parlant grec et latin » (Art poétique)",
+        "year": 1674
+      },
+      {
+        "label": "Sainte-Beuve, Tableau historique et critique de la poésie française au XVIe siècle",
+        "year": 1828
+      }
+    ],
+    "explanation": "Admiré de son vivant, Ronsard est discrédité par la réforme de Malherbe puis par le classicisme, qui lui reproche son érudition et ses néologismes. Les romantiques, à la suite de Sainte-Beuve, le réhabilitent ; depuis, « Quand vous serez bien vieille » est devenu l’un des sonnets les plus célèbres de la langue française.",
+    "tags": [
+      "réception",
+      "chronologie"
+    ]
+  },
+  {
+    "id": "ron-049",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l’ordre du texte les mouvements du sonnet « Quand vous serez bien vieille ».",
+    "events": [
+      {
+        "label": "Hélène âgée, près du feu, dévide et file en récitant les vers du poète",
+        "year": 1,
+        "marker": "Vers 1-4"
+      },
+      {
+        "label": "La servante à demi endormie se réveille au bruit du nom de Ronsard",
+        "year": 2,
+        "marker": "Vers 5-8"
+      },
+      {
+        "label": "Le poète, « fantôme sans os », repose sous les ombres myrteux",
+        "year": 3,
+        "marker": "Vers 9-10"
+      },
+      {
+        "label": "Hélène, « vieille accroupie », regrette son « fier dédain »",
+        "year": 4,
+        "marker": "Vers 11-12"
+      },
+      {
+        "label": "Injonction finale à cueillir « les roses de la vie »",
+        "year": 5,
+        "marker": "Vers 13-14"
+      }
+    ],
+    "explanation": "Les quatrains projettent une scène future où la gloire du poète éclate jusque dans l’humble foyer ; le premier tercet oppose le repos du poète à la déchéance de la dame ; le distique final convertit cette vision en conseil pressant. L’ensemble mêle hommage, menace et carpe diem.",
+    "tags": [
+      "structure",
+      "Quand vous serez bien vieille"
+    ]
+  },
+  {
+    "id": "ron-050",
+    "theme": "ronsard",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces recueils jalons de l’histoire du sonnet dans l’ordre chronologique.",
+    "events": [
+      {
+        "label": "Du Bellay, L’Olive",
+        "year": 1549
+      },
+      {
+        "label": "Ronsard, Sonnets pour Hélène",
+        "year": 1578
+      },
+      {
+        "label": "Baudelaire, Les Fleurs du mal",
+        "year": 1857
+      },
+      {
+        "label": "Heredia, Les Trophées",
+        "year": 1893
+      }
+    ],
+    "explanation": "Introduit en France par Marot et Mellin de Saint-Gelais, le sonnet triomphe avec la Pléiade, décline à l’âge classique, puis renaît au XIXe siècle avec Baudelaire et les Parnassiens. Comparer ces sonnets permet de travailler la notion de forme fixe et de réécriture.",
+    "tags": [
+      "sonnet",
+      "histoire littéraire"
+    ]
+  }
+]

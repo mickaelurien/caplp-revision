@@ -11,7 +11,7 @@ export function correctAnswerText(pq: PreparedQuestion): string {
     case 'chronology':
       return [...q.events]
         .sort((a, b) => a.year - b.year)
-        .map((e) => `${e.year} : ${e.label}`)
+        .map((e) => `${e.marker ?? e.year} : ${e.label}`)
         .join(' → ');
   }
 }

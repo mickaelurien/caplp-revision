@@ -13,9 +13,20 @@ type Props = {
 const ALL_TYPES: QuestionType[] = ['mcq', 'truefalse', 'definition', 'chronology'];
 const COUNTS = [10, 20, 30];
 
+const SUBJECT_KEY = 'caplp-subject';
+
+function initialSubject() {
+  try {
+    const id = localStorage.getItem(SUBJECT_KEY);
+    return SUBJECTS.find((s) => s.id === id) ?? SUBJECTS[0];
+  } catch {
+    return SUBJECTS[0];
+  }
+}
+
 export function Home({ onStart, onStats }: Props) {
-  const subject = SUBJECTS[0];
-  const [themeIds, setThemeIds] = useState<string[]>(subject.themes.map((t) => t.id));
+  const [subject, setSubject] = useState(initialSubject);
+  const [themeIds, setThemeIds] = useState<string[]>(() => subject.themes.map((t) => t.id));
   const [types, setTypes] = useState<QuestionType[]>(ALL_TYPES);
   const [count, setCount] = useState(10);
   const stats = useMemo(() => load().questions, []);
@@ -27,6 +38,18 @@ export function Home({ onStart, onStats }: Props) {
   const errors = errorPool({ themeIds, types }).length;
   const sections = [...new Set(subject.themes.map((t) => t.section))];
 
+  const chooseSubject = (id: string) => {
+    const next = SUBJECTS.find((s) => s.id === id);
+    if (!next || next.id === subject.id) return;
+    setSubject(next);
+    setThemeIds(next.themes.map((t) => t.id));
+    try {
+      localStorage.setItem(SUBJECT_KEY, next.id);
+    } catch {
+      /* stockage indisponible */
+    }
+  };
+
   return (
     <div className="home">
       <header className="hero">
@@ -34,7 +57,29 @@ export function Home({ onStart, onStats }: Props) {
         <p className="muted">Lettres – Histoire-Géographie · session 2027</p>
       </header>
 
-      <h2>Thèmes du programme</h2>
+      <div className="subject-tabs" role="tablist">
+        {SUBJECTS.map((s) => (
+          <button
+            key={s.id}
+            role="tab"
+            aria-selected={s.id === subject.id}
+            className={`subject-tab ${s.id === subject.id ? 'on' : ''}`}
+            onClick={() => chooseSubject(s.id)}
+          >
+            {s.title}
+          </button>
+        ))}
+      </div>
+
+      <div className="row-between">
+        <h2>Thèmes du programme</h2>
+        <button
+          className="btn ghost small"
+          onClick={() => setThemeIds(themeIds.length === subject.themes.length ? [] : subject.themes.map((t) => t.id))}
+        >
+          {themeIds.length === subject.themes.length ? 'Tout désélectionner' : 'Tout sélectionner'}
+        </button>
+      </div>
       {sections.map((section) => (
         <div key={section}>
           <h3 className="section-title">{section}</h3>
@@ -122,7 +167,7 @@ export function Home({ onStart, onStats }: Props) {
           }
         >
           Examen blanc
-          <small>20 questions, tous thèmes, correction à la fin</small>
+          <small>20 questions, tous thèmes de {subject.title}, correction à la fin</small>
         </button>
       </div>
 

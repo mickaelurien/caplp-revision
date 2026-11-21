@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "fig-001",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« Vivez, si m'en croyez, n'attendez à demain : / Cueillez dès aujourd'hui les roses de la vie. » (Ronsard, Sonnets pour Hélène) : quelle figure porte le dernier vers ?",
+    "choices": [
+      "Une métonymie",
+      "Une métaphore",
+      "Une hypallage",
+      "Une litote"
+    ],
+    "answer": 1,
+    "explanation": "Les « roses de la vie » désignent, sans outil de comparaison, les plaisirs et la beauté éphémères de la jeunesse : c'est une métaphore (une comparaison exigerait « comme », « tel »…). Ce vers clôt le sonnet « Quand vous serez bien vieille » et reprend le carpe diem d'Horace, topos majeur de la poésie de la Pléiade.",
+    "tags": [
+      "analogie",
+      "Ronsard"
+    ]
+  },
+  {
+    "id": "fig-002",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« C'est Vénus tout entière à sa proie attachée » (Racine, Phèdre, I, 3) : quelle figure structure l'image de ce vers ?",
+    "choices": [
+      "Une litote",
+      "Un chiasme",
+      "Une métaphore de la chasse",
+      "Une prétérition"
+    ],
+    "answer": 2,
+    "explanation": "Phèdre se présente comme la « proie » d'une déesse prédatrice : la passion est figurée comme une chasse dont elle est la victime. Vénus, divinité de l'amour, incarne une force extérieure qui accable l'héroïne ; cette image sert la vision tragique d'une passion subie et non choisie (« Ô haine de Vénus ! Ô fatale colère ! »).",
+    "tags": [
+      "analogie",
+      "Phèdre"
+    ]
+  },
+  {
+    "id": "fig-003",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "« Je le vis, je rougis, je pâlis à sa vue » (Racine, Phèdre, I, 3) : comment nomme-t-on la juxtaposition de ces propositions sans mot de liaison ?",
+    "choices": [
+      "Une asyndète",
+      "Un zeugma",
+      "Une polysyndète",
+      "Une anadiplose"
+    ],
+    "answer": 0,
+    "explanation": "L'absence de coordination (asyndète) et le rythme ternaire miment la soudaineté et l'enchaînement immédiat des symptômes de la passion. L'opposition « rougis / pâlis » ajoute une antithèse : le coup de foudre est vécu comme un trouble physique incontrôlable, à la manière de la tradition lyrique héritée de Sappho.",
+    "tags": [
+      "amplification",
+      "Phèdre"
+    ]
+  },
+  {
+    "id": "fig-004",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« Je sentis tout mon corps et transir et brûler » (Racine, Phèdre, I, 3) : quelle figure désigne la répétition de « et » devant chaque terme ?",
+    "choices": [
+      "Une polysyndète",
+      "Une asyndète",
+      "Une anaphore",
+      "Une ellipse"
+    ],
+    "answer": 0,
+    "explanation": "La polysyndète multiplie les conjonctions de coordination au-delà du nécessaire, ce qui met chaque terme en relief. Elle souligne ici l'antithèse « transir / brûler » (froid et feu) : la passion est un mal qui saisit le corps entier de façon contradictoire, topos pétrarquiste repris par Racine.",
+    "tags": [
+      "amplification",
+      "Phèdre"
+    ]
+  },
+  {
+    "id": "fig-005",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« Ariane, ma sœur, de quel amour blessée / Vous mourûtes aux bords où vous fûtes laissée ! » (Racine, Phèdre, I, 3) : quelle figure ouvre ces vers ?",
+    "choices": [
+      "Une prosopopée",
+      "Une apostrophe",
+      "Un aparté",
+      "Une prétérition"
+    ],
+    "answer": 1,
+    "explanation": "Phèdre interpelle sa sœur Ariane, absente (abandonnée par Thésée à Naxos) : c'est une apostrophe. Ce n'est pas une prosopopée, qui consiste à faire parler un absent ou un mort. Le distique, célèbre pour sa musicalité (assonances, passés simples en « -ûtes »), inscrit la passion de Phèdre dans une fatalité familiale.",
+    "tags": [
+      "construction",
+      "Phèdre"
+    ]
+  },
+  {
+    "id": "fig-006",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« La fille de Minos et de Pasiphaé » : par quelle figure Hippolyte désigne-t-il Phèdre dans ce vers de la scène 1 de l'acte I ?",
+    "choices": [
+      "Une antonomase",
+      "Une synecdoque",
+      "Une métonymie",
+      "Une périphrase"
+    ],
+    "answer": 3,
+    "explanation": "La périphrase remplace un nom par une expression plus longue qui en souligne un trait. Ici, elle rappelle l'hérédité de Phèdre : Minos, juge des Enfers, et Pasiphaé, fille du Soleil et mère du Minotaure. Le vers, souvent cité pour son harmonie, annonce d'emblée la double ascendance, lumineuse et monstrueuse, de l'héroïne.",
+    "tags": [
+      "substitution",
+      "Phèdre"
+    ]
+  },
+  {
+    "id": "fig-007",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« Va, je ne te hais point » (Corneille, Le Cid, III, 4) : quelle figure Chimène emploie-t-elle ?",
+    "choices": [
+      "Un euphémisme",
+      "Une antiphrase",
+      "Une litote",
+      "Une prétérition"
+    ],
+    "answer": 2,
+    "explanation": "La litote dit moins pour faire entendre plus : la négation de la haine signifie l'amour, que Chimène ne peut avouer à Rodrigue, meurtrier de son père. Elle se distingue de l'euphémisme, qui atténue une réalité pénible (« il nous a quittés ») sans viser à la renforcer.",
+    "tags": [
+      "substitution",
+      "Corneille"
+    ]
+  },
+  {
+    "id": "fig-008",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« Cette obscure clarté qui tombe des étoiles » (Corneille, Le Cid, IV, 3) : quelle figure réunit « obscure » et « clarté » ?",
+    "choices": [
+      "Un oxymore",
+      "Une antithèse",
+      "Un chiasme",
+      "Un paradoxe"
+    ],
+    "answer": 0,
+    "explanation": "L'oxymore associe dans un même groupe syntaxique deux termes contradictoires. L'antithèse oppose aussi des termes, mais dans des groupes distincts (« je rougis, je pâlis »). Dans le récit de Rodrigue, l'oxymore peint la pénombre nocturne propice à l'attaque des Maures.",
+    "tags": [
+      "opposition",
+      "Corneille"
+    ]
+  },
+  {
+    "id": "fig-009",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« Pour qui sont ces serpents qui sifflent sur vos têtes ? » (Racine, Andromaque, V, 5) : quel procédé sonore domine ?",
+    "choices": [
+      "Une paronomase",
+      "Une assonance en [ɑ̃]",
+      "Une anaphore",
+      "Une allitération en [s]"
+    ],
+    "answer": 3,
+    "explanation": "L'allitération est la répétition d'un son consonantique ; l'assonance, celle d'un son vocalique. La reprise du [s] produit une harmonie imitative du sifflement des serpents des Érinyes qu'Oreste, sombrant dans la folie, croit voir. C'est l'exemple scolaire le plus cité d'allitération.",
+    "tags": [
+      "sonorités",
+      "Racine"
+    ]
+  },
+  {
+    "id": "fig-010",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "« Il faut manger pour vivre et non pas vivre pour manger » (Molière, L'Avare) : quelle figure reconnaît-on ?",
+    "choices": [
+      "Un parallélisme",
+      "Un zeugma",
+      "Un chiasme",
+      "Une gradation"
+    ],
+    "answer": 2,
+    "explanation": "Le chiasme dispose deux termes selon une structure croisée AB / BA (manger-vivre / vivre-manger). Le parallélisme, lui, reproduit la même structure dans le même ordre (AB / AB). Le croisement met ici en relief l'inversion des valeurs que représente l'avarice d'Harpagon.",
+    "tags": [
+      "opposition",
+      "Molière"
+    ]
+  },
+  {
+    "id": "fig-011",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« Ibant obscuri sola sub nocte » (« Ils allaient obscurs sous la nuit solitaire », Virgile, Énéide, VI) : l'adjectif qu'on attendrait pour les personnages est attribué à la nuit, et inversement. De quelle figure s'agit-il ?",
+    "choices": [
+      "Une hypallage",
+      "Un zeugma",
+      "Une hypotypose",
+      "Un oxymore"
+    ],
+    "answer": 0,
+    "explanation": "L'hypallage attribue à un mot un qualificatif qui convient logiquement à un autre élément de la phrase. C'est Énée et la Sibylle qui sont solitaires et la nuit qui est obscure : le déplacement fond les personnages dans l'atmosphère des Enfers. Cet exemple virgilien est l'illustration canonique de la figure.",
+    "tags": [
+      "construction",
+      "hypallage"
+    ]
+  },
+  {
+    "id": "fig-012",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« Vêtu de probité candide et de lin blanc » (Hugo, « Booz endormi », La Légende des siècles) : quelle figure rattache à un même mot deux compléments de nature différente (l'un abstrait, l'autre concret) ?",
+    "choices": [
+      "Un chiasme",
+      "Un zeugma",
+      "Une hypallage",
+      "Une métonymie"
+    ],
+    "answer": 1,
+    "explanation": "Le zeugma (ou attelage) coordonne sous un même terme des éléments hétérogènes, ici une qualité morale et une étoffe. L'effet est souvent humoristique, mais Hugo l'emploie pour unir dignement l'intérieur et l'extérieur du patriarche : la blancheur du vêtement dit la pureté de l'âme.",
+    "tags": [
+      "construction",
+      "Hugo"
+    ]
+  },
+  {
+    "id": "fig-013",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Le récit de Théramène (Phèdre, V, 6), qui peint la mort d'Hippolyte de manière si vive que le spectateur croit la voir, est souvent analysé comme…",
+    "choices": [
+      "Une hypotypose",
+      "Une prosopopée",
+      "Une prétérition",
+      "Une stichomythie"
+    ],
+    "answer": 0,
+    "explanation": "L'hypotypose est une description animée et frappante qui met la scène « sous les yeux ». La bienséance classique interdisant de montrer la mort violente sur scène, Racine la confie à un récit : le monstre marin, les chevaux emballés, le corps déchiré sont rendus présents par la parole (présent de narration, détails visuels).",
+    "tags": [
+      "construction",
+      "Phèdre"
+    ]
+  },
+  {
+    "id": "fig-014",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans Manon Lescaut (Prévost), qui raconte l'essentiel de l'histoire de la passion pour Manon ?",
+    "choices": [
+      "Renoncour, l'« homme de qualité »",
+      "Tiberge, l'ami fidèle",
+      "Le chevalier des Grieux",
+      "Lescaut, le frère de Manon"
+    ],
+    "answer": 2,
+    "explanation": "L'homme de qualité (Renoncour) encadre le roman : il rencontre des Grieux à Pacy puis à Calais, et lui laisse la parole. Le récit enchâssé est donc celui de des Grieux, rétrospectif et à la première personne, ce qui pose la question de sa sincérité et de son art de se justifier.",
+    "tags": [
+      "narration",
+      "Manon Lescaut"
+    ]
+  },
+  {
+    "id": "fig-015",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans la dédicace du Spleen de Paris à Arsène Houssaye, quel auteur Baudelaire cite-t-il comme modèle de la « prose poétique » qu'il veut appliquer à la vie moderne ?",
+    "choices": [
+      "Maurice de Guérin",
+      "Arsène Houssaye",
+      "Alphonse Rabbe",
+      "Aloysius Bertrand"
+    ],
+    "answer": 3,
+    "explanation": "Baudelaire dit avoir eu l'idée de son recueil en feuilletant « le fameux Gaspard de la Nuit d'Aloysius Bertrand » (1842), qu'il veut transposer de la vie « ancienne et pittoresque » à la vie moderne et urbaine. Il y rêve d'« une prose poétique, musicale sans rythme et sans rime ».",
+    "tags": [
+      "poème en prose",
+      "Baudelaire"
+    ]
+  },
+  {
+    "id": "fig-016",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "« Les hommes meurent et ils ne sont pas heureux. » Cette découverte de Caligula, chez Camus, relève de la réflexion sur…",
+    "choices": [
+      "La révolte collective",
+      "L'absurde",
+      "L'engagement politique",
+      "La grâce divine"
+    ],
+    "answer": 1,
+    "explanation": "Caligula appartient au « cycle de l'absurde » avec L'Étranger et Le Mythe de Sisyphe (1942). Après la mort de Drusilla, l'empereur découvre le divorce entre le désir humain de sens et le silence du monde, et prétend en tirer une logique jusqu'au meurtre. Camus présente la pièce comme l'histoire d'une erreur : on ne peut être libre contre les autres hommes.",
+    "tags": [
+      "registres",
+      "Caligula"
+    ]
+  },
+  {
+    "id": "fig-017",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel registre vise d'abord à susciter la pitié et la compassion devant la souffrance d'un personnage, sans impliquer nécessairement l'idée de fatalité ?",
+    "choices": [
+      "Le tragique",
+      "Le lyrique",
+      "L'épique",
+      "Le pathétique"
+    ],
+    "answer": 3,
+    "explanation": "Le pathétique (du grec pathos, « souffrance ») cherche à émouvoir par le spectacle de la douleur. Le tragique suppose en outre un héros écrasé par une force supérieure (destin, dieux, passion). Les deux se mêlent souvent, comme dans Phèdre, où Aristote aurait reconnu la « crainte et la pitié ».",
+    "tags": [
+      "registres",
+      "pathétique"
+    ]
+  },
+  {
+    "id": "fig-018",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "La rime « charmante / amante » partage trois phonèmes ([m], [ɑ̃], [t]). Comment la qualifie-t-on ?",
+    "choices": [
+      "Pauvre",
+      "Suffisante",
+      "Riche",
+      "Léonine"
+    ],
+    "answer": 2,
+    "explanation": "On distingue la rime pauvre (un seul phonème commun, la voyelle), suffisante (deux phonèmes) et riche (trois phonèmes ou plus). La rime léonine, plus rare, s'étend sur deux syllabes entières. La richesse de la rime était particulièrement recherchée par les poètes parnassiens.",
+    "tags": [
+      "versification",
+      "rimes"
+    ]
+  },
+  {
+    "id": "fig-019",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans la terminologie de Genette, quel narrateur est des Grieux, qui raconte sa propre histoire dont il est le héros ?",
+    "choices": [
+      "Hétérodiégétique",
+      "Homodiégétique témoin",
+      "Autodiégétique",
+      "À focalisation externe"
+    ],
+    "answer": 2,
+    "explanation": "Le narrateur homodiégétique est présent dans l'histoire qu'il raconte ; s'il en est le héros, Genette parle de narrateur autodiégétique. Des Grieux est en outre intradiégétique, puisque son récit s'insère dans celui de l'homme de qualité. La focalisation, elle, concerne le point de vue et non l'identité du narrateur.",
+    "tags": [
+      "narration",
+      "Manon Lescaut"
+    ]
+  },
+  {
+    "id": "fig-020",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« C'est un roc !… c'est un pic !… c'est un cap ! / Que dis-je, c'est un cap ?… C'est une péninsule ! » (Rostand, Cyrano de Bergerac) : quel procédé d'amplification est employé ?",
+    "choices": [
+      "Une litote",
+      "Une antiphrase",
+      "Un chiasme",
+      "Une gradation ascendante"
+    ],
+    "answer": 3,
+    "explanation": "La gradation ordonne les termes selon une intensité croissante (ou décroissante). La correction « Que dis-je » (épanorthose) relance la surenchère jusqu'à l'hyperbole comique de la « péninsule ». On rapprochera le « Va, cours, vole, et nous venge » de Don Diègue (Le Cid, I, 5).",
+    "tags": [
+      "amplification",
+      "gradation"
+    ]
+  },
+  {
+    "id": "fig-021",
+    "theme": "figures",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans Le Parfum des fleurs la nuit (2021), Leïla Slimani raconte une nuit passée enfermée…",
+    "choices": [
+      "à la Pointe de la Douane, à Venise",
+      "au musée du Louvre, à Paris",
+      "au musée du Prado, à Madrid",
+      "au musée Picasso, à Paris"
+    ],
+    "answer": 0,
+    "explanation": "Le livre s'inscrit dans la collection « Ma nuit au musée » (Stock), qui propose à un écrivain de passer une nuit dans un musée. À la Punta della Dogana (collection Pinault), Slimani mêle méditation sur l'art, l'enfermement, l'écriture et récit autobiographique à la première personne (enfance au Maroc, figure du père).",
+    "tags": [
+      "narration",
+      "Slimani"
+    ]
+  },
+  {
+    "id": "fig-022",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans « l'Angoisse atroce, despotique, / Sur mon crâne incliné plante son drapeau noir » (Baudelaire, « Spleen »), la majuscule et l'action concrète prêtée à une notion abstraite relèvent de l'allégorie.",
+    "answer": true,
+    "explanation": "L'allégorie représente une idée abstraite sous une forme concrète et animée, souvent signalée par la majuscule. Elle se distingue de la simple personnification, qui prête des traits humains à un objet ou un animal sans incarner une abstraction. La strophe met en scène une véritable bataille intérieure perdue par « l'Espoir, / Vaincu ».",
+    "tags": [
+      "analogie",
+      "Baudelaire"
+    ]
+  },
+  {
+    "id": "fig-023",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans « Rome, l'unique objet de mon ressentiment ! / Rome, à qui vient ton bras d'immoler mon amant ! » (Corneille, Horace), la reprise de « Rome » en tête de vers est un chiasme.",
+    "answer": false,
+    "explanation": "La répétition d'un même mot en tête de vers ou de phrases successives est une anaphore. Dans ces imprécations de Camille, elle martèle la cible de sa haine et donne au discours un rythme oratoire. Le chiasme, lui, repose sur une structure croisée AB / BA.",
+    "tags": [
+      "amplification",
+      "Corneille"
+    ]
+  },
+  {
+    "id": "fig-024",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans le décasyllabe traditionnel, la césure se place après la sixième syllabe.",
+    "answer": false,
+    "explanation": "Le décasyllabe se coupe le plus souvent 4 // 6 (vers épique médiéval, Marot, Valéry dans « Le Cimetière marin »), plus rarement 5 // 5 ou 6 // 4. C'est l'alexandrin classique qui se coupe 6 // 6, en deux hémistiches égaux.",
+    "tags": [
+      "versification",
+      "mètre"
+    ]
+  },
+  {
+    "id": "fig-025",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "En versification classique, le e muet en fin de mot compte comme syllabe devant une consonne, mais s'élide devant une voyelle et ne se compte pas en fin de vers.",
+    "answer": true,
+    "explanation": "Ainsi « Assise auprès du feu » : le e d'« Assise » s'élide devant « auprès ». En fin de vers, le e muet ne compte pas mais rend la rime féminine. C'est la règle de base pour compter les syllabes d'un vers.",
+    "tags": [
+      "versification",
+      "e muet"
+    ]
+  },
+  {
+    "id": "fig-026",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Une rime est dite féminine lorsque le mot placé à la rime est un nom ou un adjectif de genre féminin.",
+    "answer": false,
+    "explanation": "La rime féminine se définit par la présence d'un e muet final (« belle », « vie », y compris « -es » et « -ent » verbal), quel que soit le genre du mot : « monde » forme une rime féminine, « beauté » une rime masculine. Depuis Ronsard, la poésie régulière alterne rimes masculines et féminines.",
+    "tags": [
+      "versification",
+      "rimes"
+    ]
+  },
+  {
+    "id": "fig-027",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le rejet place au début du vers suivant un élément bref qui appartient syntaxiquement au vers précédent ; le contre-rejet place à la fin d'un vers un élément bref qui appartient syntaxiquement au vers suivant.",
+    "answer": true,
+    "explanation": "Rejet et contre-rejet sont des formes marquées de l'enjambement, débordement de la phrase d'un vers sur l'autre. Ils mettent en relief le mot isolé. Le théâtre romantique en a fait un emblème : dès le début d'Hernani (1830), le rejet « l'escalier / Dérobé » fit scandale.",
+    "tags": [
+      "versification",
+      "enjambement"
+    ]
+  },
+  {
+    "id": "fig-028",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le registre épique se caractérise principalement par l'expression des sentiments personnels du locuteur, souvent à la première personne.",
+    "answer": false,
+    "explanation": "Cette définition est celle du registre lyrique (de la lyre d'Orphée). L'épique, hérité de l'épopée, magnifie les exploits d'un héros ou d'un peuple par l'hyperbole, les combats et le merveilleux, comme dans le récit du combat contre les Maures par Rodrigue dans Le Cid.",
+    "tags": [
+      "registres",
+      "épique"
+    ]
+  },
+  {
+    "id": "fig-029",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Selon Todorov (Introduction à la littérature fantastique, 1970), le fantastique repose sur l'acceptation sans question du surnaturel par les personnages.",
+    "answer": false,
+    "explanation": "Pour Todorov, le fantastique tient à l'hésitation du lecteur (et souvent du personnage) entre explication rationnelle et explication surnaturelle. Si le surnaturel est accepté, on bascule dans le merveilleux ; s'il est expliqué, dans l'étrange.",
+    "tags": [
+      "registres",
+      "fantastique"
+    ]
+  },
+  {
+    "id": "fig-030",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans le sonnet « Quand vous serez bien vieille » (Sonnets pour Hélène, 1578), Ronsard projette Hélène dans un avenir où, devenue vieille, elle regrettera d'avoir dédaigné son amour.",
+    "answer": true,
+    "explanation": "Le poème repose sur une projection dans le futur (prolepse) : la vieille femme « au soir, à la chandelle » se souvient d'avoir été célébrée par Ronsard. Ce tableau sert l'argument final du carpe diem, « Cueillez dès aujourd'hui les roses de la vie », et affirme le pouvoir d'immortaliser du poète.",
+    "tags": [
+      "Ronsard",
+      "sonnet"
+    ]
+  },
+  {
+    "id": "fig-031",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans l'expression « boucherie héroïque » (Voltaire, Candide), l'oxymore sert l'ironie en dénonçant la guerre.",
+    "answer": true,
+    "explanation": "En accolant le registre glorieux (« héroïque ») et l'image de l'abattoir (« boucherie »), Voltaire démasque la célébration de la guerre. L'ironie consiste à faire entendre le contraire de ce qu'on dit ou à feindre l'adhésion ; l'antiphrase en est la forme la plus nette (« Rien n'était si beau, si leste, si brillant… que les deux armées »).",
+    "tags": [
+      "opposition",
+      "ironie"
+    ]
+  },
+  {
+    "id": "fig-032",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "« Le jour n'est pas plus pur que le fond de mon cœur » est prononcé par Phèdre lorsqu'elle avoue son amour à Hippolyte.",
+    "answer": false,
+    "explanation": "C'est Hippolyte qui prononce ce vers devant Thésée (IV, 2) pour protester de son innocence après la calomnie d'Œnone. La comparaison avec la pureté du jour est d'autant plus ironique que Phèdre, petite-fille du Soleil, est la véritable coupable.",
+    "tags": [
+      "Phèdre",
+      "comparaison"
+    ]
+  },
+  {
+    "id": "fig-033",
+    "theme": "figures",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Caligula de Camus s'achève sur le cri de l'empereur assassiné : « Je suis encore vivant ! »",
+    "answer": true,
+    "explanation": "Le dénouement montre l'empereur poignardé par les conjurés, qui lance cette réplique finale en riant et en râlant. Elle peut se lire comme le constat que l'absurde et la tentation de la tyrannie survivent à l'individu. La pièce, publiée en 1944, fut créée en 1945 avec Gérard Philipe.",
+    "tags": [
+      "théâtre",
+      "Caligula"
+    ]
+  },
+  {
+    "id": "fig-034",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Figure qui désigne une réalité par un terme lié à elle par un rapport de contiguïté logique (contenant pour contenu, lieu pour institution, auteur pour œuvre…) : « boire un verre ».",
+    "choices": [
+      "Synecdoque",
+      "Métonymie",
+      "Métaphore",
+      "Hypallage"
+    ],
+    "answer": 1,
+    "explanation": "La métonymie repose sur un lien logique ou de proximité, alors que la métaphore repose sur une ressemblance. « Lire un Baudelaire » (l'auteur pour l'œuvre) ou « l'Élysée a décidé » (le lieu pour l'institution) en sont d'autres exemples.",
+    "tags": [
+      "substitution",
+      "métonymie"
+    ]
+  },
+  {
+    "id": "fig-035",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Figure qui désigne un tout par une de ses parties, un objet par sa matière ou un ensemble par un singulier : « une voile » pour un navire, « le fer » pour l'épée.",
+    "choices": [
+      "Métonymie",
+      "Antonomase",
+      "Périphrase",
+      "Synecdoque"
+    ],
+    "answer": 3,
+    "explanation": "La synecdoque est souvent considérée comme une variété de métonymie fondée sur un rapport d'inclusion. On en trouve de nombreuses dans la tragédie classique (« le fer », « la flamme », « les bras ») qui permettent de désigner noblement les réalités.",
+    "tags": [
+      "substitution",
+      "synecdoque"
+    ]
+  },
+  {
+    "id": "fig-036",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Figure qui emploie un nom propre comme nom commun pour désigner un type (« un harpagon » pour un avare) ou, inversement, un nom commun pour désigner un individu.",
+    "choices": [
+      "Antonomase",
+      "Périphrase",
+      "Allégorie",
+      "Métonymie"
+    ],
+    "answer": 0,
+    "explanation": "L'antonomase transforme un personnage célèbre en type : « une don juan », « un tartuffe », « une égérie ». Le mouvement inverse se trouve dans « l'Empereur » pour Napoléon ou « le Poète » pour Homère.",
+    "tags": [
+      "substitution",
+      "antonomase"
+    ]
+  },
+  {
+    "id": "fig-037",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Figure par laquelle on déclare ne pas vouloir dire ce que l'on dit pourtant : « Je ne vous parlerai pas de… ».",
+    "choices": [
+      "Prétérition",
+      "Euphémisme",
+      "Litote",
+      "Réticence"
+    ],
+    "answer": 0,
+    "explanation": "La prétérition attire l'attention sur ce qu'elle prétend taire, procédé fréquent de l'éloquence judiciaire et polémique. La réticence (ou aposiopèse), elle, interrompt réellement la phrase, laissant le reste en suspens.",
+    "tags": [
+      "construction",
+      "prétérition"
+    ]
+  },
+  {
+    "id": "fig-038",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Prononciation en deux syllabes distinctes de deux voyelles contiguës habituellement réunies en une seule (« pa-ssi-on », « vi-o-lon »), souvent pour mettre un mot en valeur.",
+    "choices": [
+      "Synérèse",
+      "Élision",
+      "Hiatus",
+      "Diérèse"
+    ],
+    "answer": 3,
+    "explanation": "La diérèse s'oppose à la synérèse, qui réunit les deux voyelles en une seule syllabe. En poésie classique, l'usage dépend souvent de l'étymologie (les mots en « -ion » sont en général en diérèse). Elle allonge et souligne le mot, effet fréquent sur les termes clés.",
+    "tags": [
+      "versification",
+      "diérèse"
+    ]
+  },
+  {
+    "id": "fig-039",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Au théâtre, fait que chaque réplique s'adresse à la fois au personnage interlocuteur et, par-delà la scène, au public, qui en perçoit des sens que les personnages ignorent.",
+    "choices": [
+      "Aparté",
+      "Double énonciation",
+      "Monologue",
+      "Mise en abyme"
+    ],
+    "answer": 1,
+    "explanation": "La double énonciation fonde l'ironie dramatique : le spectateur en sait souvent plus que les personnages (ainsi Thésée ignore la vérité que le public connaît dans Phèdre). L'aparté, réplique que les autres personnages sont censés ne pas entendre, en est une forme particulière.",
+    "tags": [
+      "théâtre",
+      "énonciation"
+    ]
+  },
+  {
+    "id": "fig-040",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Échange de répliques brèves, d'un vers ou d'un hémistiche chacune, qui donne au dialogue un rythme vif et souvent conflictuel.",
+    "choices": [
+      "Tirade",
+      "Monologue",
+      "Stichomythie",
+      "Didascalie"
+    ],
+    "answer": 2,
+    "explanation": "La stichomythie s'oppose à la tirade, longue réplique ininterrompue d'un personnage. Le duel verbal entre Rodrigue et le comte (Le Cid, II, 2) en offre un modèle : chaque réplique reprend et retourne les mots de l'adversaire.",
+    "tags": [
+      "théâtre",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "fig-041",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Retour en arrière dans le récit : évocation après coup d'un événement antérieur au moment de l'histoire où l'on se trouve.",
+    "choices": [
+      "Prolepse",
+      "Ellipse",
+      "Sommaire",
+      "Analepse"
+    ],
+    "answer": 3,
+    "explanation": "L'analepse (flash-back) s'oppose à la prolepse, anticipation d'un événement futur. Le récit de des Grieux est tout entier une longue analepse par rapport à sa rencontre avec l'homme de qualité ; il y ménage aussi des prolepses (« Hélas ! que ne le marquais-je un jour plus tôt ! »).",
+    "tags": [
+      "narration",
+      "temps"
+    ]
+  },
+  {
+    "id": "fig-042",
+    "theme": "figures",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Vitesse narrative dans laquelle le temps du récit est plus court que le temps de l'histoire : quelques lignes résument des mois ou des années.",
+    "choices": [
+      "Scène",
+      "Sommaire",
+      "Pause descriptive",
+      "Ellipse"
+    ],
+    "answer": 1,
+    "explanation": "Genette distingue la scène (temps du récit ≈ temps de l'histoire, souvent dialoguée), le sommaire (accélération), l'ellipse (période passée sous silence) et la pause (description qui suspend l'histoire). L'alternance scène / sommaire rythme le récit et hiérarchise les épisodes.",
+    "tags": [
+      "narration",
+      "rythme"
+    ]
+  },
+  {
+    "id": "fig-043",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Le sonnet en France : classez ces recueils dans l'ordre chronologique de leur publication.",
+    "events": [
+      {
+        "label": "Ronsard, Sonnets pour Hélène",
+        "year": 1578
+      },
+      {
+        "label": "Du Bellay, L'Olive",
+        "year": 1549
+      },
+      {
+        "label": "Baudelaire, Les Fleurs du mal",
+        "year": 1857
+      },
+      {
+        "label": "Ronsard, Les Amours",
+        "year": 1552
+      },
+      {
+        "label": "Du Bellay, Les Regrets",
+        "year": 1558
+      }
+    ],
+    "explanation": "Introduit en France par Marot et Mellin de Saint-Gelais dans les années 1530, le sonnet pétrarquiste triomphe avec la Pléiade : L'Olive est le premier recueil de sonnets amoureux en français. Les Sonnets pour Hélène, recueil de la maturité, appartiennent à la fin de carrière de Ronsard ; Baudelaire renouvellera la forme au XIXe siècle.",
+    "tags": [
+      "sonnet",
+      "histoire littéraire"
+    ]
+  },
+  {
+    "id": "fig-044",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces étapes de la naissance du poème en prose dans l'ordre chronologique de publication.",
+    "events": [
+      {
+        "label": "Baudelaire, Le Spleen de Paris (posthume)",
+        "year": 1869
+      },
+      {
+        "label": "Aloysius Bertrand, Gaspard de la Nuit (posthume)",
+        "year": 1842
+      },
+      {
+        "label": "Rimbaud, Illuminations",
+        "year": 1886
+      },
+      {
+        "label": "Baudelaire, Les Fleurs du mal",
+        "year": 1857
+      },
+      {
+        "label": "Rimbaud, Une saison en enfer",
+        "year": 1873
+      }
+    ],
+    "explanation": "Baudelaire reconnaît sa dette envers Gaspard de la Nuit. Les Petits poèmes en prose, dits Le Spleen de Paris, paraissent après sa mort (1867) dans l'édition de ses Œuvres complètes. Rimbaud prolonge cette libération de la forme poétique.",
+    "tags": [
+      "poème en prose",
+      "Baudelaire"
+    ]
+  },
+  {
+    "id": "fig-045",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Classez ces œuvres dans l'ordre chronologique de leur publication.",
+    "events": [
+      {
+        "label": "Prévost, Manon Lescaut",
+        "year": 1731
+      },
+      {
+        "label": "Camus, Caligula",
+        "year": 1944
+      },
+      {
+        "label": "Ronsard, Sonnets pour Hélène",
+        "year": 1578
+      },
+      {
+        "label": "Baudelaire, Le Spleen de Paris",
+        "year": 1869
+      },
+      {
+        "label": "Racine, Phèdre",
+        "year": 1677
+      }
+    ],
+    "explanation": "Ces œuvres couvrent la Renaissance, le classicisme, le siècle des Lumières, la modernité poétique et le XXe siècle. Manon Lescaut paraît d'abord comme septième tome des Mémoires et aventures d'un homme de qualité (1731), avant l'édition revue de 1753 ; Caligula est publié en 1944 et créé en 1945.",
+    "tags": [
+      "œuvres",
+      "histoire littéraire"
+    ]
+  },
+  {
+    "id": "fig-046",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Du classicisme au romantisme : classez ces jalons de l'histoire du théâtre.",
+    "events": [
+      {
+        "label": "Racine, Phèdre",
+        "year": 1677
+      },
+      {
+        "label": "Hugo, Préface de Cromwell",
+        "year": 1827
+      },
+      {
+        "label": "Corneille, Le Cid",
+        "year": 1637
+      },
+      {
+        "label": "Bataille d'Hernani",
+        "year": 1830
+      },
+      {
+        "label": "Boileau, L'Art poétique",
+        "year": 1674
+      }
+    ],
+    "explanation": "Le Cid déclenche une querelle qui contribue à fixer les règles classiques, codifiées par Boileau : « Qu'en un lieu, qu'en un jour, un seul fait accompli / Tienne jusqu'à la fin le théâtre rempli. » Phèdre en est l'aboutissement ; la Préface de Cromwell et Hernani contestent ces règles au nom du drame romantique.",
+    "tags": [
+      "théâtre",
+      "histoire littéraire"
+    ]
+  },
+  {
+    "id": "fig-047",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces traités de rhétorique et de poétique dans l'ordre chronologique de publication.",
+    "events": [
+      {
+        "label": "Genette, Figures III",
+        "year": 1972
+      },
+      {
+        "label": "Dumarsais, Des tropes",
+        "year": 1730
+      },
+      {
+        "label": "Groupe µ, Rhétorique générale",
+        "year": 1970
+      },
+      {
+        "label": "Fontanier, Manuel classique pour l'étude des tropes",
+        "year": 1821
+      }
+    ],
+    "explanation": "Dumarsais et Fontanier fondent la classification française des figures, que l'enseignement emploie encore. Au XXe siècle, la « nouvelle rhétorique » structuraliste (Groupe µ) les reformule, tandis que Genette fonde la narratologie (ordre, vitesse, focalisation, voix) dans Figures III.",
+    "tags": [
+      "rhétorique",
+      "théorie"
+    ]
+  },
+  {
+    "id": "fig-048",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre les étapes de préparation d'un commentaire de texte littéraire.",
+    "events": [
+      {
+        "label": "Formuler une problématique",
+        "year": 3,
+        "marker": "Étape 3"
+      },
+      {
+        "label": "Situer le texte (auteur, œuvre, genre, contexte)",
+        "year": 1,
+        "marker": "Étape 1"
+      },
+      {
+        "label": "Rédiger introduction, développement et conclusion",
+        "year": 5,
+        "marker": "Étape 5"
+      },
+      {
+        "label": "Relever et interpréter les procédés d'écriture",
+        "year": 2,
+        "marker": "Étape 2"
+      },
+      {
+        "label": "Construire un plan organisé en axes",
+        "year": 4,
+        "marker": "Étape 4"
+      }
+    ],
+    "explanation": "Le relevé des procédés n'a de sens que s'il est interprété : on ne cite pas une figure sans en dégager l'effet. La problématique naît des observations et commande le plan, dont chaque axe articule plusieurs procédés au service d'une idée.",
+    "tags": [
+      "méthode",
+      "commentaire"
+    ]
+  },
+  {
+    "id": "fig-049",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Phèdre de Racine : remettez ces moments de l'intrigue dans l'ordre de la pièce.",
+    "events": [
+      {
+        "label": "Thésée lance sa malédiction contre Hippolyte",
+        "year": 4,
+        "marker": "Acte IV"
+      },
+      {
+        "label": "Phèdre avoue son amour à Œnone",
+        "year": 1,
+        "marker": "Acte I"
+      },
+      {
+        "label": "Théramène fait le récit de la mort d'Hippolyte",
+        "year": 5,
+        "marker": "Acte V"
+      },
+      {
+        "label": "Phèdre avoue son amour à Hippolyte",
+        "year": 2,
+        "marker": "Acte II"
+      },
+      {
+        "label": "Retour de Thésée, que l'on croyait mort",
+        "year": 3,
+        "marker": "Acte III"
+      }
+    ],
+    "explanation": "La fausse nouvelle de la mort de Thésée (I, 4) libère la parole de Phèdre et rend possible l'aveu à Hippolyte (II, 5). Son retour (acte III) retourne la situation : Œnone calomnie Hippolyte, Thésée le maudit et invoque Neptune (IV, 2), et la mort du héros est rapportée par Théramène (V, 6).",
+    "tags": [
+      "Phèdre",
+      "intrigue"
+    ]
+  },
+  {
+    "id": "fig-050",
+    "theme": "figures",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Manon Lescaut : remettez ces épisodes du récit de des Grieux dans l'ordre.",
+    "events": [
+      {
+        "label": "Départ de Manon déportée vers la Louisiane",
+        "year": 4,
+        "marker": "Épisode 4"
+      },
+      {
+        "label": "Première rencontre à Amiens",
+        "year": 1,
+        "marker": "Épisode 1"
+      },
+      {
+        "label": "Mort de Manon dans le désert, en Amérique",
+        "year": 5,
+        "marker": "Épisode 5"
+      },
+      {
+        "label": "Retraite de des Grieux au séminaire de Saint-Sulpice",
+        "year": 2,
+        "marker": "Épisode 2"
+      },
+      {
+        "label": "Emprisonnement de des Grieux à Saint-Lazare",
+        "year": 3,
+        "marker": "Épisode 3"
+      }
+    ],
+    "explanation": "Après la trahison de Manon avec M. de B…, des Grieux se retire à Saint-Sulpice, où Manon vient le reprendre. Les escroqueries menées avec Lescaut conduisent ensuite à son enfermement à Saint-Lazare, puis à la déportation de Manon, qu'il suit en Louisiane ; après leur fuite hors de La Nouvelle-Orléans, elle meurt dans le désert.",
+    "tags": [
+      "Manon Lescaut",
+      "intrigue"
+    ]
+  }
+]

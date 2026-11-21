@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "prg-001",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Lequel de ces intitulés n'est PAS un objet d'étude du programme de français de seconde professionnelle (2019) ?",
+    "choices": [
+      "Rêver, imaginer, créer",
+      "S'informer, informer : les circuits de l'information",
+      "Devenir soi : écritures autobiographiques",
+      "Dire et se faire entendre : la parole, le théâtre, l'éloquence"
+    ],
+    "answer": 0,
+    "explanation": "« Rêver, imaginer, créer » est un objet d'étude du programme de CAP (avec « Se dire, s'affirmer, s'émanciper » et « S'informer, informer, communiquer »). La seconde professionnelle compte trois objets d'étude, auxquels s'ajoute la perspective d'étude « Dire, écrire, lire le métier ». Les élèves de CAP qui poursuivent en première retrouvent l'imaginaire dans « Créer, fabriquer : l'invention et l'imaginaire ».",
+    "tags": [
+      "seconde",
+      "objets d'étude"
+    ]
+  },
+  {
+    "id": "prg-002",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est l'objet d'étude unique de la classe terminale professionnelle ?",
+    "choices": [
+      "Habiter le monde : la nature, les sciences et les techniques",
+      "Vivre aujourd'hui : l'humanité, le monde, les sciences et la technique",
+      "Vivre ensemble : la société, le progrès et la technique",
+      "Penser demain : l'homme, la science et le monde"
+    ],
+    "answer": 1,
+    "explanation": "Le programme de terminale (BO spécial n° 1 du 6 février 2020) fixe un objet d'étude unique, « Vivre aujourd'hui : l'humanité, le monde, les sciences et la technique ». Il vise à rendre les élèves capables de « construire et de partager un raisonnement solide, étayé de références ». Cet objet d'étude est précisé par un programme limitatif (thème et bibliographie).",
+    "tags": [
+      "terminale",
+      "objets d'étude"
+    ]
+  },
+  {
+    "id": "prg-003",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Sur quel support principal s'appuie l'objet d'étude de première « Créer, fabriquer : l'invention et l'imaginaire » ?",
+    "choices": [
+      "La lecture intégrale d'une pièce de théâtre et de ses mises en scène",
+      "Un roman du XVIIIe siècle à nos jours suivi à travers un personnage",
+      "Un recueil de poésie de langue française, avec des documents sur sa genèse",
+      "Un essai de littérature d'idées choisi dans une bibliographie nationale"
+    ],
+    "answer": 2,
+    "explanation": "L'objet d'étude s'appuie sur « la lecture et l'analyse d'un recueil de poésie de langue française », assorti de documents sur sa genèse ou de témoignages de l'auteur sur la création (brouillons, manifestes, préfaces, entretiens). Le programme insiste sur l'étude du livre comme ensemble : table des matières, ordre des poèmes, architecture du volume et titre.",
+    "tags": [
+      "première",
+      "poésie"
+    ]
+  },
+  {
+    "id": "prg-004",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans quelle période le professeur choisit-il l'œuvre romanesque étudiée dans l'objet d'étude « Lire et suivre un personnage : itinéraires romanesques » ?",
+    "choices": [
+      "Les XXe et XXIe siècles uniquement",
+      "Du Moyen Âge à nos jours",
+      "Du XVIe au XIXe siècle exclusivement",
+      "Du XVIIIe siècle à nos jours"
+    ],
+    "answer": 3,
+    "explanation": "Le programme de première prévoit « la lecture d'une œuvre romanesque au choix du professeur, du XVIIIe siècle à nos jours », et précise que l'objet d'étude privilégie « le roman d'analyse ou le roman réaliste ». Un groupement de textes peut en revanche ouvrir la question du personnage à d'autres périodes. Les œuvres ambitieuses peuvent être abordées par un parcours de lecture.",
+    "tags": [
+      "première",
+      "roman"
+    ]
+  },
+  {
+    "id": "prg-005",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Comment le programme de CAP formule-t-il la compétence orale, là où les programmes de baccalauréat professionnel parlent de « maîtriser l'échange oral » ?",
+    "choices": [
+      "« Entrer dans l'échange oral »",
+      "« Développer une parole éloquente »",
+      "« Pratiquer l'oral en continu et en interaction »",
+      "« S'exprimer en situation professionnelle »"
+    ],
+    "answer": 0,
+    "explanation": "Les quatre compétences du programme de CAP sont : « entrer dans l'échange oral », « entrer dans l'échange écrit », « devenir un lecteur compétent » et « confronter des connaissances et des expériences pour se construire ». En bac pro, on attend de « maîtriser » ces échanges et de devenir un lecteur « compétent et critique ». La gradation des verbes traduit la progressivité des attendus.",
+    "tags": [
+      "compétences",
+      "CAP"
+    ]
+  },
+  {
+    "id": "prg-006",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quel est le thème du programme limitatif de français de terminale professionnelle fixé pour les années 2024-2025 à 2026-2027 (BO n° 8 du 22 février 2024) ?",
+    "choices": [
+      "« Vitesse et lenteur : vivre dans un monde accéléré »",
+      "« Rythmes et cadences de la vie moderne : quel temps pour soi ? »",
+      "« Habiter la ville : quels espaces pour vivre ensemble ? »",
+      "« Le travail et la technique : quel avenir pour l'homme ? »"
+    ],
+    "answer": 1,
+    "explanation": "Le programme limitatif « Rythmes et cadences de la vie moderne : quel temps pour soi ? » vaut pour les sessions 2025, 2026 et 2027. Le sujet de la session 2026 portait ainsi sur le dimanche et le temps libre (Camus, L'Étranger ; Delerm ; Caillebotte), avec la question « Le temps libre est-il toujours du temps perdu ? ».",
+    "tags": [
+      "terminale",
+      "programme limitatif"
+    ]
+  },
+  {
+    "id": "prg-007",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Laquelle de ces œuvres ne figure PAS dans la bibliographie du programme limitatif « Rythmes et cadences de la vie moderne : quel temps pour soi ? » ?",
+    "choices": [
+      "Jean Echenoz, Courir",
+      "Boris Vian, L'Écume des jours",
+      "Georges Perec, Les Choses",
+      "James Sacré, Figures qui bougent un peu"
+    ],
+    "answer": 2,
+    "explanation": "La bibliographie publiée au BO n° 8 du 22 février 2024 propose trois œuvres au choix du professeur : Courir d'Echenoz (le coureur Emil Zátopek), Figures qui bougent un peu de James Sacré (poésie) et L'Écume des jours de Boris Vian. Le professeur choisit une œuvre et construit un corpus autour du thème.",
+    "tags": [
+      "terminale",
+      "programme limitatif"
+    ]
+  },
+  {
+    "id": "prg-008",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle est la durée de l'épreuve écrite de français du baccalauréat professionnel (forme ponctuelle) ?",
+    "choices": [
+      "2 heures",
+      "2 heures 30",
+      "4 heures",
+      "3 heures"
+    ],
+    "answer": 3,
+    "explanation": "L'épreuve écrite de français dure 3 heures (coefficient 2,5), dans l'épreuve « français, histoire-géographie et enseignement moral et civique » de coefficient 5. Ces modalités sont fixées par l'arrêté du 17 juin 2020 et s'appliquent depuis la session 2022. L'épreuve est adossée au programme limitatif de terminale.",
+    "tags": [
+      "examen",
+      "bac pro"
+    ]
+  },
+  {
+    "id": "prg-009",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel coefficient porte la sous-épreuve de français au baccalauréat professionnel ?",
+    "choices": [
+      "2,5, au sein d'une épreuve français–histoire-géographie–EMC de coefficient 5",
+      "3, au sein d'une épreuve de culture générale de coefficient 6",
+      "2, au sein d'une épreuve français–histoire-géographie–EMC de coefficient 4",
+      "5, l'épreuve de français étant autonome"
+    ],
+    "answer": 0,
+    "explanation": "L'arrêté du 17 juin 2020 (BO n° 30 du 23 juillet 2020) donne à l'épreuve de français, histoire-géographie et EMC un coefficient 5, partagé entre la sous-épreuve de français (2,5) et celle d'histoire-géographie-EMC (2,5). Le français y est évalué sous forme ponctuelle pour les candidats scolaires.",
+    "tags": [
+      "examen",
+      "bac pro"
+    ]
+  },
+  {
+    "id": "prg-010",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans le sujet de français du bac pro, que demande la partie « Évaluation des compétences d'écriture » ?",
+    "choices": [
+      "Un commentaire composé de l'un des textes du corpus",
+      "Un développement argumenté d'une quarantaine de lignes au moins",
+      "Une écriture d'invention imitant le style d'un auteur",
+      "Une synthèse objective de l'ensemble des documents"
+    ],
+    "answer": 1,
+    "explanation": "Le sujet comporte deux parties notées chacune sur 10 points : des questions de lecture sur un corpus (textes et souvent un document iconographique), puis une question de réflexion à traiter « dans un développement argumenté d'une quarantaine de lignes au moins ». Le candidat s'appuie sur le corpus, ses connaissances et ses lectures de l'année, en particulier l'œuvre du programme limitatif.",
+    "tags": [
+      "examen",
+      "écriture"
+    ]
+  },
+  {
+    "id": "prg-011",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Combien d'œuvres intégrales les élèves de seconde et de première professionnelles lisent-ils chaque année selon les programmes ?",
+    "choices": [
+      "Une",
+      "Trois",
+      "Deux",
+      "Quatre"
+    ],
+    "answer": 2,
+    "explanation": "Le programme de seconde précise : « En seconde et en première, les élèves lisent chaque année deux œuvres intégrales ; ils en lisent une en classe terminale, qui peut relever de la littérature d'idées. » Toutes les formes de lecture sont par ailleurs pratiquées : groupement de textes, parcours de lecture, lecture cursive, lecture documentaire.",
+    "tags": [
+      "lecture",
+      "œuvres intégrales"
+    ]
+  },
+  {
+    "id": "prg-012",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel est l'intitulé de la perspective d'étude commune aux programmes de CAP et de baccalauréat professionnel ?",
+    "choices": [
+      "Communiquer en situation professionnelle",
+      "Le français au service du métier",
+      "Parler, lire et écrire au travail",
+      "Dire, écrire, lire le métier"
+    ],
+    "answer": 3,
+    "explanation": "La perspective d'étude « Dire, écrire, lire le métier » montre comment les compétences du français trouvent leur place dans la co-intervention et, selon le programme de CAP, « au service du chef-d'œuvre ». Elle invite à identifier les points de rencontre entre le programme de français et les référentiels professionnels.",
+    "tags": [
+      "co-intervention",
+      "perspective d'étude"
+    ]
+  },
+  {
+    "id": "prg-013",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Le programme de terminale impose que chaque élève ait vécu au moins une fois trois expériences culturelles au lycée. Laquelle n'en fait PAS partie ?",
+    "choices": [
+      "La participation à un concours d'éloquence",
+      "La découverte, réelle ou virtuelle, d'un musée ou d'un monument",
+      "Une rencontre avec le spectacle vivant",
+      "Une contribution personnelle à une information destinée au public"
+    ],
+    "answer": 0,
+    "explanation": "Les trois expériences sont : le spectacle vivant, un musée ou un monument du patrimoine, et une contribution à une information destinée au public (presse écrite, blog du lycée, prise de parole lors d'une journée portes ouvertes…). La rencontre avec un acteur du monde culturel est seulement souhaitée. Le programme de CAP en exige deux : musée ou monument, et spectacle vivant.",
+    "tags": [
+      "culture",
+      "terminale"
+    ]
+  },
+  {
+    "id": "prg-014",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "En quoi consiste l'épreuve orale d'admission de français du CAPLP interne Lettres-Histoire-Géographie ?",
+    "choices": [
+      "En une leçon sur une notion du programme de lycée professionnel, sans texte support",
+      "En l'explication et l'exploitation pédagogique d'un texte d'un auteur de langue française tiré d'un programme d'œuvres, avec une question de grammaire",
+      "En l'analyse d'une séquence pédagogique fournie par le jury, suivie d'un entretien",
+      "En un commentaire de document iconographique en lien avec un objet d'étude"
+    ],
+    "answer": 1,
+    "explanation": "Selon devenirenseignant.gouv.fr, l'oral de français (préparation 2 heures, épreuve 1 heure, coefficient 3) porte sur l'explication et l'exploitation pédagogique d'un texte extrait d'un programme d'œuvres renouvelé périodiquement. Il comporte un temps d'interrogation sur la maîtrise de la langue, dont une question d'identification d'une forme ou d'une fonction grammaticale.",
+    "tags": [
+      "CAPLP interne",
+      "oral"
+    ]
+  },
+  {
+    "id": "prg-015",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans le dossier de RAEP du CAPLP interne, quelle est la longueur maximale de la seconde partie, consacrée à l'analyse d'une réalisation pédagogique ?",
+    "choices": [
+      "Deux pages dactylographiées",
+      "Quatre pages dactylographiées",
+      "Six pages dactylographiées",
+      "Dix pages dactylographiées"
+    ],
+    "answer": 2,
+    "explanation": "La première partie (deux pages au plus) décrit les responsabilités exercées ; la seconde (six pages au plus) analyse la réalisation pédagogique jugée la plus significative. Un ou deux exemples de documents ou travaux peuvent être joints, dans la limite de dix pages. Le dossier, coefficient 3, est évalué notamment sur la pertinence du choix, le recul dans l'analyse et la justification des choix pédagogiques.",
+    "tags": [
+      "CAPLP interne",
+      "RAEP"
+    ]
+  },
+  {
+    "id": "prg-016",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quel objet d'étude un professeur de lycée professionnel pourrait-il le plus naturellement faire lire Manon Lescaut de l'abbé Prévost en œuvre intégrale ?",
+    "choices": [
+      "« Créer, fabriquer : l'invention et l'imaginaire » (première)",
+      "« Dire et se faire entendre : la parole, le théâtre, l'éloquence » (seconde)",
+      "« S'informer, informer : les circuits de l'information » (seconde)",
+      "« Lire et suivre un personnage : itinéraires romanesques » (première)"
+    ],
+    "answer": 3,
+    "explanation": "Roman de 1731, Manon Lescaut entre dans le champ prévu (« œuvre romanesque du XVIIIe siècle à nos jours ») et se prête au suivi de l'itinéraire d'un personnage, le chevalier Des Grieux, qui raconte lui-même son histoire. Le roman permet aussi de travailler les notions-clés de héros/antihéros, de narrateur et d'identification/distanciation.",
+    "tags": [
+      "concours",
+      "première"
+    ]
+  },
+  {
+    "id": "prg-017",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Pourquoi Le Spleen de Paris de Baudelaire convient-il bien à l'objet d'étude « Créer, fabriquer : l'invention et l'imaginaire » ?",
+    "choices": [
+      "Parce que la dédicace à Arsène Houssaye en fait aussi une réflexion sur la création d'une « prose poétique »",
+      "Parce que c'est un recueil en alexandrins conforme aux règles classiques",
+      "Parce que c'est un roman de formation centré sur un personnage",
+      "Parce qu'il a été conçu pour être joué au théâtre"
+    ],
+    "answer": 0,
+    "explanation": "Le programme demande d'étudier un recueil avec des documents éclairant sa genèse ou le travail du poète (préfaces, manifestes). La dédicace à Houssaye évoque « le miracle d'une prose poétique, musicale sans rythme et sans rime » : c'est un véritable art poétique. Le recueil, posthume (1869), invite aussi à réfléchir à l'architecture d'un livre de poèmes.",
+    "tags": [
+      "concours",
+      "poésie"
+    ]
+  },
+  {
+    "id": "prg-018",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Phèdre de Racine ou Caligula de Camus pourraient être lus en œuvre intégrale dans quel objet d'étude ?",
+    "choices": [
+      "« Devenir soi : écritures autobiographiques » (seconde)",
+      "« Dire et se faire entendre : la parole, le théâtre, l'éloquence » (seconde)",
+      "« Lire et suivre un personnage : itinéraires romanesques » (première)",
+      "« Se dire, s'affirmer, s'émanciper » (CAP)"
+    ],
+    "answer": 1,
+    "explanation": "Cet objet d'étude « s'appuie sur la lecture intégrale d'une pièce de théâtre que le professeur choisit parmi le répertoire classique ou contemporain, et de sa ou ses mises en scène ». La tragédie de 1677 comme la pièce de Camus (publiée en 1944, créée en 1945) permettent d'étudier les « jeux » (mise en voix, scénographie) et les « enjeux » (émouvoir, persuader, accuser, défendre) de la parole.",
+    "tags": [
+      "concours",
+      "théâtre"
+    ]
+  },
+  {
+    "id": "prg-019",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Pourquoi Le Parfum des fleurs la nuit de Leïla Slimani peut-il nourrir l'objet d'étude de première « Créer, fabriquer : l'invention et l'imaginaire » ?",
+    "choices": [
+      "Parce qu'il s'agit d'un recueil de poèmes en vers libres",
+      "Parce que c'est une pièce de théâtre sur la vie d'un peintre",
+      "Parce que c'est un témoignage d'écrivaine sur l'acte d'écrire et sur la rencontre avec l'art",
+      "Parce qu'il s'agit d'un roman réaliste du XIXe siècle"
+    ],
+    "answer": 2,
+    "explanation": "Publié en 2021 dans la collection « Ma nuit au musée », le texte raconte une nuit passée à la Pointe de la Douane, à Venise, et mêle réflexion sur l'écriture, sur l'art contemporain et souvenirs personnels. Le programme de « Créer, fabriquer » recommande les « témoignages d'artistes et d'écrivains » et les écrits sur l'art pour réfléchir à la création. Sa dimension autobiographique le rapproche aussi de « Devenir soi ».",
+    "tags": [
+      "concours",
+      "création"
+    ]
+  },
+  {
+    "id": "prg-020",
+    "theme": "programmes",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "En combien de domaines est organisé le socle commun de connaissances, de compétences et de culture défini en 2015 ?",
+    "choices": [
+      "Trois",
+      "Sept",
+      "Huit",
+      "Cinq"
+    ],
+    "answer": 3,
+    "explanation": "Le socle de 2015 comprend cinq domaines, dont le premier, « les langages pour penser et communiquer », concerne directement le français. Il a remplacé le socle de 2005-2006, organisé en sept compétences (ou « piliers »). Les programmes de la voie professionnelle s'inscrivent explicitement dans la continuité du collège.",
+    "tags": [
+      "socle commun",
+      "compétences"
+    ]
+  },
+  {
+    "id": "prg-021",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Les programmes de français de CAP et de seconde professionnelle issus de la transformation de la voie professionnelle ont été publiés au BO spécial n° 5 du 11 avril 2019.",
+    "answer": true,
+    "explanation": "Les arrêtés du 3 avril 2019 ont été publiés au BO spécial n° 5 du 11 avril 2019, pour une entrée en vigueur à la rentrée 2019 (première année de CAP et seconde). Ils remplacent les programmes de 2009-2010. Les programmes de première et de terminale ont suivi en 2020.",
+    "tags": [
+      "BO",
+      "programmes"
+    ]
+  },
+  {
+    "id": "prg-022",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Les programmes de français de première et de terminale professionnelles ont été publiés au BO spécial n° 8 du 25 juillet 2019.",
+    "answer": false,
+    "explanation": "Ils ont été fixés par un arrêté du 3 février 2020, publié au BO spécial n° 1 du 6 février 2020. Ils sont entrés en vigueur à la rentrée 2020 en première et à la rentrée 2021 en terminale. Méfiez-vous des références approximatives : c'est un piège classique à l'oral.",
+    "tags": [
+      "BO",
+      "programmes"
+    ]
+  },
+  {
+    "id": "prg-023",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le programme de terminale prévoit que l'objet d'étude unique soit précisé par un programme limitatif qui fixe un thème et une bibliographie.",
+    "answer": true,
+    "explanation": "Le texte de 2020 parle d'un « programme limitatif renouvelable tous les deux ans » qui « détermine un thème à travailler et propose une bibliographie dans laquelle le professeur choisit une œuvre et construit un corpus ». Dans les faits, le programme publié en 2024 (« Rythmes et cadences de la vie moderne ») couvre trois années scolaires.",
+    "tags": [
+      "terminale",
+      "programme limitatif"
+    ]
+  },
+  {
+    "id": "prg-024",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "En terminale professionnelle, l'œuvre intégrale lue dans l'année peut relever de la littérature d'idées.",
+    "answer": true,
+    "explanation": "Le programme indique que les élèves lisent une œuvre intégrale en terminale, « qui peut relever de la littérature d'idées ». Il présente la littérature d'idées comme le dernier genre rencontré, qui confronte les élèves « à un nouveau degré d'abstraction » et leur offre des modèles d'écriture réflexive.",
+    "tags": [
+      "terminale",
+      "lecture"
+    ]
+  },
+  {
+    "id": "prg-025",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Au baccalauréat professionnel, les élèves de lycée sous statut scolaire sont évalués en français par contrôle en cours de formation (CCF).",
+    "answer": false,
+    "explanation": "Depuis la session 2022 (arrêté du 17 juin 2020), le français est évalué sous forme ponctuelle : épreuve écrite de 3 heures. Le CCF ne subsiste que pour certains candidats de la formation professionnelle continue dans un établissement habilité. C'est l'inverse au CAP, où les scolaires sont évalués en CCF.",
+    "tags": [
+      "examen",
+      "bac pro"
+    ]
+  },
+  {
+    "id": "prg-026",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Au CAP, les candidats scolaires des établissements publics ou privés sous contrat sont évalués en français, histoire-géographie et EMC par contrôle en cours de formation.",
+    "answer": true,
+    "explanation": "L'arrêté du 30 août 2019 (BO n° 35 du 26 septembre 2019), applicable depuis la session 2021, prévoit le CCF pour ces candidats (ainsi que, sous conditions, pour des apprentis et stagiaires de la formation continue) ; les autres candidats passent une épreuve ponctuelle. L'unité « français et histoire-géographie-EMC » est affectée du coefficient 3.",
+    "tags": [
+      "examen",
+      "CAP"
+    ]
+  },
+  {
+    "id": "prg-027",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Selon le programme de CAP, l'étude d'une adaptation cinématographique peut remplacer la lecture du livre adapté.",
+    "answer": false,
+    "explanation": "Le programme reconnaît que l'étude de l'œuvre cinématographique participe à la construction culturelle, mais précise qu'« elle ne saurait se substituer à la lecture des livres, a fortiori quand il s'agit d'adaptation ». La lecture d'une œuvre littéraire est requise pour au moins deux des trois objets d'étude, en lecture intégrale ou en parcours de lecture.",
+    "tags": [
+      "CAP",
+      "lecture"
+    ]
+  },
+  {
+    "id": "prg-028",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le professeur doit traiter les objets d'étude dans l'ordre où ils sont présentés par le programme.",
+    "answer": false,
+    "explanation": "Les programmes précisent que le professeur organise son projet pédagogique « en abordant les objets d'étude selon l'ordre qu'il a choisi, pour adapter sa progression aux besoins de ses élèves ». La seule contrainte formulée est qu'aucune séquence n'excède six semaines.",
+    "tags": [
+      "démarches",
+      "progression"
+    ]
+  },
+  {
+    "id": "prg-029",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Au CAPLP interne Lettres-Histoire-Géographie, le dossier de RAEP porte obligatoirement sur la valence lettres.",
+    "answer": false,
+    "explanation": "Le candidat choisit lors de l'inscription la valence de son dossier : le français, ou l'histoire ou la géographie. Les deux oraux d'admission (français et histoire-géographie) sont passés par tous. Dans l'épreuve qui correspond à la valence du dossier, jusqu'à dix minutes peuvent être consacrées à un échange sur la RAEP.",
+    "tags": [
+      "CAPLP interne",
+      "RAEP"
+    ]
+  },
+  {
+    "id": "prg-030",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Au CAPLP interne Lettres-Histoire-Géographie, jusqu'à dix minutes de l'oral correspondant à la valence choisie pour la RAEP peuvent être consacrées à un échange sur le dossier.",
+    "answer": true,
+    "explanation": "La définition des épreuves le prévoit expressément. Il faut donc préparer son dossier comme matière à entretien : justifier ses choix et montrer son recul sur la réalisation présentée. Chaque oral d'admission dure une heure après deux heures de préparation (coefficient 3).",
+    "tags": [
+      "CAPLP interne",
+      "oral"
+    ]
+  },
+  {
+    "id": "prg-031",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "La poésie lyrique figure parmi les références de l'objet d'étude de CAP « Se dire, s'affirmer, s'émanciper ».",
+    "answer": true,
+    "explanation": "Les références citées sont : « poésie lyrique, écrits autobiographiques (correspondances, journaux, autobiographies, autofictions), autoportraits… ». Un poète comme Ronsard peut donc être convoqué dans un groupement sur l'expression de soi, tout comme la poésie lyrique figure aussi parmi les références de « Devenir soi » en seconde.",
+    "tags": [
+      "CAP",
+      "concours"
+    ]
+  },
+  {
+    "id": "prg-032",
+    "theme": "programmes",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "En CAP, l'objet d'étude consacré aux médias porte le même intitulé qu'en seconde : « S'informer, informer : les circuits de l'information ».",
+    "answer": false,
+    "explanation": "En CAP, l'intitulé est « S'informer, informer, communiquer » ; « les circuits de l'information » est l'intitulé de seconde professionnelle. Les deux objets d'étude travaillent la fiabilité des sources, la distinction fait/opinion et la responsabilité de chacun dans la diffusion de l'information.",
+    "tags": [
+      "CAP",
+      "objets d'étude"
+    ]
+  },
+  {
+    "id": "prg-033",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Forme de lecture que le programme de CAP présente comme « la forme la plus habituelle de la lecture », pratiquée sur tout type de textes, en classe comme en dehors.",
+    "choices": [
+      "Lecture cursive",
+      "Lecture sélective",
+      "Lecture analytique",
+      "Lecture documentaire"
+    ],
+    "answer": 0,
+    "explanation": "La lecture cursive est une lecture continue, plus rapide et personnelle, sans étude détaillée. Le programme la distingue de l'analyse de textes, qui fonde une interprétation par lectures et relectures, et de l'approche sélective, attentive aux indices visuels (titres, mots-clés, schémas).",
+    "tags": [
+      "lecture",
+      "notions"
+    ]
+  },
+  {
+    "id": "prg-034",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Démarche construite par le professeur selon une orientation précise, qui permet d'aborder des œuvres majeures et d'inciter à la lecture cursive de tout ou partie du livre.",
+    "choices": [
+      "Groupement de textes",
+      "Parcours de lecture",
+      "Lecture intégrale",
+      "Carnet de lecture"
+    ],
+    "answer": 1,
+    "explanation": "Le programme de CAP présente le parcours de lecture comme une alternative à la lecture intégrale. En première, il permet d'aborder des romans « majeurs et ambitieux » difficiles d'accès. Le professeur sélectionne des passages-clés reliés par des résumés ou des lectures cursives.",
+    "tags": [
+      "lecture",
+      "notions"
+    ]
+  },
+  {
+    "id": "prg-035",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Dispositif dans lequel un professeur d'enseignement général et un professeur d'enseignement professionnel interviennent ensemble devant le même groupe d'élèves.",
+    "choices": [
+      "Accompagnement personnalisé",
+      "Chef-d'œuvre",
+      "Co-intervention",
+      "Interdisciplinarité"
+    ],
+    "answer": 2,
+    "explanation": "La co-intervention, créée par la transformation de la voie professionnelle (rentrée 2019), associe le français ou les mathématiques-sciences à l'enseignement professionnel. La perspective d'étude « Dire, écrire, lire le métier » en définit les angles pour le français.",
+    "tags": [
+      "dispositifs",
+      "réforme"
+    ]
+  },
+  {
+    "id": "prg-036",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Réalisation concrète et pluridisciplinaire, individuelle ou collective, menée sur les deux années du CAP ou du cycle terminal du bac pro et présentée à l'examen.",
+    "choices": [
+      "Rapport de stage",
+      "Dossier professionnel",
+      "Projet personnel",
+      "Chef-d'œuvre"
+    ],
+    "answer": 3,
+    "explanation": "Le chef-d'œuvre a été introduit par la transformation de la voie professionnelle. Le programme de CAP rappelle que l'interdisciplinarité, « en co-intervention et au service du chef-d'œuvre », offre des situations favorables aux apprentissages, notamment à l'oral.",
+    "tags": [
+      "dispositifs",
+      "réforme"
+    ]
+  },
+  {
+    "id": "prg-037",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Épreuve d'admissibilité des concours internes où le candidat décrit les responsabilités exercées et analyse une réalisation pédagogique significative.",
+    "choices": [
+      "RAEP (reconnaissance des acquis de l'expérience professionnelle)",
+      "Portfolio de compétences",
+      "Validation des acquis de l'expérience",
+      "Bilan de compétences"
+    ],
+    "answer": 0,
+    "explanation": "Au CAPLP interne Lettres-Histoire-Géographie, le dossier de RAEP (coefficient 3) est la seule épreuve d'admissibilité. Il n'est pas anonyme et fait l'objet d'une double correction. La note 0 est éliminatoire, comme pour toutes les épreuves du concours.",
+    "tags": [
+      "CAPLP interne",
+      "RAEP"
+    ]
+  },
+  {
+    "id": "prg-038",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Ensemble des réactions (identification, sympathie, rejet…) qu'un personnage de fiction suscite chez le lecteur, qui l'appréhende comme une personne ; notion théorisée par Vincent Jouve en 1992.",
+    "choices": [
+      "Effet de réel",
+      "Effet-personnage",
+      "Horizon d'attente",
+      "Pacte de lecture"
+    ],
+    "answer": 1,
+    "explanation": "Le programme de première fait de l'« effet-personnage » une notion-clé de « Lire et suivre un personnage ». Il s'agit d'interroger les tensions entre « personnage » et « personne » : comprendre qu'un personnage est une représentation, mais que la fiction « produit un mode de présence ».",
+    "tags": [
+      "première",
+      "notions"
+    ]
+  },
+  {
+    "id": "prg-039",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Lecteur réel, engagé dans sa lecture avec sa subjectivité (émotions, souvenirs, jugements), et non lecteur modèle abstrait ; notion mise en avant par la didactique de la lecture littéraire.",
+    "choices": [
+      "Lecteur implicite",
+      "Narrataire",
+      "Sujet lecteur",
+      "Lecteur modèle"
+    ],
+    "answer": 2,
+    "explanation": "Le « sujet lecteur » (A. Rouxel, G. Langlade, 2004) figure parmi les notions-clés de « Lire et suivre un personnage ». Le programme invite à partir des réactions des élèves pour passer « d'une réaction émotionnelle à une lecture littéraire et consciente », grâce à un retour régulier à l'œuvre.",
+    "tags": [
+      "première",
+      "didactique"
+    ]
+  },
+  {
+    "id": "prg-040",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Modalité d'évaluation certificative organisée par l'équipe pédagogique au fil de la formation, au moyen de situations d'évaluation, au lieu d'une épreuve terminale.",
+    "choices": [
+      "Épreuve ponctuelle",
+      "Évaluation diagnostique",
+      "Contrôle continu sur bulletin",
+      "Contrôle en cours de formation (CCF)"
+    ],
+    "answer": 3,
+    "explanation": "Le CCF s'applique au CAP notamment pour les candidats scolaires en français et histoire-géographie-EMC. Au bac pro, le français est en revanche évalué sous forme ponctuelle depuis la session 2022. Le CCF repose sur une évaluation par compétences, à l'aide de grilles nationales.",
+    "tags": [
+      "évaluation",
+      "examen"
+    ]
+  },
+  {
+    "id": "prg-041",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Thème et bibliographie fixés au BO pour une durée déterminée, dans laquelle le professeur de terminale professionnelle choisit une œuvre et construit un corpus.",
+    "choices": [
+      "Programme limitatif",
+      "Liste de référence",
+      "Œuvre au programme du concours",
+      "Programme de lecture cursive"
+    ],
+    "answer": 0,
+    "explanation": "Le programme limitatif précise l'objet d'étude unique de terminale et sert de cadre au sujet du baccalauréat. Celui des sessions 2025-2027 est « Rythmes et cadences de la vie moderne : quel temps pour soi ? » (Echenoz, Sacré, Vian).",
+    "tags": [
+      "terminale",
+      "programme limitatif"
+    ]
+  },
+  {
+    "id": "prg-042",
+    "theme": "programmes",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Regroupement, en seconde professionnelle, de spécialités de baccalauréat professionnel partageant des compétences communes, l'élève choisissant sa spécialité à l'issue de la seconde.",
+    "choices": [
+      "Pôle de compétences",
+      "Famille de métiers",
+      "Campus des métiers",
+      "Filière de formation"
+    ],
+    "answer": 1,
+    "explanation": "Les familles de métiers (par exemple « métiers de la relation client ») ont été introduites à partir de la rentrée 2019 avec la transformation de la voie professionnelle. Elles visent une orientation plus progressive. Elles n'affectent pas le programme de français, commun à toutes les spécialités.",
+    "tags": [
+      "réforme",
+      "seconde"
+    ]
+  },
+  {
+    "id": "prg-043",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes de l'histoire des diplômes de la voie professionnelle.",
+    "events": [
+      {
+        "label": "Création du certificat d'aptitude professionnelle (CAP)",
+        "year": 1911
+      },
+      {
+        "label": "Loi Astier sur l'enseignement technique",
+        "year": 1919
+      },
+      {
+        "label": "Création du baccalauréat professionnel",
+        "year": 1985
+      },
+      {
+        "label": "Généralisation du baccalauréat professionnel en trois ans",
+        "year": 2009
+      },
+      {
+        "label": "Nouvelle organisation de l'année de terminale professionnelle",
+        "year": 2024
+      }
+    ],
+    "explanation": "Le CAP est créé en 1911 ; la loi Astier (1919) organise l'enseignement technique. Le bac pro, créé en 1985, se préparait d'abord en quatre ans (BEP + deux ans) ; la réforme de 2009 l'aligne sur trois ans après la troisième. La réforme engagée en 2023 réorganise la terminale à partir de la rentrée 2024.",
+    "tags": [
+      "chronologie",
+      "voie professionnelle"
+    ]
+  },
+  {
+    "id": "prg-044",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes de la mise en œuvre des programmes de français issus de la transformation de la voie professionnelle.",
+    "events": [
+      {
+        "label": "Entrée en vigueur des programmes de CAP (1re année) et de seconde",
+        "year": 2019
+      },
+      {
+        "label": "Entrée en vigueur du programme de première",
+        "year": 2020
+      },
+      {
+        "label": "Entrée en vigueur du programme de terminale",
+        "year": 2021
+      },
+      {
+        "label": "Première session de la nouvelle épreuve écrite de français du bac pro",
+        "year": 2022
+      },
+      {
+        "label": "Premier tirage d'un sujet sur « Rythmes et cadences de la vie moderne »",
+        "year": 2025
+      }
+    ],
+    "explanation": "Les programmes de CAP et de seconde (BO spécial n° 5 du 11 avril 2019) s'appliquent à la rentrée 2019, ceux de première et terminale (BO spécial n° 1 du 6 février 2020) aux rentrées 2020 et 2021. La nouvelle épreuve (arrêté du 17 juin 2020) s'applique à partir de la session 2022. Le programme limitatif publié en 2024 vaut pour les sessions 2025 à 2027.",
+    "tags": [
+      "chronologie",
+      "programmes"
+    ]
+  },
+  {
+    "id": "prg-045",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre chronologique de publication ces œuvres au programme du concours.",
+    "events": [
+      {
+        "label": "Racine, Phèdre",
+        "year": 1677
+      },
+      {
+        "label": "Prévost, Manon Lescaut",
+        "year": 1731
+      },
+      {
+        "label": "Baudelaire, Le Spleen de Paris (édition posthume)",
+        "year": 1869
+      },
+      {
+        "label": "Camus, Caligula (première publication)",
+        "year": 1944
+      },
+      {
+        "label": "Slimani, Le Parfum des fleurs la nuit",
+        "year": 2021
+      }
+    ],
+    "explanation": "Ces œuvres couvrent quatre siècles et presque tous les genres : tragédie classique, roman-mémoires du XVIIIe siècle, poème en prose, théâtre de l'absurde, récit-essai contemporain. Pour un professeur de LP, elles correspondent à plusieurs objets d'étude : théâtre en seconde, roman et poésie en première. Ronsard (XVIe siècle) viendrait en tête de cette liste.",
+    "tags": [
+      "chronologie",
+      "concours"
+    ]
+  },
+  {
+    "id": "prg-046",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces grands textes encadrant le système éducatif et le socle commun.",
+    "events": [
+      {
+        "label": "Loi d'orientation sur l'éducation (loi Jospin)",
+        "year": 1989
+      },
+      {
+        "label": "Loi d'orientation et de programme pour l'avenir de l'école, qui crée le socle commun (loi Fillon)",
+        "year": 2005
+      },
+      {
+        "label": "Loi d'orientation et de programmation pour la refondation de l'école (loi Peillon)",
+        "year": 2013
+      },
+      {
+        "label": "Décret définissant le socle commun de connaissances, de compétences et de culture",
+        "year": 2015
+      },
+      {
+        "label": "Loi pour une école de la confiance",
+        "year": 2019
+      }
+    ],
+    "explanation": "La loi Fillon (23 avril 2005) crée le socle commun, défini en 2006 en sept compétences. La loi Peillon (2013) le refonde en « socle commun de connaissances, de compétences et de culture », précisé par le décret du 31 mars 2015 en cinq domaines. La loi de 2019 (loi Blanquer) a notamment abaissé l'instruction obligatoire à trois ans.",
+    "tags": [
+      "chronologie",
+      "socle commun"
+    ]
+  },
+  {
+    "id": "prg-047",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes des réformes récentes de la voie professionnelle.",
+    "events": [
+      {
+        "label": "Présentation par J.-M. Blanquer de « Transformer le lycée professionnel »",
+        "year": 2018
+      },
+      {
+        "label": "Mise en place de la co-intervention en CAP et en seconde",
+        "year": 2019
+      },
+      {
+        "label": "Début du chef-d'œuvre en première baccalauréat professionnel",
+        "year": 2020
+      },
+      {
+        "label": "Première session du CAP selon les nouvelles modalités d'examen",
+        "year": 2021
+      },
+      {
+        "label": "Gratification des périodes de formation en milieu professionnel des lycéens",
+        "year": 2023
+      }
+    ],
+    "explanation": "Présentée le 28 mai 2018, la transformation de la voie professionnelle (co-intervention, chef-d'œuvre, familles de métiers) s'applique d'abord en CAP et en seconde à la rentrée 2019, puis en première en 2020. La réforme lancée en 2023 instaure la gratification des stages dès la rentrée 2023, puis réorganise la terminale en 2024.",
+    "tags": [
+      "chronologie",
+      "réformes"
+    ]
+  },
+  {
+    "id": "prg-048",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre du parcours de l'élève ces objets d'étude ou questionnements, du collège à la terminale professionnelle.",
+    "events": [
+      {
+        "label": "« Se chercher, se construire »",
+        "year": 1,
+        "marker": "3e"
+      },
+      {
+        "label": "« Devenir soi : écritures autobiographiques »",
+        "year": 2,
+        "marker": "2de"
+      },
+      {
+        "label": "« Lire et suivre un personnage : itinéraires romanesques »",
+        "year": 3,
+        "marker": "1re"
+      },
+      {
+        "label": "« Vivre aujourd'hui : l'humanité, le monde, les sciences et la technique »",
+        "year": 4,
+        "marker": "Tle"
+      }
+    ],
+    "explanation": "Le programme de seconde rappelle qu'« en classe de troisième, les élèves ont lu une autobiographie ou un roman autobiographique » (entrée « Se chercher, se construire »). « Lire et suivre un personnage » prolonge en première la réflexion de seconde sur l'identité, par la distance de la fiction. La terminale élargit au monde contemporain et à l'argumentation.",
+    "tags": [
+      "progression",
+      "objets d'étude"
+    ]
+  },
+  {
+    "id": "prg-049",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre les étapes du CAPLP interne Lettres-Histoire-Géographie.",
+    "events": [
+      {
+        "label": "Choix de la valence du dossier (français ou histoire-géographie) à l'inscription",
+        "year": 1,
+        "marker": "Étape 1"
+      },
+      {
+        "label": "Transmission du dossier de RAEP dans les délais fixés",
+        "year": 2,
+        "marker": "Étape 2"
+      },
+      {
+        "label": "Résultats d'admissibilité après double correction du dossier",
+        "year": 3,
+        "marker": "Étape 3"
+      },
+      {
+        "label": "Préparation de deux heures de l'oral de français",
+        "year": 4,
+        "marker": "Étape 4"
+      },
+      {
+        "label": "Épreuve orale d'une heure : explication, exploitation pédagogique et question de grammaire",
+        "year": 5,
+        "marker": "Étape 5"
+      }
+    ],
+    "explanation": "L'admissibilité repose uniquement sur le dossier de RAEP (coefficient 3), à transmettre dans les délais sous peine d'élimination. L'admission comprend deux oraux (français, histoire-géographie), chacun avec 2 heures de préparation, 1 heure d'épreuve et coefficient 3. La note 0 est éliminatoire.",
+    "tags": [
+      "CAPLP interne",
+      "étapes"
+    ]
+  },
+  {
+    "id": "prg-050",
+    "theme": "programmes",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre la démarche d'interprétation que le programme de terminale recommande à la place des questionnaires fermés.",
+    "events": [
+      {
+        "label": "Exprimer ses premières impressions de lecture",
+        "year": 1,
+        "marker": "Étape 1"
+      },
+      {
+        "label": "Formuler des hypothèses de lecture",
+        "year": 2,
+        "marker": "Étape 2"
+      },
+      {
+        "label": "Vérifier et corriger ces hypothèses par un retour au texte",
+        "year": 3,
+        "marker": "Étape 3"
+      },
+      {
+        "label": "Justifier une interprétation globale en l'étayant sur des passages choisis",
+        "year": 4,
+        "marker": "Étape 4"
+      }
+    ],
+    "explanation": "Le programme précise que l'apprentissage de l'interprétation « évite donc les questionnaires fermés, pour habituer les élèves à formuler des hypothèses de lecture à partir de leurs premières impressions et à les corriger par un retour sur le texte ». Au terme du cycle, l'élève doit pouvoir « justifier une interprétation globale en l'étayant sur les passages qu'il a choisis ».",
+    "tags": [
+      "lecture",
+      "interprétation"
+    ]
+  }
+]

@@ -11,7 +11,8 @@ type Base = {
 export type Mcq = Base & { type: 'mcq'; prompt: string; choices: string[]; answer: number };
 export type TrueFalse = Base & { type: 'truefalse'; statement: string; answer: boolean };
 export type Definition = Base & { type: 'definition'; definition: string; choices: string[]; answer: number };
-export type ChronoEvent = { label: string; year: number };
+/** `year` sert de clé de tri ; `marker` (optionnel) est affiché à sa place pour un ordre non daté (ex. « Acte II »). */
+export type ChronoEvent = { label: string; year: number; marker?: string };
 export type Chronology = Base & { type: 'chronology'; prompt: string; events: ChronoEvent[] };
 
 export type Question = Mcq | TrueFalse | Definition | Chronology;

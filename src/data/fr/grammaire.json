@@ -1,0 +1,560 @@
+[
+  {
+    "id": "gra-001",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans le vers de Phèdre « Je le vis, je rougis, je pâlis à sa vue » (I, 3), quelle relation unit les trois propositions ?",
+    "choices": ["La coordination", "La subordination", "La juxtaposition", "L'insertion (incise)"],
+    "answer": 2,
+    "explanation": "Les trois propositions indépendantes sont placées côte à côte, séparées par des virgules, sans mot de liaison : c'est une juxtaposition (asyndète). Le passé simple, à l'aspect global, enchaîne les symptômes avec une rapidité foudroyante : la passion saisit Phèdre dès le premier regard sur Hippolyte.",
+    "tags": ["phrase complexe", "Phèdre"]
+  },
+  {
+    "id": "gra-002",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans « Soleil, je te viens voir pour la dernière fois » (Phèdre, I, 3), comment expliquer la place du pronom « te » ?",
+    "choices": ["« te » est COI de « viens », comme dans « je te parle »", "« te » appartient à un verbe pronominal « se venir »", "Il s'agit d'une inversion propre à la phrase interrogative", "Le pronom complément de l'infinitif se place devant le verbe conjugué, usage courant en français classique"],
+    "answer": 3,
+    "explanation": "« te » est COD de l'infinitif « voir » ; la langue classique place volontiers ce pronom devant le verbe recteur (« je te viens voir »), là où le français moderne dit « je viens te voir ». « Soleil » est une apostrophe : Phèdre, petite-fille du Soleil, salue la lumière avant de mourir.",
+    "tags": ["langue classique", "pronoms"]
+  },
+  {
+    "id": "gra-003",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans « Ariane, ma sœur, de quel amour blessée / Vous mourûtes aux bords où vous fûtes laissée ! » (Phèdre, I, 3), quelle est la forme verbale « vous fûtes laissée » ?",
+    "choices": ["Passé simple de la voix passive", "Passé antérieur de la voix active", "Plus-que-parfait du subjonctif", "Passé composé de la voix passive"],
+    "answer": 0,
+    "explanation": "L'auxiliaire « être » au passé simple (« fûtes ») suivi du participe passé forme le passé simple passif ; le complément d'agent (Thésée, qui abandonna Ariane à Naxos) n'est pas exprimé. Le participe s'accorde au féminin singulier avec « vous », qui désigne une seule femme.",
+    "tags": ["voix passive", "Phèdre"]
+  },
+  {
+    "id": "gra-004",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans « C'est Vénus tout entière à sa proie attachée » (Phèdre, I, 3), pourquoi « tout » ne s'accorde-t-il pas ?",
+    "choices": ["C'est un pronom indéfini, toujours invariable", "C'est un déterminant dont l'accord est omis par licence poétique", "Il s'accorde au masculin avec « amour », sous-entendu", "C'est un adverbe (« entièrement »), invariable devant un adjectif féminin commençant par une voyelle"],
+    "answer": 3,
+    "explanation": "Adverbe signifiant « entièrement », « tout » est invariable, sauf devant un adjectif féminin commençant par une consonne ou un h aspiré (« toute pâle », « toutes honteuses »). Le vers, qui suit « Ce n'est plus une ardeur dans mes veines cachée », fait de la passion une possession divine totale.",
+    "tags": ["accords", "Phèdre"]
+  },
+  {
+    "id": "gra-005",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "« Hippolyte ? Grands dieux ! — C'est toi qui l'as nommé. » (Phèdre, I, 3) : quelle est la forme de la phrase de Phèdre ?",
+    "choices": ["Une phrase passive", "Une phrase emphatique (clivée) par extraction du sujet", "Une phrase impersonnelle", "Une phrase interrogative indirecte"],
+    "answer": 1,
+    "explanation": "Le présentatif « c'est… qui » extrait et met en relief le sujet « toi » : c'est une phrase clivée, forme emphatique. Phèdre rejette ainsi sur Œnone la responsabilité d'avoir prononcé le nom interdit ; le participe « nommé » s'accorde avec le COD antéposé « l' » (Hippolyte, masculin).",
+    "tags": ["formes de phrase", "Phèdre"]
+  },
+  {
+    "id": "gra-006",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans « Quand vous serez bien vieille, au soir, à la chandelle, / Assise auprès du feu, dévidant et filant, / Direz, chantant mes vers, en vous émerveillant » (Ronsard), comment analyser « Direz » ?",
+    "choices": ["Impératif présent, sans sujet exprimé", "Présent du subjonctif à valeur d'ordre", "Futur simple de l'indicatif, au sujet « vous » non exprimé", "Conditionnel présent, de sujet « mes vers »"],
+    "answer": 2,
+    "explanation": "Au XVIe siècle, le pronom sujet peut encore être omis, la désinence suffisant à identifier la personne. Le futur, déjà présent dans la subordonnée temporelle « Quand vous serez », donne au sonnet (Sonnets pour Hélène, 1578) sa valeur de prophétie menaçante : la vieillesse viendra, et la gloire du poète restera.",
+    "tags": ["langue du XVIe siècle", "Ronsard"]
+  },
+  {
+    "id": "gra-007",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans « Vivez, si m'en croyez, n'attendez à demain : / Cueillez dès aujourd'hui les roses de la vie » (Ronsard), à quel mode sont « Vivez » et « Cueillez » ?",
+    "choices": ["Impératif présent", "Indicatif présent", "Subjonctif présent", "Indicatif futur"],
+    "answer": 0,
+    "explanation": "L'impératif, sans sujet exprimé, porte l'injonction du carpe diem horatien qui clôt « Quand vous serez bien vieille ». On note deux traits de la langue du XVIe siècle : le sujet omis dans « si m'en croyez » et la négation sans forclusif dans « n'attendez à demain ».",
+    "tags": ["modes", "Ronsard"]
+  },
+  {
+    "id": "gra-008",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« Mignonne, allons voir si la rose / Qui ce matin avait déclose / Sa robe de pourpre au soleil… » (Ronsard) : avec quel mot s'accorde le participe « déclose » ?",
+    "choices": ["Avec le sujet « qui », dont l'antécédent est « la rose »", "Avec l'apostrophe « Mignonne »", "Avec aucun mot : « déclose » est un adjectif épithète", "Avec le COD « sa robe », pourtant placé après le verbe"],
+    "answer": 3,
+    "explanation": "Avec l'auxiliaire « avoir », le participe ne s'accorde jamais avec le sujet ; ici il s'accorde avec le COD « sa robe », postposé, ce que la langue du XVIe siècle admettait encore. La règle moderne (accord avec le COD seulement s'il est antéposé) ne s'est imposée que progressivement ; Marot la formulait déjà en vers : « Notre langue a cette façon / Que le terme qui va devant / Volontiers régit le suivant ».",
+    "tags": ["accords", "Ronsard"]
+  },
+  {
+    "id": "gra-009",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans « Mignonne, allons voir si la rose […] / A point perdu cette vesprée / Les plis de sa robe pourprée », quelle est la nature de la proposition introduite par « si » ?",
+    "choices": ["Subordonnée circonstancielle de condition", "Subordonnée interrogative indirecte totale", "Subordonnée relative", "Subordonnée complétive introduite par « que »"],
+    "answer": 1,
+    "explanation": "Après le verbe « voir », « si » introduit une interrogation indirecte totale (« La rose a-t-elle perdu… ? »), COD de « voir » ; ce n'est pas un « si » hypothétique. « Vesprée » (le soir) et « pourprée » sont des archaïsmes.",
+    "tags": ["subordonnées", "Ronsard"]
+  },
+  {
+    "id": "gra-010",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle est la valeur du présent dans la réplique de Caligula « Les hommes meurent et ils ne sont pas heureux » (Camus, Caligula, I, 4) ?",
+    "choices": ["Présent d'énonciation", "Présent historique (de narration)", "Présent de vérité générale", "Présent à valeur de futur proche"],
+    "answer": 2,
+    "explanation": "Le présent omnitemporel (gnomique) énonce une vérité valable en tout temps : c'est la découverte que fait Caligula après la mort de Drusilla. Toute la pièce dramatise la réaction de l'empereur à cette évidence de l'absurde.",
+    "tags": ["temps verbaux", "Caligula"]
+  },
+  {
+    "id": "gra-011",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans « Cette vie est un hôpital où chaque malade est possédé du désir de changer de lit » (Baudelaire, « Any where out of the world »), quelle est la nature de « où » ?",
+    "choices": ["Pronom relatif, complément de lieu dans la relative, d'antécédent « hôpital »", "Adverbe interrogatif introduisant une interrogation indirecte", "Conjonction de subordination à valeur de lieu", "Pronom relatif sujet du verbe « est possédé »"],
+    "answer": 0,
+    "explanation": "« où » reprend l'antécédent « hôpital » et joue dans la relative le rôle d'un complément de lieu. La métaphore initiale du poème en prose fait de l'existence un lieu de souffrance et d'insatisfaction perpétuelle, où l'on croit toujours qu'on serait mieux ailleurs.",
+    "tags": ["pronoms relatifs", "Spleen de Paris"]
+  },
+  {
+    "id": "gra-012",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans la même phrase de Baudelaire, « chaque malade est possédé du désir de changer de lit », quelle est la fonction de « du désir » ?",
+    "choices": ["Complément du nom « malade »", "Complément d'objet indirect", "Complément circonstanciel de cause", "Complément d'agent du verbe passif « est possédé »"],
+    "answer": 3,
+    "explanation": "La phrase est au passif : à l'actif, on aurait « le désir de changer de lit possède chaque malade ». Le complément d'agent est introduit ici par « de », préposition fréquente avec les verbes de sentiment ou d'état (« être aimé de », « être couvert de »).",
+    "tags": ["voix passive", "Spleen de Paris"]
+  },
+  {
+    "id": "gra-013",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans « Il faut être toujours ivre. Tout est là : c'est l'unique question » (Baudelaire, « Enivrez-vous »), quel est le statut de « Il » ?",
+    "choices": ["Pronom anaphorique désignant le poète", "Sujet grammatical d'un verbe impersonnel, qui ne représente rien", "Pronom personnel complément", "Sujet réel, placé en tête par emphase"],
+    "answer": 1,
+    "explanation": "« Falloir » est un verbe essentiellement impersonnel : « il » n'a pas de référent et sert seulement à remplir la place du sujet. L'infinitif « être toujours ivre » est le complément de « faut » ; la tournure donne à l'injonction une force de loi générale.",
+    "tags": ["construction impersonnelle", "Spleen de Paris"]
+  },
+  {
+    "id": "gra-014",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans « — Qui aimes-tu le mieux, homme énigmatique, dis ? » (Baudelaire, « L'Étranger »), quelle est la fonction de « homme énigmatique » ?",
+    "choices": ["Apostrophe", "Apposition au pronom « tu »", "Sujet inversé de « aimes »", "Attribut du sujet"],
+    "answer": 0,
+    "explanation": "L'apostrophe désigne l'interlocuteur à qui l'on s'adresse ; détachée, elle ne dépend syntaxiquement d'aucun mot de la phrase. Le poème qui ouvre le recueil est une interrogation partielle (« Qui », COD, avec inversion du sujet) à laquelle l'étranger répond en refusant tous les liens : « J'aime les nuages… ».",
+    "tags": ["fonctions", "Spleen de Paris"]
+  },
+  {
+    "id": "gra-015",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "« J'avais marqué le temps de mon départ d'Amiens. Hélas ! que ne le marquais-je un jour plus tôt ! » (Prévost, Manon Lescaut) : quelle est la valeur de la seconde phrase ?",
+    "choices": ["Une interrogation totale sur la date du départ", "Une négation restrictive « ne… que »", "Un ordre adressé au narrataire", "Une exclamation exprimant le regret d'un fait passé irrévocable"],
+    "answer": 3,
+    "explanation": "Le tour classique « que ne… » équivaut à « pourquoi ne… pas » et sert à exprimer un regret ou un souhait irréalisable. Des Grieux, narrateur rétrospectif, juge la rencontre avec Manon comme la cause de sa perte ; la phrase suivante, « j'aurais porté chez mon père toute mon innocence », prolonge ce regret par un irréel du passé.",
+    "tags": ["types de phrase", "Manon Lescaut"]
+  },
+  {
+    "id": "gra-016",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans « j'aurais porté chez mon père toute mon innocence » (Manon Lescaut), quelle est la valeur du conditionnel passé ?",
+    "choices": ["Futur dans le passé", "Atténuation polie", "Irréel du passé", "Information non confirmée"],
+    "answer": 2,
+    "explanation": "Le conditionnel passé présente une conséquence qui ne s'est pas réalisée, liée à une hypothèse implicite (« si j'étais parti un jour plus tôt »). Ce mode hypothétique traduit la culpabilité et la nostalgie du narrateur, qui reconstruit après coup le destin manqué.",
+    "tags": ["conditionnel", "Manon Lescaut"]
+  },
+  {
+    "id": "gra-017",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "« Elle me parut si charmante que […] je me trouvai enflammé tout d'un coup jusqu'au transport » (Manon Lescaut) : quelle est la nature de la proposition introduite par « que » ?",
+    "choices": ["Subordonnée circonstancielle de conséquence, en corrélation avec « si »", "Subordonnée complétive COD de « parut »", "Subordonnée relative d'antécédent « charmante »", "Subordonnée comparative"],
+    "answer": 0,
+    "explanation": "Le système corrélatif « si… que » exprime une conséquence liée à l'intensité (« si charmante »). « charmante » est attribut du sujet « Elle » ; l'adjectif garde au XVIIIe siècle une force plus grande qu'aujourd'hui, proche de l'envoûtement.",
+    "tags": ["subordonnées", "Manon Lescaut"]
+  },
+  {
+    "id": "gra-018",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quelle est la classe grammaticale de « leur » dans la phrase « Je leur ai parlé hier » ?",
+    "choices": ["Déterminant possessif", "Pronom personnel", "Pronom possessif", "Adverbe"],
+    "answer": 1,
+    "explanation": "Devant un verbe, « leur » est un pronom personnel invariable, ici COI (« J'ai parlé à eux »). Devant un nom, c'est un déterminant possessif variable (« leurs livres ») ; précédé de l'article, un pronom possessif (« le leur »).",
+    "tags": ["classes de mots", "pronoms"]
+  },
+  {
+    "id": "gra-019",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quelle phrase l'adjectif « passionnant » est-il attribut du COD ?",
+    "choices": ["J'ai lu un livre passionnant.", "Ce livre, passionnant, se lit d'une traite.", "Ce livre est passionnant.", "Je trouve ce livre passionnant."],
+    "answer": 3,
+    "explanation": "Après « trouver », l'adjectif attribue une propriété au COD par l'intermédiaire du verbe : on peut pronominaliser le COD en gardant l'adjectif (« Je le trouve passionnant »), ce qui est impossible avec une épithète. Les autres phrases présentent une épithète liée, une épithète détachée et un attribut du sujet.",
+    "tags": ["fonctions", "attribut"]
+  },
+  {
+    "id": "gra-020",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans quelle phrase le groupe « à Paris » est-il complément du verbe (non supprimable, non déplaçable) et non complément de phrase ?",
+    "choices": ["À Paris, il pleut souvent en novembre.", "J'ai rencontré, à Paris, un ancien ami.", "Il habite à Paris.", "Il travaille depuis dix ans à Paris."],
+    "answer": 2,
+    "explanation": "« Habiter » appelle un complément : « Il habite » seul est incomplet et « À Paris, il habite » est peu naturel. Les autres groupes sont des compléments de phrase (traditionnellement « circonstanciels ») : supprimables et déplaçables, ils portent sur toute la phrase.",
+    "tags": ["fonctions", "complément de phrase"]
+  },
+  {
+    "id": "gra-021",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel extrait relève du discours indirect libre ?",
+    "choices": ["Il réfléchit longuement. Il partirait demain, c'était décidé ! Rien ne le retiendrait.", "Il déclara : « Je partirai demain. »", "Il déclara qu'il partirait le lendemain.", "Il annonça son départ pour le lendemain."],
+    "answer": 0,
+    "explanation": "Le discours indirect libre adopte les temps et les personnes du récit (« il », conditionnel « partirait ») sans verbe introducteur ni subordination, tout en gardant des marques de l'énonciation du personnage (exclamation, déictique « demain »). Les autres extraits relèvent du discours direct, indirect et narrativisé.",
+    "tags": ["discours rapporté", "énonciation"]
+  },
+  {
+    "id": "gra-022",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans un récit au passé, comment transposer au discours indirect : Il déclara : « Je viendrai ici demain. » ?",
+    "choices": ["Il déclara qu'il viendrait ici demain.", "Il déclara qu'il vint là le lendemain.", "Il déclara qu'il viendra là le lendemain.", "Il déclara qu'il viendrait là le lendemain."],
+    "answer": 3,
+    "explanation": "La transposition modifie les personnes (je → il), les temps par concordance (futur → conditionnel, « futur dans le passé ») et les déictiques, qui deviennent des repères relatifs au récit (ici → là, demain → le lendemain). Le passé simple « vint » ferait de la venue un fait accompli, ce qui trahit le sens.",
+    "tags": ["discours rapporté", "concordance des temps"]
+  },
+  {
+    "id": "gra-023",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Lequel de ces mots est formé par parasynthèse (ajout simultané d'un préfixe et d'un suffixe à une base) ?",
+    "choices": ["incroyable", "atterrir", "relecture", "dénouement"],
+    "answer": 1,
+    "explanation": "Ni « *terrir » ni « *atterre » n'existent : préfixe « a- » et suffixe verbal s'ajoutent ensemble à la base « terre ». « incroyable » se forme sur « croyable », « relecture » sur « lecture » et « dénouement » sur « dénouer » : ce sont des dérivations successives.",
+    "tags": ["lexique", "formation des mots"]
+  },
+  {
+    "id": "gra-024",
+    "theme": "grammaire",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Au XVIIe siècle, chez Racine ou Corneille, le verbe « étonner » signifie le plus souvent :",
+    "choices": ["frapper de stupeur, ébranler violemment", "surprendre agréablement", "faire douter, rendre perplexe", "amuser, divertir"],
+    "answer": 0,
+    "explanation": "Issu du latin populaire *extonare (« frapper du tonnerre »), « étonner » a un sens fort dans la langue classique : être foudroyé, comme paralysé par un choc. Le mot s'est affaibli ensuite, comme « ennui », « gêne » ou « charme » : il faut lire le lexique classique avec son sens d'époque.",
+    "tags": ["lexique classique", "étymologie"]
+  },
+  {
+    "id": "gra-025",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans le vers de Phèdre « Tout m'afflige et me nuit, et conspire à me nuire » (I, 3), les trois verbes ont le même sujet, le pronom indéfini « tout ».",
+    "answer": true,
+    "explanation": "« Tout » est sujet des trois verbes coordonnés par « et ». La reprise « me nuit… me nuire » (polyptote) et la polysyndète traduisent un sentiment de persécution universelle : Phèdre se sent accablée par le monde entier.",
+    "tags": ["fonctions", "Phèdre"]
+  },
+  {
+    "id": "gra-026",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans la langue classique, chez Racine, le mot « ennui » a le même sens affaibli qu'aujourd'hui : lassitude, désœuvrement.",
+    "answer": false,
+    "explanation": "Issu du latin « in odio esse » (« être un objet de haine »), « ennui » désigne au XVIIe siècle un tourment violent, un profond désespoir. Le contresens est classique dans les commentaires de tragédie : l'« ennui » racinien est une douleur, non un désœuvrement.",
+    "tags": ["lexique classique", "Racine"]
+  },
+  {
+    "id": "gra-027",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Chez Racine, « charme » garde souvent son sens étymologique de sortilège, de pouvoir magique, le mot venant du latin « carmen » (chant, formule incantatoire).",
+    "answer": true,
+    "explanation": "Le « charme » est d'abord une incantation qui envoûte ; « charmer » signifie d’abord envoûter par un sortilège. Dans la tragédie, l'amour est ainsi présenté comme une force qui ensorcelle et prive de la volonté, bien au-delà de l'agrément.",
+    "tags": ["lexique classique", "étymologie"]
+  },
+  {
+    "id": "gra-028",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans la langue classique, « gêne » désigne une simple contrainte ou un léger embarras.",
+    "answer": false,
+    "explanation": "Au XVIIe siècle, « gêne » signifie la torture, la question infligée aux accusés, et par extension un tourment extrême. Le sens moderne d'embarras ou d'inconfort résulte d'un affaiblissement progressif, comme pour « ennui » ou « étonner ».",
+    "tags": ["lexique classique", "Racine"]
+  },
+  {
+    "id": "gra-029",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Selon la norme, la locution « après que » se construit avec l'indicatif : « Après qu'il est parti, elle a pleuré. »",
+    "answer": true,
+    "explanation": "« Après que » introduit un fait présenté comme réalisé, d'où l'indicatif ; l'usage du subjonctif, très répandu par analogie avec « avant que », reste critiqué par les grammaires normatives. « Avant que », qui introduit un fait non encore réalisé, appelle en revanche le subjonctif.",
+    "tags": ["subjonctif", "norme"]
+  },
+  {
+    "id": "gra-030",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans « Les rois se sont succédé », le participe doit s'accorder avec le sujet : il faut écrire « se sont succédés ».",
+    "answer": false,
+    "explanation": "« Succéder » se construit avec « à » : le pronom « se » est COI (ils ont succédé les uns aux autres) et il n'y a pas de COD antéposé, donc le participe reste invariable. Même règle pour « se sont plu », « se sont nui », « se sont parlé ».",
+    "tags": ["accords", "verbes pronominaux"]
+  },
+  {
+    "id": "gra-031",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Depuis les rectifications orthographiques de 1990, le participe passé de « laisser » suivi d'un infinitif est invariable, comme celui de « faire » : « Elle s'est laissé surprendre ».",
+    "answer": true,
+    "explanation": "Les rectifications de 1990 alignent « laissé » sur « fait », déjà invariable devant un infinitif (« Elle s'est fait surprendre »). L'ancienne règle, qui distinguait selon que le COD faisait ou non l'action de l'infinitif, reste tolérée.",
+    "tags": ["accords", "rectifications 1990"]
+  },
+  {
+    "id": "gra-032",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Dans « Je ne lis que des romans », la locution « ne… que » exprime une négation totale.",
+    "answer": false,
+    "explanation": "« ne… que » est une tournure restrictive, équivalente à « seulement » : la phrase est sémantiquement affirmative (je lis des romans, et rien d'autre). On peut d'ailleurs la nier : « Je ne lis pas que des romans ».",
+    "tags": ["négation", "restriction"]
+  },
+  {
+    "id": "gra-033",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "La grammaire de Riegel et al. range « donc » parmi les adverbes de liaison plutôt que parmi les conjonctions de coordination, notamment parce qu'il peut se combiner avec « et » et se déplacer dans la phrase.",
+    "answer": true,
+    "explanation": "Contrairement à « mais », « ou », « et », « or », « ni », « car », « donc » est mobile (« J'ai donc besoin de la lune », dit Caligula) et peut suivre « et » (« et donc »). La liste scolaire « mais, ou, et, donc, or, ni, car » est un moyen mnémotechnique, non une classification rigoureuse.",
+    "tags": ["classes de mots", "connecteurs"]
+  },
+  {
+    "id": "gra-034",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Dans « Je crains qu'il ne vienne », le « ne » est négatif : on craint qu'il ne vienne pas.",
+    "answer": false,
+    "explanation": "Ce « ne » est explétif : facultatif, il n'a pas de valeur négative, et la phrase signifie que l'on redoute sa venue. On le trouve après les verbes de crainte, « avant que », « à moins que » ou les comparatives d'inégalité (« Il est plus habile qu'on ne le croit ») ; la négation véritable serait « qu'il ne vienne pas ».",
+    "tags": ["négation", "ne explétif"]
+  },
+  {
+    "id": "gra-035",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Dans le titre de Leïla Slimani, Le Parfum des fleurs la nuit, le groupe nominal « la nuit », construit sans préposition, a une valeur temporelle (« pendant la nuit »).",
+    "answer": true,
+    "explanation": "Un groupe nominal peut exprimer une circonstance de temps sans préposition (« Il travaille la nuit »). Le titre est une phrase non verbale : il évoque la nuit que l'autrice a passée seule dans un musée de Venise, la Pointe de la Douane, pour la collection « Ma nuit au musée ».",
+    "tags": ["groupe nominal", "Slimani"]
+  },
+  {
+    "id": "gra-036",
+    "theme": "grammaire",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le passé simple présente l'action sous un aspect sécant, sans en envisager les limites, ce qui en fait le temps privilégié des descriptions d'arrière-plan.",
+    "answer": false,
+    "explanation": "Cette définition est celle de l'imparfait. Le passé simple a un aspect global (non sécant) : il saisit l'action dans sa totalité, du début à la fin, et sert aux actions de premier plan qui font avancer le récit, comme dans « Je le vis, je rougis, je pâlis à sa vue ».",
+    "tags": ["temps verbaux", "aspect"]
+  },
+  {
+    "id": "gra-037",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Mot dont le référent ne peut être identifié qu'à partir de la situation d'énonciation (je, tu, ici, maintenant, demain…).",
+    "choices": ["Anaphore", "Déictique", "Connecteur", "Modalisateur"],
+    "answer": 1,
+    "explanation": "« Demain » désigne un jour différent selon le moment où l'on parle : c'est un déictique. Dans un récit coupé de la situation d'énonciation, on lui substitue un repère relatif comme « le lendemain » ; l'anaphore, elle, renvoie à un élément déjà mentionné dans le texte.",
+    "tags": ["énonciation", "déictiques"]
+  },
+  {
+    "id": "gra-038",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Ensemble des procédés par lesquels l'énonciateur marque son degré d'adhésion, de certitude ou de distance à l'égard de ce qu'il dit (adverbes comme « peut-être », conditionnel, verbes d'opinion, guillemets…).",
+    "choices": ["Modalisation", "Focalisation", "Nominalisation", "Thématisation"],
+    "answer": 0,
+    "explanation": "Les modalisateurs révèlent la présence de l'énonciateur dans l'énoncé : « Il serait parti » ou « Il est sans doute parti » ne présentent pas le fait comme certain. L'étude de la modalisation est essentielle pour analyser l'argumentation et l'implication du locuteur.",
+    "tags": ["énonciation", "modalisation"]
+  },
+  {
+    "id": "gra-039",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Constituant généralement facultatif et mobile, qui ne dépend pas du verbe mais porte sur l'ensemble de la phrase ; la grammaire traditionnelle le nomme complément circonstanciel.",
+    "choices": ["Complément du verbe", "Complément d'agent", "Attribut du sujet", "Complément de phrase"],
+    "answer": 3,
+    "explanation": "La terminologie grammaticale actuelle distingue le complément de phrase (supprimable, déplaçable) du complément du verbe, même lorsqu'ils ont un sens circonstanciel : « Il va à Paris » (complément du verbe) / « À Paris, il pleut » (complément de phrase). Le critère est syntaxique et non sémantique.",
+    "tags": ["fonctions", "terminologie 2020"]
+  },
+  {
+    "id": "gra-040",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Proposition subordonnée dont le noyau est un participe doté de son propre sujet, distinct de celui de la proposition principale (ex. « Le soir venu, ils rentrèrent »).",
+    "choices": ["Subordonnée infinitive", "Subordonnée relative", "Subordonnée participiale", "Apposition"],
+    "answer": 2,
+    "explanation": "La participiale a un sujet propre (« le soir ») et joue le rôle d'un complément de phrase, souvent de temps ou de cause. Elle se distingue du participe apposé, qui se rapporte au sujet de la principale (« Assise auprès du feu » chez Ronsard se rapporte à « vous »).",
+    "tags": ["subordonnées", "participe"]
+  },
+  {
+    "id": "gra-041",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Proposition dont le verbe est à l'infinitif et possède un sujet propre, généralement après un verbe de perception (ex. « J'entends les oiseaux chanter »).",
+    "choices": ["Subordonnée participiale", "Subordonnée infinitive", "Subordonnée complétive", "Groupe infinitif COD sans sujet propre"],
+    "answer": 1,
+    "explanation": "« les oiseaux » est sujet de « chanter » tout en pouvant être pronominalisé comme un objet (« Je les entends chanter ») ; ce statut hybride fait débattre les linguistes, mais la notion est conservée par la terminologie scolaire. On la trouve après « voir », « entendre », « sentir », « laisser ».",
+    "tags": ["subordonnées", "infinitif"]
+  },
+  {
+    "id": "gra-042",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Paire de mots issus d'un même étymon, l'un par évolution phonétique populaire, l'autre par emprunt savant (ex. « frêle » / « fragile », « écouter » / « ausculter »).",
+    "choices": ["Paronymes", "Homonymes", "Doublet", "Antonymes"],
+    "answer": 2,
+    "explanation": "Le latin « fragilis » a donné par évolution orale « frêle », puis a été réemprunté tel quel sous la forme savante « fragile ». Le mot populaire est plus court et plus usé phonétiquement ; le mot savant, plus proche du latin, a souvent un sens plus technique.",
+    "tags": ["lexique", "étymologie"]
+  },
+  {
+    "id": "gra-043",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Changement de classe grammaticale d'un mot sans modification de sa forme (ex. « le rire », « le dîner », « un rouge »).",
+    "choices": ["Composition", "Conversion (dérivation impropre)", "Troncation", "Suffixation"],
+    "answer": 1,
+    "explanation": "Un infinitif, un adjectif ou un participe peut devenir nom par simple adjonction d'un déterminant, sans affixe. La troncation raccourcit un mot (« prof »), la composition associe deux mots (« portefeuille »).",
+    "tags": ["lexique", "formation des mots"]
+  },
+  {
+    "id": "gra-044",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Propriété d'un mot qui possède plusieurs sens reliés entre eux par un lien perceptible (ex. « feuille » d'arbre et « feuille » de papier).",
+    "choices": ["Homonymie", "Synonymie", "Polysémie", "Paronymie"],
+    "answer": 2,
+    "explanation": "La polysémie concerne un seul mot aux sens apparentés, alors que l'homonymie rapproche des mots distincts de même forme (« son » du violon / « son » du blé). Le dictionnaire traite la polysémie dans une seule entrée et l'homonymie dans des entrées séparées.",
+    "tags": ["lexique", "sens des mots"]
+  },
+  {
+    "id": "gra-045",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Forme de représentation de la parole qui se borne à mentionner l'acte de parole et son contenu global, sans en reproduire les propos (ex. « Il annonça son départ »).",
+    "choices": ["Discours direct", "Discours indirect libre", "Discours indirect", "Discours narrativisé"],
+    "answer": 3,
+    "explanation": "Le discours narrativisé intègre la parole au récit comme un événement parmi d'autres, au plus loin de la voix du personnage. Il permet d'accélérer la narration, alors que le discours direct en donne l'illusion de restitution fidèle.",
+    "tags": ["discours rapporté", "narration"]
+  },
+  {
+    "id": "gra-046",
+    "theme": "grammaire",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Groupe nominal détaché, séparé par une pause ou une virgule, qui désigne la même réalité que le nom ou le pronom auquel il se rapporte (ex. « Paris, capitale de la France, … »).",
+    "choices": ["Apostrophe", "Apposition", "Complément du nom", "Épithète liée"],
+    "answer": 1,
+    "explanation": "L'apposition entretient une relation d'identité avec son support et peut souvent devenir attribut (« Paris est la capitale de la France »). L'apostrophe, elle, désigne la personne à qui l'on parle et ne se rattache à aucun mot de la phrase.",
+    "tags": ["fonctions", "apposition"]
+  },
+  {
+    "id": "gra-047",
+    "theme": "grammaire",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes de l'histoire de la langue française.",
+    "events": [
+      { "label": "Ordonnance de Villers-Cotterêts", "year": 1539 },
+      { "label": "Serments de Strasbourg", "year": 842 },
+      { "label": "Fondation de l'Académie française", "year": 1635 },
+      { "label": "Défense et illustration de la langue française de Du Bellay", "year": 1549 },
+      { "label": "Première édition du Dictionnaire de l'Académie", "year": 1694 }
+    ],
+    "explanation": "Les Serments de Strasbourg sont le plus ancien texte conservé en langue romane ancêtre du français. Villers-Cotterêts impose le « langage maternel françois » dans les actes de justice, Du Bellay défend l'enrichissement du français face au latin, puis l'Académie, fondée par Richelieu, mène l'entreprise de codification.",
+    "tags": ["histoire de la langue", "institutions"]
+  },
+  {
+    "id": "gra-048",
+    "theme": "grammaire",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces étapes de la codification du français.",
+    "events": [
+      { "label": "Rapport de l'abbé Grégoire sur la nécessité d'anéantir les patois", "year": 1794 },
+      { "label": "Remarques sur la langue française de Vaugelas", "year": 1647 },
+      { "label": "Rectifications de l'orthographe", "year": 1990 },
+      { "label": "Grammaire générale et raisonnée de Port-Royal", "year": 1660 },
+      { "label": "Début de la publication du Dictionnaire de Littré", "year": 1863 }
+    ],
+    "explanation": "Vaugelas fonde la norme sur le « bon usage », celui de « la plus saine partie de la Cour » ; Port-Royal cherche au contraire les principes logiques communs aux langues. Sous la Révolution, le rapport Grégoire fait de l'unification linguistique un enjeu politique, tandis que Littré fonde son dictionnaire sur l'histoire des mots et les citations d'auteurs.",
+    "tags": ["histoire de la langue", "norme"]
+  },
+  {
+    "id": "gra-049",
+    "theme": "grammaire",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre chronologique ces repères, qui situent les œuvres du programme dans l'histoire de la langue.",
+    "events": [
+      { "label": "Phèdre de Racine", "year": 1677 },
+      { "label": "Les Amours de Ronsard", "year": 1552 },
+      { "label": "Première édition du Dictionnaire de l'Académie", "year": 1694 },
+      { "label": "Remarques sur la langue française de Vaugelas", "year": 1647 },
+      { "label": "Fondation de l'Académie française", "year": 1635 }
+    ],
+    "explanation": "Ronsard écrit dans un français de la Renaissance encore souple (omission du sujet, accords variables) ; Racine, après Vaugelas, écrit dans la langue classique épurée et normée. Lire chaque œuvre dans son état de langue évite les contresens de vocabulaire et de syntaxe.",
+    "tags": ["histoire de la langue", "œuvres au programme"]
+  },
+  {
+    "id": "gra-050",
+    "theme": "grammaire",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre chronologique ces textes officiels relatifs à la langue française.",
+    "events": [
+      { "label": "Loi Toubon relative à l'emploi de la langue française", "year": 1994 },
+      { "label": "Arrêté Leygues sur les tolérances grammaticales et orthographiques", "year": 1901 },
+      { "label": "Publication de la terminologie grammaticale « Grammaire du français » sur Eduscol", "year": 2020 },
+      { "label": "Ajout à la Constitution : « La langue de la République est le français »", "year": 1992 },
+      { "label": "Rectifications de l'orthographe publiées au Journal officiel", "year": 1990 }
+    ],
+    "explanation": "L'arrêté de 1901 tolérait déjà certaines variations aux examens. La révision constitutionnelle de 1992, liée au traité de Maastricht, inscrit le français à l'article 2 ; la loi Toubon de 1994 en garantit l'emploi dans le travail, la consommation ou l'enseignement. La terminologie de 2020 harmonise le métalangage de l'école au lycée.",
+    "tags": ["politique linguistique", "textes officiels"]
+  }
+]

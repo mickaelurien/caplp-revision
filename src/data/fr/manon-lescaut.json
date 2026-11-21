@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "man-001",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quelle ville de l'Artois l'abbé Prévost est-il né en 1697 ?",
+    "choices": [
+      "Hesdin",
+      "Arras",
+      "Amiens",
+      "Saint-Omer"
+    ],
+    "answer": 0,
+    "explanation": "Antoine François Prévost naît à Hesdin le 1er avril 1697, fils d'un procureur du roi. Il ajoutera plus tard « d'Exiles » à son nom. Il meurt en 1763 à Courteuil, près de Chantilly.",
+    "tags": [
+      "Prévost",
+      "biographie"
+    ]
+  },
+  {
+    "id": "man-002",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Dans quel ordre religieux Prévost prononce-t-il ses vœux en 1721, avant de s'enfuir de son couvent en 1728 ?",
+    "choices": [
+      "La Compagnie de Jésus",
+      "L'Oratoire",
+      "Les bénédictins de la congrégation de Saint-Maur",
+      "La congrégation de la Mission (lazaristes)"
+    ],
+    "answer": 2,
+    "explanation": "Après un noviciat chez les jésuites et des passages dans l'armée, Prévost entre chez les bénédictins mauristes et fait profession à Jumièges en 1721. Il quitte sans autorisation l'abbaye de Saint-Germain-des-Prés en 1728 et doit s'exiler en Angleterre puis en Hollande. Cette vie partagée entre vocation et passions éclaire les déchirements de Des Grieux.",
+    "tags": [
+      "Prévost",
+      "biographie"
+    ]
+  },
+  {
+    "id": "man-003",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "De quel ensemble romanesque l'Histoire du chevalier Des Grieux et de Manon Lescaut forme-t-elle le tome VII en 1731 ?",
+    "choices": [
+      "Le Philosophe anglais ou Histoire de M. Cleveland",
+      "Mémoires et aventures d'un homme de qualité qui s'est retiré du monde",
+      "Le Doyen de Killerine",
+      "Histoire d'une Grecque moderne"
+    ],
+    "answer": 1,
+    "explanation": "Le récit paraît à Amsterdam en 1731 comme septième et dernier tome des Mémoires et aventures d'un homme de qualité, dont les premiers volumes datent de 1728. L'« homme de qualité », le marquis de Renoncour, y recueille l'histoire de Des Grieux. Le texte a ensuite connu une vie autonome, surtout après l'édition révisée de 1753.",
+    "tags": [
+      "publication",
+      "dispositif"
+    ]
+  },
+  {
+    "id": "man-004",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Dans quelle ville Des Grieux, alors étudiant en philosophie, rencontre-t-il Manon ?",
+    "choices": [
+      "Arras",
+      "Amiens",
+      "Pacy",
+      "Calais"
+    ],
+    "answer": 1,
+    "explanation": "Des Grieux achève ses études à Amiens et s'apprête à rentrer chez son père quand il voit descendre du coche d'Arras une jeune fille qu'on envoie au couvent. Il se trouve « enflammé tout d'un coup jusqu'au transport » : c'est une scène de première vue exemplaire. Il s'enfuit avec elle à Paris dès le lendemain.",
+    "tags": [
+      "intrigue",
+      "Partie I"
+    ]
+  },
+  {
+    "id": "man-005",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui est le narrateur premier, l'« homme de qualité » qui recueille le récit de Des Grieux ?",
+    "choices": [
+      "Tiberge",
+      "M. de T…",
+      "Le père de Des Grieux",
+      "Le marquis de Renoncour"
+    ],
+    "answer": 3,
+    "explanation": "Le marquis de Renoncour, narrateur des Mémoires et aventures d'un homme de qualité, rencontre Des Grieux à deux reprises et lui laisse ensuite la parole. Ce cadre crée un auditeur bienveillant à l'intérieur du récit et oriente la réception : Renoncour est d'emblée touché par la noblesse et la douleur du jeune homme.",
+    "tags": [
+      "dispositif",
+      "narration"
+    ]
+  },
+  {
+    "id": "man-006",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Où Renoncour aperçoit-il pour la première fois Des Grieux, qui suit le convoi de femmes destinées à l'Amérique ?",
+    "choices": [
+      "À Pacy",
+      "Au Havre",
+      "À Calais",
+      "À Rouen"
+    ],
+    "answer": 0,
+    "explanation": "À Pacy, Renoncour voit dans une auberge un convoi de filles escortées par des archers vers Le Havre, parmi lesquelles Manon, et un jeune homme désespéré qui les suit : il lui donne de l'argent. Il le retrouve environ deux ans plus tard à Calais, de retour d'Amérique, et l'invite à raconter son histoire.",
+    "tags": [
+      "dispositif",
+      "lieux"
+    ]
+  },
+  {
+    "id": "man-007",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Après l'affaire du vieux G… M…, où Manon est-elle enfermée ?",
+    "choices": [
+      "Au Châtelet",
+      "À Saint-Lazare",
+      "À l'Hôpital général (la Salpêtrière)",
+      "Au couvent des Ursulines d'Amiens"
+    ],
+    "answer": 2,
+    "explanation": "Manon est enfermée à l'Hôpital général, dans la maison de la Salpêtrière réservée aux femmes, tandis que Des Grieux est conduit à Saint-Lazare, maison de correction pour jeunes gens de bonne famille. Ces lieux renvoient à la police des mœurs réelle du Paris de la Régence.",
+    "tags": [
+      "intrigue",
+      "lieux"
+    ]
+  },
+  {
+    "id": "man-008",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui est Synnelet ?",
+    "choices": [
+      "Le fils de G… M…",
+      "Un archer chargé du convoi de Manon",
+      "Le capitaine du navire parti du Havre",
+      "Le neveu du gouverneur de la Nouvelle-Orléans"
+    ],
+    "answer": 3,
+    "explanation": "Lorsque Des Grieux demande à épouser Manon, le gouverneur, apprenant qu'ils ne sont pas mariés, décide de la donner à son neveu Synnelet, qui en est épris. Des Grieux provoque Synnelet en duel, le croit mort et s'enfuit avec Manon dans le désert. Synnelet survit et se montrera ensuite généreux.",
+    "tags": [
+      "personnages",
+      "Amérique"
+    ]
+  },
+  {
+    "id": "man-009",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel est l'état de Lescaut, le frère de Manon ?",
+    "choices": [
+      "Garde du corps",
+      "Fermier général",
+      "Exempt de police",
+      "Clerc de procureur"
+    ],
+    "answer": 0,
+    "explanation": "Lescaut est garde du corps, joueur et sans scrupules : il pousse Manon à se faire entretenir et initie Des Grieux à la tricherie au jeu. Il est abattu d'un coup de pistolet par un homme qu'il avait ruiné au jeu, juste après l'évasion de Manon de l'Hôpital. Il incarne le monde vénal qui entoure le couple.",
+    "tags": [
+      "personnages",
+      "Lescaut"
+    ]
+  },
+  {
+    "id": "man-010",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Qui est le premier homme pour lequel Manon trahit Des Grieux à Paris ?",
+    "choices": [
+      "G… M… fils",
+      "M. de B…, fermier général",
+      "Synnelet",
+      "M. de T…"
+    ],
+    "answer": 1,
+    "explanation": "M. de B…, riche fermier général voisin, entretient Manon et fait avertir le père de Des Grieux, dont les laquais enlèvent le chevalier. Cette première trahison inaugure le cycle infidélité-réconciliation qui structure le roman. Des Grieux soupçonne d'ailleurs Manon d'avoir été complice de son enlèvement.",
+    "tags": [
+      "personnages",
+      "trahisons"
+    ]
+  },
+  {
+    "id": "man-011",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Qui écrit : « Crois-tu qu'on puisse être bien tendre lorsqu'on manque de pain ? »",
+    "choices": [
+      "Lescaut, dans une conversation avec Des Grieux",
+      "Tiberge, dans une lettre à Des Grieux",
+      "Manon, dans une lettre à Des Grieux",
+      "Des Grieux, dans une lettre à son père"
+    ],
+    "answer": 2,
+    "explanation": "Dans une lettre, Manon assure Des Grieux qu'il est « l'idole de [son] cœur » tout en jugeant que la fidélité est une « sotte vertu » dans leur misère. La formule résume l'ambiguïté du personnage : elle sépare la fidélité du cœur de celle du corps, et lie l'amour à l'aisance matérielle.",
+    "tags": [
+      "Manon",
+      "argent"
+    ]
+  },
+  {
+    "id": "man-012",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Comment l'« Avis de l'auteur » présente-t-il l'histoire de Des Grieux ?",
+    "choices": [
+      "Comme une confession authentique qu'il a fidèlement transcrite sans la juger",
+      "Comme une satire des mœurs du clergé",
+      "Comme une fable allégorique sur la Providence",
+      "Comme « un exemple terrible de la force des passions »"
+    ],
+    "answer": 3,
+    "explanation": "L'Avis peint « un jeune aveugle, qui refuse d'être heureux pour se précipiter volontairement dans les dernières infortunes » et affirme que l'ouvrage est « un traité de morale réduit agréablement en exercice ». Cette caution morale, conventionnelle au XVIIIe siècle, contraste avec la séduction qu'exerce le récit lui-même.",
+    "tags": [
+      "paratexte",
+      "morale"
+    ]
+  },
+  {
+    "id": "man-013",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Avec quoi Des Grieux creuse-t-il la fosse de Manon dans le désert ?",
+    "choices": [
+      "Avec son épée, puis avec ses mains",
+      "Avec une bêche empruntée à des colons",
+      "Avec l'aide de Synnelet",
+      "Il ne l'enterre pas et regagne la ville"
+    ],
+    "answer": 0,
+    "explanation": "Des Grieux rompt son épée pour creuser, mais en tire moins de secours que de ses mains ; il enveloppe Manon de ses habits et se couche sur la fosse pour attendre la mort. La scène, d'une grande sobriété, est le sommet pathétique du roman. Des Grieux est ensuite retrouvé et ramené à la Nouvelle-Orléans.",
+    "tags": [
+      "dénouement",
+      "pathétique"
+    ]
+  },
+  {
+    "id": "man-014",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel compositeur a créé l'opéra Manon à l'Opéra-Comique en 1884 ?",
+    "choices": [
+      "Giacomo Puccini",
+      "Jules Massenet",
+      "Daniel-François-Esprit Auber",
+      "Charles Gounod"
+    ],
+    "answer": 1,
+    "explanation": "Massenet donne Manon en 1884 (livret de Meilhac et Gille), dont la scène de Saint-Sulpice est restée célèbre. Puccini compose Manon Lescaut (Turin, 1893), et Auber avait déjà écrit un Manon Lescaut en 1856. Ces adaptations ont fait de Manon une figure mythique.",
+    "tags": [
+      "réception",
+      "opéra"
+    ]
+  },
+  {
+    "id": "man-015",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Quel écrivain note dans ses carnets que, dans ce roman, « le héros est un fripon et l'héroïne une catin » ?",
+    "choices": [
+      "Voltaire",
+      "Diderot",
+      "Montesquieu",
+      "Marivaux"
+    ],
+    "answer": 2,
+    "explanation": "Montesquieu ajoute qu'il n'est pas étonné que le roman plaise, parce que toutes les mauvaises actions du héros ont pour motif l'amour, « qui est toujours un motif noble, quoique la conduite soit basse ». Le jugement pointe le paradoxe du livre : la passion ennoblit ce que la morale condamne.",
+    "tags": [
+      "réception",
+      "critique"
+    ]
+  },
+  {
+    "id": "man-016",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Dans quel roman du XIXe siècle un exemplaire de Manon Lescaut, acheté à une vente après décès, lance-t-il le récit ?",
+    "choices": [
+      "Madame Bovary de Flaubert",
+      "Nana de Zola",
+      "La Peau de chagrin de Balzac",
+      "La Dame aux camélias de Dumas fils"
+    ],
+    "answer": 3,
+    "explanation": "Dans La Dame aux camélias (1848), le narrateur achète à la vente de Marguerite Gautier un exemplaire de Manon Lescaut dédicacé par Armand Duval. Le roman de Prévost devient le modèle de la courtisane rachetée par l'amour, mythe que Musset célébrait aussi (« Manon ! sphinx étonnant ! » dans Namouna).",
+    "tags": [
+      "réception",
+      "postérité"
+    ]
+  },
+  {
+    "id": "man-017",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Comment Des Grieux tente-t-il de refaire leur fortune après la perte de leur argent dans l'incendie de la maison de Chaillot ?",
+    "choices": [
+      "En trichant au jeu grâce à Lescaut, notamment à l'hôtel de Transylvanie",
+      "En empruntant à son père par l'intermédiaire de Tiberge",
+      "En devenant précepteur chez un fermier général",
+      "En spéculant sur les actions du Mississippi rue Quincampoix"
+    ],
+    "answer": 0,
+    "explanation": "Lescaut fait entrer Des Grieux dans une association de tricheurs, la « Ligue de l'Industrie », qui opère à l'hôtel de Transylvanie. Le chevalier s'avilit pour maintenir Manon dans le luxe, ce qui montre l'emprise de l'argent sur la passion. Le vol de leurs biens par leurs domestiques les ruine pourtant de nouveau.",
+    "tags": [
+      "argent",
+      "intrigue"
+    ]
+  },
+  {
+    "id": "man-018",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Quel financier écossais est à l'origine du « Système » qui s'effondre en 1720 sous la Régence ?",
+    "choices": [
+      "Samuel Bernard",
+      "Jacques Necker",
+      "John Law",
+      "Robert Walpole"
+    ],
+    "answer": 2,
+    "explanation": "John Law fonde en 1716 la Banque générale, devenue Banque royale, et la Compagnie d'Occident (ou du Mississippi), chargée de la Louisiane. La spéculation effrénée puis la banqueroute de 1720 bouleversent les fortunes : le roman baigne dans ce climat d'argent facile et de déclassements.",
+    "tags": [
+      "contexte",
+      "Régence"
+    ]
+  },
+  {
+    "id": "man-019",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Quelle demande de Des Grieux provoque la catastrophe à la Nouvelle-Orléans ?",
+    "choices": [
+      "Celle d'une concession de terres pour s'établir comme colon",
+      "Celle de régulariser leur union par un mariage",
+      "Celle de rentrer en France avec Manon",
+      "Celle d'être nommé officier de la garnison"
+    ],
+    "answer": 1,
+    "explanation": "Le couple vit en paix en se faisant passer pour mari et femme ; Des Grieux, converti à une vie vertueuse, veut se marier devant Dieu. Le gouverneur, découvrant qu'ils ne sont pas mariés, se juge libre de disposer de Manon au profit de son neveu Synnelet. La tentative de rentrer dans l'ordre moral déclenche paradoxalement la catastrophe.",
+    "tags": [
+      "Amérique",
+      "intrigue"
+    ]
+  },
+  {
+    "id": "man-020",
+    "theme": "manon",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "En lycée professionnel, dans quel niveau l'objet d'étude « Lire et suivre un personnage : itinéraires romanesques » est-il inscrit (programme de 2019) ?",
+    "choices": [
+      "En seconde baccalauréat professionnel",
+      "En CAP",
+      "En terminale baccalauréat professionnel",
+      "En première baccalauréat professionnel"
+    ],
+    "answer": 3,
+    "explanation": "L'objet d'étude figure en première bac pro, aux côtés de « Créer, fabriquer : l'invention et l'imaginaire ». Manon Lescaut s'y prête bien : on suit l'itinéraire de Des Grieux (ou de Manon) de la rencontre d'Amiens à la mort dans le désert, en interrogeant la manière dont le narrateur construit l'image des personnages.",
+    "tags": [
+      "didactique",
+      "lycée professionnel"
+    ]
+  },
+  {
+    "id": "man-021",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Des Grieux a dix-sept ans lorsqu'il rencontre Manon à Amiens.",
+    "answer": true,
+    "explanation": "« J'avais dix-sept ans », précise Des Grieux au début de son récit : il vient de finir ses études de philosophie. Sa jeunesse et son inexpérience sont mises en avant pour expliquer l'emprise immédiate de la passion.",
+    "tags": [
+      "Des Grieux",
+      "Partie I"
+    ]
+  },
+  {
+    "id": "man-022",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Le roman a d'abord paru isolément à Paris, avec privilège royal, en 1731.",
+    "answer": false,
+    "explanation": "Il paraît en 1731 à Amsterdam, comme tome VII des Mémoires et aventures d'un homme de qualité. En 1733, sa diffusion en France est interdite et les exemplaires sont saisis. Il ne s'impose comme œuvre autonome qu'avec l'édition revue de 1753.",
+    "tags": [
+      "publication",
+      "censure"
+    ]
+  },
+  {
+    "id": "man-023",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "L'épisode du prince italien, qui courtise Manon à Chaillot, figure déjà dans l'édition de 1731.",
+    "answer": false,
+    "explanation": "Cet épisode est ajouté dans l'édition révisée de 1753, au début de la seconde partie. Manon y humilie le prince pour prouver à Des Grieux qu'elle lui préfère son amour : l'ajout nuance le portrait de Manon en montrant qu'elle peut refuser la fortune.",
+    "tags": [
+      "édition de 1753",
+      "Manon"
+    ]
+  },
+  {
+    "id": "man-024",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Lors de son évasion de Saint-Lazare, Des Grieux tue d'un coup de pistolet un domestique de la maison.",
+    "answer": true,
+    "explanation": "Muni d'un pistolet que lui a procuré Lescaut, Des Grieux menace le Supérieur pour se faire ouvrir les portes ; un domestique (le portier) qui s'interpose est abattu. Ce meurtre, rapidement étouffé, montre jusqu'où la passion entraîne un jeune homme bien né.",
+    "tags": [
+      "intrigue",
+      "Saint-Lazare"
+    ]
+  },
+  {
+    "id": "man-025",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "Après l'épisode de Saint-Sulpice, Tiberge rompt définitivement avec Des Grieux.",
+    "answer": false,
+    "explanation": "Tiberge reste fidèle jusqu'au bout : il prête de l'argent à Des Grieux, le visite à Saint-Lazare et va jusqu'à s'embarquer pour l'Amérique afin de le retrouver après la mort de Manon. Ami vertueux, il représente la voix de la morale et de la grâce face à la passion.",
+    "tags": [
+      "Tiberge",
+      "personnages"
+    ]
+  },
+  {
+    "id": "man-026",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Manon meurt d'une épidémie à la Nouvelle-Orléans, dans la maison du couple.",
+    "answer": false,
+    "explanation": "Manon meurt d'épuisement dans le désert, au cours de la fuite qui suit le duel avec Synnelet, alors que le couple cherche à gagner les colonies anglaises. Des Grieux l'enterre lui-même. Le récit de cette mort est volontairement bref et retenu.",
+    "tags": [
+      "dénouement",
+      "Amérique"
+    ]
+  },
+  {
+    "id": "man-027",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "En 1733, le roman est interdit en France et les exemplaires saisis.",
+    "answer": true,
+    "explanation": "Les autorités jugent l'ouvrage contraire aux bonnes mœurs, le vice y semblant excusé par l'amour : sa vente est interdite et les exemplaires saisis. Il circule néanmoins largement par des éditions étrangères ou clandestines.",
+    "tags": [
+      "censure",
+      "réception"
+    ]
+  },
+  {
+    "id": "man-028",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Des Grieux est appelé « chevalier » parce qu'il est destiné à l'ordre de Malte.",
+    "answer": true,
+    "explanation": "Cadet de famille noble, Des Grieux est destiné à l'ordre de Malte, d'où son titre de chevalier. Son rang social rend sa déchéance (tricherie, prison, meurtre) d'autant plus scandaleuse et explique l'intervention constante de son père.",
+    "tags": [
+      "Des Grieux",
+      "société"
+    ]
+  },
+  {
+    "id": "man-029",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 2,
+    "statement": "L'opéra Manon Lescaut de Puccini a été créé à Turin en 1893.",
+    "answer": true,
+    "explanation": "Puccini y connaît son premier grand succès ; contrairement à Massenet, il conserve l'acte américain et la mort de Manon dans le désert. Les deux opéras ont largement contribué au mythe de Manon au XIXe siècle.",
+    "tags": [
+      "réception",
+      "opéra"
+    ]
+  },
+  {
+    "id": "man-030",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 1,
+    "statement": "Le titre original de l'œuvre est Manon Lescaut.",
+    "answer": false,
+    "explanation": "Le titre est Histoire du chevalier Des Grieux et de Manon Lescaut : le chevalier est nommé en premier, ce qui souligne que l'histoire est la sienne, racontée de son point de vue. Le titre abrégé Manon Lescaut s'est imposé par l'usage et par les opéras.",
+    "tags": [
+      "titre",
+      "publication"
+    ]
+  },
+  {
+    "id": "man-031",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "Synnelet meurt des suites du duel qui l'oppose à Des Grieux.",
+    "answer": false,
+    "explanation": "Des Grieux, le croyant mort, s'enfuit avec Manon dans le désert, mais Synnelet n'était que blessé. Il guérit et témoigne ensuite de la générosité à Des Grieux. L'erreur rend la fuite, et donc la mort de Manon, tragiquement inutile.",
+    "tags": [
+      "personnages",
+      "Amérique"
+    ]
+  },
+  {
+    "id": "man-032",
+    "theme": "manon",
+    "type": "truefalse",
+    "difficulty": 3,
+    "statement": "L'« Avis de l'auteur » affirme que « l'ouvrage entier est un traité de morale réduit agréablement en exercice ».",
+    "answer": true,
+    "explanation": "L'Avis justifie le récit par sa valeur d'exemple, selon le principe classique d'instruire en plaisant. Beaucoup de critiques y voient une précaution contre la censure, d'autant que le récit de Des Grieux, plaidoyer d'un narrateur passionné, invite plutôt à la compassion qu'à la condamnation.",
+    "tags": [
+      "paratexte",
+      "morale"
+    ]
+  },
+  {
+    "id": "man-033",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Récit second inséré dans un récit premier et pris en charge par un personnage, comme l'histoire que Des Grieux raconte à Renoncour.",
+    "choices": [
+      "Récit enchâssé",
+      "Analepse",
+      "Focalisation externe",
+      "Monologue intérieur"
+    ],
+    "answer": 0,
+    "explanation": "Le récit de Des Grieux est enchâssé dans les Mémoires de Renoncour, narrateur premier. Ce dispositif crée un auditeur dans le texte et fait du récit un plaidoyer adressé à un juge bienveillant.",
+    "tags": [
+      "narratologie",
+      "dispositif"
+    ]
+  },
+  {
+    "id": "man-034",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Fiction en prose où un personnage raconte rétrospectivement sa propre vie à la première personne, le texte se donnant pour un témoignage authentique.",
+    "choices": [
+      "Roman épistolaire",
+      "Roman-mémoires",
+      "Autobiographie",
+      "Conte philosophique"
+    ],
+    "answer": 1,
+    "explanation": "Le roman-mémoires domine la première moitié du XVIIIe siècle (Prévost, Marivaux avec La Vie de Marianne, Crébillon fils). Il se distingue de l'autobiographie car l'auteur n'est pas le narrateur ; il joue sur l'illusion d'authenticité pour contourner le discrédit qui pèse alors sur le roman.",
+    "tags": [
+      "genre",
+      "XVIIIe siècle"
+    ]
+  },
+  {
+    "id": "man-035",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Registre qui cherche à susciter la pitié et l'émotion du lecteur devant les souffrances d'un personnage.",
+    "choices": [
+      "Tragique",
+      "Lyrique",
+      "Pathétique",
+      "Épique"
+    ],
+    "answer": 2,
+    "explanation": "Le pathétique domine la fin du roman : larmes, évanouissements, mort de Manon dans le désert. Il sert la visée de Des Grieux, qui veut émouvoir son auditeur pour obtenir sa compassion plutôt que son jugement.",
+    "tags": [
+      "registres",
+      "pathétique"
+    ]
+  },
+  {
+    "id": "man-036",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Narrateur qui est aussi le personnage principal de l'histoire qu'il raconte.",
+    "choices": [
+      "Narrateur hétérodiégétique",
+      "Narrateur extradiégétique",
+      "Narrateur omniscient",
+      "Narrateur autodiégétique"
+    ],
+    "answer": 3,
+    "explanation": "Des Grieux est un narrateur autodiégétique (et intradiégétique, puisqu'il raconte à l'intérieur du récit de Renoncour). Le lecteur ne connaît donc Manon qu'à travers son regard : on n'accède jamais à ses pensées, d'où son opacité.",
+    "tags": [
+      "narratologie",
+      "point de vue"
+    ]
+  },
+  {
+    "id": "man-037",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Au XVIIIe siècle, valeur esthétique et morale qui fait de l'émotion, des larmes et du cœur la marque d'une âme noble.",
+    "choices": [
+      "Sensibilité",
+      "Préciosité",
+      "Libertinage",
+      "Galanterie"
+    ],
+    "answer": 0,
+    "explanation": "Des Grieux se réclame de cette noblesse du cœur : il oppose le commun des hommes, sensible à quelques passions seulement, aux âmes nobles capables d'être « remuées » de mille façons. Prévost annonce ainsi le roman sensible de la seconde moitié du siècle (Richardson, qu'il traduira, puis Rousseau).",
+    "tags": [
+      "sensibilité",
+      "XVIIIe siècle"
+    ]
+  },
+  {
+    "id": "man-038",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 1,
+    "definition": "Période de 1715 à 1723 pendant laquelle Philippe d'Orléans gouverne au nom de Louis XV mineur.",
+    "choices": [
+      "Fronde",
+      "Régence",
+      "Polysynodie",
+      "Restauration"
+    ],
+    "answer": 1,
+    "explanation": "La Régence est marquée par un relâchement des mœurs après la fin austère du règne de Louis XIV et par le Système de Law. Le roman reflète ce monde de plaisirs, de jeu et de fortunes rapides, ainsi que la répression des « filles » déportées en Louisiane.",
+    "tags": [
+      "contexte",
+      "histoire"
+    ]
+  },
+  {
+    "id": "man-039",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Financier qui avance au roi le produit d'impôts indirects et se charge ensuite de leur perception, en s'enrichissant au passage.",
+    "choices": [
+      "Intendant de province",
+      "Contrôleur général des finances",
+      "Fermier général",
+      "Lieutenant général de police"
+    ],
+    "answer": 2,
+    "explanation": "M. de B…, premier amant de Manon, est fermier général : il incarne la puissance de l'argent face à Des Grieux, noble mais sans ressources. Les fermiers généraux étaient alors l'image même de la fortune insolente.",
+    "tags": [
+      "société",
+      "argent"
+    ]
+  },
+  {
+    "id": "man-040",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Ensemble des éléments qui entourent un texte et en orientent la lecture : titre, préface, avis au lecteur, notes.",
+    "choices": [
+      "Intertexte",
+      "Hypotexte",
+      "Métatexte",
+      "Paratexte"
+    ],
+    "answer": 3,
+    "explanation": "L'« Avis de l'auteur » placé en tête du roman est un paratexte : il annonce une lecture morale (« un exemple terrible de la force des passions »). Comparer ce paratexte au récit lui-même est un classique de l'analyse de l'œuvre.",
+    "tags": [
+      "paratexte",
+      "notions"
+    ]
+  },
+  {
+    "id": "man-041",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 2,
+    "definition": "Institution créée en 1656 pour enfermer pauvres, mendiants et « filles débauchées », dont la Salpêtrière accueille les femmes.",
+    "choices": [
+      "Hôpital général",
+      "Hôtel-Dieu",
+      "Grand Châtelet",
+      "Bastille"
+    ],
+    "answer": 0,
+    "explanation": "Manon y est enfermée, puis en est tirée pour être déportée. Sous la Régence, des femmes de l'Hôpital furent envoyées en Louisiane pour peupler la colonie, pratique abandonnée vers 1720 : le roman s'appuie sur cette réalité.",
+    "tags": [
+      "contexte",
+      "lieux"
+    ]
+  },
+  {
+    "id": "man-042",
+    "theme": "manon",
+    "type": "definition",
+    "difficulty": 3,
+    "definition": "Scène codifiée du roman où deux personnages se voient pour la première fois et où naît la passion, étudiée par Jean Rousset.",
+    "choices": [
+      "Scène d'exposition",
+      "Scène de première vue",
+      "Coup de théâtre",
+      "Anagnorisis"
+    ],
+    "answer": 1,
+    "explanation": "Jean Rousset l'analyse dans Leurs yeux se rencontrèrent (1981). Dans Manon Lescaut, la rencontre d'Amiens en est un modèle : coup de foudre immédiat, parole aussitôt engagée, fuite dès le lendemain.",
+    "tags": [
+      "topos",
+      "critique"
+    ]
+  },
+  {
+    "id": "man-043",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces étapes de la vie de Prévost.",
+    "events": [
+      {
+        "label": "Naissance à Hesdin",
+        "year": 1697
+      },
+      {
+        "label": "Fuite de l'abbaye de Saint-Germain-des-Prés",
+        "year": 1728
+      },
+      {
+        "label": "Parution de l'Histoire du chevalier Des Grieux et de Manon Lescaut",
+        "year": 1731
+      },
+      {
+        "label": "Arrestation à Londres pour une affaire de faux billet",
+        "year": 1733
+      },
+      {
+        "label": "Mort à Courteuil, près de Chantilly",
+        "year": 1763
+      }
+    ],
+    "explanation": "Prévost mène une vie aventureuse : moine en rupture de ban, exilé en Angleterre et en Hollande, endetté. Après la fuite de 1728, il publie ses grands romans-mémoires, lance le périodique Le Pour et Contre (1733) et traduit plus tard Richardson.",
+    "tags": [
+      "Prévost",
+      "biographie"
+    ]
+  },
+  {
+    "id": "man-044",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces événements du contexte historique du roman.",
+    "events": [
+      {
+        "label": "Mort de Louis XIV et début de la Régence",
+        "year": 1715
+      },
+      {
+        "label": "Création de la Banque générale de John Law",
+        "year": 1716
+      },
+      {
+        "label": "Fondation de La Nouvelle-Orléans",
+        "year": 1718
+      },
+      {
+        "label": "Effondrement du Système de Law",
+        "year": 1720
+      },
+      {
+        "label": "Majorité de Louis XV et fin de la Régence",
+        "year": 1723
+      }
+    ],
+    "explanation": "La fondation de La Nouvelle-Orléans (1718) s'inscrit dans l'effort de peuplement de la Louisiane mené par la Compagnie du Mississippi de Law, qui passe par des déportations de vagabonds et de « filles ». Le roman se situe dans ce contexte.",
+    "tags": [
+      "contexte",
+      "Régence"
+    ]
+  },
+  {
+    "id": "man-045",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 1,
+    "prompt": "Remettez dans l'ordre ces épisodes de la première partie.",
+    "events": [
+      {
+        "label": "Rencontre à Amiens et fuite à Paris",
+        "year": 1,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Trahison de Manon avec M. de B… ; Des Grieux enlevé par les laquais de son père",
+        "year": 2,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Retraite à Saint-Sulpice ; Manon vient le retrouver après son exercice public en Sorbonne",
+        "year": 3,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Incendie à Chaillot ; Des Grieux triche au jeu à l'hôtel de Transylvanie",
+        "year": 4,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Le couple dupe le vieux G… M… et se fait arrêter",
+        "year": 5,
+        "marker": "Partie I"
+      }
+    ],
+    "explanation": "La première partie repose sur une alternance de chutes et de rechutes : après chaque séparation, Des Grieux revient à Manon. Saint-Sulpice marque l'échec de la tentative de conversion, et l'affaire G… M… mène aux prisons.",
+    "tags": [
+      "intrigue",
+      "Partie I"
+    ]
+  },
+  {
+    "id": "man-046",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Remettez dans l'ordre ces épisodes, de la fin de la première partie au début de la seconde.",
+    "events": [
+      {
+        "label": "Évasion de Des Grieux de Saint-Lazare",
+        "year": 1,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Évasion de Manon de l'Hôpital, déguisée en homme",
+        "year": 2,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Mort de Lescaut, abattu par un joueur qu'il avait ruiné",
+        "year": 3,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Installation à Chaillot et épisode du prince italien",
+        "year": 4,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Manon accepte les offres de G… M… fils",
+        "year": 5,
+        "marker": "Partie II"
+      }
+    ],
+    "explanation": "La première partie s'achève sur la mort de Lescaut, puis Des Grieux interrompt son récit pour le souper. La seconde partie s'ouvre à Chaillot ; l'épisode du prince italien n'apparaît que dans l'édition de 1753.",
+    "tags": [
+      "intrigue",
+      "structure"
+    ]
+  },
+  {
+    "id": "man-047",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre ces épisodes de la seconde partie.",
+    "events": [
+      {
+        "label": "Des Grieux fait séquestrer G… M… fils et prend sa place auprès de Manon",
+        "year": 1,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Arrestation du couple et emprisonnement au Châtelet",
+        "year": 2,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Manon condamnée à être déportée ; Des Grieux échoue à l'arracher au convoi",
+        "year": 3,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Embarquement au Havre pour l'Amérique",
+        "year": 4,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Demande de mariage au gouverneur de la Nouvelle-Orléans",
+        "year": 5,
+        "marker": "Partie II"
+      }
+    ],
+    "explanation": "Le père G… M… fait arrêter le couple ; le père de Des Grieux obtient la libération de son fils, mais Manon est condamnée à la déportation. Des Grieux l'accompagne en Amérique, où leur vie apaisée ne dure qu'un temps.",
+    "tags": [
+      "intrigue",
+      "Partie II"
+    ]
+  },
+  {
+    "id": "man-048",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Remettez dans l'ordre le dénouement.",
+    "events": [
+      {
+        "label": "Duel avec Synnelet, que Des Grieux croit avoir tué",
+        "year": 1,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Fuite du couple dans le désert",
+        "year": 2,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Mort de Manon et sépulture creusée par Des Grieux",
+        "year": 3,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Des Grieux, retrouvé, est ramené à la Nouvelle-Orléans ; Synnelet est guéri",
+        "year": 4,
+        "marker": "Partie II"
+      },
+      {
+        "label": "Arrivée de Tiberge et retour en France",
+        "year": 5,
+        "marker": "Partie II"
+      }
+    ],
+    "explanation": "Le dénouement accumule les ironies : le duel n'a pas été mortel et la fuite était inutile. Tiberge, venu chercher son ami, le ramène en France : c'est ainsi que Renoncour le retrouve à Calais.",
+    "tags": [
+      "dénouement",
+      "Amérique"
+    ]
+  },
+  {
+    "id": "man-049",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 3,
+    "prompt": "Classez ces moments dans l'ordre de la narration (et non de l'histoire).",
+    "events": [
+      {
+        "label": "Renoncour croise à Pacy le convoi de Manon et Des Grieux",
+        "year": 1,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Renoncour retrouve Des Grieux à Calais, deux ans plus tard",
+        "year": 2,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Des Grieux commence son récit par la rencontre d'Amiens",
+        "year": 3,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Des Grieux s'interrompt pour le souper",
+        "year": 4,
+        "marker": "Partie I"
+      },
+      {
+        "label": "Des Grieux raconte la mort de Manon",
+        "year": 5,
+        "marker": "Partie II"
+      }
+    ],
+    "explanation": "L'ordre de la narration diffère de celui de l'histoire : la scène de Pacy, qui se situe tard dans l'histoire, ouvre le livre. Le lecteur connaît donc d'emblée la déchéance de Manon, ce qui donne au récit rétrospectif sa tonalité de fatalité.",
+    "tags": [
+      "narration",
+      "structure"
+    ]
+  },
+  {
+    "id": "man-050",
+    "theme": "manon",
+    "type": "chronology",
+    "difficulty": 2,
+    "prompt": "Classez ces jalons de la publication et de la réception.",
+    "events": [
+      {
+        "label": "Parution à Amsterdam, tome VII des Mémoires d'un homme de qualité",
+        "year": 1731
+      },
+      {
+        "label": "Interdiction et saisie en France",
+        "year": 1733
+      },
+      {
+        "label": "Édition révisée et augmentée",
+        "year": 1753
+      },
+      {
+        "label": "Manon de Massenet à l'Opéra-Comique",
+        "year": 1884
+      },
+      {
+        "label": "Manon Lescaut de Puccini à Turin",
+        "year": 1893
+      }
+    ],
+    "explanation": "L'édition de 1753, illustrée de gravures, ajoute l'épisode du prince italien et retouche le texte. Au XIXe siècle, le roman devient un mythe, relayé par Musset, Dumas fils puis l'opéra.",
+    "tags": [
+      "réception",
+      "publication"
+    ]
+  }
+]
